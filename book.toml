@@ -1,0 +1,6 @@
+[book]
+title = "VenturianTome"
+authors = ["Rin"]
+language = "en"
+multilingual = false
+src = "src"
