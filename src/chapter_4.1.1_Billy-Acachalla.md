@@ -86,11 +86,14 @@
 - Billy is the reason that characters are able to come “back from the dead,” as confirmed in [this]()
 
 ----
-## Speculation/ Theories
+## Speculation / Theories
 #### Theory 1: Name
 - 
+- Theory Created By: 
+
 #### Theory 2: Name
 - 
+- Theory Created By: 
 
 #### Theory Sources: 
 - []()
