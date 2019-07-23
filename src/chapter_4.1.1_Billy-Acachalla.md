@@ -27,7 +27,7 @@
 ## Relationships
 - Gertrude Acachalla
     - Gertrude is Billy’s adoptive mother, taking him in after Papa found him at the 7-11  
-    
+
 - Jeremy Acachalla
     - Jeremy is Papa Acachalla’s brother who lives in the basement as a shadow-creature, making him Billy’s adoptive uncle that
     - He and Sally met him in []()  
@@ -60,9 +60,11 @@
 -----
 ## Biography
 - Early Life
-    - Events
+    - Events  
+
 - Big Events
-    - Events
+    - Events  
+    
 - Current
     - Events
 ----
