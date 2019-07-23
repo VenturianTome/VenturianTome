@@ -85,7 +85,7 @@
         - [Johnny Toast](./chapter_4.6.6_Johnny-Toast.md)
         - [Mary Toast](./chapter_4.6.7_Mary-Toast.md)
         - [The Queen of England](./chapter_4.6.8_The-Queen-of-England.md)
-    - [Pokémon & Pets](./chapter_4.7_Pokemon&Pets.md)
+    - [Pokémon & Pets](./chapter_4.7_Pokemon-Pets.md)
         - [Eevee](./chapter_4.7.1_Eevee.md)
         - [Flareon](./chapter_4.7.2_Flareon.md)
         - [Haunter](./chapter_4.7.3_Haunter.md)
