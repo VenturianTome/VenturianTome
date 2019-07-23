@@ -1,49 +1,49 @@
 # Haunter
-## Basics        
-- Branch:   
 
-- Most Common Series:   
+## Basics       
+- Branch\(es):  
 
-- Status:   
+- Most Common Series:  
 
-- Species:   
+- Status:  
 
-- Occupation:   
+- Species:  
 
-- Other Names / Titles: 
-    - 
-    -   
+- Occupation:  
 
-- Nationality:   
+- Other Names / Titles:
+   - N
+
+- Nationality:  
 
 - Family
-- C1        
-- C2        
-- C3          
+   - C1       
+   - C2       
+   - C3         
 
-- Played By:   
+- Played By:  
 
 - Intro Video: []()
 ----
 ## Relationships
 - Character1
-Desc.  
+   - Desc. 
 
 - Character2
-Desc.  
+   - Desc. 
 
 - Character3
-Desc.
+   - Desc.
 ----
 ## Biography
 - Early Life
-- Events  
+   - Events 
 
 - Big Events
-- Events  
+   - Events 
 
 - Current
-- Events  
+   - Events 
 ----
 ## Links
 - [Masterlist]()
@@ -56,12 +56,12 @@ Desc.
 ## Speculation / Theories
 #### Theory 1: Name
 - Desc.
-- Theory Created By:   
+- Theory Created By:  
 
 #### Theory 2: Name
 - Desc.
-- Theory Created By:   
+- Theory Created By:  
 
-### Theory Sources: 
+### Theory Sources:
 - []()
 - []()
