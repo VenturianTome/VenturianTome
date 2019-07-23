@@ -25,27 +25,27 @@
 - Introduction Video: [“BACK FROM THE DEAD SONG! | Gmod Motorcycle Mod!"]()
 ----
 ## Relationships
-### Gertrude Acachalla
+- Gertrude Acachalla
 Gertrude is Billy’s adoptive mother, taking him in after Papa found him at the 7-11.
-### Jeremy Acachalla
+- Jeremy Acachalla
 Jeremy is Papa Acachalla’s brother who lives in the basement as a shadow-creature, making him Billy’s adoptive uncle that he and Sally met in []().
-### Johnny Ghost
+- Johnny Ghost
 Ghost is said to possibly be Billy’s biological father in ["Gmod Funny DEATHMATCH \(Garry's Mod)](https://www.youtube.com/watch?v=U49KwBKPgP0) \(from 8:41-9:00), having left him at the 7-11. This idea was created by the Siblings due to Billy accidentally calling Jimmy Casket “papa.”  
 Billy may also be Ghost’s father due to him being -- in the future, shown in []().
-### Maddie Friend
+- Maddie Friend
 Maddie Friend is technically Gertrude’s sister as of [](), making her Billy’s adoptive aunt.  
 Maddie likes to chase him around asking him to sign her shirt.
-### Maxwell Acachalla
+- Maxwell Acachalla
 Maxwell was thought to be Billy’s biological father in []().
-### Papa Acachalla
+- Papa Acachalla
 Papa is Billy’s adoptive father, having found him at the 7-11.
-### Sally Acachalla
+- Sally Acachalla
 Sally is Billy’s adoptive sister, --.
-### Sally Betty Jessica
+- Sally Betty Jessica
 SBJ is Billy’s adoptive aunt, --.
-### Spencer Acachalla
+- Spencer Acachalla
 Spencer is Billy’s adoptive brother, though we do not see them interact much on camera.
-### Sue Acachalla
+- Sue Acachalla
 Sue is Billy’s adoptive sister, though we do not see them interact much on camera, as both characters are played by Isaac.
 -----
 ## Biography
