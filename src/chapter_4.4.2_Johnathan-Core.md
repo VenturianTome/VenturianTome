@@ -1,50 +1,49 @@
 # Johnathan Core
 
-## Basics        
-- Branch:   
+## Basics       
+- Branch\(es):  
 
-- Most Common Series:   
+- Most Common Series:  
 
-- Status:   
+- Status:  
 
-- Species:   
+- Species:  
 
-- Occupation:   
+- Occupation:  
 
-- Other Names / Titles: 
-    - 
-    -   
+- Other Names / Titles:
+   - N
 
-- Nationality:   
+- Nationality:  
 
 - Family
-- C1        
-- C2        
-- C3          
+   - C1       
+   - C2       
+   - C3         
 
-- Played By:   
+- Played By:  
 
 - Intro Video: []()
 ----
 ## Relationships
 - Johnny Ghost
-    - Theorized to be Johnny Ghost's dad by Jordan and the Siblings in the [Galaxy Imploder Video](https://www.youtube.com/watch?v=OYGS5pWHN0o) 
+   - Theorized to be Johnny Ghost's dad by Jordan and the Siblings in the [Galaxy Imploder Video](https://www.youtube.com/watch?v=OYGS5pWHN0o)
 
 - Character2
-Desc.  
+   - Desc. 
 
 - Character3
-Desc.
+   - Desc.
 ----
 ## Biography
 - Early Life
-- Events  
+   - Events 
 
 - Big Events
-- Events  
+   - Events 
 
 - Current
-- Events  
+   - Events 
 ----
 ## Links
 - [Masterlist]()
@@ -57,12 +56,12 @@ Desc.
 ## Speculation / Theories
 #### Theory 1: Name
 - Desc.
-- Theory Created By:   
+- Theory Created By:  
 
 #### Theory 2: Name
 - Desc.
-- Theory Created By:   
+- Theory Created By:  
 
-### Theory Sources: 
+### Theory Sources:
 - []()
 - []()

@@ -1,7 +1,7 @@
 # Freddy the Dinosaur
 
 ## Basics        
-- Branch:   
+- Branch\(es):
 
 - Most Common Series:   
 
@@ -12,15 +12,14 @@
 - Occupation:   
 
 - Other Names / Titles: 
-    - 
-    -   
+    - N
 
 - Nationality:   
 
 - Family
-- C1        
-- C2        
-- C3          
+    - C1        
+    - C2        
+    - C3          
 
 - Played By:   
 
@@ -28,23 +27,23 @@
 ----
 ## Relationships
 - Character1
-Desc.  
+    - Desc.  
 
 - Character2
-Desc.  
+    - Desc.  
 
 - Character3
-Desc.
+    - Desc.
 ----
 ## Biography
 - Early Life
-- Events  
+    - Events  
 
 - Big Events
-- Events  
+    - Events  
 
 - Current
-- Events  
+    - Events  
 ----
 ## Links
 - [Masterlist]()
