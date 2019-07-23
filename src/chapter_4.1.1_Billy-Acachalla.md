@@ -19,7 +19,7 @@ American
 - [Gertrude Acachalla]() \(adoptive mother)
 - [Jeremy Acachalla]() \(adoptive uncle)
 - [Johnny Ghost]() \(possible biological father)
-- Maddie Friend \(adoptive aunt)
+- [Maddie Friend]() \(adoptive aunt)
 - [Maxwell Acachalla]() \(possible biological father)
 - [Papa Acachalla]() \(adoptive father)
 - [Sally Acachalla]() \(adoptive sister)
@@ -37,10 +37,10 @@ Gertrude is Billy’s adoptive mother, taking him in after Papa found him at the
 ### Jeremy Acachalla
 Jeremy is Papa Acachalla’s brother who lives in the basement as a shadow-creature, making him Billy’s adoptive uncle that he and Sally met in []().
 ### Johnny Ghost
-Ghost is said to possibly be Billy’s biological father in []() \(from t-t), having left him at the 7-11. This idea was created by the Siblings due to Billy accidentally calling Jimmy Casket “papa.”  
+Ghost is said to possibly be Billy’s biological father in ["Gmod Funny DEATHMATCH \(Garry's Mod)](https://www.youtube.com/watch?v=U49KwBKPgP0) \(from 8:41-9:00), having left him at the 7-11. This idea was created by the Siblings due to Billy accidentally calling Jimmy Casket “papa.”  
 Billy may also be Ghost’s father due to him being -- in the future, shown in []().
 ### Maddie Friend
-Maddie Friend is technically Gertrude’s sister as of [this]() video, making her Billy’s adoptive aunt.  
+Maddie Friend is technically Gertrude’s sister as of [](), making her Billy’s adoptive aunt.  
 Maddie likes to chase him around asking him to sign her shirt.
 ### Maxwell Acachalla
 Maxwell was thought to be Billy’s biological father in []().
