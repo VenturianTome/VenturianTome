@@ -10,7 +10,7 @@ Feel free to peruse this dictionary of characters and pages. All of this informa
 ## Exploration
 - [The Siblings](chapter_3.html)
 - [The Admin](chapter_2.html)
+- [The Characters](chapter_4.html)
 - [The Videos]()
-- [The Characters](chapter_5.html)
 
 > **NOTE:** This site is always updating when a new video comes out, so it is currently incomplete. Feel free to help an admin out by contacting them with more information and please be patient until it is completed. Thank you!
