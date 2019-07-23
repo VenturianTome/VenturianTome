@@ -1,1 +1,18 @@
 # Entities
+
+- [Aimee]()
+- [Barnacle Boat]()
+- [Cecil the Gnome]()
+- [Chakalata Soup]()
+- [The Homewrecker]()
+- [The Housekeeper]()
+- [Jimmy Casket]()
+- [Johnny Cranky]()
+- [Katrina]()
+- [Light Zeron]()
+- [Medusa]()
+- [Prince Fang]()
+- [Sparkly Puddleshine]()
+- [Stardust Sprinkleshine]()
+- [Suzie the Zoroark Alien]()
+- [Toilet Toucher]()

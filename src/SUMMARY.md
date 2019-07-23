@@ -40,7 +40,7 @@
         - [Katrina](./chapter_4.3.9_Katrina.md)
         - [Light Zeron](./chapter_4.3.10_Light-Zeron.md)
         - [Medusa](./chapter_4.3.11_Medusa.md)
-        - [Prince Fang](./chapter_4.3.12_Prince-Fang)
+        - [Prince Fang](./chapter_4.3.12_Prince-Fang.md)
         - [Sparkly Puddleshine](./chapter_4.3.13_Sparkly-Puddleshine.md)
         - [Stardust Sprinkleshine](./chapter_4.3.14_Stardust-Sprinkleshine.md)
         - [Suzie the Zoroark Alien](./chapter_4.3.15_Suzie-the-Zoroark-Alien.md)
