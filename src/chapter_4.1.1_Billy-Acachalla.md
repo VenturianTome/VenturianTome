@@ -1,21 +1,21 @@
 # Billy Acachalla
 
 ## Basics
-- Branch
+- Branch  
 Acachallas
-- Most Common Series
+- Most Common Series  
 Gmod
-- Status
+- Status  
 Alive, --
-- Species
+- Species  
 Human
-- Occupation
+- Occupation  
 Medic
-- Other Names / Titles
+- Other Names / Titles  
 Billy Medic, (Later) Toilet Toucher
-- Nationality
+- Nationality  
 American
-- Relationships
+- Relationships  
     - [Gertrude Acachalla]() \(adoptive mother)
     - [Jeremy Acachalla]() \(adoptive uncle)
     - [Johnny Ghost]() \(possible biological father)
@@ -26,9 +26,9 @@ American
     - [Sally Betty Jessica]() \(adoptive aunt)
     - [Spencer Acachalla]() \(adoptive brother)
     - [Sue Acachalla]() \(adoptive sister)
-- Played By
+- Played By  
 [Isaac Frye / HomelessGoomba]()
-- Introduction Video
+- Introduction Video  
 [“BACK FROM THE DEAD SONG! | Gmod Motorcycle Mod!"]()
 ----
 ## Relationships
