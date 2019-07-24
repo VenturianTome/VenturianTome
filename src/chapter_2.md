@@ -5,7 +5,7 @@ Hello! Glad to know you're interested to know who's running this site.
 - I call myself Rin, and this is where I store all of the VenturianTale information that I can find.  
 - I've been watching VT since 2013 \(I can't believe it's already been 6 years!!)
 - I believe my first video was the ["Gmod WEEPING ANGELS Doctor Who Mod"](https://www.youtube.com/watch?v=y4VbP82dVo0)
-- I started this site \(with the help of my brother) in 2019, but I had the idea started for it way back in 2017
+- I started this site \(with the help of my brother) in July of 2019, but I had the idea started for it way back in 2017
 
 ## Social Media
 > **NOTE:** Feel free to contact me at any one of these as long as you are respectful. I will try to answer any messages that I get; if I don't answer yours, I promise that I will read it.
