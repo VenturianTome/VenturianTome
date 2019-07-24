@@ -4,7 +4,7 @@
 - [Meet The Admin](./chapter_2.md)
 - [Meet The Siblings](./chapter_3.md)
 - [The Characters](./chapter_4.md)
-    - [Acachallas](./4.Characters/4.1.Acachallas-Anti-challas/chapter_4.1_Acachallas-Anti-challas.md)
+    - [Acachallas & Anti-challas](./4.Characters/4.1.Acachallas-Anti-challas/chapter_4.1_Acachallas-Anti-challas.md)
         - [Billy Acachalla](./4.Characters/4.1.Acachallas-Anti-challas/chapter_4.1.1_Billy-Acachalla.md)
         - [Freddy the Dinosaur](./4.Characters/4.1.Acachallas-Anti-challas/chapter_4.1.3_Freddy-the-Dinosaur.md)
         - [Gertrude Acachalla](./4.Characters/4.1.Acachallas-Anti-challas/chapter_4.1.4_Gertrude-Acachalla.md)
