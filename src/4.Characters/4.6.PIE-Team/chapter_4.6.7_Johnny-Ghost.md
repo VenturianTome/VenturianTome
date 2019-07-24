@@ -7,7 +7,7 @@
 
 - Status:  
 
-- Species:  Paranormal Investigator Extraordinarie
+- Species: Human \(formerly a Ghost, Werewolf, and Puppet)  
 
 - Occupation: Paranormal Investigator Extraordinarie  
 
