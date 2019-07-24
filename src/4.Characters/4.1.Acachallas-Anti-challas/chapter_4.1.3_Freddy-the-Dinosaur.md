@@ -21,7 +21,7 @@
     - C2        
     - C3          
 
-- Played By: None \([Jordan Frye / Venturian]() in --)
+- Played By: None \( [Jordan Frye / Venturian]() in [Gmod Funny VELOCIRAPTOR Playermodel Mod! (Garry's Mod)](https://youtu.be/BQk4sBDghZE) )
 
 - Intro Video: [Gmod CAMPING GROUNDS Map! (Garry's Mod)](https://youtu.be/QME7qTa5Wmc)
 ----
