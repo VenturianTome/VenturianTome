@@ -1,7 +1,7 @@
 # Freddy the Dinosaur
 
 ## Basics        
-- Branch\(es):
+- Branch\(es): [Acachallas]()
 
 - Most Common Series:   
 
@@ -21,9 +21,9 @@
     - C2        
     - C3          
 
-- Played By:   
+- Played By: None \([Jordan Frye / Venturian]() in --)
 
-- Intro Video: []()
+- Intro Video: [Gmod CAMPING GROUNDS Map! (Garry's Mod)](https://youtu.be/QME7qTa5Wmc)
 ----
 ## Relationships
 - Character1

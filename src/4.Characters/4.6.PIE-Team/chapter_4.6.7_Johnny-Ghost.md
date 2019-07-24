@@ -1,29 +1,29 @@
-# Papa Acachalla
+# Johnny Ghost
 
 ## Basics       
-- Branch\(es): 
+- Branch\(es): [P.I.E. Team]()  
 
 - Most Common Series:  
 
 - Status:  
 
-- Species:  
+- Species:  Paranormal Investigator Extraordinarie
 
-- Occupation:  
+- Occupation: Paranormal Investigator Extraordinarie  
 
 - Other Names / Titles:
    - N
 
-- Nationality:  
+- Nationality: American  
 
 - Family
    - C1       
    - C2       
    - C3         
 
-- Played By:  
+- Played By: [Jordan Frye / Venturian]()  
 
-- Intro Video: [BACK FROM THE DEAD SONG! | Gmod Motorcycle Mod!](https://youtu.be/gNREBUzmn98)
+- Intro Video: [JOHNNY GHOST! -- Gmod Siblings 4-Player PROP HUNT! 17](https://youtu.be/H2qGnan-vqU)
 ----
 ## Relationships
 - Character1

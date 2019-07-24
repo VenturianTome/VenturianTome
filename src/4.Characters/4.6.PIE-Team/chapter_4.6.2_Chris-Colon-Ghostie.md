@@ -1,7 +1,7 @@
 # Chris "Colon" Ghostie
 
 ## Basics       
-- Branch\(es):  
+- Branch\(es): [PIE Team]()  
 
 - Most Common Series:  
 
@@ -9,7 +9,7 @@
 
 - Species:  
 
-- Occupation:  
+- Occupation: Ghost Hunter at P.I.E.  
 
 - Other Names / Titles:
    - N
@@ -21,9 +21,9 @@
    - C2       
    - C3         
 
-- Played By:  
+- Played By: [Issac Frye / HomelessGoomba]()  
 
-- Intro Video: []()
+- Intro Video: [HAUNTED SCHOOL! - Gmod Ghost Mystery Roleplay](https://youtu.be/cV31R3z-P7M)
 ----
 ## Relationships
 - Character1

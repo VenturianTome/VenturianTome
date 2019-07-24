@@ -1,7 +1,7 @@
 # Agent Angel (FBI)
 
 ## Basics       
-- Branch\(es):  
+- Branch\(es):  [Law Enforcement]()
 
 - Most Common Series:  
 
@@ -23,7 +23,7 @@
 
 - Played By:  
 
-- Intro Video: []()
+- Intro Video: [Meet AGENT ANGEL! - Funny FBI Investigation Roleplay](https://youtu.be/kg0KcELU5QQ)
 ----
 ## Relationships
 - Character1

@@ -1,7 +1,7 @@
 # Aimee
 
 ## Basics       
-- Branch\(es):  
+- Branch\(es): [Entities]()  
 
 - Most Common Series:  
 
@@ -23,7 +23,7 @@
 
 - Played By:  
 
-- Intro Video: []()
+- Intro Video: [GHOST HUNT! - Gmod Siblings PROP HUNT! 18](https://youtu.be/2yVe4fe8lRw)
 ----
 ## Relationships
 - Character1

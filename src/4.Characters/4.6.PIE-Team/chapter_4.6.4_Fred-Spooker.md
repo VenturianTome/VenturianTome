@@ -1,7 +1,7 @@
 # Fred Spooker
 
 ## Basics       
-- Branch\(es):  
+- Branch\(es): [P.I.E. Team]() 
 
 - Most Common Series:  
 
@@ -21,9 +21,9 @@
    - C2       
    - C3         
 
-- Played By:  
+- Played By: [Bethany Frye / FlyingPings]()  
 
-- Intro Video: []()
+- Intro Video: [SCARY GHOST CHILDREN! - Gmod Five Nights At Freddy's 3 Horror Mod](https://youtu.be/mUAbzwh5m6U)
 ----
 ## Relationships
 - Character1

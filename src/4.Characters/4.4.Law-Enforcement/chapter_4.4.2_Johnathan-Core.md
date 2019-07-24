@@ -2,6 +2,8 @@
 
 ## Basics       
 - Branch\(es):  
+   - [Law Enforcement]()
+   - [P.I.E. Team]()
 
 - Most Common Series:  
 
@@ -23,7 +25,7 @@
 
 - Played By:  
 
-- Intro Video: []()
+- Intro Video: [Galaxy Imploder Video](https://www.youtube.com/watch?v=OYGS5pWHN0o)
 ----
 ## Relationships
 - Johnny Ghost

@@ -1,4 +1,4 @@
-# Johnny Ghost
+# Jenny Ghost
 
 ## Basics       
 - Branch\(es):  

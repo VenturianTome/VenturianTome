@@ -1,7 +1,7 @@
 # Johnny Toast
 
 ## Basics       
-- Branch\(es):  
+- Branch\(es): [P.I.E. Team]()  
 
 - Most Common Series:  
 
@@ -21,9 +21,9 @@
    - C2       
    - C3         
 
-- Played By:  
+- Played By: [Cierra Frye / ImmortalKyodai]()  
 
-- Intro Video: []()
+- Intro Video: [JOHNNY GHOST! -- Gmod Siblings 4-Player PROP HUNT! 17](https://youtu.be/H2qGnan-vqU)
 ----
 ## Relationships
 - Character1

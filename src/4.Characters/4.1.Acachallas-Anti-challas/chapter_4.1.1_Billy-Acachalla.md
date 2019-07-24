@@ -31,7 +31,7 @@
 
 - Played By: [Isaac Frye / HomelessGoomba]()  
 
-- Introduction Video: [“BACK FROM THE DEAD SONG! | Gmod Motorcycle Mod!"]()
+- Introduction Video: [BACK FROM THE DEAD SONG! | Gmod Motorcycle Mod!](https://youtu.be/gNREBUzmn98)
 ----
 ## Relationships
 - Gertrude Acachalla
