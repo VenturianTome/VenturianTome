@@ -5,7 +5,7 @@
 
 - Most Common Series: Gmod  
 
-- Status: Alive, --  
+- Status: Alive  
 
 - Species: Human  
 
@@ -13,11 +13,15 @@
 
 - Other Names / Titles
     - Billy Medic
-    - (Later) Toilet Toucher  
+    - \(Later) Ernie Ghost
+    - \(Later) Toilet Toucher  
 
 - Nationality: American  
 
+- Abilites: The cause of respawning
+
 - Relationships  
+    - [Ernie Ghost]()           \(later self)
     - [Gertrude Acachalla]()    \(adoptive mother)
     - [Jeremy Acachalla]()      \(adoptive uncle)
     - [Johnny Ghost]()          \(possible biological father)
@@ -27,13 +31,17 @@
     - [Sally Acachalla]()       \(adoptive sister)
     - [Sally Betty Jessica]()   \(adoptive aunt)
     - [Spencer Acachalla]()     \(adoptive brother)
-    - [Sue Acachalla]()         \(adoptive sister)  
+    - [Sue Acachalla]()         \(adoptive sister)
+    - [Toliet Toucher]()        \(later self)  
 
 - Played By: [Isaac Frye / HomelessGoomba]()  
 
 - Introduction Video: [BACK FROM THE DEAD SONG! | Gmod Motorcycle Mod!](https://youtu.be/gNREBUzmn98)
 ----
 ## Relationships
+- Ernie Ghost
+    - Billy is said to later go by the name Ernie Ghost \(Johnny Ghost's uncle) in []()
+
 - Gertrude Acachalla
     - Gertrude is Billy’s adoptive mother, taking him in after Papa found him at the 7-11  
 
@@ -43,7 +51,7 @@
 
 - Johnny Ghost
     - Ghost is said to possibly be Billy’s biological father in ["Gmod Funny DEATHMATCH \(Garry's Mod)](https://www.youtube.com/watch?v=U49KwBKPgP0) \(from 8:41-9:00), having left him at the 7-11. This idea was created by the Siblings due to Billy accidentally calling Jimmy Casket “papa”
-    - Billy may also be Ghost’s father due to him being -- in the future, shown in []()  
+    - Billy may also be Ghost’s uncle due to him being Ernie Ghost in the future, shown in []()  
 
 - Maddie Friend
     - Maddie Friend is Gertrude’s sister as of [](), making her Billy’s adoptive aunt
@@ -66,7 +74,10 @@
 
 - Sue Acachalla
     - Sue is Billy’s adoptive sister, though we do not see them interact much on camera, as both characters are played by Isaac
------
+
+- Toilet Toucher
+    - Billy, in the future, becomes the Toilet Toucher as stated in []() and continued in many other videos
+----
 ## Biography
 - Early Life
     - Events  
