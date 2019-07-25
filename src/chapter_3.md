@@ -5,7 +5,7 @@
 - Over the years, they have made many interesting characters during the course of [over 3,000 videos](https://www.youtube.com/playlist?list=PLwljWXtmIKiR6RCrbGztF5LhGXAEF7pX_)
 ----
 ## The Siblings
-- [Jordan Frye / Venturian]()
+- [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)
 - [Cierra Frye / ImmortalKyodai]()
 - [Bethany Frye / FlyingPings]()
 - [Isaac Frye / HomelessGoomba]()
