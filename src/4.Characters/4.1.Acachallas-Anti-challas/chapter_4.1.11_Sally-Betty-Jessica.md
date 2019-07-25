@@ -48,7 +48,7 @@
 ## Links
 - [Masterlist]()
 - [Playlist]()
-- [Branch Playlist]()
+- [Branch Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQ5Ycwlaq_kqvVdqgkROIdP)
 ----
 ## Trivia
 - Random Facts

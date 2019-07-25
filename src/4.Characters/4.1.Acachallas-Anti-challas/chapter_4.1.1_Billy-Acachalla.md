@@ -90,8 +90,8 @@
 ----
 ## Links
 - [Masterlist]()
-- [Playlist]()
-- [Branch Playlist]()
+- [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSAvbZSohU1e8OHren0ot6z)
+- [Branch Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQ5Ycwlaq_kqvVdqgkROIdP)
 ----  
 ## Trivia
 - Billy is the reason that characters are able to come “back from the dead,” as confirmed in [this]()
