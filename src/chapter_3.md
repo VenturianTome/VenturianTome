@@ -6,9 +6,9 @@
 ----
 ## The Siblings
 - [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)
-- [Cierra Frye / ImmortalKyodai]()
-- [Bethany Frye / FlyingPings]()
-- [Isaac Frye / HomelessGoomba]()
+- [Cierra Frye / ImmortalKyodai](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)
+- [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+- [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)
 ----
 ## Social Medias / Other Sites
 - [Amino](https://aminoapps.com/c/venturiantale/home/)
