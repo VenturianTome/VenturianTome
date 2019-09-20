@@ -1,1 +1,0 @@
-# Tale Series Characters
