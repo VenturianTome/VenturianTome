@@ -1,138 +1,119 @@
-# The Characters
+# All Characters
 
-## Character Branches
-- [Acachallas / Anti-challas]()
-- [Creepypastas]()
-- [Ghosts / Entities]()
-- [Law Enforcement]()
-- [One-Off]()
-- [P.I.E. Team]()
-- [Pokémon]()
-- [Tale Series]()
-- [Uncommon]()
-
-## All Characters (Alphabetical Order)
-### A
-- [Action Charlie]()
-- [Agent Angel \(FBI)]()
+## **A**
 - [Aimee]()
-- [Aqua the Puppy]()
-- [Asylum Weaver]()
-### B
-- [Barnacle Boat]()
-- [Ben Drowned]()
-- [Bert Niceguy]()
+- [Aqua the Puppy \(Fallout)]()
+- [Asylum Weaver \(Oblivion)]()
+
+## **B**
+- [BananaCorp]()
 - [Billy Acachalla]()
-- [Bonnie \(FNAF)]()
-### C
+- [Billy Acachalla \(Other / Fake)]()
+- [Bonbon the Baby / Baby Doll]()
+
+## **C**
 - [Cardboard Friend]()
 - [Cecil the Gnome]()
 - [Chakalata Soup]()
-- [Chica \(FNAF)]()
-- [Chris "Colon" Ghostie]()
-- [Chucky Toast]()
-- [Chump Kazooie]()
-- [Cywren Caster]()
-### D
+- [Charlie Charlie Chase Buttface]()
+- [Chris “Colon” Ghostie]()
+- [Creepypasta Characters]()
+- [Cywren Caster \(A Fallout Tale)]()
+
+## **D**
 - [Darth Calculus]()
-- [Daxuis]()
+- [Daxius]()
+- [Doge]()
+- [Donald Donnie]()
+- [Donald Trump]()
 - [Dummy]()
-### E
-- [Eevee]()
+
+## **E**
 - [Ernie Ghost]()
-### F
-- [Farkas]()
-- [Fred Spooker]()
-- [Freddy \(FNAF)]()
-- [Foxy \(FNAF)]()
-### G
+
+## **F**
+- [Farkas \(Skyrim)]()
+- [FNAF Characters]()
+- [Fred “Spooker” Soup]()
+- [Freddy / Freddio the Dinosaur]()
+
+## **G**
 - [Gertrude Acachalla]()
 - [Grandfather]()
 - [Grandpa Sink Supplies]()
 - [Gregory Casket]()
-- [Gregory.Gregory]()
-### H
-- [Haunter]()
-- [Higgly Diggly Hoogan]()
-- [Hilda Niceguy]()
-- [The Homewrecker]()
-- [The Housekeeper]()
-### J
-- [Jack Links]()
-- [Jeff the Killer]()
-- [Jen]()
+
+## **H**
+- [Hickle Coolbreeze]()
+- [Higgly-Diggly Hoogan]()
+- [The Housekeeper / Homekeeper]()
+
+## **J**
 - [Jenny Ghost]()
 - [Jenny Toast]()
-- [Jeremy Acachalla]()
 - [Jimmy Casket]()
-- [Johnathan Core]()
-- [Johnathan Ghost Senior]()
-- [Johnny Boast]()
-- [Johnny Cranky]()
 - [Johnny Ghost]()
-- [Johnny Roast]()
 - [Johnny Toast]()
-- [Jose Jose Jose Jose]()
+- [Johnny Toasts \(Other / Fake)]()
 - [Josh]()
-### K
+- [Jose Jose Jose Jose]()
+
+## **K**
 - [Katrina]()
 - [K-C]()
-### L
-- [Lady Buttlegum]()
+
+## **L**
 - [Light Zeron]()
-- [Lil' Vent]()
-- [Lydia]()
-### M
+- [Lil’ Vent]()
+- [Lydia \(A Skyrim Tale)]()
+
+## **M**
 - [Maddie Friend]()
-- [Marionette \(FNAF)]()
-- [Mark]()
-- [Mary Toast]()
+- [Mark \(Skyrim)]()
+- [Mary Toast \(Fan-Named)]()
 - [Maxwell Acachalla]()
-- [Medusa]()
-- [The Military Morons]()
-- [Mister No]()
-- [Mr. Sviggles]()
-### O
+- [Minecraft Creatures]()
+
+## **O**
 - [Officer Maloney]()
-- [Officer Starbucks]()
-### P
+- [One-Use / Uncommon Characters]()
+- [Other Series Characters]()
+
+## **P**
 - [Papa Acachalla]()
-- [Peewee Ghost]()
-- [Pricipal Buttkicker]()
+- [Pennywise the Clown]()
+- [Poet \(A Skyrim Tale)]()
+- [Prince Fang]()
 - [Princeton Quagmire]()
-- [Poop Poop]()
-### Q
-- [Quasar]()
-- [The Queen of England]()
-### R
-- [The Rake]()
-- [Red Flowers]()
-- [Ronnie Boast]()
-- [Rosie]()
-### S
+
+## **Q**
+- [Quasar the Dog]()
+- [Qeios Characters]()
+- [The Queen of England / Toast’s Grandmother]()
+
+## **S**
 - [Sally Acachalla]()
-- [Sally Betty Jessica]()
-- [Sari]()
-- [Slenderman]()
-- [Sonic the Hedgehog]()
-- [Sparkly Puddleshine]()
-- [Stardust Sprinkleshine]()
+- [Sari \(Skyrim)]()
 - [Spencer Acachalla]()
-- [Sue Acachalla / Suckish Officer]()
-- [Susie Gumball]()
-- [Suzie the Zoroark Alien]()
-### T
-- [Tinker Corndog]()
-- [Thumblerina]()
-- [Timebomb]()
+- [Stardust Sprinkleshine]()
+- [Sue Acachalla the Suckish Officer]()
+
+## **T**
+- [Timebomb \(Fallout)]()
+- [Timothy / Tommy Casket]()
 - [Toilet Toucher]()
-- [Tommy / Timothy Casket]()
-- [Tootsie]()
-### V
-- [Vahl Aradur]()
-- [Vahl Kahli]()
-### W
-- [Willam Barricade]()
-- [William Smigglebug]()
-### Y
-- [Yellow Flowers]()
+- [Tommy \(Minecraft)]()
+
+## **U**
+- [Uncle Ernie Ghost]()
+
+## **V**
+- [Vahl Aradur \(A Skyrim Tale)]()
+- [Vahl Kahli \(Elder Scrolls Online)]()
+
+## **W**
+- [William Barricade]()
+
+--
+
+*Is someone missing? Make sure you search the site to make sure they’re truly not here first! If they’re still missing, contact the Admin (here)[./chapter_2.md]!*
