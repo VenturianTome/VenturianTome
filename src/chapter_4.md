@@ -2,6 +2,7 @@
 
 ## **A**
 - [Aimee]()
+- [The Anti-challas]()
 - [Aqua the Puppy \(Fallout)]()
 - [Asylum Weaver \(Oblivion)]()
 
@@ -40,13 +41,12 @@
 ## **G**
 - [Gertrude Acachalla]()
 - [Grandfather]()
-- [Grandpa Sink Supplies]()
 - [Gregory Casket]()
 
 ## **H**
 - [Hickle Coolbreeze]()
 - [Higgly-Diggly Hoogan]()
-- [The Housekeeper / Homekeeper]()
+- [The Housekeeper]()
 
 ## **J**
 - [Jenny Ghost]()
@@ -89,7 +89,7 @@
 ## **Q**
 - [Quasar the Dog]()
 - [Qeios Characters]()
-- [The Queen of England / Toast’s Grandmother]()
+- [The Queen of England]()
 
 ## **S**
 - [Sally Acachalla]()
