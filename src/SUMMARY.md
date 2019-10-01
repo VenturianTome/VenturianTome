@@ -7,5 +7,5 @@
     - [Cierra Frye / ImmortalKyodai](./3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
     - [Bethany Frye / FlyingPings](./3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
     - [Isaac Frye / HomelessGoomba](./3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
-- [World Settings](./chapter_4.md)
+- [World & Settings](./chapter_4.md)
 - [The Characters](./chapter_5.md)

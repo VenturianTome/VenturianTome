@@ -1,4 +1,4 @@
-# World Settings
+# The World & Its Settings
 
 ## 
 ----
