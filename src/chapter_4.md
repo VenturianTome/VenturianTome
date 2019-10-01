@@ -3,7 +3,6 @@
 ## **A**
 - [Aimee]()
 - [The Anti-challas]()
-- [Aqua the Puppy \(Fallout)]()
 - [Asylum Weaver \(Oblivion)]()
 
 ## **B**
