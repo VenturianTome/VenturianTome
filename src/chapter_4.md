@@ -1,4 +1,5 @@
 # All Characters
+### 73 Total \(Currently)
 
 ## **A**
 - [Aimee]()
