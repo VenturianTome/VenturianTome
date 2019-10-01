@@ -104,9 +104,6 @@
 - [Toilet Toucher]()
 - [Tommy \(Minecraft)]()
 
-## **U**
-- [Uncle Ernie Ghost]()
-
 ## **V**
 - [Vahl Aradur \(A Skyrim Tale)]()
 - [Vahl Kahli \(Elder Scrolls Online)]()
