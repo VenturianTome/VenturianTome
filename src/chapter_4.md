@@ -1,6 +1,11 @@
-# The World & Its Settings
+# World & Settings
 
-## 
+## S1
+- 
+
+## S2
+- 
+
 ----
 
 > **NOTE:** *Is something missing? Make sure you search the site to make sure it's truly not here first! If it's still missing, contact the Admin [here](chapter_2.html)!*
