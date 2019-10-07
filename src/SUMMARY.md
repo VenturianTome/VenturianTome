@@ -8,6 +8,5 @@
     - [Bethany Frye / FlyingPings](./3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
     - [Isaac Frye / HomelessGoomba](./3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
 - [World & Settings](./chapter_4.md)
-    - [Ghosts & Entities](./4.World/4.1.Ghosts-Entities.md)
 - [The Characters](./chapter_5.md)
 - [Series](./chapter_6.md)
