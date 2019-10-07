@@ -109,6 +109,6 @@
 ## **W**
 - [William Barricade]()
 
---
+----
 
 *Is someone missing? Make sure you search the site to make sure they’re truly not here first! If they’re still missing, contact the Admin (here)[./chapter_2.md]!*
