@@ -1,10 +1,10 @@
 # Series
 
 ## Gmod
-Gmod - 
-Gmod - 
-Gmod - 
-Gmod - 
+- Gmod - 
+- Gmod - 
+- Gmod - 
+- Gmod - 
 
 ## Tale Series
 - A Fallout Tale
