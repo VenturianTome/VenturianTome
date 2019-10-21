@@ -19,7 +19,7 @@
     - [Gertrude Acachalla](./5.Characters/Gertrude_Acachalla.md)
     - [Gregory Casket](./5.Characters/Gregory_Casket.md)
     - [Higgly-Diggly Hoogan](./5.Characters/Higgly-Diggly_Hoogan.md)
-    - [The Housekeeper](./5.Characters/The_Housekeeper.md)
+    - [Housekeeper](./5.Characters/The_Housekeeper.md)
     - [Jimmy Casket](./5.Characters/Jimmy_Casket.md)
     - [Johnny Ghost](./5.Characters/Johnny_Ghost.md)
     - [Johnny Toast](./5.Characters/Johnny_Toast.md)
