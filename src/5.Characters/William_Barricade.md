@@ -7,7 +7,7 @@
 - Most Common Series: [Gmod]()  
 - Species: Human  
 - Other Names / Titles:   
-  -   
+  - none
 - Played By: [Jordan Frye / Venturian]()  
 
 
