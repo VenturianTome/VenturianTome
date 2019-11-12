@@ -1,7 +1,4 @@
 # Series: Gmod 
-
-Characters In This Series:
-[]()
  
 ## **Cops & Robbers**  
 ### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTfblhqDNcSubJ3Bg5TvouG)

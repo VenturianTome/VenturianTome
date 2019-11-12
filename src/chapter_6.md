@@ -2,14 +2,10 @@
 [*All Videos*](https://www.youtube.com/playlist?list=PLwljWXtmIKiR6RCrbGztF5LhGXAEF7pX_)
 
 ## **VT-Specific**
-- [Animations](https://www.youtube.com/playlist?list=PLwljWXtmIKiS9e8P8yWyK9iexXWBXne-g)
-- Livestreams
-  - [Anniversary](https://www.youtube.com/playlist?list=PLwljWXtmIKiSzbw3HuSRtnuR4-h_APaUT)
-  - [FNAF Gameplay](https://www.youtube.com/playlist?list=PLwljWXtmIKiQ7s0Cti9kDbD1ED1quDE4N)
-  - [Roblox](https://www.youtube.com/playlist?list=PLwljWXtmIKiQvFCBUVvYAIkZGIgw-ymmV)
-- [Montages](https://www.youtube.com/playlist?list=PLwljWXtmIKiQGXCslKRBC-PL9JASozwK8)
-- [Speedpaints](https://www.youtube.com/playlist?list=PLwljWXtmIKiSwCvOKbYdriVjJhtO8PtZj)
-- [VenturianTale Mods](https://www.youtube.com/playlist?list=PLwljWXtmIKiS3zW-4Fs03PStqBnzIFiI5)
+- Animations
+- Montages
+- Speedpaints
+- VenturianTale Mods
 
 ## [**Gmod**](./6.Series/Gmod.html)
 - Cops & Robbers
@@ -34,13 +30,10 @@
 - Mods & Maps
 
 ## **Tale Series**
-- [A Fallout Tale]()
-- [A Minecraft Tale](https://www.youtube.com/playlist?list=PLwljWXtmIKiQ7slEkLipg8CICj5I6RO_H)
-  - [Another Minecraft Tale]()
-  - [Another Minecraft Tale: Season 2]()
-- [A Skyrim Tale](https://www.youtube.com/playlist?list=PLwljWXtmIKiR7oOC07oqYQeLpMaq01YYp)
-  - [Elder Scrolls Online]()
-- [An Oblivion Tale]()
+- A Fallout Tale
+- A Skyrim Tale
+  - Elder Scrolls Online
+- An Oblivion Tale
 
 ## **Five Nights At Freddy’s**
 - FNAF 1
@@ -55,8 +48,8 @@
 - The Joy of Creation: Reborn
 
 ## **Portal 2 Co-op**
-- [Isaac & Bethany](https://www.youtube.com/playlist?list=PLwljWXtmIKiSMPtKOeZ-pWCLkcmaoiH80)
-- [Jordan & Jessica](https://www.youtube.com/playlist?list=PLwljWXtmIKiTGt3yayAP9qXjBIT3obbnl)
+- Isaac & Bethany's Co-op
+- Jordan & Jessica's Co-op
 
 ## **Other Games**
 - Banjo Kazooie
@@ -82,9 +75,9 @@
 - Team Fortress 2
 
 ## **Vlogs**
-- [Moving Houses](https://www.youtube.com/playlist?list=PLwljWXtmIKiR-P2zo92MltQhVHCPAT_o4)
-- [Updates](https://www.youtube.com/playlist?list=PLwljWXtmIKiQgAD-fPU6vN2E8RvDconaM)
-- [VenturianMail](https://www.youtube.com/playlist?list=PLwljWXtmIKiQ8tPAQQomixGLE01lrjcQ8)
+- Moving Houses
+- Updates
+- VenturianMail
 
 ----
 
