@@ -2,7 +2,7 @@
 
 ## Basics
 Hello! Glad to know you're interested to know who's running this site.  
-- I call myself Rin, and this is where I store all of the VenturianTale information that I can find.  
+- I call myself V, and this is where I store all of the VenturianTale information that I can find.  
 - I've been watching VT since 2013 \(*I can't believe it's already been 6 years!*)
 - I believe my first video was the early [Weeping Angels Video](https://www.youtube.com/watch?v=y4VbP82dVo0) *OR* the [Motorcycle Mod](https://youtu.be/gNREBUzmn98), where I was first introduced to the start of the characters
 - I started this site \(with the help of my brother) in July of 2019, but I had the idea started for it all the way back in 2017

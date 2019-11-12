@@ -1,7 +1,7 @@
 # Welcome To The Site / Introduction
 
 Welcome to VenturianTome, a site dedicated to keeping track of everything VenturianTale!  
-I am Rin, the main admin of the site. If you want to learn more about me or need to contact me, please do so at the links on
+I am V, the main admin of the site. If you want to learn more about me or need to contact me, please do so at the links on
 [this page.](chapter_2.html)
 
 ## Enjoy!
