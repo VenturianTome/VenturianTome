@@ -5,7 +5,7 @@
 - Introduction Video: [Cardboard Friend](https://youtu.be/gHrJoNfyna4)  
 - Branch / Occupation: Ghost / Creature  
 - Most Common Series: [Gmod]()  
-- Species: Ghost  
+- Species: Entity  
 - Other Names / Titles:   
   - Box Friend  
 - Played By: [Bethany Frye / FlyingPings](./3.Siblings/3.3.Bethany-Frye-FlyingPings.md)  
@@ -21,7 +21,7 @@
   - Gregory decided to set Cardboard Friend free to its planet and people, accidentally calling it "Gregory" [13:12 - Cardboard Friend]
 
 - [**Johnny Ghost**]()  
-  - Cardboard Friend haunts Ghost in [Haunted By CF]
+  - Cardboard Friend haunts Ghost in *Haunted By CF*
   - Ghost is established as the grown-up version of Gregory after the events that transpired with Cardboard Friend in his childhood [5:27 - Prop Hunt: Ghost Hunt]
 
 - [**The Betrayer**]()
@@ -41,10 +41,10 @@
 
  
 ## | Links  
-- ### (Masterlist \(By Series))[https://docs.google.com/document/d/1P4ZRD6jhglXKt3SsYtIAv_rMaoukohVZo7UtJlB7gJU/edit]  
-- ### (Masterlist \(Chronological))[https://docs.google.com/document/d/13oE9ME_8PNXHDKpw5HVfEFSxjqhHP0kOD7ag5coS6h0/edit]
-- ### (Character Playlist)[]  
-- ### (Branch Playlist)[]  
+- ### [Masterlist \(By Series)](https://docs.google.com/document/d/1P4ZRD6jhglXKt3SsYtIAv_rMaoukohVZo7UtJlB7gJU/edit)  
+- ### [Masterlist \(Chronological)](https://docs.google.com/document/d/13oE9ME_8PNXHDKpw5HVfEFSxjqhHP0kOD7ag5coS6h0/edit)
+- ### [Character Playlist]()  
+- ### [Branch Playlist]()  
 
 
 ## | Other Trivia  

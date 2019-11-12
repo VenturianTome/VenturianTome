@@ -3,7 +3,7 @@
 
 ## | Basics  
 - Introduction Video: []()  
-- Branch / Occupation: --  
+- Branch / Occupation: Entity  
 - Most Common Series: [Gmod]()  
 - Species: Ghost / Alien  
 - Other Names / Titles:   

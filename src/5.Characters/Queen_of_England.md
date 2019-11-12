@@ -3,7 +3,7 @@
 
 ## | Basics  
 - Introduction Video: [President Visits McDonald’s]()  
-- Branch / Occupation: Parent
+- Branch / Occupation: Parent / Royalty
 - Most Common Series: [Gmod]()  
 - Species: Human  
 - Other Names / Titles:   

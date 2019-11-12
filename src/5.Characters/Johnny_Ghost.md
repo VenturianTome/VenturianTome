@@ -8,6 +8,7 @@
 - Species: Human  
 - Other Names / Titles:   
   - Paranormal Investigator Extraordinaire  
+  - Gregory Casket \(past)
 - Played By: [Jordan Frye / Venturian](./3.Siblings/3.1.Jordan-Frye-Venturian.md)  
 
 

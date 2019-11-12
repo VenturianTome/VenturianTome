@@ -3,7 +3,7 @@
 
 ## | Basics  
 - Introduction Video: \(Created) [Murder 1](); \(Named) [Murder 3: Jimmy Casket]()  
-- Branch / Occupation: Murderer  
+- Branch / Occupation: Murderer / Entity  
 - Most Common Series: [Gmod]()  
 - Species: Paranormal Entity  
 - Other Names / Titles:   
@@ -63,7 +63,7 @@
 - Casket pays his taxes and mows the lawn [17:19 - Murder 4: Majora's Mask]
 - Casket has a fear of macaroni; he has dreams where it comes and (ironically) eats him [17:32 / 19:05 - Murder 4: Majora's Mask]
 - Casket can come through walls [13:48 - Creepypasta College]
-- Casket can't tell the difference between Slender and Jeff [Creepypasta College]
+- Casket can't tell the difference between Slender and Jeff [14:00 - Creepypasta College]
 
 ## | Mentioned Videos
 - 

@@ -5,7 +5,7 @@
 - Introduction Video: []()  
 - Branch / Occupation: Law Enforcement  
 - Most Common Series: [Gmod]()  
-- Species: Clones  
+- Species: Clone(s)  
 - Other Names / Titles:   
   -   
 - Played By: [Jordan Frye / Venturian]()  

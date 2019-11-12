@@ -3,7 +3,7 @@
 
 ## | Basics  
 - Introduction Video: []()  
-- Branch / Occupation: Robber  
+- Branch / Occupation: Robber / Entity  
 - Most Common Series: [Gmod]()  
 - Species: Ghost  
 - Other Names / Titles:   

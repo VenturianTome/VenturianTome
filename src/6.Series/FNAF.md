@@ -1,7 +1,9 @@
 # Series: Five Nights At Freddy's
 
+
 Video Playlist: [All FNAF](https://www.youtube.com/playlist?list=PLwljWXtmIKiSmXxL38qza5WIwpXO78Aun)
 > **NOTE:** You might be looking for the characters, which are [here](5.Characters/FNAF_Animatronics.html)!
+
 
 ## **FNAF 1**  
 ### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQiFr4-PEPz-mXSdJtjyU4T)

@@ -40,7 +40,7 @@
 
 ## | Other Trivia  
 - Gregory can't read [2:01 - Cardboard Friend]
-- Gregory says that "first [his] parents left [him], then [his] grandparents" [4:22 - Cardboard Friend]
+- Gregory says that "first \[his] parents left \[him], then \[his] grandparents" [4:22 - Cardboard Friend]
 
 ## | Mentioned Videos
 - [Cardboard Friend]()

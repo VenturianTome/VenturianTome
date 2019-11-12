@@ -1,13 +1,13 @@
 # Series
 [*All Videos*](https://www.youtube.com/playlist?list=PLwljWXtmIKiR6RCrbGztF5LhGXAEF7pX_)
 
-## **VT-Specific**
+## [**VT-Specific**](6.Series/VT_Specific.html)
 - Animations
 - Montages
 - Speedpaints
 - VenturianTale Mods
 
-## [**Gmod**](./6.Series/Gmod.html)
+## [**Gmod**](6.Series/Gmod.html)
 - Cops & Robbers
 - Crazy Fun Dupes
 - Deathmatches
@@ -22,20 +22,20 @@
 - Stop It Slender!
 - Survival Maps
 
-## **Minecraft**
+## [**Minecraft**](6.Series/Minecraft.html)
 - A Minecraft Tale
 - Another Minecraft Tale
 - Another Minecraft Tale: Season 2
 - Fan Challenges
 - Mods & Maps
 
-## **Tale Series**
+## [**Tale Series**](6.Series/Tale_Series.html)
 - A Fallout Tale
 - A Skyrim Tale
   - Elder Scrolls Online
 - An Oblivion Tale
 
-## **Five Nights At Freddy’s**
+## [**Five Nights At Freddy’s**](6.Series/FNAF.html)
 - FNAF 1
 - FNAF 2
 - FNAF 3
@@ -47,11 +47,11 @@
 - Gameplay Livestreams
 - The Joy of Creation: Reborn
 
-## **Portal 2 Co-op**
+## [**Portal**](6.Series/Portal)
 - Isaac & Bethany's Co-op
 - Jordan & Jessica's Co-op
 
-## **Other Games**
+## [**Other Games**](6.Series/Other_Games.html)
 - Banjo Kazooie
 - Bendy & The Ink Machine
 - BROTHERS: A Tale of Two Sons
@@ -74,7 +74,7 @@
 - Tattletail
 - Team Fortress 2
 
-## **Vlogs**
+## [**Vlogs**](6.Series/Vlogs.html)
 - Moving Houses
 - Updates
 - VenturianMail

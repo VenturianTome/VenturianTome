@@ -58,7 +58,7 @@
   - Toast's car was once owned by the Queen of England; he has dented both sides of it [1:16 - Bonnie Visits Walmart]
 
 - [**Officer Maloney**]()
-  - Maloney has flirted with Toast (who was pretending to be "Debra Toast") [13:12 - Bonnie Visits Walmart]
+  - Maloney has flirted with Toast \(who was pretending to be "Debra Toast") [13:12 - Bonnie Visits Walmart]
 
 - [**The Rake**]()
   - He went to Rake's wedding [0:46 - Haunted By CF]
@@ -87,7 +87,7 @@
 
 
 ## | Other Trivia  
--   He has a summer home in the UK [0:45 - Haunted By Godzilla]
+- He has a summer home in the UK [0:45 - Haunted By Godzilla]
 - Toast doesn't like pineapples [4:29 - Haunted By Grandma]
 - Toast has an allergic reaction to fabrics; whenever Toast is completely nude, he doesn't make contact with physical objects [12:10 - Haunted By Grandma]
 - Toast has set off a bomb by lighting a fuse with his upper lip hair as a torch [2:10 - Haunted By Sonic]

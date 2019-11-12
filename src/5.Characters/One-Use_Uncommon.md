@@ -79,12 +79,12 @@
 
 ## Donald Donnie
 - Origin: [Godzilla Ate My Lunch]
-- He is a health inspector [2:11]
-- Was Ghost's friend in middle school [5:08]
-  - Told Ghost to sign a fruit roll-up with a pen as a declaration of friendship [6:47]
-- Actually an alien [5:08]
-  - Ghost is the only one who sees him as Godzilla while others just see him as a really fat human [5:08]
-  - Ghost calculated when the race of Reptilian aliens would arrive, but they came 12 years early [10:49]
+- He is a health inspector [2:11 - Godzilla Ate My Lunch]
+- Was Ghost's friend in middle school [5:08 - Godzilla Ate My Lunch]
+  - Told Ghost to sign a fruit roll-up with a pen as a declaration of friendship [6:47 - Godzilla Ate My Lunch]
+- Actually an alien [5:08 - Godzilla Ate My Lunch]
+  - Ghost is the only one who sees him as Godzilla while others just see him as a really fat human [5:08 - Godzilla Ate My Lunch]
+  - Ghost calculated when the race of Reptilian aliens would arrive, but they came 12 years early [10:49 - Godzilla Ate My Lunch]
 
 ## \(Uncle) Ernie Ghost
 - Ernie IS the Toilet Toucher, just a past version that was exiled to the 16th Dimension [14:08 - FNAF & Zootopia 2]
