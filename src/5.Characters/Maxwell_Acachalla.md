@@ -13,7 +13,7 @@
 
 ## | Relationships  
 - [**Jimmy Casket**]()  
-  - Maxwell and Casket have teamed up [15:23 - Scary Underground]
+  - Maxwell and Casket have teamed up [15:23 - *Scary Underground*]
 
 
 ## | Biography  
@@ -32,10 +32,10 @@
 
 
 ## | Other Trivia  
-- Maxwell has died in a bank robbery and a court case [12:57 - Scary Underground]
+- Maxwell has died in a bank robbery and a court case [12:57 - *Scary Underground*]
 
 ## | Mentioned Videos
-- 
+- [Scary Underground]()
 
 ----
 

@@ -33,10 +33,10 @@
 
 
 ## | Other Trivia  
-- Maddie Friend has been in an insane asylum [11:19 - Scary Underground]
+- Maddie Friend has been in an insane asylum [11:19 - *Scary Underground*]
 
 ## | Mentioned Videos
-- 
+- [Scary Underground]()
 
 ----
 

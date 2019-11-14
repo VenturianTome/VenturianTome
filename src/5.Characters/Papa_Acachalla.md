@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: [Motorcycle Mod]()  
+- Introduction Video: [*Motorcycle Mod*](https://youtu.be/gNREBUzmn98)  
 - Branch / Occupation: Acachalla Family  
 - Most Common Series: [Gmod]()  
 - Species: Human  
@@ -34,7 +34,7 @@
 
 ## | Other Trivia  
 - Acachalla was hired to help renovate a mental institution and make it into an IHop; he only got paid $1.50 an hour [19:17 - Creepypasta College]
-- Papa says his ex-wife looks like the Rake [18:41 - Creepypasta College]
+- Papa says his ex-wife looks like the Rake [18:41 - *Creepypasta College*]
 
 ## | Mentioned Videos
 - [Creepypasta College]()

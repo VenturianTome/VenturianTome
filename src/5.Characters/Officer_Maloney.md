@@ -13,7 +13,7 @@
 
 ## | Relationships  
 - [**Johnny Toast**]()  
-  - Maloney has flirted with Toast (who was pretending to be "Debra Toast") [13:12 - Bonnie Visits Walmart]
+  - Maloney has flirted with Toast \(who was pretending to be "Debra Toast") [13:12 - *Bonnie Visits Walmart*]
 
 
 ## | Biography  
@@ -32,7 +32,7 @@
 
 
 ## | Other Trivia  
-- Officer Maloney is played by Bethany in [12:52 - Bonnie Visits Walmart]
+- Officer Maloney is played by Bethany in [12:52 - *Bonnie Visits Walmart*]
 
 ## | Mentioned Videos
 - [Bonnie Visits Walmart]()

@@ -33,10 +33,10 @@
 
 
 ## | Other Trivia  
-- Gertrude is a famous swimmer [7:51 - Scary Underground]
+- Gertrude is a famous swimmer [7:51 - *Scary Underground*]
 
 ## | Mentioned Videos
-- 
+- [Scary Underground]()
 
 ----
 

@@ -2,7 +2,7 @@
 
 ## Basics
 - The Frye Siblings \(Jordan, Cierra, Bethany & Isaac) are the people who run [VenturianTale](https://www.youtube.com/user/VenturianTale).  
-- Over the years, they have made many interesting characters during the course of [over 3,000 videos!](https://www.youtube.com/playlist?list=PLwljWXtmIKiR6RCrbGztF5LhGXAEF7pX_)
+- Over the years, they have made many interesting characters during the course of [*over 3,000 videos!*](https://www.youtube.com/playlist?list=PLwljWXtmIKiR6RCrbGztF5LhGXAEF7pX_)
 ----
 ## The Siblings
 - [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)
@@ -11,7 +11,7 @@
 - [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)
 
 ## Trivia
-- They don’t commonly play Gmod outside of videos [1:15 - TJOC:R 3]()
+- They don’t commonly play Gmod outside of videos [*1:15 - TJOC:R 3*](https://youtu.be/B6jf67iGNlU)
 ----
 ## Social Medias / Other Sites
 - [Amino](https://aminoapps.com/c/venturiantale/home/)

@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: [Motorcycle Mod]()  
+- Introduction Video: [*Motorcycle Mod*](https://youtu.be/gNREBUzmn98)  
 - Branch / Occupation: Acachalla, Medic  
 - Most Common Series: [Gmod]()  
 - Species: Human  
@@ -15,7 +15,7 @@
 
 ## | Relationships  
 - [**Johnny Ghost**]()  
-  - Billy was going to help Ghost repay his college fund [11:13 - Scary Batman]
+  - Billy was going to help Ghost repay his college fund [11:13 - *Scary Batman Horror Map*]
 
 
 ## | Biography  
@@ -34,11 +34,14 @@
 
 
 ## | Other Trivia  
-- There was a fake Billy in [11:47 - Murder 4: Majora's Mask] that he won against
-- He can become a bird [16:53 - Super-Powered Baby]
+- There was a fake Billy in [11:47 - *Murder 4: Majora's Mask*] that he won against
+- He can become a bird [16:53 - *Super-Powered Baby Mod*]
 
 ## | Mentioned Videos
-- 
+- *Motorcycle Mod*
+- *Murder 4: Majora's Mask*
+- *Scary Batman Horror Map*
+- *Super-Powered Baby Mod*
 
 ----
 

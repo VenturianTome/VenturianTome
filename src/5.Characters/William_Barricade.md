@@ -33,7 +33,7 @@
 
 
 ## | Other Trivia  
-- According to him, Minions are "alien terrorists from another dimension" [5:38 - Minions Visit McDonald's]
+- According to him, Minions are "alien terrorists from another dimension" [5:38 - *Minions Visit McDonald's*]
 
 ## | Mentioned Videos
 - [Minions Visit McDonald’s]()

@@ -13,7 +13,7 @@
 
 ## | Relationships  
 - [**Johnny Ghost**]()  
-  - Ghost had a dog named Quasar in his childhood [4:11 - Mothman Ghost Hunt]
+  - Ghost had a dog named Quasar in his childhood [4:11 - *Mothman Ghost Hunt*]
 
 
 ## | Biography  

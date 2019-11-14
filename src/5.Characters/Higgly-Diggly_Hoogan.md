@@ -13,10 +13,10 @@
 
 ## | Relationships  
 - [**Johnny Toast**]()  
-  - Took Ghost's place as cameraman for Toast in [0:36 - Ghost Hunters]
+  - He took Ghost's place as cameraman for Toast in [0:36 - *Ghost Hunters*]
 
 - [**Johnny Ghost**]()
-  - Took Ghost's place as cameraman for Toast in [0:36 - Ghost Hunters] 
+  - He took Ghost's place as cameraman for Toast in [0:36 - *Ghost Hunters*] 
 
 
 ## | Biography  
@@ -35,7 +35,7 @@
 
 
 ## | Other Trivia  
-- You can buy a life-size HDH mannequin for 4 payments of $29.99 [1:09 - Ghost Hunters]
+- You can buy a life-size HDH mannequin for 4 payments of $29.99 [1:09 - *Ghost Hunters*]
 
 ## | Mentioned Videos
 - [Ghost Hunters]()

@@ -13,7 +13,7 @@
 
 ## | Relationships  
 - [**Johnny Ghost**]()  
-  - Ghost built a ghost detector out of bubblegum and a pan of Chakalata's own soup [7:12 - Haunted By Delphox]
+  - Ghost built a ghost detector out of bubblegum and a pan of Chakalata's own soup [7:12 - *Haunted By Delphox*]
 
 
 ## | Biography  
@@ -32,11 +32,11 @@
 
 
 ## | Other Trivia  
-- Chakalata Soup was involved in a case known as "The Restaurant Haunting Case of 1996" [6:47 - Haunted By Delphox]
-- Chakalata Soup is a paranormal entity [17:28 - Haunted By Delphox]
+- Chakalata Soup was involved in a case known as "The Restaurant Haunting Case of 1996" [6:47 - *Haunted By Delphox*]
+- Chakalata Soup is a paranormal entity [17:28 - *Haunted By Delphox*]
 
 ## | Mentioned Videos
-- 
+- [Haunted By Delphox]()
 
 ----
 
