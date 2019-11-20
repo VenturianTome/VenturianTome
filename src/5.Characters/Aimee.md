@@ -1,18 +1,18 @@
-# Gertrude Acachalla 
+# Aimee  
 
 
 ## | Basics  
 - Introduction Video: []()  
-- Branch / Occupation: Acachalla, Mother  
+- Branch / Occupation: Ghost/Entity   
 - Most Common Series: [Gmod](./6.Series/Gmod.md)  
-- Species: Human  
+- Species: Ghost  
 - Other Names / Titles:   
-  - Mama Gertrude  
+  - none  
 - Played By: [Bethany Frye / FlyingPings](./3.Siblings/3.3.Bethany-Frye-FlyingPings.md)  
 
 
 ## | Relationships  
-- [** **]()  
+- [**Johnny Ghost**]()  
   -  
 
 
@@ -26,16 +26,16 @@
 
  
 ## | Links  
-- ### [Masterlist]()
-- ### [Character Playlist]() 
-- ### [Branch Playlist]()
+- ### [Masterlist]()  
+- ### [Character Playlist]()  
+- ### [Branch Playlist]()  
 
 
 ## | Other Trivia  
-- Gertrude is a famous swimmer \[7:51 - *Scary Underground*]
+-   
 
 ## | Mentioned Videos
-- [Scary Underground]()
+- 
 
 ----
 

@@ -4,17 +4,16 @@
 ## | Basics  
 - Introduction Video: []()  
 - Branch / Occupation:   
-- Most Common Series: [Gmod]()  
+- Most Common Series: [Gmod](./6.Series/Gmod.md)  
 - Species: Human  
 - Other Names / Titles:   
   - none
-- Played By: [Jordan Frye / Venturian]()  
+- Played By: [Jordan Frye / Venturian](./3.Siblings/3.1.Jordan-Frye-Venturian.md)  
 
 
 ## | Relationships  
-- [** **]()  
-  - Relationship desc.  
-  - Other facts  
+- [**Johnny Ghost**]()  
+  - They know each other, but have never interacted on-screen \(probably because Jordan plays both characters) \[14:00 - *Minions Visit McDonald's*] 
 
 
 ## | Biography  
@@ -33,7 +32,7 @@
 
 
 ## | Other Trivia  
-- According to him, Minions are "alien terrorists from another dimension" [5:38 - *Minions Visit McDonald's*]
+- According to him, Minions are "alien terrorists from another dimension" \[5:38 - *Minions Visit McDonald's*]
 
 ## | Mentioned Videos
 - [Minions Visit McDonald’s]()

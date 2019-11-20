@@ -4,17 +4,16 @@
 ## | Basics  
 - Introduction Video: []()  
 - Branch / Occupation:   
-- Most Common Series: [Gmod]()  
+- Most Common Series: [Gmod](./6.Series/Gmod.md)  
 - Species: Human  
 - Other Names / Titles:   
   - Maddie  
-- Played By: [Bethany Frye / FlyingPings]()  
+- Played By: [Bethany Frye / FlyingPings](./3.Siblings/3.3.Bethany-Frye-FlyingPings.md)  
 
 
 ## | Relationships  
-- [** **]()  
-  - Relationship desc.  
-  - Other facts  
+- [**Billy Acachalla**]()  
+  -   
 
 
 ## | Biography  
@@ -33,7 +32,7 @@
 
 
 ## | Other Trivia  
-- Maddie Friend has been in an insane asylum [11:19 - *Scary Underground*]
+- Maddie Friend has been in an insane asylum \[11:19 - *Scary Underground*]
 
 ## | Mentioned Videos
 - [Scary Underground]()

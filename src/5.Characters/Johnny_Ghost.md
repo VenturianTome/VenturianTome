@@ -4,7 +4,7 @@
 ## | Basics  
 - Introduction Video: /(Technically) [](); /(Formally) []()  
 - Branch / Occupation: P.I.E. Team  
-- Most Common Series: [Gmod]()  
+- Most Common Series: [Gmod](./6.Series/Gmod.md)  
 - Species: Human  
 - Other Names / Titles:   
   - Paranormal Investigator Extraordinaire  
@@ -13,7 +13,10 @@
 
 
 ## | Relationships  
-- [**Johnny Toast**]()  
+- [**Jimmy Casket**](./5.Characters/Jimmy_Casket.md)
+  - 
+
+- [**Johnny Toast**](./5.Characters/Johnny_Toast.md)  
   - Johnny Toast is commonly known as Ghost’s best friend  
   - He and Toast have a scheduled kite-flying day [0:23 - *Haunted By Godzilla*]  
   - Ghost and Toast have above normal intelligence [1:33 - *HUNT Pt.2*]

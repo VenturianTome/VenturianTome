@@ -4,16 +4,18 @@
 ## | Basics  
 - Introduction Video: []()  
 - Branch / Occupation: Tale Character / Pet  
-- Most Common Series: [A Fallout Tale]()  
+- Most Common Series: [A Fallout Tale](./6.Series/Tale_Series.md)  
 - Species: Dog  
 - Other Names / Titles:   
-  -   
-- Played By: None  
+  - none   
 
 
 ## | Relationships  
-- [**Johnny Ghost**]()  
-  - Ghost had a dog named Quasar in his childhood [4:11 - *Mothman Ghost Hunt*]
+- [**Cywren Caster**]()
+  -  
+
+- [**Johnny Ghost**](./5.Characters/Johnny_Ghost.md)  
+  - Ghost had a dog named Quasar in his childhood \[4:11 - *Mothman Ghost Hunt*]
 
 
 ## | Biography  

@@ -4,16 +4,16 @@
 ## | Basics  
 - Introduction Video: []()  
 - Branch / Occupation: Robber / Entity  
-- Most Common Series: [Gmod]()  
+- Most Common Series: [Gmod](./6.Series/Gmod.md)  
 - Species: Ghost  
 - Other Names / Titles:   
   - Uncle Maxwell \(by Billy Acachalla)  
-- Played By: [Isaac Frye / HomelessGoomba]()  
+- Played By: [Isaac Frye / HomelessGoomba](./3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)  
 
 
 ## | Relationships  
-- [**Jimmy Casket**]()  
-  - Maxwell and Casket have teamed up [15:23 - *Scary Underground*]
+- [**Jimmy Casket**](./5.Characters/Jimmy_Casket.md)  
+  - Maxwell and Casket have teamed up \[15:23 - *Scary Underground*]
 
 
 ## | Biography  
@@ -32,7 +32,7 @@
 
 
 ## | Other Trivia  
-- Maxwell has died in a bank robbery and a court case [12:57 - *Scary Underground*]
+- Maxwell has died in a bank robbery and a court case \[12:57 - *Scary Underground*]
 
 ## | Mentioned Videos
 - [Scary Underground]()

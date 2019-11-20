@@ -4,17 +4,17 @@
 ## | Basics  
 - Introduction Video: [President Visits McDonald’s]()  
 - Branch / Occupation: Parent / Royalty
-- Most Common Series: [Gmod]()  
+- Most Common Series: [Gmod](./6.Series/Gmod.md)  
 - Species: Human  
 - Other Names / Titles:   
-  -   
+  - The Queen  
 - Played By: None  
 
 
 ## | Relationships  
-- [**Johnny Toast**]()  
-  - Toast doesn't shop; all his clothes are handmade \(by his Grandmother) [3:35 - *OMG Cute Cats*]
-- Toast's car was once owned by the Queen of England; he has dented both sides of it [1:16 - *Bonnie Visits Walmart*]
+- [**Johnny Toast**](./5.Characters/Johnny_Toast.md)  
+  - Toast doesn't shop; all his clothes are handmade \(by his Grandmother) \[3:35 - *OMG Cute Cats*]
+- Toast's car was once owned by the Queen of England; he has dented both sides of it \[1:16 - *Bonnie Visits Walmart*]
 
 
 ## | Biography  
@@ -33,7 +33,7 @@
 
 
 ## | Other Trivia  
-- The Queen of England did tractor races in the palace [4:39 - *Hell's Resort*]
+- The Queen of England did tractor races in the palace \[4:39 - *Hell's Resort*]
   - There weren't a lot of royal beheadings, mostly just throwing people down a well
 
 ## | Mentioned Videos

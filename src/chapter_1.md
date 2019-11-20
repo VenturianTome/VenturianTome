@@ -14,7 +14,7 @@ Feel free to peruse this dictionary of characters and pages. All of this informa
 - [Characters](chapter_5.html)
 - [Series](chapter_6.html)
 
-## All The Videos!!
+## All The Videos!
 - I made a playlist containing ALL of VenturianTale's uploads \(*yes, even from way back in 2013*) and you can watch it [here](https://www.youtube.com/playlist?list=PLwljWXtmIKiR6RCrbGztF5LhGXAEF7pX_) if you want to!
 
 ----

@@ -4,18 +4,18 @@
 ## | Basics  
 - Introduction Video: [*Motorcycle Mod*](https://youtu.be/gNREBUzmn98)  
 - Branch / Occupation: Acachalla, Medic  
-- Most Common Series: [Gmod]()  
+- Most Common Series: [Gmod](./6.Series/Gmod.md)  
 - Species: Human  
 - Other Names / Titles:   
   - Billy Medic  
   - Ernie Ghost \(future)
   - Toilet Toucher \(future)
-- Played By: [Isaac Frye / HomelessGoomba]()  
+- Played By: [Isaac Frye / HomelessGoomba](./3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)  
 
 
 ## | Relationships  
-- [**Johnny Ghost**]()  
-  - Billy was going to help Ghost repay his college fund [11:13 - *Scary Batman Horror Map*]
+- [**Johnny Ghost**](./5.Characters/Johnny_Ghost)  
+  - Billy was going to help Ghost repay his college fund \[11:13 - *Scary Batman Horror Map*]
 
 
 ## | Biography  
@@ -34,14 +34,14 @@
 
 
 ## | Other Trivia  
-- There was a fake Billy in [11:47 - *Murder 4: Majora's Mask*] that he won against
-- He can become a bird [16:53 - *Super-Powered Baby Mod*]
+- There was a fake Billy in \[11:47 - *Murder 4: Majora's Mask*] that he won against
+- He can become a bird \[16:53 - *Super-Powered Baby Mod*]
 
 ## | Mentioned Videos
-- *Motorcycle Mod*
-- *Murder 4: Majora's Mask*
-- *Scary Batman Horror Map*
-- *Super-Powered Baby Mod*
+- [Motorcycle Mod]()
+- [Murder 4: Majora's Mask]()
+- [Scary Batman Horror Map]()
+- [Super-Powered Baby Mod]()
 
 ----
 

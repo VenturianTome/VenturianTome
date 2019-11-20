@@ -40,7 +40,7 @@
 
 ## Bad / Low Texture Bronson
 #### Origin: *Chica Visits Pizza Hut*
-- Acted as Tommy’s sidekick on his TV show [4:42 - *Chica Visits Pizza Hut*]
+- Acted as Tommy’s sidekick on his TV show \[4:42 - *Chica Visits Pizza Hut*]
 
 ### Mentioned Videos
 - [Chica Visits Pizza Hut]()
@@ -49,7 +49,7 @@
 
 ## Bad / Low Texture Johnson
 #### Origin: *Chica Visits Pizza Hut*
-- Acted as Tommy’s sidekick on his TV show [2:05 - *Chica Visits Pizza Hut*]
+- Acted as Tommy’s sidekick on his TV show \[2:05 - *Chica Visits Pizza Hut*]
   - Faked his death \[13:11 / 13:34]
 
 ### Mentioned Videos
@@ -59,11 +59,11 @@
 
 ## BananaCorp
 #### Origin: **
-- They kidnapped Toast but he was saved by Ghost after 2 “stressful” weeks [0:47 / 1:17 - *Kidnapped By BananaCorp*]
-- There is \(or was) a Banana King [1:17 - *Kidnapped By BananaCorp*]
-- Their lair was under a volcano [2:25 - *Kidnapped By BananaCorp*]
-- They enslaved Cecil the Gnome’s people [7:44 - *Kidnapped By BananaCorp*]
-- They are/were a hivemind [12:26 - *Kidnapped By BananaCorp*]
+- They kidnapped Toast but he was saved by Ghost after 2 “stressful” weeks \[0:47 / 1:17 - *Kidnapped By BananaCorp*]
+- There is \(or was) a Banana King \[1:17 - *Kidnapped By BananaCorp*]
+- Their lair was under a volcano \[2:25 - *Kidnapped By BananaCorp*]
+- They enslaved Cecil the Gnome’s people \[7:44 - *Kidnapped By BananaCorp*]
+- They are/were a hivemind \[12:26 - *Kidnapped By BananaCorp*]
 
 ### Mentioned Videos
 - [Kidnapped By BananaCorp]()
@@ -81,14 +81,14 @@
 
 ## The Betrayer
 #### Origin: *Hell’s Island Pt.1* & *Hell’s Island Pt.2*
-- Lives \(or *lived*) in Germany [2:04 - *Hell’s Island Pt.1*]
-- Was a resident of the town \(and was even a cop for a while) before everyone else died [3:33 - *Hell’s Island Pt.1*]
-- They use a test to make sure if someone is “infected” or not, which is to know something about your childhood [10:06 - *Hell’s Island Pt.1*]
-- Ghost uses many insults against them due to their charred appearance [1:07 / 4:56 - *Hell’s Island Pt.2*]
-- They have claimed Chakalata Soup as their father [7:03 - *Hell’s Island Pt.2*]
-- They have called Ghost “Gregory,” believing that that’s his name [8:30 / 9:36 / 11:34 / 12:25 / 13:16 / 16:49 - *Hell’s Island Pt.2*]
-- No one from the town knew what year it was, not even them [18:19 - *Hell's Island Pt.2*]
-- They have said that Ghost “found another friend;” Ghost denies it and says that Toast has always been his friend; they say that that wasn’t always true - he was so lonely as a child [22:54 - *Hell’s Island Pt.2*]
+- Lives \(or *lived*) in Germany \[2:04 - *Hell’s Island Pt.1*]
+- Was a resident of the town \(and was even a cop for a while) before everyone else died \[3:33 - *Hell’s Island Pt.1*]
+- They use a test to make sure if someone is “infected” or not, which is to know something about your childhood \[10:06 - *Hell’s Island Pt.1*]
+- Ghost uses many insults against them due to their charred appearance \[1:07 / 4:56 - *Hell’s Island Pt.2*]
+- They have claimed Chakalata Soup as their father \[7:03 - *Hell’s Island Pt.2*]
+- They have called Ghost “Gregory,” believing that that’s his name \[8:30 / 9:36 / 11:34 / 12:25 / 13:16 / 16:49 - *Hell’s Island Pt.2*]
+- No one from the town knew what year it was, not even them \[18:19 - *Hell's Island Pt.2*]
+- They have said that Ghost “found another friend;” Ghost denies it and says that Toast has always been his friend; they say that that wasn’t always true - Ghost was so lonely as a child \[22:54 - *Hell’s Island Pt.2*]
 
 ### Mentioned Videos
 - [Hell’s Island Pt.1](https://youtu.be/NuONWZ-LDQ0)
@@ -98,7 +98,7 @@
 
 ## Better Texture Monson
 #### Origin: [*Chica Visits Pizza Hut*]
-- Acted as Tommy’s sidekick on his TV show [11:18 - *Chica Visits Pizza Hut*]
+- Acted as Tommy’s sidekick on his TV show \[11:18 - *Chica Visits Pizza Hut*]
   - Tommy believed he was an undercover spy \(because he was reading his lines for the show) and killed him \[11:54]
 
 ### Mentioned Videos
@@ -108,9 +108,9 @@
 
 ## Cecil the Gnome
 #### Origin: **
-- Cecil the Gnome once told Ghost that he was friends with "a little red-headed girl from the wasteland," which Ghost didn't believe [5:41 - *Funny Oogie Boogie*]
-- BananaCorp had enslaved his people [7:44 - *Kidnapped By BananaCorp*]
-  - He sacrificed himself to detonate the BananaCorp’s lair [21:35 - *Kidnapped By BananaCorp*]
+- Cecil the Gnome once told Ghost that he was friends with "a little red-headed girl from the wasteland," which Ghost didn't believe \[5:41 - *Funny Oogie Boogie*]
+- BananaCorp had enslaved his people \[7:44 - *Kidnapped By BananaCorp*]
+  - He sacrificed himself to detonate the BananaCorp’s lair \[21:35 - *Kidnapped By BananaCorp*]
   
 ### Mentioned Videos
 - [Funny Oogie Boogie]()
@@ -150,10 +150,10 @@
 
 ## Dipper
 #### Origin: *Gravity Falls Dipper*
-- Ghost is a big fan of Dipper's; Dipper was doing what Ghost does before he did - he was Ghost's inspiration; Ghost wrote an essay about the Mystery Shack in school [2:32 / 6:20 / 7:09 - *Gravity Falls Dipper*]
-- Dipper found the well of eternal life by playing video games and not noticing time passing [6:32 - *Gravity Falls Dipper*]
-- Dipper has a machine that can observe the aspects of sleep [8:35 - *Gravity Falls Dipper*]
-- Dipper was cloned when the program crashed [11:32 - *Gravity Falls Dipper*]
+- Ghost is a big fan of Dipper's; Dipper was doing what Ghost does before he did - he was Ghost's inspiration; Ghost wrote an essay about the Mystery Shack in school \[2:32 / 6:20 / 7:09 - *Gravity Falls Dipper*]
+- Dipper found the well of eternal life by playing video games and not noticing time passing \[6:32 - *Gravity Falls Dipper*]
+- Dipper has a machine that can observe the aspects of sleep \[8:35 - *Gravity Falls Dipper*]
+- Dipper was cloned when the program crashed \[11:32 - *Gravity Falls Dipper*]
 
 ### Mentioned Videos
 - [Gravity Falls Dipper]()
@@ -194,7 +194,7 @@
 
 ## \(Uncle) Ernie Ghost
 #### Origin: **
-- Ernie IS the Toilet Toucher, just a past version that was exiled to the 16th Dimension [14:08 - *FNAF & Zootopia 2*]
+- Ernie IS the Toilet Toucher, just a past version that was exiled to the 16th Dimension \[14:08 - *FNAF & Zootopia 2*]
 
 ### Mentioned Videos
 - [FNAF & Zootopia 2]()
@@ -560,13 +560,13 @@
 
 ## Tommy / Timothy Casket
 #### Origin: \(Actual) *Haunted By Cardboard Friend* / \(Physical) *Chica Visits Pizza Hut*
-- Ghost has claimed him as his father [12:11 - *Haunted By Cardboard Friend*]
+- Ghost has claimed him as his father \[12:11 - *Haunted By Cardboard Friend*]
   - Toast knows this, calling "Casket" his family name \[18:33]
   - Died before Ghost was born; he lived alone with his mother off of his father's wealth, which put him through school \[17:50]
-- He is a male model [1:31 / 2:18 - *Chica Visits Pizza Hut*]
-- He goes by “Officer Tommy” on the job, acting as a cop [2:02 - *Chica Visits Pizza Hut*]
-- He is/was on a TV show, but didn’t believe that he was / rejected it [5:12 / 8:42 / 11:39 / 13:39 - *Chica Visits Pizza Hut*]
-- He is from Brooklyn [9:48 - *Chica Visits Pizza Hut*]
+- He is a male model \[1:31 / 2:18 - *Chica Visits Pizza Hut*]
+- He goes by “Officer Tommy” on the job, acting as a cop \[2:02 - *Chica Visits Pizza Hut*]
+- He is/was on a TV show, but didn’t believe that he was / rejected it \[5:12 / 8:42 / 11:39 / 13:39 - *Chica Visits Pizza Hut*]
+- He is from Brooklyn \[9:48 - *Chica Visits Pizza Hut*]
 
 ### Mentioned Videos
 - [Chica Visits Pizza Hut]()

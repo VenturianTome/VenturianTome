@@ -4,17 +4,28 @@
 ## | Basics  
 - Introduction Video: [*Motorcycle Mod*](https://youtu.be/gNREBUzmn98)  
 - Branch / Occupation: Acachalla Family  
-- Most Common Series: [Gmod]()  
+- Most Common Series: [Gmod](./6.Series/Gmod.md)  
 - Species: Human  
 - Other Names / Titles:   
   - Papa  
-- Played By: [Jordan Frye / Venturian]()  
+- Played By: [Jordan Frye / Venturian](./3.Siblings/3.1.Jordan-Frye-Venturian.md)  
 
 
 ## | Relationships  
-- [** **]()  
-  - Relationship desc.  
-  - Other facts  
+- [**Billy Acachalla**]()  
+  - 
+
+- [**Gertrude Acachalla**]()  
+  - 
+
+- [**Sally Acachalla**]()  
+  - 
+
+- [**Spencer Acachalla**]()  
+  - 
+
+- [**Sue Acachalla**]()  
+  - 
 
 
 ## | Biography  
@@ -33,8 +44,8 @@
 
 
 ## | Other Trivia  
-- Acachalla was hired to help renovate a mental institution and make it into an IHop; he only got paid $1.50 an hour [19:17 - Creepypasta College]
-- Papa says his ex-wife looks like the Rake [18:41 - *Creepypasta College*]
+- Acachalla was hired to help renovate a mental institution and make it into an IHop; he only got paid $1.50 an hour \[19:17 - *Creepypasta College*]
+- Papa says his ex-wife looks like the Rake \[18:41 - *Creepypasta College*]
 
 ## | Mentioned Videos
 - [Creepypasta College]()

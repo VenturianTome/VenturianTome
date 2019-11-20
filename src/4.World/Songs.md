@@ -1,15 +1,14 @@
 # Songs
 
 
-## | Origins 
-- "Murder!" [0:30 - Murder 11: Olaf]
-- "I'm Dancin' On The Roof!" [9:15 / 11:04 - Playable Animatronics 13]
-- Cash Register Song [6:26 - Working At McDonald’s]
+## | Cash Register Song
+- Origin: \[6:26 - Working At McDonald’s]
 
-## | Lyrics
-### “Title”
-#### L1
-#### L2
+## | "I'm Dancin' On The Roof!"
+- Origin: \[9:15 / 11:04 - Playable Animatronics 13]
+
+## | "Murder!"
+- Origin: \[0:30 - Murder 11: Olaf]
 
 ## | Trivia
 - 

@@ -10,7 +10,7 @@
 - [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
 - [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)
 
-## Trivia
+## Trivia of the Siblings
 - They don’t commonly play Gmod outside of videos [*1:15 - TJOC:R 3*](https://youtu.be/B6jf67iGNlU)
 ----
 ## Social Medias / Other Sites
