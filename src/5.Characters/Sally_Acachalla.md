@@ -38,8 +38,8 @@
 - Sally is good at lockpicking \[18:27 - *Creepypasta College*]
 
 ## | Mentioned Videos
-- [Acachalla Winter Vacation]()
-- [Creepypasta College]()
+- [Acachalla Winter Vacation](https://youtu.be/nQBiVNH1fUk)
+- [Creepypasta College](https://youtu.be/TyTM5NU8jKY)
 
 ----
 

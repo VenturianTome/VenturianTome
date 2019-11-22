@@ -38,10 +38,10 @@
 - He can become a bird \[16:53 - *Super-Powered Baby Mod*]
 
 ## | Mentioned Videos
-- [Motorcycle Mod]()
-- [Murder 4: Majora's Mask]()
-- [Scary Batman Horror Map]()
-- [Super-Powered Baby Mod]()
+- [Motorcycle Mod](https://youtu.be/gNREBUzmn98)
+- [Murder 4: Majora's Mask](https://youtu.be/rJShOzX411o)
+- [Scary Batman Horror Map](https://youtu.be/EB9US2_E0J8)
+- [Super-Powered Baby Mod](https://youtu.be/jWXZO7cAe3o)
 
 ----
 

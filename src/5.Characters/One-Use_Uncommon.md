@@ -43,7 +43,7 @@
 - Acted as Tommy’s sidekick on his TV show \[4:42 - *Chica Visits Pizza Hut*]
 
 ### Mentioned Videos
-- [Chica Visits Pizza Hut]()
+- [Chica Visits Pizza Hut](https://youtu.be/VcBOrWgqyrY)
 
 ----
 
@@ -53,7 +53,7 @@
   - Faked his death \[13:11 / 13:34]
 
 ### Mentioned Videos
-- [Chica Visits Pizza Hut]()
+- [Chica Visits Pizza Hut](https://youtu.be/VcBOrWgqyrY)
 
 ----
 
@@ -66,7 +66,7 @@
 - They are/were a hivemind \[12:26 - *Kidnapped By BananaCorp*]
 
 ### Mentioned Videos
-- [Kidnapped By BananaCorp]()
+- [Kidnapped By BananaCorp](https://youtu.be/wt_kHMmAnTQ)
 
 ----
 
@@ -91,8 +91,8 @@
 - They have said that Ghost “found another friend;” Ghost denies it and says that Toast has always been his friend; they say that that wasn’t always true - Ghost was so lonely as a child \[22:54 - *Hell’s Island Pt.2*]
 
 ### Mentioned Videos
-- [Hell’s Island Pt.1](https://youtu.be/NuONWZ-LDQ0)
-- [Hell’s Island Pt.2](https://youtu.be/YSmqZ0T6Enk)
+- [I Am The Puppet](https://youtu.be/NuONWZ-LDQ0)
+- [The Horror Continues](https://youtu.be/YSmqZ0T6Enk)
 
 ----
 
@@ -102,7 +102,7 @@
   - Tommy believed he was an undercover spy \(because he was reading his lines for the show) and killed him \[11:54]
 
 ### Mentioned Videos
-- [Chica Visits Pizza Hut]()
+- [Chica Visits Pizza Hut](https://youtu.be/VcBOrWgqyrY)
 
 ----
 
@@ -113,8 +113,8 @@
   - He sacrificed himself to detonate the BananaCorp’s lair \[21:35 - *Kidnapped By BananaCorp*]
   
 ### Mentioned Videos
-- [Funny Oogie Boogie]()
-- [Kidanpped By BananaCorp]()
+- [Funny Oogie Boogie](https://youtu.be/3rEws9xky0s)
+- [Kidnapped By BananaCorp](https://youtu.be/wt_kHMmAnTQ)
 
 ----
 
@@ -156,7 +156,7 @@
 - Dipper was cloned when the program crashed \[11:32 - *Gravity Falls Dipper*]
 
 ### Mentioned Videos
-- [Gravity Falls Dipper]()
+- [Gravity Falls Dipper](https://youtu.be/1_W8aGKltEI)
 
 ----
 
@@ -179,7 +179,7 @@
   - Ghost calculated when the race of Reptilian aliens would arrive, but they came 12 years early \[10:49]
 
 ### Mentioned Videos
-- [Godzilla Ate My Lunch]()
+- [Godzilla Ate My Lunch](https://youtu.be/CSXo2GfyvGU)
 
 ----
 
@@ -188,7 +188,7 @@
 - Donald Trump is one of the Lizard-aliens \(like Donald Donnie) [14:12 - *Godzilla Ate My Lunch*]
 
 ### Mentioned Videos
-- [Godzilla Ate My Lunch]()
+- [Godzilla Ate My Lunch](https://youtu.be/CSXo2GfyvGU)
 
 ----
 
@@ -197,7 +197,7 @@
 - Ernie IS the Toilet Toucher, just a past version that was exiled to the 16th Dimension \[14:08 - *FNAF & Zootopia 2*]
 
 ### Mentioned Videos
-- [FNAF & Zootopia 2]()
+- [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og)
 
 ---- 
 ## Grandfather
@@ -273,7 +273,7 @@
 - John is a "gravebender" \[11:06]
 
 ### Mentioned Videos
-- [Funny Oogie Boogie]()
+- [Funny Oogie Boogie](https://youtu.be/3rEws9xky0s)
 
 ----
 
@@ -339,8 +339,8 @@
 - Katrina reappears and Toast questions why; Ghost says he's come to terms with "it," leaving it vague \[6:44]
 
 ### Mentioned Videos
-- [HUNT Pt.2]()
-- [HUNT Pt.2 FINALE]()
+- [HUNT Pt.2](https://youtu.be/Q_iwzgwlbwg)
+- [HUNT Pt.2 FINALE](https://youtu.be/nNLNxjfItLU)
 
 ----
 
@@ -386,7 +386,7 @@
 - Joined the PIE Team on their investigation \[0:22]
 
 ### Mentioned Videos
-- [Paranormal Ghost Hunt]()
+- [Paranormal Ghost Hunt](https://youtu.be/VEq4ggHacoU)
 
 ----
 
@@ -422,7 +422,7 @@
 - Ghost claims he's "like 7 and a half foot tall" [1:04 - *Funny Olaf*]
 
 ### Mentioned Videos
-- [Funny Olaf]()
+- [Funny Olaf](https://youtu.be/_onnlghtxTQ)
 
 ----
 
@@ -431,7 +431,7 @@
 - Another possibility of being Ghost's father [4:25 - *Godzilla Ate My Lunch*]
 
 ### Mentioned Videos
-- [Godzilla Ate My Lunch]()
+- [Godzilla Ate My Lunch](https://youtu.be/CSXo2GfyvGU)
 
 ----
 
@@ -506,7 +506,7 @@
 - Sonic.exe is a Level 5 noob ghost that was only recently evolved into a Level 5, which is a physical entity \(unlike a Level 4) [7:55 - *Haunted By Sonic*]
 
 ### Mentioned Videos
-- [Haunted By Sonic]()
+- [Haunted By Sonic](https://youtu.be/VHp98-xtHlw)
 
 ----
 
@@ -536,7 +536,7 @@
 - Was killed by Golden Freddy \[16:42]
 
 ### Mentioned Videos
-- [Haunted By FNAF]()
+- [Haunted By FNAF](https://youtu.be/ntiwledOpi0)
 
 ----
 
@@ -569,8 +569,8 @@
 - He is from Brooklyn \[9:48 - *Chica Visits Pizza Hut*]
 
 ### Mentioned Videos
-- [Chica Visits Pizza Hut]()
-- [Haunted By Cardboard Friend]()
+- [Chica Visits Pizza Hut](https://youtu.be/VcBOrWgqyrY)
+- [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ)
 
 ----
 

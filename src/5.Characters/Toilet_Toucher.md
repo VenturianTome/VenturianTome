@@ -46,10 +46,10 @@
 - His Ultimate Form is a floating Doge \[10:43 - *Super-Powered Baby Mod*]
 
 ## | Mentioned Videos
-- [Cops & Robbers: Toilet Toucher 2]()
-- [Dating Slenderman]()
-- [FNAF & Zootopia 2]()
-- [Super-Powered Baby Mod]()
+- [Cops & Robbers: Toilet Toucher 2](https://youtu.be/UqhzSvza9dc)
+- [Dating Slenderman](https://youtu.be/iKCA4r6euXM)
+- [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og)
+- [Super-Powered Baby Mod](https://youtu.be/jWXZO7cAe3o)
 
 ----
 

@@ -15,7 +15,7 @@
   -  
 
 - [**Johnny Ghost**](./5.Characters/Johnny_Ghost.md)  
-  - Ghost had a dog named Quasar in his childhood \[4:11 - *Mothman Ghost Hunt*]
+  - Ghost had a dog named Quasar in his childhood \[4:11 - *Ghost Hunt: The Mothman*]
 
 
 ## | Biography  
@@ -37,7 +37,7 @@
 -   
 
 ## | Mentioned Videos
-- [Mothman Ghost Hunt]()
+- [Ghost Hunt: The Mothman](https://youtu.be/np-IMVWwpEs)
 
 ----
 

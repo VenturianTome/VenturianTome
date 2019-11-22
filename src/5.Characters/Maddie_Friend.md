@@ -35,7 +35,7 @@
 - Maddie Friend has been in an insane asylum \[11:19 - *Scary Underground*]
 
 ## | Mentioned Videos
-- [Scary Underground]()
+- [Scary Underground Horror Map](https://youtu.be/Hd_KT6KbnHI)
 
 ----
 

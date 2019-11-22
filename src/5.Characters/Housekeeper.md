@@ -40,9 +40,9 @@
 - He can respawn due to being locked into his dimension \[11:40 - *JG vs Zombies*]
 
 ## | Mentioned Videos
-- [JG vs Zombies]()
-- [Neighbor Visits McDonald's]()
-- [Paranormal Ghost Hunt]()
+- [Johnny Ghost vs Zombies](https://youtu.be/ZZi4QOcKkno)
+- [Neighbor Visits McDonald's](https://youtu.be/hviiaU4UmZA)
+- [Paranormal Ghost Hunt](https://youtu.be/VEq4ggHacoU)
 
 ----
 

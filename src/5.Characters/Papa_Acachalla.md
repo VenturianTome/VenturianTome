@@ -48,7 +48,7 @@
 - Papa says his ex-wife looks like the Rake \[18:41 - *Creepypasta College*]
 
 ## | Mentioned Videos
-- [Creepypasta College]()
+- [Creepypasta College](https://youtu.be/TyTM5NU8jKY)
 
 ----
 

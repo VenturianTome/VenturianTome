@@ -35,7 +35,7 @@
 - Officer Maloney is played by Bethany in \[12:52 - *Bonnie Visits Walmart*]
 
 ## | Mentioned Videos
-- [Bonnie Visits Walmart]()
+- [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g)
 
 ----
 

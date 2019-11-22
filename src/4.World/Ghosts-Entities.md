@@ -70,22 +70,22 @@
 
 
 ## | Mentioned Videos
-- [Ghost Hunters]()
-- [Haunted By Cardboard Friend]()
-- [Haunted By Delphox]()
-- [Haunted By Godzilla]()
-- [Haunted By Grandma]()
-- [Haunted By Sonic]()
-- [HUNT Pt.2]()
-- [Funny Balloon Boy]()
-- [Funny Horror Game]()
-- [Johnny Ghost L4D]()
-- [Mothman Ghost Hunt]()
-- [Paranormal Ghost Hunt]()
-- [Playable Animatronics 10]()
-- [Prop Hunt: Ghost Hunt]()
-- [Scary Ghost Children]()
-- [Scary Underground]()
+- [Funny Balloon Boy](https://youtu.be/EnoiRkmE1y8)
+- [Funny Horror Game](https://youtu.be/W_p-t0KtS3U)
+- [Ghost Hunt: The Mothman](https://youtu.be/np-IMVWwpEs)
+- [Ghost Hunters Horror Map](https://youtu.be/oA9jS2ArUk0)
+- [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ)
+- [Haunted By Delphox](https://youtu.be/gVmjfDiJ184)
+- [Haunted By Godzilla](https://youtu.be/BehxBDbUJlI)
+- [Haunted By Grandma](https://youtu.be/yMRGseByyCU)
+- [Haunted By Sonic](https://youtu.be/VHp98-xtHlw)
+- [HUNT Pt.2](https://youtu.be/Q_iwzgwlbwg)
+- [Johnny Ghost L4D](https://youtu.be/u4msj3CN7yI)
+- [Paranormal Ghost Hunt](https://youtu.be/VEq4ggHacoU)
+- [Playable Animatronics 10](https://youtu.be/2qdDjiasqEc)
+- [Prop Hunt 18: Ghost Hunt](https://youtu.be/2yVe4fe8lRw)
+- [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U)
+- [Scary Underground Horror Map](https://youtu.be/Hd_KT6KbnHI)
 
 
 ## | Links

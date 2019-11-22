@@ -42,9 +42,9 @@
 - Princeton Quagmire "solved life when he was 6 and a half years old" \[19:34 - *Murder 5: Doctor Who*]
 
 ## | Mentioned Videos
-- [Murder 3: Jimmy Casket]()
-- [Murder 5: Doctor Who]()
-- [Murder 11: Olaf]()
+- [Murder 3: Jimmy Casket](https://youtu.be/ijGTXelXjx4)
+- [Murder 5: Doctor Who](https://youtu.be/DpcpwXKf4NQ)
+- [Murder 11: Olaf](https://youtu.be/g2tvu5gFGhI)
 
 ----
 

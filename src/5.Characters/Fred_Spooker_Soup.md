@@ -56,10 +56,10 @@
 - Spooker's home looks similar to / is a grave \[19:05 - *Funny Horror Game*]
 
 ## | Mentioned Videos
-- [FNAF & Zootopia 2]()
-- [Funny Horror Game]()
-- [Gravity Falls Dipper]()
-- [Scary Ghost Children]()
+- [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og)
+- [Funny Horror Game](https://youtu.be/W_p-t0KtS3U)
+- [Gravity Falls Dipper](https://youtu.be/1_W8aGKltEI)
+- [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U)
 
 ----
 

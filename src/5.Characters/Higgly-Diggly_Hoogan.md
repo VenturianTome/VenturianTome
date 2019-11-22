@@ -38,7 +38,7 @@
 - You can buy a life-size HDH mannequin for 4 payments of $29.99 \[1:09 - *Ghost Hunters*]
 
 ## | Mentioned Videos
-- [Ghost Hunters]()
+- [Ghost Hunters Horror Map](https://youtu.be/oA9jS2ArUk0)
 
 ----
 

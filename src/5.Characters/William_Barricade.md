@@ -35,7 +35,8 @@
 - According to him, Minions are "alien terrorists from another dimension" \[5:38 - *Minions Visit McDonald's*]
 
 ## | Mentioned Videos
-- [Minions Visit McDonald’s]()
+- [Minions Visit McDonald’s](https://youtu.be/Yk0RNCWNQKY)
+
 ----
 
 > **NOTE:** *Find something that’s wrong or missing? Contact the Admin [here](./chapter_2.md)!*

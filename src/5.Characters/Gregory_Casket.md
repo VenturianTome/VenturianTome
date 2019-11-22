@@ -43,8 +43,8 @@
 - Gregory says that "first \[his] parents left \[him], then \[his] grandparents" \[4:22 - *Cardboard Friend*]
 
 ## | Mentioned Videos
-- [Cardboard Friend]()
-- [Prop Hunt: Ghost Hunt]()
+- [Cardboard Friend](https://youtu.be/gHrJoNfyna4)
+- [Prop Hunt 18: Ghost Hunt](https://youtu.be/2yVe4fe8lRw)
 
 ----
 

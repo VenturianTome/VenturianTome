@@ -36,7 +36,7 @@
 - Chakalata Soup is a paranormal entity \[17:28 - *Haunted By Delphox*]
 
 ## | Mentioned Videos
-- [Haunted By Delphox]()
+- [Haunted By Delphox](https://youtu.be/gVmjfDiJ184)
 
 ----
 

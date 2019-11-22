@@ -37,9 +37,9 @@
   - There weren't a lot of royal beheadings, mostly just throwing people down a well
 
 ## | Mentioned Videos
-- [Bonnie Visits Walmart]()
-- [Hell’s Resort]()
-- [OMG Cute Cats]()
+- [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g)
+- [Hell’s Resort](https://youtu.be/mqVWhWEK2AQ)
+- [OMG Cute Cats](https://youtu.be/Rf-fAoo64Lc)
 
 ----
 

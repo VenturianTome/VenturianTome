@@ -40,8 +40,8 @@
 -   
 
 ## | Mentioned Videos
-- [Creepypasta College]()
-- [Dating Slenderman]()
+- [Creepypasta College](https://youtu.be/TyTM5NU8jKY)
+- [Dating Slenderman](https://youtu.be/iKCA4r6euXM)
 
 ----
 

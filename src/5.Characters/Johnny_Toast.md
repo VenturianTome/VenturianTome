@@ -151,22 +151,22 @@
   - Ghost says it’s the most demonic thing he’s ever seen
 
 ## | Mentioned Videos
-- [Big Dragon]()
-- [Bonnie Visits Walmart]()
-- [FNAF & Zootopia 2]()
-- [Funny Balloon Boy]()
-- [Ghost Hunters]()
-- [Haunted By Delphox]()
-- [Haunted By Godzilla]()
-- [Haunted By Grandma]()
-- [Haunted By Sonic]()
-- [Hell’s Island Pt.1]()
-- [Hell’s Island Pt.2]()
-- [Hell’s Resort]()
-- [HUNT Pt.2]()
-- [HUNT Pt.2 Finale]()
-- [Paranormal Ghost Hunt]()
-- [Prop Hunt: Ghost Hunt]()
+- [Big Dragon Mod](https://youtu.be/nkWX5eoDSEk)
+- [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g)
+- [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og)
+- [Funny Balloon Boy](https://youtu.be/EnoiRkmE1y8)
+- [Ghost Hunters Horror Map](https://youtu.be/oA9jS2ArUk0)
+- [Haunted By Delphox](https://youtu.be/gVmjfDiJ184)
+- [Haunted By Godzilla](https://youtu.be/BehxBDbUJlI)
+- [Haunted By Grandma](https://youtu.be/yMRGseByyCU)
+- [Haunted By Sonic](https://youtu.be/VHp98-xtHlw)
+- [Hell’s Resort](https://youtu.be/mqVWhWEK2AQ)
+- [The Horror Continues](https://youtu.be/YSmqZ0T6Enk)
+- [HUNT Pt.2](https://youtu.be/Q_iwzgwlbwg)
+- [HUNT Pt.2 Finale](https://youtu.be/nNLNxjfItLU)
+- [I Am The Puppet](https://youtu.be/NuONWZ-LDQ0)
+- [Paranormal Ghost Hunt](https://youtu.be/VEq4ggHacoU)
+- [Prop Hunt 18: Ghost Hunt](https://youtu.be/2yVe4fe8lRw)
 
 ----
 

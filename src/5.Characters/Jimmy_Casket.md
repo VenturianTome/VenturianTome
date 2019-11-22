@@ -66,16 +66,16 @@
 - Casket can't tell the difference between Slender and Jeff \[14:00 - *Creepypasta College*]
 
 ## | Mentioned Videos
-- [Creepypasta College]()
-- [Haunted By Cardboard Friend]()
-- [Johnny Bot]()
-- [JG vs Zombies]()
-- [Kidanpped By BananaCorp]()
-- [Murder 1]()
-- [Murder 3: Jimmy Casket]()
-- [Murder 4: Majora's Mask]()
-- [Murder 11: Olaf]()
-- [Scary Underground]()
+- [Creepypasta College](https://youtu.be/TyTM5NU8jKY)
+- [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ)
+- [Johnny Bot](https://youtu.be/I_8FpxwKSNo)
+- [Johnny Ghost vs Zombies](https://youtu.be/ZZi4QOcKkno)
+- [Kidnapped By BananaCorp](https://youtu.be/wt_kHMmAnTQ)
+- [Murder 1](https://youtu.be/P4R_xbJrHWo)
+- [Murder 3: Jimmy Casket](https://youtu.be/ijGTXelXjx4)
+- [Murder 4: Majora's Mask](https://youtu.be/rJShOzX411o)
+- [Murder 11: Olaf](https://youtu.be/g2tvu5gFGhI)
+- [Scary Underground Horror Map](https://youtu.be/Hd_KT6KbnHI)
 
 ----
 

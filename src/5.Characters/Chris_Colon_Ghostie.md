@@ -41,11 +41,11 @@
 - Colon carries a Super Monster Zapper Gun on him \[14:03 - *Playable Animatronics 10*]
 
 ## | Mentioned Videos
-- [Baraslavian Prison]()
-- [Haunted By Grandma]()
-- [HIDE Horror Map]()
-- [Johnny Ghost Moving]()
-- [Playable Animatronics 10]()
+- [Baraslavian Prison](https://youtu.be/acQ_AEIHW-M)
+- [Haunted By Grandma](https://youtu.be/yMRGseByyCU)
+- [HIDE Horror Map](https://youtu.be/XV7ZJMx2_tQ)
+- [Johnny Ghost Moving](https://youtu.be/hf04_xQdqfQ)
+- [Playable Animatronics 10](https://youtu.be/2qdDjiasqEc)
 
 ----
 

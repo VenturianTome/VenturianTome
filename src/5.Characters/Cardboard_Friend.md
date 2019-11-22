@@ -54,12 +54,12 @@
 
 
 ## | Mentioned Videos
-- [5th Anniversary Livestream]()
-- [Cardboard Friend]()
-- [Haunted By Cardboard Friend]()
-- [Hell’s Island Pt.1]()
-- [Hell’s Island Pt.2]()
-- [Prop Hunt: Ghost Hunt]()
+- [5th Anniversary Live Stream](https://youtu.be/6AHnicY1Iq4)
+- [Cardboard Friend](https://youtu.be/gHrJoNfyna4)
+- [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ)
+- [The Horror Continues](https://youtu.be/YSmqZ0T6Enk)
+- [I Am The Puppet](https://youtu.be/NuONWZ-LDQ0)
+- [Prop Hunt 18: Ghost Hunt](https://youtu.be/2yVe4fe8lRw)
 
 ----
 

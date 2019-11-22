@@ -39,9 +39,9 @@
 -   
 
 ## | Mentioned Videos
-- [Funny Balloon Boy]()
-- [Playable Animatronics 2]()
-- [Scary Ghost Children]()
+- [Funny Balloon Boy](https://youtu.be/EnoiRkmE1y8)
+- [Playable Animatronics 2](https://youtu.be/_tv07JJ0HE8)
+- [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U)
 
 ----
 
