@@ -5,6 +5,7 @@
 - [Asylum Weaver \(Oblivion)]()
 
 ## **B**
+- [The Betrayer]()
 - [Billy Acachalla](./5.Characters/Billy_Acachalla.md)
 - [Billy Acachalla \(Other / Fake)]()
 - [Bonbon the Baby / Baby Doll]()

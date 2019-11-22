@@ -15,7 +15,7 @@
 ## | Equipment / Teams
 - PIE has a legit white van that used to say "Scotch" \[2:27 - *Haunted By Sonic*]
 - PIE members carry cameras during investigations \[8:35 - *Funny Horror Game*]
-- PIE has a "secret sauce" to transform people back into humans; it's a mixture of chocolate pudding, graham crackers, and gunpowder ingested with a match \[4:48 - *Hell's Island Pt.1*]
+- PIE has a "secret sauce" to transform people back into humans; it's a mixture of chocolate pudding, graham crackers, and gunpowder ingested with a match \[4:48 - *I Am The Puppet*]
 - A meteor once fell outside a city in New Mexico and PIE collected a small egg from inside; there was a beaver and a dinosaur in the egg and the dinosaur \(that sings like Justin Bieber) became PIE's secret weapon \[6:33 / 10:43 - *Johnny Ghost L4D*]
 - PIE has a Peanut Butter Trap \("for Bigfoot and Bigfoot only") \[17:01 - *Johnny Ghost L4D*]
 - They have a paranormal machine gun \[2:16 - *Playable Animatronics 17*]
@@ -32,7 +32,7 @@
   3. Ready any and all weapons. Make sure weapons are loaded, safety is off, and armor-piercing rounds are loaded
   4. Try to initiate contact or \(peaceful) communication with said pathogen
   5. Enter the infected area and prepare for combat
-- They follow the Shadow Proclamation \[1:51 - *Prop Hunt: Ghost Hunt*]
+- They follow the Shadow Proclamation \[1:51 - *Prop Hunt 18: Ghost Hunt*]
   - Under Section 31, ghostly bicycles must be shot with a shotgun
 
 ## | Locations

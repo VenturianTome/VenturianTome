@@ -22,13 +22,13 @@
    - He doesn’t react to getting shot due to high health \(“Shoot me! See what happens!”) \[18:00 - *Kidnapped By BananaCorp*]
 
 - [**Johnny Toast**](./5.Characters/Johnny_Toast.md)
-  - Toast is what quells Ghost’s episodes and keeps him grounded \[1:24 / 15:31 - *JG vs Zombies*]
+  - Toast is what quells Ghost’s episodes and keeps him grounded \[1:24 / 15:31 - *Johnny Ghost vs Zombies*]
 
 - [**The Housekeeper**](./5.Characters/Housekeeper.md)
-  - He believes that he was locked into the dimension with the Housekeeper as the Housekeeper’s punishment \[14:25 - *JG vs Zombies*]
+  - He believes that he was locked into the dimension with the Housekeeper as the Housekeeper’s punishment \[14:25 - *Johnny Ghost vs Zombies*]
 
 - [**Tommy Casket**]()
-  - He keeps his father’s golden watch on his person \[14:45 - *JG vs Zombies*]
+  - He keeps his father’s golden watch on his person \[14:45 - *Johnny Ghost vs Zombies*]
 
 - [**Maxwell Acachalla**](./5.Characters/Maxwell_Acachalla.md)  
   - Maxwell and Casket have teamed up \[15:23 - *Scary Underground*]

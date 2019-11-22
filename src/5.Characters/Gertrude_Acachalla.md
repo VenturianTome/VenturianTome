@@ -32,7 +32,7 @@
 
 
 ## | Other Trivia  
-- Gertrude is a famous swimmer \[7:51 - *Scary Underground*]
+- Gertrude is a famous swimmer \[7:51 - *Scary Underground Horror Map*]
 
 ## | Mentioned Videos
 - [Scary Underground Horror Map](https://youtu.be/Hd_KT6KbnHI)

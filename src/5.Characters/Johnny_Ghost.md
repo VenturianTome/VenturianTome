@@ -28,8 +28,8 @@
    - Jumper got hit by a car while playing catch \[6:37]
   - Ghost and Toast had a job at a library; Ghost knocked one ledge into another, making it "bounce" \(according to him) [22:29 - *HUNT Pt.2 Finale*]
   - There was a short time during the Puppet Arc where Ghost had a strange nightmare in which Toast was a girl named Jenny and they got married and got a pet cat named Poltergeist after Ghost's dead fish [7:00 - *Hell’s Island Pt.1*]
-  - Toast once turned a corner and smacked into him and his Barbie dolls fell and got dirty, but Toast bought him a G.I. Joe figure that scared his mother half to death [10:06 - *Hell's Island Pt.1*]
-  - Ghost and Toast were once trying to find an arrowhead at the bottom of a lake, so Ghost tied a bowling ball to his ankle to get to the bottom faster but he almost drowned [21:13 - *Hell's Island Pt.2*]
+  - Toast once turned a corner and smacked into him and his Barbie dolls fell and got dirty, but Toast bought him a G.I. Joe figure that scared his mother half to death [10:06 - *I Am The Puppet*]
+  - Ghost and Toast were once trying to find an arrowhead at the bottom of a lake, so Ghost tied a bowling ball to his ankle to get to the bottom faster but he almost drowned [21:13 - *The Horror Continues*]
    - Toast saved him with a fishing rod
      - The hook was stuck in Ghost's ear for a day
      - Ghost always kinda wanted his ear pierced
@@ -51,9 +51,9 @@
   - Both Ghost and Toast love boats [6:41 / 8:50 - *Medieval Mod*]
   - Ghost and Toast have gone "kayaking without water" with Johnny Toast [2:11 / 13:14 - *Minions Visit McDonald's*]
   - Toast bought him a camera for his birthday [1:22 - *Yoshi Nintendo Mod*]
-  - Ghost's greatest fear is that Toast will be replaced by Spooker again [2:07 - *JG vs Zombies*]
-  - Him and Toast usually go out for brunch together [4:18 - *JG vs Zombies*]
-  - Toast is what quells his episodes and keeps him grounded [1:24 / 15:31 - *JG vs Zombies*]
+  - Ghost's greatest fear is that Toast will be replaced by Spooker again [2:07 - *Johnny Ghost vs Zombies*]
+  - Him and Toast usually go out for brunch together [4:18 - *Johnny Ghost vs Zombies*]
+  - Toast is what quells his episodes and keeps him grounded [1:24 / 15:31 - *Johnny Ghost vs Zombies*]
   - He regards Toast as his “only friend” [13:47 - *Kidnapped By BananaCorp*]
 
 
@@ -65,7 +65,7 @@
 - ### Current Life  
   -   
 
- 
+
 ## | Links  
 - ### [Masterlist]()  
 - ### [Character Playlist]()  

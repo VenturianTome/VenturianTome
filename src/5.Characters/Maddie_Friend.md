@@ -32,7 +32,7 @@
 
 
 ## | Other Trivia  
-- Maddie Friend has been in an insane asylum \[11:19 - *Scary Underground*]
+- Maddie Friend has been in an insane asylum \[11:19 - *Scary Underground Horror Map*]
 
 ## | Mentioned Videos
 - [Scary Underground Horror Map](https://youtu.be/Hd_KT6KbnHI)

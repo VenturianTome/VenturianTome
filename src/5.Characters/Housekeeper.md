@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: \(Technical) [*Paranormal Ghost Hunt*]() / \(Actual) [*JG vs Zombies*]()
+- Introduction Video: \(Technical) [*Paranormal Ghost Hunt*]() / \(Actual) [*Johnny Ghost vs Zombies*]()
 - Branch / Occupation: Ghost / Entity  
 - Most Common Series: [Gmod](./6.Series/Gmod.md)  
 - Species: Ghost / Entity  
@@ -35,9 +35,9 @@
 ## | Other Trivia  
 - The Whisperer/Housekeeper is a Level 4 entity which has shown up 36 times since its first appearance in 1936; he's killed 13 people \[1:57 - *Paranormal Ghost Hunt*]
   - The Homekeeper is actually the ghost of Pharaoh the Great \[22:28 - *Paranormal GHost Hunt*]
-- Ancient folklore says that the Housekeeper would break into people’s houses to steal all of their gold to melt it down into skin and become invulnerable and take over the world and kill everybody; he was banished into a dimension by Draco \[5:57 / 9:30 - *JG vs Zombies*]
+- Ancient folklore says that the Housekeeper would break into people’s houses to steal all of their gold to melt it down into skin and become invulnerable and take over the world and kill everybody; he was banished into a dimension by Draco \[5:57 / 9:30 - *Johnny Ghost vs Zombies*]
   - He claims he wanted the golden skin to go to a cosplay convention
-- He can respawn due to being locked into his dimension \[11:40 - *JG vs Zombies*]
+- He can respawn due to being locked into his dimension \[11:40 - *Johnny Ghost vs Zombies*]
 
 ## | Mentioned Videos
 - [Johnny Ghost vs Zombies](https://youtu.be/ZZi4QOcKkno)

@@ -63,8 +63,8 @@
   - Ghost says that they haven't seen it in at least 6 years
 - The Puppet is 7 1/2 feet tall and shakes around quite a bit \[3:19 - *Hell's Island Pt.1*]
 - Minions are "alien terrorists from another dimension" \(according to William Barricade) \[5:38 - *Minions Visit McDonald's*]
-- The Mothman sounds like a bird \[7:52 - *Mothman Ghost Hunt*]
-- Maxwell and Cardboard Friend are friends \[10:31 - *Prop Hunt: Ghost Hunt*]
+- The Mothman sounds like a bird \[7:52 - *Ghost Hunt: The Mothman*]
+- Maxwell and Cardboard Friend are friends \[10:31 - *Prop Hunt 18: Ghost Hunt*]
 - There was a Mario and Luigi ghost haunting at the Acachalla household in 1987 \[17:15 - *Funny Balloon Boy*]
 - Mirrors/reflections make a Special Level 3 through Level 16 leave the premises \[6:33 - *Haunted By Cardboard Friend*]
 

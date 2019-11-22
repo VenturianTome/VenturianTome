@@ -28,9 +28,9 @@
   - In their childhood, Ghost and Toast had a dog who Ghost called "Jumper" and Toast called "Spot" \[5:16 - *HUNT Pt.2 Finale*]
   - Ghost and Toast had a job at a library \[22:29 - *HUNT Pt.2 Finale*]
   - Jumper got hit by a car while playing catch \[6:37]
-  - Toast says that it's his job to watch over Ghost as he can be stupid sometimes \[9:11 - *Hell's Island Pt.1*]
-  - Toast once turned a corner and smacked into him and his Barbie dolls fell and got dirty, but Toast bought him a G.I. Joe figure that scared his mother half to death \[10:06 - *Hell's Island Pt.1*]
-  - Ghost and Toast were once trying to find an arrowhead at the bottom of a lake, so Ghost tied a bowling ball to his ankle to get to the bottom faster but he almost drowned \[21:13 - *Hell's Island Pt.2*]
+  - Toast says that it's his job to watch over Ghost as he can be stupid sometimes \[9:11 - *I Am The Puppet*]
+  - Toast once turned a corner and smacked into him and his Barbie dolls fell and got dirty, but Toast bought him a G.I. Joe figure that scared his mother half to death \[10:06 - *I Am The Puppet*]
+  - Ghost and Toast were once trying to find an arrowhead at the bottom of a lake, so Ghost tied a bowling ball to his ankle to get to the bottom faster but he almost drowned \[21:13 - *The Horror Continues*]
    - Toast saved him with a fishing rod
   - Ghost and Toast faced a Level 6 in Brazil; their plan kind of worked and set off a volcano \[6:31 - *Paranormal Ghost Hunt*]
   - Ghost and Toast have ridden a 2-person bicycle \[6:33 - *Haunted By Delphox*]
@@ -53,8 +53,8 @@
   - He reads Ghost bedtime stories \[4:43 - *Playable Animatronics 17*]
   - According to Ghost, he taught Ghost everything he knows \[8:25 - *Scary Ghost Children*]
   - He bought Ghost a camera for his birthday \[1:22 - *Yoshi Nintendo Mod*]
-  - Him and Ghost usually go out for brunch together \[4:18 - *JG vs Zombies*]
-  - He is what quells Ghost’s episodes and keeps him grounded \[1:24 / 15:31 - *JG vs Zombies*]
+  - Him and Ghost usually go out for brunch together \[4:18 - *Johnny Ghost vs Zombies*]
+  - He is what quells Ghost’s episodes and keeps him grounded \[1:24 / 15:31 - *Johnny Ghost vs Zombies*]
 
 - [**Officer Maloney**](./5.Characters/Officer_Maloney.md)
   - Maloney has flirted with Toast \(who was pretending to be "Debra Toast") \[13:12 - *Bonnie Visits Walmart*]
@@ -74,8 +74,8 @@
   - New Playermodel
    - Toast's old playermodel was scrapped and replaced with a new one in *Haunted By Sonic*  
   - Puppet Arc
-   - He was following Ghost and found him when he fell out of the sky into Germany \[1:56 / 2:04 - *Hell's Island Pt.1*]
-- \(Puppet Arc) Toast didn't do much while Ghost was in the cosmos \[3:11 - *Hell's Island Pt.2*]
+   - He was following Ghost and found him when he fell out of the sky into Germany \[1:56 / 2:04 - *I Am The Puppet*]
+- \(Puppet Arc) Toast didn't do much while Ghost was in the cosmos \[3:11 - *The Horror Continues*]
 - ### Current Life  
   -   
 
@@ -104,9 +104,9 @@
 - Toast's dad died before he was 5 \[10:29 - *HUNT Pt.2 Finale*]
 - Toast can't jump unless he's intoxicated \[19:23 - *HUNT Pt.2 Finale*]
 - Toast had a pink hamster; Ghost claims that it wasn't even a hamster \[23:40 - *HUNT Pt.2 Finale*]
-- Toast has a sister named Jenny, and she was a cop \[3:41 - *Hell's Island Pt.1*]
-- Toast's favourite book is "How To Make Macaroni & Cheese" \[11:47 - *Hell's Island Pt.2*]
-- Toast had a cat named Marshmallow, but it died \[13:51 - *Hell's Island Pt.2*]
+- Toast has a sister named Jenny, and she was a cop \[3:41 - *I Am The Puppet*]
+- Toast's favourite book is "How To Make Macaroni & Cheese" \[11:47 - *The Horror Continues*]
+- Toast had a cat named Marshmallow, but it died \[13:51 - *The Horror Continues*]
 - Toast wrote a paper in college about the use of music in paranormal investigations \[6:59 - *Hell's Resort*]
 - Toast does the technical stuff, uses the equipment, and drives the van \[9:46 - *Hell's Resort*]
 - Toast quit smoking \[10:13 - *Hell's Resort*]
