@@ -27,7 +27,7 @@
   - In their childhood, Ghost and Toast had a dog who Ghost called "Jumper" and Toast called "Spot" [5:16 - *HUNT Pt.2 Finale*]
    - Jumper got hit by a car while playing catch \[6:37]
   - Ghost and Toast had a job at a library; Ghost knocked one ledge into another, making it "bounce" \(according to him) [22:29 - *HUNT Pt.2 Finale*]
-  - There was a short time during the Puppet Arc where Ghost had a strange nightmare in which Toast was a girl named Jenny and they got married and got a pet cat named Poltergeist after Ghost's dead fish [7:00 - *Hell’s Island Pt.1*]
+  - There was a short time during the Puppet Arc where Ghost had a strange nightmare in which Toast was a girl named Jenny and they got married and got a pet cat named Poltergeist after Ghost's dead fish [7:00 - *I Am The Puppet*]
   - Toast once turned a corner and smacked into him and his Barbie dolls fell and got dirty, but Toast bought him a G.I. Joe figure that scared his mother half to death [10:06 - *I Am The Puppet*]
   - Ghost and Toast were once trying to find an arrowhead at the bottom of a lake, so Ghost tied a bowling ball to his ankle to get to the bottom faster but he almost drowned [21:13 - *The Horror Continues*]
    - Toast saved him with a fishing rod
