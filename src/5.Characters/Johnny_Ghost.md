@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: /(Technically) [](); /(Formally) []()  
+- Introduction Video: \(Technically) [](); \(Formally) []()  
 - Branch / Occupation: P.I.E. Team  
 - Most Common Series: [Gmod](./6.Series/Gmod.md)  
 - Species: Human  
@@ -16,13 +16,13 @@
 - [**Jimmy Casket**](./5.Characters/Jimmy_Casket.md)
   - 
 
-- [**Johnny Toast**](./5.Characters/Johnny_Toast.md)  
+- [**Johnny Toast**](./5.Characters/Johnny_Toast.html)  
   - Johnny Toast is commonly known as Ghost’s best friend  
   - He and Toast have a scheduled kite-flying day [0:23 - *Haunted By Godzilla*]  
   - Ghost and Toast have above normal intelligence [1:33 - *HUNT Pt.2*]
    - Ghost and Toast have college educations [23:15 - *Paranormal Ghost Hunt*]
   - Toast had an incident with Ghost's XBox 360, which Ghost says was Toast's fault because he's a "viva piñata maniac" [4:27 - *HUNT Pt.2*]
-  - Ghost and Toast once went on a camping trip; Toast's dad drove off while the tent \(and Ghost with it) was still attached to his truck [16:08 - *HUNT Pt.2*]
+  - Ghost and Toast once went on a camping trip; Toast's dad drove off for a mile and a half while the tent \(and Ghost with it) was still attached to his truck [16:08 - *HUNT Pt.2*]
   - As kids, Ghost and Toast snuck into the movie theater and watched Predator; Ghost couldn't sleep for a week afterward [2:18 - *HUNT Pt.2 Finale*]
   - In their childhood, Ghost and Toast had a dog who Ghost called "Jumper" and Toast called "Spot" [5:16 - *HUNT Pt.2 Finale*]
    - Jumper got hit by a car while playing catch \[6:37]
@@ -99,4 +99,4 @@
 
 ----
 
-> **NOTE:** *Find something that’s wrong or missing? Contact the Admin [here](./chapter_2.md)!*
+> **NOTE:** *Find something that’s wrong or missing? Contact the Admin [here](./chapter_2.html)!*

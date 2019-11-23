@@ -12,7 +12,7 @@
 
 
 ## | Relationships  
-- [**Johnny Ghost**]()  
+- [**Johnny Ghost**](Johnny_Ghost.md)  
   -  
 
 

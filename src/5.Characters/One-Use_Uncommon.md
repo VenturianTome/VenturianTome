@@ -97,7 +97,7 @@
 ----
 
 ## Better Texture Monson
-#### Origin: [*Chica Visits Pizza Hut*]
+#### Origin: *Chica Visits Pizza Hut*
 - Acted as Tommy’s sidekick on his TV show \[11:18 - *Chica Visits Pizza Hut*]
   - Tommy believed he was an undercover spy \(because he was reading his lines for the show) and killed him \[11:54]
 

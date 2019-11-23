@@ -14,7 +14,7 @@
 ## | Relationships  
 - [**Johnny Toast**](./5.Characters/Johnny_Toast.md)  
   - Toast doesn't shop; all his clothes are handmade \(by his Grandmother) \[3:35 - *OMG Cute Cats*]
-- Toast's car was once owned by the Queen of England; he has dented both sides of it \[1:16 - *Bonnie Visits Walmart*]
+  - Toast's car was once owned by the Queen of England; he has dented both sides of it \[1:16 - *Bonnie Visits Walmart*]
 
 
 ## | Biography  
@@ -34,7 +34,7 @@
 
 ## | Other Trivia  
 - The Queen of England did tractor races in the palace \[4:39 - *Hell's Resort*]
-  - There weren't a lot of royal beheadings, mostly just throwing people down a well
+- There weren't a lot of royal beheadings in the palace, mostly just throwing people down a well \[4:39 - *Hell's Resort*]
 
 ## | Mentioned Videos
 - [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g)
