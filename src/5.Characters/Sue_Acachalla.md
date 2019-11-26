@@ -3,7 +3,8 @@
 
 ## | Basics  
 - Introduction Video: **  
-- Branch / Occupation: Kid / Law Enforcement  
+- Branch / Occupation: Acachalla / Law Enforcement  
+- Weapon of Choice: Handgun  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
 - Other Names / Titles:   

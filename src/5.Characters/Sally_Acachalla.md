@@ -4,6 +4,7 @@
 ## | Basics  
 - Introduction Video: **  
 - Branch / Occupation: Acachalla  
+- Weapon of Choice: Self / Handgun / Waffle Gun  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human / Waffle Demon  
 - Other Names / Titles:   

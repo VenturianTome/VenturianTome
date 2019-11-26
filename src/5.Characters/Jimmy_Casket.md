@@ -4,6 +4,7 @@
 ## | Basics  
 - Introduction Video: \(Created) *Murder 1*; \(Named) *Murder 3: Jimmy Casket*  
 - Branch / Occupation: Murderer / Entity  
+- Weapon of Choice: Knife \(specifically Knifey)  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Paranormal Entity  
 - Other Names / Titles:   

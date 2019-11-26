@@ -4,6 +4,7 @@
 ## | Basics  
 - Introduction Video: **  
 - Branch / Occupation: Ghost / Entity  
+- Weapon of Choice: Soup  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Ghost  
 - Other Names / Titles:   

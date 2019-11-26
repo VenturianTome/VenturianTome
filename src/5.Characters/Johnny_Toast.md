@@ -4,6 +4,7 @@
 ## | Basics  
 - Introduction Video: *Prop Hunt 18: Ghost Hunt* 
 - Branch / Occupation: Paranormal Investigator Extraordinaire  
+- Weapon of Choice: Handgun  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human, Werewolf, Vampire  
 - Other Names / Titles:   

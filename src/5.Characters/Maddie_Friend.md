@@ -3,7 +3,8 @@
 
 ## | Basics  
 - Introduction Video: **  
-- Branch / Occupation:   
+- Branch / Occupation: Stalker  
+- Weapon of Choice: none  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
 - Other Names / Titles:   

@@ -4,6 +4,7 @@
 ## | Basics  
 - Introduction Video: **  
 - Branch / Occupation: Robber / Entity  
+- Weapon of Choice: Handgun  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Ghost  
 - Other Names / Titles:   

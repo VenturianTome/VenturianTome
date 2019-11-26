@@ -4,6 +4,7 @@
 ## | Basics  
 - Introduction Video: *Cardboard Friend*  
 - Branch / Occupation: Child  
+- Weapon of Choice: none  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human / Ghost  
 - Other Names / Titles:   

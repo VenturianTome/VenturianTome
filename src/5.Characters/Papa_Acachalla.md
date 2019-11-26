@@ -4,6 +4,7 @@
 ## | Basics  
 - Introduction Video: *Motorcycle Mod*  
 - Branch / Occupation: Acachalla Family / Foster Father  
+- Weapon of Choice: Handgun / Annabelle \(shotgun)  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
 - Other Names / Titles:   

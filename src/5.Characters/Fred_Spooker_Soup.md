@@ -4,6 +4,7 @@
 ## | Basics  
 - Introduction Video: *Scary Ghost Children*  
 - Branch / Occupation: P.I.E. Team Member 
+- Weapon of Choice: Handgun  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human, Puppymonkeybaby  
 - Other Names / Titles:   

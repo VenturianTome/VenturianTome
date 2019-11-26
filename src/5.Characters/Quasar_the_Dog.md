@@ -4,6 +4,7 @@
 ## | Basics  
 - Introduction Video: **  
 - Branch / Occupation: Tale Character / Pet  
+- Weapon of Choice: none  
 - Most Common Series: [A Fallout Tale](6.Series/Tale_Series.html)  
 - Species: Dog  
 - Other Names / Titles:   

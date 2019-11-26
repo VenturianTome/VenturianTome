@@ -4,6 +4,7 @@
 ## | Basics  
 - Introduction Video: *Murder 3: Jimmy Casket*  
 - Branch / Occupation: Law Enforcement / Sheriff
+- Weapon of Choice: Handgun \(Revolver)  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
 - Other Names / Titles:   

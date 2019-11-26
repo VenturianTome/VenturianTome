@@ -4,6 +4,7 @@
 ## | Basics  
 - Introduction Video: \(Technically) **; \(Formally) *Prop Hunt 18: Ghost Hunt*  
 - Branch / Occupation: P.I.E. Team  
+- Weapon of Choice: Handgun  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
 - Other Names / Titles:   

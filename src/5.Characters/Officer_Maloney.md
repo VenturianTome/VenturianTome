@@ -4,6 +4,7 @@
 ## | Basics  
 - Introduction Video: **  
 - Branch / Occupation: Law Enforcement / Police Force  
+- Weapon of Choice: Bubble GUn \(Banned)  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Bird-Alien  
 - Other Names / Titles:   

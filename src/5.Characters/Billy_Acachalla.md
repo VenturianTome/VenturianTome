@@ -4,6 +4,7 @@
 ## | Basics  
 - Introduction Video: *Motorcycle Mod*  
 - Branch / Occupation: Acachalla, Medic  
+- Weapon of Choice: Handgun  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
 - Other Names / Titles:   
