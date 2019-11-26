@@ -7,7 +7,6 @@
 ## **B**
 - [The Betrayer]()
 - [Billy Acachalla](5.Characters/Billy_Acachalla.html)
-- [Billy Acachalla \(Other / Fake)]()
 - [Bonbon the Baby / Baby Doll]()
 
 ## **C**
@@ -53,7 +52,6 @@
 - [Jimmy Casket](5.Characters/Jimmy_Casket.html)
 - [Johnny Ghost](5.Characters/Johnny_Ghost.html)
 - [Johnny Toast](5.Characters/Johnny_Toast.html)
-- [Johnny Toasts \(Other / Fake)]()
 - [Josh]()
 - [Jose Jose Jose Jose]()
 

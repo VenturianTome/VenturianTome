@@ -15,16 +15,16 @@
 ## | Relationships  
 - [**The Betrayer**](5.Characters/One-Use_Uncommon.html)
   - There is speculation that The Betrayer is a future version of Cardboard Friend due to some of the suspicious things that they say in both *Hell’s Island Pt.1* and *Hell’s Island Pt.2*
-  - The Betrayer says that they and Ghost were friends, but Ghost denies it \[12:25 - *The Horror Continues*]
+   - The Betrayer says that they and Ghost were friends, but Ghost denies it \[12:25 - *The Horror Continues*]
    - The Betrayer claims Ghost "found another friend," to which Ghost says that Toast has always been his friend; The Betrayer says that that wasn't always true and that Ghost was so lonely as a child \[22:54 - *The Horror Continues*]
 
 - [**Gregory Casket**](5.Characters/Gregory_Casket.html)  
   - The first time we saw Cardboard Friend was when he was haunting the house of young Gregory, playing as his friend and eventually scaring him
-  - Gregory is the child who created Cardboard Friend because no one else would play with him \[1:28 - *Cardboard Friend*]
+    - Gregory is the child who created Cardboard Friend because no one else would play with him \[1:28 - *Cardboard Friend*]
   - Cardboard Friend has tried to convince Gregory that he already died \[5:59 - *Cardboard Friend*]
-  - Cardboard Friend says that if Gregory doesn't want it around that he can just break him \[8:11 - *Cardboard Friend*]
+  - Cardboard Friend says that if Gregory doesn't want Cardboard Friend around that Gregory can just break it \[8:11 - *Cardboard Friend*]
   - Gregory has called Cardboard Friend "Gregory" instead of himself and then quickly backtracked \[8:40 - *Cardboard Friend*]
-  - Gregory decided to set Cardboard Friend free to its planet and people, accidentally calling it "Gregory" \[13:12 - *Cardboard Friend*]
+  - Gregory decided to set Cardboard Friend free to its 'planet and people', accidentally calling it "Gregory" \[13:12 - *Cardboard Friend*]
 
 - [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)  
   - Cardboard Friend haunts Ghost in *Haunted By CF*
@@ -37,7 +37,7 @@
 - ### Big Events  
   - Haunted By Cardboard Friend
 - ### Current Life  
-  - Cardboard Friend’s whereabouts are currently unknown, but Jordan has expressed that there is more to know about the backstory of Cardboard Friend and the characters he connects to in the \[ - *5th Anniversary Live Stream*]
+  - Cardboard Friend’s whereabouts are currently unknown, but Jordan has expressed that there is more to know about the backstory of Cardboard Friend and the characters it connects to \[ - *5th Anniversary Live Stream*]
 
  
 ## | Links  
