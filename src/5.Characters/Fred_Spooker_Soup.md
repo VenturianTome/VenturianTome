@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: [Scary Ghost Children]()  
+- Introduction Video: *Scary Ghost Children*  
 - Branch / Occupation: P.I.E. Team Member 
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human, Puppymonkeybaby  

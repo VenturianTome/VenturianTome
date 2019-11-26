@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: \(Created) [*Murder 1*](); \(Named) [*Murder 3: Jimmy Casket*]()  
+- Introduction Video: \(Created) *Murder 1*; \(Named) *Murder 3: Jimmy Casket*  
 - Branch / Occupation: Murderer / Entity  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Paranormal Entity  

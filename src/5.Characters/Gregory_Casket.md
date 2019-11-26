@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: [Cardboard Friend]()  
+- Introduction Video: *Cardboard Friend*  
 - Branch / Occupation: Child  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human / Ghost  

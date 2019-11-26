@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: []()  
+- Introduction Video: **  
 - Branch / Occupation: Kid / Law Enforcement  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  

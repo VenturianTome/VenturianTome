@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: \(Technical) [*Paranormal Ghost Hunt*]() / \(Actual) [*Johnny Ghost vs Zombies*]()
+- Introduction Video: \(Technical) *Paranormal Ghost Hunt* / \(Actual) *Johnny Ghost vs Zombies*
 - Branch / Occupation: Ghost / Entity  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Ghost / Entity  

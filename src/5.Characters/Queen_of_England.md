@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: [President Visits McDonald’s](https://youtu.be/SuFQcxceQJI)  
+- Introduction Video: *President Visits McDonald’s*  
 - Branch / Occupation: Parent / Royalty
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
@@ -40,6 +40,7 @@
 - [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g)
 - [Hell’s Resort](https://youtu.be/mqVWhWEK2AQ)
 - [OMG Cute Cats](https://youtu.be/Rf-fAoo64Lc)
+- [President Visits McDonald’s](https://youtu.be/SuFQcxceQJI)
 
 ----
 

@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: [*Motorcycle Mod*](https://youtu.be/gNREBUzmn98)  
+- Introduction Video: *Motorcycle Mod*  
 - Branch / Occupation: Acachalla, Medic  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  

@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: [*Murder 3: Jimmy Casket*]()  
+- Introduction Video: *Murder 3: Jimmy Casket*  
 - Branch / Occupation: Law Enforcement / Sheriff
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  

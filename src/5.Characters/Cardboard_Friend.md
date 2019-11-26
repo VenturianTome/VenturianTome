@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: [Cardboard Friend](https://youtu.be/gHrJoNfyna4)  
+- Introduction Video: *Cardboard Friend*  
 - Branch / Occupation: Ghost / Creature  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Entity  

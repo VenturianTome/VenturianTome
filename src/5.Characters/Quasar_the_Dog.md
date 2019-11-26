@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: []()  
+- Introduction Video: **  
 - Branch / Occupation: Tale Character / Pet  
 - Most Common Series: [A Fallout Tale](6.Series/Tale_Series.html)  
 - Species: Dog  
