@@ -22,3 +22,15 @@ Feel free to peruse this dictionary of characters and pages. All of this informa
 > **NOTE:** This site is always updating when a new video comes out and while trying to catch up on older videos's info, so it is currently incomplete. Feel free to help an admin out by contacting them with more information and please be patient until it is completed. Thank you!
 
 > **NOTE:** If you want to know how to help the admin create and improve the site, go to the [Meet The Admin](chapter_2.html) page to find out where you can contact me!
+
+----
+
+## Thank You To...
+- The Siblings
+  - For making a world of characters that the fans adore and explore
+- The VenturianTale fan community on Tumblr
+  - For welcoming me into this section of the community with open arms and crazed theories
+- @lesliefromskies on Tumblr
+  - For making a helpful sheet of information that they let the Admin use
+- You!
+  - For taking an interest in this site and having fun being in this community
