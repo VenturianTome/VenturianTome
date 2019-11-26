@@ -67,6 +67,7 @@
 - Maxwell and Cardboard Friend are friends \[10:31 - *Prop Hunt 18: Ghost Hunt*]
 - There was a Mario and Luigi ghost haunting at the Acachalla household in 1987 \[17:15 - *Funny Balloon Boy*]
 - Mirrors/reflections make a Special Level 3 through Level 16 leave the premises \[6:33 - *Haunted By Cardboard Friend*]
+- Ghost and Toast faced a Level 6 in Brazil; their plan kind of worked and set off a volcano \[6:31 - *Paranormal Ghost Hunt*]
 
 
 ## | Mentioned Videos

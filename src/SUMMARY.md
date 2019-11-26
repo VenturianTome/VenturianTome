@@ -37,7 +37,7 @@
     - [Quasar the Dog](./5.Characters/Quasar_the_Dog.md)
     - [Queen of England](./5.Characters/Queen_of_England.md)
     - [Sally Acachalla](./5.Characters/Sally_Acachalla.md)
-    - [Sue Acachalla](./5.Characters/Sue_Acachalla-Suckish_Officer.md)
+    - [Sue Acachalla](./5.Characters/Sue_Acachalla.md)
     - [Toilet Toucher](./5.Characters/Toilet_Toucher.md)
     - [William Barricade](./5.Characters/William_Barricade.md)
 - [Series](./chapter_6.md)

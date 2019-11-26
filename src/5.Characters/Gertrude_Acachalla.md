@@ -3,12 +3,12 @@
 
 ## | Basics  
 - Introduction Video: []()  
-- Branch / Occupation: Acachalla, Mother  
-- Most Common Series: [Gmod](./6.Series/Gmod.md)  
+- Branch / Occupation: Acachalla, Foster Mother  
+- Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
 - Other Names / Titles:   
   - Mama Gertrude  
-- Played By: [Bethany Frye / FlyingPings](./3.Siblings/3.3.Bethany-Frye-FlyingPings.md)  
+- Played By: [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)  
 
 
 ## | Relationships  

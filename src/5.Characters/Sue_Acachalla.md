@@ -4,19 +4,20 @@
 ## | Basics  
 - Introduction Video: []()  
 - Branch / Occupation: Kid / Law Enforcement  
-- Most Common Series: [Gmod](./6.Series/Gmod.md)  
+- Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
 - Other Names / Titles:   
   - Sue  
-- Played By: [Isaac Frye / HomelessGoomba](./3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)  
+- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)  
 
 
 ## | Relationships  
-- [**Papa Acachalla**]()  
+- [**Gertrude Acachalla**](5.Characters/Gertrude_Acachalla.html)
+  - 
+
+- [**Papa Acachalla**](5.Characters/Papa_Acachalla.html)  
   -  
 
-- [**Gertrude Acachalla**]()
-  - 
 
 ## | Biography  
 - ### Early Life  

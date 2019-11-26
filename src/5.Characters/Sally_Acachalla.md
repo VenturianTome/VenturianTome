@@ -4,15 +4,15 @@
 ## | Basics  
 - Introduction Video: []()  
 - Branch / Occupation: Acachalla  
-- Most Common Series: [Gmod](./6.Series/Gmod.md)  
+- Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human / Waffle Demon  
 - Other Names / Titles:   
   - none  
-- Played By: [Cierra Frye / ImmortalKyodai](./3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)  
+- Played By: [Cierra Frye / ImmortalKyodai](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)  
 
 
 ## | Relationships  
-- [**Slenderman**](./5.Characters/Creepypastas.md)  
+- [**Slenderman**](5.Characters/Creepypastas.html)  
   - She is Slender's girlfriend \[17:51 - *Creepypasta College*]
 
 

@@ -29,7 +29,7 @@
 
 ----
 
-## Aqua the Puppy \(Skyrim)
+## Aqua the Puppy
 #### Origin: **
 - 
 
@@ -86,9 +86,10 @@
 - They use a test to make sure if someone is “infected” or not, which is to know something about your childhood \[10:06 - *I Am The Puppet*]
 - Ghost uses many insults against them due to their charred appearance \[1:07 / 4:56 - *The Horror Continues*]
 - They have claimed Chakalata Soup as their father \[7:03 - *The Horror Continues*]
-- They have called Ghost “Gregory,” believing that that’s his name \[8:30 / 9:36 / 11:34 / 12:25 / 13:16 / 16:49 - *The Horror Continues*]
-- No one from the town knew what year it was, not even them \[18:19 - *The Horror Continues*]
-- They have said that Ghost “found another friend;” Ghost denies it and says that Toast has always been his friend; they say that that wasn’t always true - Ghost was so lonely as a child \[22:54 - *The Horror Continues*]
+- No one from their town knew what year it was, not even them \[18:19 - *The Horror Continues*]
+- There is speculation that The Betrayer is a future version of Cardboard Friend due to some of the suspicious things that they say
+  - They have called Ghost “Gregory,” believing that that’s his name \[8:30 / 9:36 / 11:34 / 12:25 / 13:16 / 16:49 - *The Horror Continues*]
+  - They have said that Ghost “found another friend;” Ghost denies it and says that Toast has always been his friend; they say that that wasn’t always true - Ghost was so lonely as a child \[22:54 - *The Horror Continues*]
 
 ### Mentioned Videos
 - [I Am The Puppet](https://youtu.be/NuONWZ-LDQ0)

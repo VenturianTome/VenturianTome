@@ -4,28 +4,28 @@
 ## | Basics  
 - Introduction Video: [Scary Ghost Children]()  
 - Branch / Occupation: P.I.E. Team Member 
-- Most Common Series: [Gmod](./6.Series/Gmod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human, Puppymonkeybaby  
 - Other Names / Titles:   
   - Spooker
   - Spooks  
-- Played By: [Bethany Frye / FyingPings](./3.Siblings/3.3.Bethany-Frye-FlyingPings.md)  
+- Played By: [Bethany Frye / FyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)  
 
 
 ## | Relationships 
-- [**Chakalata Soup**](./5.Characters/Chakalata_Soup.md)
+- [**Chakalata Soup**](5.Characters/Chakalata_Soup.html)
   - Chakalata Soup is Spooker's dad [17:08 - *Funny Horror Game*]
 
-- [**Jimmy Casket**](./5.Characters/Jimmy_Casket.md)
+- [**Jimmy Casket**](5.Characters/Jimmy_Casket.html)
   - Spooker thinks that maybe Ghost and Casket are relatives [16:01 / 17:01 - *Funny Horror Game*]
 
-- [**Johnny Ghost**](./5.Characters/Johnny_Ghost.md)  
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)  
   - Spooker took Toast’s place as Ghost’s partner while Toast was in jail for burning down the McDonald’s [*Scary Ghost Children*]
   - He ate some of Ghost’s hair when he met him [15:09 - *Scary Ghost Children*]
   - Spooker may have spied on Ghost and Toast via TV [9:07 - *FNAF & Zootopia 2*]
   - Spooker thinks that maybe Ghost and Casket are relatives [16:01 / 17:01 - *Funny Horror Game*]
 
-- [**Johnny Toast**](./5.Characters/Johnny_Toast.md)
+- [**Johnny Toast**](5.Characters/Johnny_Toast.html)
   - He took Toast’s place as Ghost’s partner while Toast was in jail for burning down the McDonald’s [*Scary Ghost Children*]
 
 

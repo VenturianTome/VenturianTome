@@ -2,68 +2,39 @@
 
 
 ## | Basics  
-- Introduction Video: [*Prop Hunt: Ghost Hunt*]()  
+- Introduction Video: [*Prop Hunt 18: Ghost Hunt*]()  
 - Branch / Occupation: Paranormal Investigator Extraordinaire  
-- Most Common Series: [Gmod](./6.Series/Gmod.md)  
+- Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human, Werewolf, Vampire  
 - Other Names / Titles:   
   - Johnny Bartholomew Toast
   - Johnathan Maxwell Toast  
-- Played By: [Cierra Frye / ImmortalKyodai](./3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)  
+- Played By: [Cierra Frye / ImmortalKyodai](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)  
 
 
 ## | Relationships  
-- [**Aimee**](./5.Characters/Aimee.md)
+- [**Aimee**](5.Characters/Aimee.html)
   - Toast has had nightmares of Aimee for weeks \[10:34 - *Johnny Ghost L4D*]
 
-- [**Johnny Ghost**](./5.Characters/Johnny_Ghost.md)  
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)  
   - Ghost is Toast’s closest friend with which he goes on many paranormal adventures
-  - He and Ghost have a scheduled kite-flying day \[0:23 - *Haunted By Godzilla*]
   -  Toast doesn't know Ghost's birthday \[3:59 - *Ghost Hunters*]
-  - Ghost and Toast have above normal intelligence, but Toast went to Harvard \[1:33 - *HUNT Pt.2*]
-   - Ghost and Toast have college educations \[23:15 - *Paranormal Ghost Hunt*]
-  - Toast had an incident with Ghost's XBox 360, which Ghost says was Toast's fault because he's a "viva piñata maniac" \[4:27 - *HUNT Pt.2*]
-  - Ghost and Toast once went on a camping trip; Toast's dad drove off while the tent (and Ghost with it) were still attached to his truck \[16:08 - *HUNT Pt.2*]
-  - As kids, Ghost and Toast snuck into the movie theater and watched Predator \[2:18 - *HUNT Pt.2 Finale*]
-  - In their childhood, Ghost and Toast had a dog who Ghost called "Jumper" and Toast called "Spot" \[5:16 - *HUNT Pt.2 Finale*]
-  - Ghost and Toast had a job at a library \[22:29 - *HUNT Pt.2 Finale*]
-  - Jumper got hit by a car while playing catch \[6:37]
   - Toast says that it's his job to watch over Ghost as he can be stupid sometimes \[9:11 - *I Am The Puppet*]
-  - Toast once turned a corner and smacked into him and his Barbie dolls fell and got dirty, but Toast bought him a G.I. Joe figure that scared his mother half to death \[10:06 - *I Am The Puppet*]
-  - Ghost and Toast were once trying to find an arrowhead at the bottom of a lake, so Ghost tied a bowling ball to his ankle to get to the bottom faster but he almost drowned \[21:13 - *The Horror Continues*]
-   - Toast saved him with a fishing rod
-  - Ghost and Toast faced a Level 6 in Brazil; their plan kind of worked and set off a volcano \[6:31 - *Paranormal Ghost Hunt*]
-  - Ghost and Toast have ridden a 2-person bicycle \[6:33 - *Haunted By Delphox*]
   - Ghost was 6 when Toast was 8, so they have \(or had, with timelines) a 2-year age difference \[7:03 - *Haunted By Delphox*]
-  - Ghost and Toast had a pet rock in 1996 named Brett \[12:00 - *FNAF & Zootopia 2*]
-  - Ghost once told Toast that his father was a spaceman, but he was actually a police officer \[13:34 - *FNAF & Zootopia 2*]
-  - Toast has seen Ghost clip through the wall before due to a nuclear reactor having an effect on Ghost's left leg as a karate test; Ghost denies it \[*14:21 - Funny Balloon Boy*]
   - Ghost and Toast played together since they were kids; they built a wagon out of old cereal boxes \[3:54 - *Big Dragon*]
-  - Toast dragged Ghost out at 9:50 PM; Toast invited Ghost over to his apartment because he got new copies of Warcraft 2 but realized that they didn't have the right cords for their land match \[1:59 - *Bonnie Visits Walmart*]
-  - Toast normally tells Ghost a bedtime story about "the 16 elephants but one of them was a tiger;" there's no death in the original story; the original story is beautiful \[9:29 - *Gravity Falls Dipper*]
-  - Ghost's phone has a British accented ring when calling Toast \[9:26 / 13:51 - *Haunted By Cardboard Friend*]
-  - Ghost and Toast had plans for a vacation in Hawaii \[19:20 - *Johnny Ghost L4D*]
-  - Ghost and Toast have been ski-boarding and were going up a gigantic wave in Switzerland/the Bermuda Triangle \(maybe); they got caught in a storm and a UFO caught them after Toast did a 360 while singing the National Anthem of Great Britain and ended up in the Caribbean \[1:36 - *Medieval Mod*]
-  - Ghost and Toast travelled through time once while fishing in Jurassic Era; dinosaurs were trying to eat them off the boat/raft/front boards of the T.A.R.D.I.S. that they blew up \[3:08 - *Medieval Mod*]
-  - Ghost and Toast have meet Miraak \[5:08 - *Medieval Mod*]
-  - Both Ghost and Toast love boats \[6:41 / 8:50 - *Medieval Mod*]
-  - Toast will do nearly anything for Ghost \[9:22 - *Medieval Mod*]
-  - Ghost and Toast have gone "kayaking without water" with Johnny Toast \[2:11 / 13:14 - *Minions Visit McDonald's*]
-  - He has spied on Ghost's dreams \[9:57 - *OMG Cute Cats*]
   - He reads Ghost bedtime stories \[4:43 - *Playable Animatronics 17*]
+    - Toast normally tells Ghost a bedtime story about "the 16 elephants but one of them was a tiger;" there's no death in the original story; the original story is beautiful \[9:29 - *Gravity Falls Dipper*]
+  - Ghost's phone has a British accented ring when calling Toast \[9:26 / 13:51 - *Haunted By Cardboard Friend*]
+  - Toast will do nearly anything for Ghost \[9:22 - *Medieval Mod*]
   - According to Ghost, he taught Ghost everything he knows \[8:25 - *Scary Ghost Children*]
-  - He bought Ghost a camera for his birthday \[1:22 - *Yoshi Nintendo Mod*]
   - Him and Ghost usually go out for brunch together \[4:18 - *Johnny Ghost vs Zombies*]
   - He is what quells Ghost’s episodes and keeps him grounded \[1:24 / 15:31 - *Johnny Ghost vs Zombies*]
 
-- [**Officer Maloney**](./5.Characters/Officer_Maloney.md)
-  - Maloney has flirted with Toast \(who was pretending to be "Debra Toast") \[13:12 - *Bonnie Visits Walmart*]
-
-- [**The Queen of England**](./5.Characters/Queen_of_England.md)
+- [**The Queen of England**](5.Characters/Queen_of_England.html)
   - He is the Queen of England’s grandson \[13:28 - *President Visits McDonald’s*]
   - Toast's car was once owned by the Queen of England; he has dented both sides of it \[1:16 - *Bonnie Visits Walmart*]
 
-- [**The Rake**](./5.Characters/Creepypastas.md)
+- [**The Rake**](5.Characters/Creepypastas.html)
   - He went to Rake's wedding \[0:46 - *Haunted By Cardboard Friend*]
 
 
@@ -149,6 +120,33 @@
 - Younger Toast etched little British flags into his roller skates; they have a “turbo speed” \[11:28 - *Working At McDonald’s*]
 - He sleeps in a nightgown \[1:13 - *Yoshi Nintendo Mod*]
   - Ghost says it’s the most demonic thing he’s ever seen
+- He and Ghost have a scheduled kite-flying day \[0:23 - *Haunted By Godzilla*]
+- Toast has above normal intelligence and went to Harvard \[1:33 - *HUNT Pt.2*]
+  - He has a college education \[23:15 - *Paranormal Ghost Hunt*]
+- Toast had an incident with Ghost's XBox 360, which Ghost says was Toast's fault because he's a "viva piñata maniac" \[4:27 - *HUNT Pt.2*]
+- Ghost and Toast once went on a camping trip; Toast's dad drove off while the tent (and Ghost with it) were still attached to his truck \[16:08 - *HUNT Pt.2*]
+- As kids, Ghost and Toast snuck into the movie theater and watched Predator \[2:18 - *HUNT Pt.2 Finale*]
+- In their childhood, Ghost and Toast had a dog who Ghost called "Jumper" and Toast called "Spot" \[5:16 - *HUNT Pt.2 Finale*]
+  - Jumper got hit by a car while playing catch \[6:37]
+- Ghost and Toast had a job at a library \[22:29 - *HUNT Pt.2 Finale*]
+- Toast once turned a corner and smacked into Ghost and his Barbie dolls fell and got dirty, but Toast bought him a G.I. Joe figure that scared his mother half to death \[10:06 - *I Am The Puppet*]
+- Ghost and Toast were once trying to find an arrowhead at the bottom of a lake, so Ghost tied a bowling ball to his ankle to get to the bottom faster but he almost drowned \[21:13 - *The Horror Continues*]
+ - Toast saved him with a fishing rod
+- Ghost and Toast have ridden a 2-person bicycle \[6:33 - *Haunted By Delphox*]
+- Ghost and Toast had a pet rock in 1996 named Brett \[12:00 - *FNAF & Zootopia 2*]
+- Ghost once told Toast that his father was a spaceman, but he was actually a police officer \[13:34 - *FNAF & Zootopia 2*]
+- Toast has seen Ghost clip through the wall before due to a nuclear reactor having an effect on Ghost's left leg as a karate test; Ghost denies it \[*14:21 - Funny Balloon Boy*]
+- Toast dragged Ghost out at 9:50 PM; Toast invited Ghost over to his apartment because he got new copies of Warcraft 2 but realized that they didn't have the right cords for their land match \[1:59 - *Bonnie Visits Walmart*]
+- Ghost and Toast had plans for a vacation in Hawaii \[19:20 - *Johnny Ghost L4D*]
+- Ghost and Toast have been ski-boarding and were going up a gigantic wave in Switzerland/the Bermuda Triangle \(maybe); they got caught in a storm and a UFO caught them after Toast did a 360 while singing the National Anthem of Great Britain and ended up in the Caribbean \[1:36 - *Medieval Mod*]
+- Ghost and Toast travelled through time once while fishing in Jurassic Era; dinosaurs were trying to eat them off the boat/raft/front boards of the T.A.R.D.I.S. that they blew up \[3:08 - *Medieval Mod*]
+- Ghost and Toast have meet Miraak \[5:08 - *Medieval Mod*]
+- Both Ghost and Toast love boats \[6:41 / 8:50 - *Medieval Mod*]
+- Ghost and Toast have gone "kayaking without water" with Johnny Toast \[2:11 / 13:14 - *Minions Visit McDonald's*]
+- He has spied on Ghost's dreams \[9:57 - *OMG Cute Cats*]
+- He bought Ghost a camera for his birthday \[1:22 - *Yoshi Nintendo Mod*]
+- Maloney has flirted with Toast \(who was pretending to be "Debra Toast") \[13:12 - *Bonnie Visits Walmart*]
+
 
 ## | Mentioned Videos
 - [Big Dragon Mod](https://youtu.be/nkWX5eoDSEk)

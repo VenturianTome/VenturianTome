@@ -3,12 +3,12 @@
 
 ## | Basics  
 - Introduction Video: [*Motorcycle Mod*](https://youtu.be/gNREBUzmn98)  
-- Branch / Occupation: Acachalla Family  
-- Most Common Series: [Gmod](./6.Series/Gmod.md)  
+- Branch / Occupation: Acachalla Family / Foster Father  
+- Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
 - Other Names / Titles:   
   - Papa  
-- Played By: [Jordan Frye / Venturian](./3.Siblings/3.1.Jordan-Frye-Venturian.md)  
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
 
 
 ## | Relationships  

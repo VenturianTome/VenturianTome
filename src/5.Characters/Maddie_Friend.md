@@ -4,16 +4,18 @@
 ## | Basics  
 - Introduction Video: []()  
 - Branch / Occupation:   
-- Most Common Series: [Gmod](./6.Series/Gmod.md)  
+- Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
 - Other Names / Titles:   
   - Maddie  
-- Played By: [Bethany Frye / FlyingPings](./3.Siblings/3.3.Bethany-Frye-FlyingPings.md)  
+- Played By: [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)  
 
 
 ## | Relationships  
-- [**Billy Acachalla**]()  
+- [**Billy Acachalla**](5.Charcters/Billy_Acachalla.html)  
   -   
+
+- [**Johnny Toast**](5.Characters/Johnny_Toast.html)
 
 
 ## | Biography  

@@ -4,15 +4,15 @@
 ## | Basics  
 - Introduction Video: []()  
 - Branch / Occupation: P.I.E. Team Member  
-- Most Common Series: [Gmod](./6.Series/Gmod.md)  
+- Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
 - Other Names / Titles:   
   - Colon  
-- Played By: [Isaac Frye / HomelessGoomba](./3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)  
+- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)  
 
 
 ## | Relationships  
-- [**Johnny Ghost**](./5.Characters/Johnny_Ghost.md)  
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)  
   - Colon has confided in Ghost that he plans to adopt a son and rename him “Heaton” \(because “Colon and Heaton” sounds like “cooling and heating”) \[2:42 / 8:50 - *Baraslavian Prison*]
 
 

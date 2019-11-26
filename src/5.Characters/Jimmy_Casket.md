@@ -4,37 +4,37 @@
 ## | Basics  
 - Introduction Video: \(Created) [*Murder 1*](); \(Named) [*Murder 3: Jimmy Casket*]()  
 - Branch / Occupation: Murderer / Entity  
-- Most Common Series: [Gmod](./6.Series/Gmod.md)  
+- Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Paranormal Entity  
 - Other Names / Titles:   
   - Gregory Casket \(past)  
-- Played By: [Jordan Frye / Venturian](./3.Siblings/3.1.Jordan-Frye-Venturian.md)  
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
 
 
 ## | Relationships  
-- [**Gregory Casket**](./5.Characters/Gregory_Casket.md)
+- [**Gregory Casket**](5.Characters/Gregory_Casket.html)
   - Casket says his secret is that his name is Gregory \[13:54 - *Murder 11: Olaf*]
 
-- [**Johnny Ghost**](./5.Characters/Johnny_Ghost.md)
+- [**The Housekeeper**](5.Characters/Housekeeper.html)
+  - He believes that he was locked into the dimension with the Housekeeper as the Housekeeper’s punishment \[14:25 - *Johnny Ghost vs Zombies*]
+
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)
   - Ghost refers to him as a "demon," denting any relation to him
    - He says that it's just entities trying to use his memories against him \[17:50 - *Haunted By Cardboard Friend*]
 - Ghost uses him to get answers \(“There’s only one way I know how to get answers”) \[17:54 - *Kidnapped By BananaCorp*]
    - He doesn’t react to getting shot due to high health \(“Shoot me! See what happens!”) \[18:00 - *Kidnapped By BananaCorp*]
 
-- [**Johnny Toast**](./5.Characters/Johnny_Toast.md)
+- [**Johnny Toast**](5.Characters/Johnny_Toast.html)
   - Toast is what quells Ghost’s episodes and keeps him grounded \[1:24 / 15:31 - *Johnny Ghost vs Zombies*]
 
-- [**The Housekeeper**](./5.Characters/Housekeeper.md)
-  - He believes that he was locked into the dimension with the Housekeeper as the Housekeeper’s punishment \[14:25 - *Johnny Ghost vs Zombies*]
+- [**Maxwell Acachalla**](5.Characters/Maxwell_Acachalla.html)  
+  - Maxwell and Casket have teamed up \[15:23 - *Scary Underground*]
+
+- [**Princeton Quagmire**](5.Characters/Princeton_Quagmire.html)
+  - Casket has pretended to be Princeton Quagmire and managed to shoot someone \[11:57 - *Murder 11: Olaf*]
 
 - [**Tommy Casket**]()
   - He keeps his father’s golden watch on his person \[14:45 - *Johnny Ghost vs Zombies*]
-
-- [**Maxwell Acachalla**](./5.Characters/Maxwell_Acachalla.md)  
-  - Maxwell and Casket have teamed up \[15:23 - *Scary Underground*]
-
-- [**Princeton Quagmire**](./5.Characters/Princeton_Quagmire.md)
-  - Casket has pretended to be Princeton Quagmire and managed to shoot someone \[11:57 - *Murder 11: Olaf*]
 
 
 ## | Biography  

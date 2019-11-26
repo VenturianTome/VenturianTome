@@ -1,23 +1,23 @@
 # All Characters
 
 ## **A**
-- [Aimee](./5.Characters/Aimee.md)
-- [Asylum Weaver \(Oblivion)]()
+- [Aimee](5.Characters/Aimee.html)
+- [Asylum Weaver]()
 
 ## **B**
 - [The Betrayer]()
-- [Billy Acachalla](./5.Characters/Billy_Acachalla.md)
+- [Billy Acachalla](5.Characters/Billy_Acachalla.html)
 - [Billy Acachalla \(Other / Fake)]()
 - [Bonbon the Baby / Baby Doll]()
 
 ## **C**
-- [Cardboard Friend](./5.Characters/Cardboard_Friend.md)
+- [Cardboard Friend](5.Characters/Cardboard_Friend.html)
 - [Cecil the Gnome]()
-- [Chakalata Soup](./5.Characters/Chakalata_Soup.md)
+- [Chakalata Soup](5.Characters/Chakalata_Soup.html)
 - [Charlie Charlie Chase Buttface]()
-- [Chris “Colon” Ghostie](./5.Characters/Chris_Colon_Ghostie.md)
-- [Creepypasta Characters](./5.Characters/Creepypastas.md)
-- [Cywren Caster \(A Fallout Tale)]()
+- [Chris “Colon” Ghostie](5.Characters/Chris_Colon_Ghostie.html)
+- [Creepypasta Characters](5.Characters/Creepypastas.html)
+- [Cywren Caster]()
 
 ## **D**
 - [Darth Calculus]()
@@ -31,28 +31,28 @@
 - [Ernie Ghost]()
 
 ## **F**
-- [Farkas \(Skyrim)]()
-- [Five Nights At Freddy's Characters](./5.Characters/FNAF_Animatronics.md)
-- [Fred “Spooker” Soup](./5.Characters/Fred_Spooker_Soup.md)
+- [Farkas]()
+- [Five Nights At Freddy's Characters](5.Characters/FNAF_Animatronics.html)
+- [Fred “Spooker” Soup](5.Characters/Fred_Spooker_Soup.html)
 - [Freddy / Freddio the Dinosaur]()
 
 ## **G**
-- [Gertrude Acachalla](./5.Characters/Gertrude_Acachalla.md)
+- [Gertrude Acachalla](5.Characters/Gertrude_Acachalla.html)
 - [Grandfather]()
 - [Grandpa Sink Supplies]()
-- [Gregory Casket](./5.Characters/Gregory_Casket.md)
+- [Gregory Casket](5.Characters/Gregory_Casket.html)
 
 ## **H**
 - [Hickle Coolbreeze]()
-- [Higgly-Diggly Hoogan](./5.Characters/Higgly-Diggly_Hoogan.md)
-- [The Housekeeper / Homekeeper](./5.Characters/Housekeeper.md)
+- [Higgly-Diggly Hoogan](5.Characters/Higgly-Diggly_Hoogan.html)
+- [The Housekeeper / Homekeeper](5.Characters/Housekeeper.html)
 
 ## **J**
 - [Jenny Ghost]()
 - [Jenny Toast]()
-- [Jimmy Casket](./5.Characters/Jimmy_Casket.md)
-- [Johnny Ghost](./5.Characters/Johnny_Ghost.md)
-- [Johnny Toast](./5.Characters/Johnny_Toast.md)
+- [Jimmy Casket](5.Characters/Jimmy_Casket.html)
+- [Johnny Ghost](5.Characters/Johnny_Ghost.html)
+- [Johnny Toast](5.Characters/Johnny_Toast.html)
 - [Johnny Toasts \(Other / Fake)]()
 - [Josh]()
 - [Jose Jose Jose Jose]()
@@ -64,51 +64,51 @@
 ## **L**
 - [Light Zeron]()
 - [Lil’ Vent]()
-- [Lydia \(A Skyrim Tale)]()
+- [Lydia]()
 
 ## **M**
-- [Maddie Friend](./5.Characters/Maddie_Friend.md)
-- [Mark \(Skyrim)]()
+- [Maddie Friend](5.Characters/Maddie_Friend.html)
+- [Mark \(Fallout)]()
 - [Mary Toast \(Fan-Named)]()
-- [Maxwell Acachalla](./5.Characters/Maxwell_Acachalla.md)
+- [Maxwell Acachalla](5.Characters/Maxwell_Acachalla.html)
 - [Minecraft Creatures]()
 
 ## **O**
-- [Officer Maloney](./5.Characters/Officer_Maloney.md)
-- [One-Use / Uncommon Characters](./5.Characters/One-Use_Uncommon.md)
+- [Officer Maloney](5.Characters/Officer_Maloney.html)
+- [One-Use / Uncommon Characters](5.Characters/One-Use_Uncommon.html)
 - [Other Series Characters]()
 
 ## **P**
-- [Papa Acachalla](./5.Characters/Papa_Acachalla.md)
+- [Papa Acachalla](5.Characters/Papa_Acachalla.html)
 - [Pennywise the Clown]()
-- [Poet \(A Skyrim Tale)]()
+- [Poet]()
 - [Prince Fang]()
-- [Princeton Quagmire](./5.Characters/Princeton_Quagmire.md)
+- [Princeton Quagmire](5.Characters/Princeton_Quagmire.html)
 
 ## **Q**
-- [Quasar the Dog](./5.Characters/Quasar_the_Dog.md)
+- [Quasar the Dog](5.Characters/Quasar_the_Dog.html)
 - [Qeios Characters]()
-- [The Queen of England / Toast’s Grandmother](./5.Characters/Queen_of_England.md)
+- [The Queen of England / Toast’s Grandmother](5.Characters/Queen_of_England.html)
 
 ## **S**
-- [Sally Acachalla](./5.Characters/Sally_Acachalla.md)
-- [Sari \(Skyrim)]()
+- [Sally Acachalla](5.Characters/Sally_Acachalla.html)
+- [Sari]()
 - [Spencer Acachalla]()
 - [Stardust Sprinkleshine]()
-- [Sue Acachalla the Suckish Officer](./5.Characters/Sue_Acachalla-Suckish_Officer.md)
+- [Sue Acachalla the Suckish Officer](5.Characters/Sue_Acachalla-Suckish_Officer.html)
 
 ## **T**
-- [Timebomb \(Fallout)]()
+- [Timebomb]()
 - [Timothy / Tommy Casket]()
-- [Toilet Toucher](./5.Characters/Toilet_Toucher.md)
+- [Toilet Toucher](5.Characters/Toilet_Toucher.html)
 - [Tommy \(Minecraft)]()
 
 ## **V**
-- [Vahl Aradur \(A Skyrim Tale)]()
-- [Vahl Kahli \(Elder Scrolls Online)]()
+- [Vahl Aradur]()
+- [Vahl Kahli]()
 
 ## **W**
-- [William Barricade](./5.Characters/William_Barricade.md)
+- [William Barricade](5.Characters/William_Barricade.html)
 - [William Smigglebug]()
 
 ----

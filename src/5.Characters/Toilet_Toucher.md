@@ -4,16 +4,16 @@
 ## | Basics  
 - Introduction Video: []()  
 - Branch / Occupation: Entity  
-- Most Common Series: [Gmod](./6.Series/Gmod.md)  
+- Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Ghost / Alien  
 - Other Names / Titles:   
   - Billy Acachalla \(past)
   - Ernie Ghost \(past)  
-- Played By: [Isaac Frye / HomelessGoomba](./3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)  
+- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)  
 
 
 ## | Relationships  
-- [**Billy Acachalla**]()
+- [**Billy Acachalla**](5.Characters/Billy_Acachalla.html)
   - 
 
 - [**Ernie Ghost**]()  

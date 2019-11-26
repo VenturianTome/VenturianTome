@@ -3,13 +3,13 @@
 
 
 ## | Members  
-- [**Johnny Ghost**](./5.Characters/Johnny_Ghost.md)
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)
     - The assumed leader of the Team; the one who usually commands what the Team does
-- [**Johnny Toast**](./5.Characters/Johnny_Toast.md)
+- [**Johnny Toast**](5.Characters/Johnny_Toast.html)
     - The true leader of the company; he funds the Team
-- [**Spooker**](./5.Characters/Fred_Spooker_Soup.md)
+- [**Spooker**](5.Characters/Fred_Spooker_Soup.html)
     - Spooker and Colon aren't technically interns because they're on the PIE Team, but they're not higher members than Ghost and Toast \[0:53 - *HIDE Horror Map*]
-- [**Colon**](./5.Characters/Chris_Colon_Ghostie.md)
+- [**Colon**](5.Characters/Chris_Colon_Ghostie.html)
     - Spooker and Colon aren't technically interns because they're on the PIE Team, but they're not higher members than Ghost and Toast \[0:53 - *HIDE Horror Map*]
 
 ## | Equipment / Teams

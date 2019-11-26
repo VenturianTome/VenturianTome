@@ -4,15 +4,15 @@
 ## | Basics  
 - Introduction Video: []()  
 - Branch / Occupation:   
-- Most Common Series: [Gmod](./6.Series/Gmod.md)  
+- Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
 - Other Names / Titles:   
   - none
-- Played By: [Jordan Frye / Venturian](./3.Siblings/3.1.Jordan-Frye-Venturian.md)  
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
 
 
 ## | Relationships  
-- [**Johnny Ghost**]()  
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)  
   - They know each other, but have never interacted on-screen \(probably because Jordan plays both characters) \[14:00 - *Minions Visit McDonald's*] 
 
 

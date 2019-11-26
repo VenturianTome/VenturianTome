@@ -2,9 +2,9 @@
 
 
 ## | Basics
-- Most Common Series: [Gmod](./6.Series/Gmod.md) / [Five Nights At Freddy’s](./6.Series/FNAF.md)  
+- Most Common Series: [Gmod](6.Series/Gmod.html) / [Five Nights At Freddy’s](6.Series/FNAF.html)  
 - Species: Animatronic  
-- Played By: [All Siblings](./chapter_3.md)
+- Played By: [All Siblings](./chapter_3.html)
 
 
 ## Balloon Boy

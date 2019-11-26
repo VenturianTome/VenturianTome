@@ -4,15 +4,15 @@
 ## | Basics  
 - Introduction Video: []()  
 - Branch / Occupation: Ghost/Entity   
-- Most Common Series: [Gmod](./6.Series/Gmod.md)  
+- Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Ghost  
 - Other Names / Titles:   
   - none  
-- Played By: [Bethany Frye / FlyingPings](./3.Siblings/3.3.Bethany-Frye-FlyingPings.md)  
+- Played By: [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)  
 
 
 ## | Relationships  
-- [**Johnny Ghost**](Johnny_Ghost.md)  
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)  
   -  
 
 

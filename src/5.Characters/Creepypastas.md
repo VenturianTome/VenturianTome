@@ -4,9 +4,9 @@
 ## | Basics  
 - Introduction Video: []()  
 - Branch / Occupation: Creepypasta  
-- Most Common Series: [Gmod](./6.Series/Gmod.md)  
+- Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Ghost / Entity  
-- Played By: [All Siblings](./chapter_3.md)  
+- Played By: [All Siblings](./chapter_3.html)  
 
 
 ## Slenderman

@@ -4,22 +4,25 @@
 ## | Basics  
 - Introduction Video: [Cardboard Friend]()  
 - Branch / Occupation: Child  
-- Most Common Series: [Gmod](./6.Series/Gmod.md)  
+- Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human / Ghost  
 - Other Names / Titles:   
   -   
-- Played By: [Jordan Frye / Venturian](./3.Siblings/3.1.Jordan-Frye-Venturian.md)  
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
 
 
 ## | Relationships  
-- [**Cardboard Friend**](./5.Characters/Cardboard_Friend.md)  
+- [**Cardboard Friend**](5.Characters/Cardboard_Friend.html)  
   - Gregory is the child who created Cardboard Friend because no one else would play with him \[1:28 - *Cardboard Friend*]
   - Gregory questions Cardboard Friend's logic \[6:18 - *Cardboard Friend*]
   - Gregory became scared of Cardboard Friend, and thought Cardboard Friend was going to kill him and steal his soul, crayons and toys \[7:02 - *Cardboard Friend*]
   - Gregory has called Cardboard Friend "Gregory" instead of himself and then quickly backtracked \[8:40 - *Cardboard Friend*]
   - Gregory decided to set Cardboard Friend free to its planet and people, accidentally calling it "Gregory" \[13:12 - *Cardboard Friend*]
 
-- [**Johnny Ghost**](./5.Characters/Johnny_Ghost.md)
+- [**Jimmy Casket**]()
+  - 
+
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)
   - Ghost is established as the grown-up version of Gregory after the events that transpired with Cardboard Friend in his childhood \[5:27 - *Prop Hunt: Ghost Hunt*]
 
 

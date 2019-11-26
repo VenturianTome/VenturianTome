@@ -4,16 +4,16 @@
 ## | Basics  
 - Introduction Video: \(Technical) [*Paranormal Ghost Hunt*]() / \(Actual) [*Johnny Ghost vs Zombies*]()
 - Branch / Occupation: Ghost / Entity  
-- Most Common Series: [Gmod](./6.Series/Gmod.md)  
+- Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Ghost / Entity  
 - Other Names / Titles:   
   - The Whisperer
   - The Homekeeper  
-- Played By: [Bethany Frye / FlyingPings](./3.Siblings/3.3.Bethany-Frye-FlyingPings.md)  
+- Played By: [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)  
 
 
 ## | Relationships  
-- [**Jimmy Casket**](./5.Characters/Jimmy_Casket.md)  
+- [**Jimmy Casket**](5.Characters/Jimmy_Casket.html)  
   - Ghost claims that the Housekeeper is the one who created Jimmy Casket \[ - *Neighbor Visits McDonald's*] 
 
 
