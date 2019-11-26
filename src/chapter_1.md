@@ -25,7 +25,7 @@ Feel free to peruse this dictionary of characters and pages. All of this informa
 
 ----
 
-## Thank You To...
+## Thanks To...
 - The Siblings
   - For making a world of characters that the fans adore and explore
 - The VenturianTale fan community on Tumblr
