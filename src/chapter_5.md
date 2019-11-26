@@ -75,6 +75,7 @@
 
 ## **O**
 - [Officer Maloney](5.Characters/Officer_Maloney.html)
+- [Officer Starbucks]()
 - [One-Use / Uncommon Characters](5.Characters/One-Use_Uncommon.html)
 - [Other Series Characters]()
 

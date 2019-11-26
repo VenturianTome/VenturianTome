@@ -12,8 +12,11 @@
 
 
 ## | Relationships  
-- [** **]()  
+- [**Papa Acachalla**]()  
   -  
+
+- [**Sally Acachalla**]()
+  - 
 
 
 ## | Biography  

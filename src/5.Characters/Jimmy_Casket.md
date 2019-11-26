@@ -33,7 +33,7 @@
 - [**Princeton Quagmire**](5.Characters/Princeton_Quagmire.html)
   - Casket has pretended to be Princeton Quagmire and managed to shoot someone \[11:57 - *Murder 11: Olaf*]
 
-- [**Tommy Casket**]()
+- [**TImothy / Tommy Casket**]()
   - He keeps his father’s golden watch on his person \[14:45 - *Johnny Ghost vs Zombies*]
 
 
