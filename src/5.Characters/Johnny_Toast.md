@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: [*Prop Hunt 18: Ghost Hunt*]()  
+- Introduction Video: *Prop Hunt 18: Ghost Hunt* 
 - Branch / Occupation: Paranormal Investigator Extraordinaire  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human, Werewolf, Vampire  

@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: \(Technically) [](); \(Formally) []()  
+- Introduction Video: \(Technically) **; \(Formally) *Prop Hunt 18: Ghost Hunt*  
 - Branch / Occupation: P.I.E. Team  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
