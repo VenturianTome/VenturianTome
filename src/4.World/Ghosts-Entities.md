@@ -23,7 +23,7 @@
   - Ex: Sonic.exe \[7:55 - *Haunted By Sonic*]
   - Ex: Unnamed Level 5 ghost that poops flowers \[8:14 - *Ghost Hunters*]  
 #### **Level 6** 
-  - Zombies \[16:51 - *Paranormal Ghost Hunt*]  
+  - Ex: Zombies \[16:51 - *Paranormal Ghost Hunt*]  
 #### **Level 15**
 - Smell like bacon grease and can control other people's minds and possibly travel to other dimensions \[5:11 / 6:32 / 7:03 - *Hell's Island Pt.2*]
 - Can tear your head clean off your body \[14:39 - *Scary Ghost Children*]
@@ -31,22 +31,38 @@
 #### **Level 25**
 - Could destroy the entire world with a flick of its fingers or open a dimension to a black hole at any time \(“You never face a demon of that caliber”) \[15:09 - *Scary Ghost Children*]
 - Can only be stopped by a certain radio/music setting \[10:05 - *Haunted By Delphox*]
-  - Ex: Demon that looks like a cat \[15:09 - *Scary Ghost Children*]
+  - Ex: Demon that looks like a cat plushie \[15:09 - *Scary Ghost Children*]
   - Ex: Balloons \[10:05 - *Haunted By Delphox*] 
 #### **Alpha Level**
 - Impervious to grenades and possibly popsicles \[5:45 - *Haunted By Delphox*]  
 
 
-## | Types of Entities
-- A woodswimmer ghost had not been seen since the summer of 1999 before \[8:14 - *Haunted By Godzilla*], which Godzilla is one
-- Crusty Butt entities are a thing; they haven't been heard of since a sarcophagus was uncovered in Gaza, Egypt \[2:05 - *Haunted By Grandma*]
-- There was a Hawaiian legend of a spirit that would take people \[3:26 - *Haunted By Grandma*]
-  - A Hawaiian girl signifies a kidnapping / they represent the afterlife \(as "payment" for the soul of the person) \[5:12 - *Haunted By Grandma*]
+## | Other Types of Entities
+#### Crusty Butt Entities
+- Haven't been heard of since a sarcophagus was uncovered in Gaza, Egypt \[2:05 - *Haunted By Grandma*]
+#### Dragon Ghosts
+- Roofs are super dangerous because they can land on them at any time \[12:50 - *Scary Ghost Children*]
+#### Grandma Ghost
+- She won't come near car keys and can mess with time \[18:36 / 19:24 - *Haunted By Grandma*]
+#### Hawaiian Legend
+- A spirit that would take people \[3:26 - *Haunted By Grandma*]
+- A Hawaiian girl signifies a kidnapping / represents the afterlife \(as "payment" for the soul of the person) \[5:12 - *Haunted By Grandma*]
+#### Minions
+- They are "alien terrorists from another dimension" \(according to William Barricade) \[5:38 - *Minions Visit McDonald's*]
+#### Mothman
+- Sounds like a bird \[7:52 - *Ghost Hunt: The Mothman*]
+#### Norweigian Monkey
+- Ghost says that they haven't seen it in at least 6 years \[10:03 - *HUNT Pt.2*]
+#### Paranormal Fire
+- Only lets off paranormal smoke, which doesn't fill up a room \[0:40 - *HUNT Pt.2*]
+#### The Puppet \(Puppet Arc)
+- It is 7 1/2 feet tall and shakes around quite a bit \[3:19 - *Hell's Island Pt.1*]
+#### Woodswimmer Ghosts
+- Had not been seen since the summer of 1999 before *Haunted By Godzilla* \[8:14]
+  - Godzilla is one
 
-
-## | Entity Trivia
+## | Interacting with Entities
 - Never use the restroom of a haunted building; ghosts love bathrooms \[3:30 - *Funny Horror Game*]
-- Paranormal fire only lets off paranormal smoke, which doesn't fill up a room \[0:40 - *HUNT Pt.2*]
 - Ghosts find cameras very aggravating \[13:13 - *Paranormal Ghost Hunt*]
 - Ghosts are very shy, so if you make too much noise or twitch around you can scare them off \[6:38 - *Playable Animatronics 2*]
 - Under Section 31 of the Shadow Proclamation, ghostly bicycles must be shot with a shotgun \[1:51 - *Prop Hunt: Ghost Hunt*]
@@ -55,18 +71,14 @@
 - Ghosts love to hear screams \[3:41 - *Scary Underground*]
 - Ghosts hate disorderly things \[14:59 - *Johnny Ghost L4D*]
 - Lesson 13: Do not hum around ghosts; music to ghosts sets them off and makes them go feral \[10:34 - *Scary Ghost Children*]
-- Roofs are super dangerous because dragon ghosts can land on them at any time \[12:50 - *Scary Ghost Children*]
 - A ghost will hide if it hears you coming \[16:43 - *Scary Ghost Children*]
 - Ghosts hate it when trash cans are turned upside down as it is a sign of disrespect \[3:01 - *Haunted By Delphox*]
-- Grandma Ghost won't come near car keys and can mess with time \[18:36 / 19:24 - *Haunted By Grandma*]
-- There is an entity known as the Norwegian Monkey \[10:03 - *HUNT Pt.2*]
-  - Ghost says that they haven't seen it in at least 6 years
-- The Puppet is 7 1/2 feet tall and shakes around quite a bit \[3:19 - *Hell's Island Pt.1*]
-- Minions are "alien terrorists from another dimension" \(according to William Barricade) \[5:38 - *Minions Visit McDonald's*]
-- The Mothman sounds like a bird \[7:52 - *Ghost Hunt: The Mothman*]
+- A ghost will hide if it hears you coming \[16:43 - *Scary Ghost Children*]
+- Mirrors/reflections make a Special Level 3 through Level 16 leave the premises \[6:33 - *Haunted By Cardboard Friend*]
+
+## | Other Entity Trivia
 - Maxwell and Cardboard Friend are friends \[10:31 - *Prop Hunt 18: Ghost Hunt*]
 - There was a Mario and Luigi ghost haunting at the Acachalla household in 1987 \[17:15 - *Funny Balloon Boy*]
-- Mirrors/reflections make a Special Level 3 through Level 16 leave the premises \[6:33 - *Haunted By Cardboard Friend*]
 - Ghost and Toast faced a Level 6 in Brazil; their plan kind of worked and set off a volcano \[6:31 - *Paranormal Ghost Hunt*]
 - An Abyss Mouth is a portal to the Underworld; they were not used since 84 A.D. [11:07 - Paranormal Ghost Hunt]
 
@@ -96,4 +108,4 @@
 
 ----
 
-**NOTE:** *Find something that’s wrong or missing? Contact the Admin [here](./chapter_2.md)!*
+**NOTE:** Find something that’s wrong or missing? Contact the Admin [here](chapter_2.html)!

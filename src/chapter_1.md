@@ -1,11 +1,19 @@
 # Welcome To The Site / Introduction
 
-Welcome to VenturianTome, a site dedicated to keeping track of everything VenturianTale!  
+Welcome to VenturianTome, a site dedicated to keeping track of everything VenturianTale and providing sources for all of the information that we find!  
+
 I am V, the main admin of the site. If you want to learn more about me or need to contact me, please do so at the links on
 [this page.](chapter_2.html)
 
+**FAIR WARNING**: This is a compltely *fan-made* site. The Siblings are not involved in creating this site in way other than providing the information through their videos.
+
 ## Enjoy!
 Feel free to peruse this dictionary of characters and pages. All of this information comes directly from the VT Sibling's videos or other social medias, followed by timestamps and sources for each bit of information. 
+
+If you need any additional information or help navigating the site, please contact me [here](chapter_2.html).
+
+I will provide information from specific videos \(including all of the information sourced, character death counts, etc.), links to videos or other resources, a tutorial on how to navigate the site, or anything else you might need.
+Feel free to ask an admin about anything related to the site and we will try to respond as soon as we can!
 
 ## Exploration
 - [The Siblings](chapter_3.html)
@@ -33,4 +41,4 @@ Feel free to peruse this dictionary of characters and pages. All of this informa
 - @lesliefromskies on Tumblr
   - For making a helpful sheet of information that they let the Admin use
 - You!
-  - For taking an interest in this site and having fun being in this community
+  - For taking an interest in this site and having fun while being in this community
