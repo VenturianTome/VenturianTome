@@ -68,6 +68,7 @@
 - There was a Mario and Luigi ghost haunting at the Acachalla household in 1987 \[17:15 - *Funny Balloon Boy*]
 - Mirrors/reflections make a Special Level 3 through Level 16 leave the premises \[6:33 - *Haunted By Cardboard Friend*]
 - Ghost and Toast faced a Level 6 in Brazil; their plan kind of worked and set off a volcano \[6:31 - *Paranormal Ghost Hunt*]
+- An Abyss Mouth is a portal to the Underworld; they were not used since 84 A.D. [11:07 - Paranormal Ghost Hunt]
 
 
 ## | Mentioned Videos

@@ -7,14 +7,12 @@ This uses [mdbook](https://rust-lang.github.io/mdBook/) for organization & comps
 To build:
 ```
 cd VenturianTome
-mdbook build
+mdbook build -o
 ```
 
 To view:
 ```
 cd VenturianTome
-# optional
-mdbook watch
-python3 -m http.server
+mdbook serve
 ```
-and open http://localhost:8000/
+and open http://localhost:3000/
