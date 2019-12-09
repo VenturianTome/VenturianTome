@@ -4,7 +4,7 @@
 
 ## | Levels
 #### **2nd Dimension**
-- A black hole with nothing left other than 1 Chuck E Cheese's \[6:07 - Dating Slenderman]
+- A black hole with nothing left other than 1 Chuck E. Cheese's \[6:07 - Dating Slenderman]
 #### **13th Dimension**
 -  Ghosts are banished to the 13th Realm \(or Mordor, in Spooker’s case) \[8:42 / 14:21 - Scary Ghost Children]
 #### **16th Dimension**
