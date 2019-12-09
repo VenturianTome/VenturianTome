@@ -9,7 +9,7 @@
     - [Isaac Frye / HomelessGoomba](./3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
 - [World & Settings](./chapter_4.md)
     - [The Acachallas](./4.World/Acachallas.md)
-    - [Dimensions-Realms](./4.World/Dimensions-Realms.md)
+    - [Dimensions & Realms](./4.World/Dimensions-Realms.md)
     - [Ghosts & Entities](./4.World/Ghosts-Entities.md)
     - [The P.I.E. Team](./4.World/PIE_Team.md)
     - [Songs](./4.World/Songs.md)
