@@ -1,5 +1,5 @@
 # Dimensions / Realms  
-#### *A dimension, as defined by Ghost, is a plane of existence held within space-time but not relative to space-time held between other dimensions by something theorized as dark matter, which causes time to flow in a linear progression of cause to effect [1:21 - Big Dragon]*
+#### *A dimension, as defined by Johnny Ghost, is a plane of existence held within space-time but not relative to space-time held between other dimensions by something theorized as dark matter, which causes time to flow in a linear progression of cause to effect [1:21 - Big Dragon]*
 
 
 ## | Levels
@@ -13,7 +13,7 @@
 #### **52nd Dimension**
 - Contains a McDonald’s run by a Haunter \[0:19 - Pokemon Haunter]
 
-## | Other Examples  
+## | Other Dimensions  
 #### **Gregsville**
 - Where all Gregs come from and run by Gregs for Gregs \[1:17 - Johnny Bot]
   - "Gregs and icing go together like Johnny Ghost and Johnny Toast... It's A+ material right there"
@@ -29,16 +29,16 @@
 - An Abyss Mouth is a portal to the Underworld; they were not used since 84 A.D. \[11:07 - Paranormal Ghost Hunt]
 
 ## | Mentioned Videos
-- [Baraslavian Prison]()
-- [Big Dragon]()
-- [Dating Slenderman]()
-- [FNAF & Zootopia]()
-- [Medieval Mod]()
-- [Johnny Bot]()
-- [Johnny Bot Left Behind]()
-- [Paranormal Ghost Hunt]()
-- [Pokemon Haunter]()
-- [Scary Ghost Children]()
+- [Baraslavian Prison](https://youtu.be/acQ_AEIHW-M)
+- [Big Dragon](https://youtu.be/nkWX5eoDSEk)
+- [Dating Slenderman](https://youtu.be/iKCA4r6euXM)
+- [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og)
+- [Medieval Mod](https://youtu.be/C9Gvs-3MxNY)
+- [Johnny Bot](https://youtu.be/I_8FpxwKSNo)
+- [Johnny Bot Left Behind](https://youtu.be/B8utDaG1fsE)
+- [Paranormal Ghost Hunt](https://youtu.be/VEq4ggHacoU)
+- [Pokemon Haunter](https://youtu.be/FRtza_a-3Ks)
+- [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U)
 
 ----
 
