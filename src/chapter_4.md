@@ -10,8 +10,7 @@
 - Ghost believed himself to be in a dimensional bubble or limbo-like state during the Puppet Arc [4:04 - Johnny Ghost vs Zombies]
 
 ### Thanksgiving Celebrations
-`"You're not cooking dinner, you're cooking the house!"`
-`-Papa [6:00 - Acachalla's Thanksgiving (2019)]`
+> "You're not cooking dinner, you're cooking the house!" -Papa [6:00 - Acachalla's Thanksgiving (2019)]
 - 2019: Acachalla's Thanksgiving
   - Thanksgiving has been in danger because their house's "thank tanks" are running low/empty \[5:07]
    - They need 267,000 thanks and they need T. Hanks for that; Ghost was going to suggest him but they decide on finding The Rock \[13:43]
