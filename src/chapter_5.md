@@ -76,7 +76,7 @@
   - Katrina
   - K-C
   - Mark \(Skyrim)
-  - Mary Toast /(Fan-Named)
+  - Mary Toast \(Fan-Named)
   - Pennywise the Clown
   - Quasar the Dog
   - Timothy / Tommy Casket
