@@ -101,7 +101,7 @@
 - [Sue Acachalla the Suckish Officer](5.Characters/Sue_Acachalla.html)
 
 ## **T**
-- [Timebomb \(Fallout)](5.Characters/Timebomb.html)
+- [Timebomb](5.Characters/Timebomb.html)
 - [Toilet Toucher](5.Characters/Toilet_Toucher.html)
 
 ## **V**
