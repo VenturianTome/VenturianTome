@@ -107,6 +107,24 @@
 
 ----
 
+## Billy Acachalla \(Others / Fakes)
+#### Origins: **
+- 
+
+### Mentioned Videos
+- []()
+
+----
+
+## Bonbon the Baby / Baby Doll
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
+
+----
+
 ## Cecil the Gnome
 #### Origin: **
 - Cecil the Gnome once told Ghost that he was friends with "a little red-headed girl from the wasteland," which Ghost didn't believe \[5:41 - *Funny Oogie Boogie*]
@@ -116,6 +134,15 @@
 ### Mentioned Videos
 - [Funny Oogie Boogie](https://youtu.be/3rEws9xky0s)
 - [Kidnapped By BananaCorp](https://youtu.be/wt_kHMmAnTQ)
+
+----
+
+##  Charlie Charlie Chase Buttface
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
 
 ----
 
@@ -219,6 +246,15 @@
 
 ----
 
+## Grandpa Sink Supplies
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
+
+----
+
 ## Gregory.Gregory
 #### Origin: **
 - 
@@ -252,6 +288,24 @@
 
 ### Mentioned Videos
 - 
+
+----
+
+## Jenny Ghost
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
+
+----
+
+## Jenny Toast
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
 
 ----
 
@@ -323,12 +377,12 @@
 
 ----
 
-## K-C
-#### Origin: **
+## Johnny Toast \(Others / Fakes)
+#### Origins: **
 - 
 
 ### Mentioned Videos
-- 
+- []()
 
 ----
 
@@ -342,6 +396,15 @@
 ### Mentioned Videos
 - [HUNT Pt.2](https://youtu.be/Q_iwzgwlbwg)
 - [HUNT Pt.2 FINALE](https://youtu.be/nNLNxjfItLU)
+
+----
+
+## K-C
+#### Origin: **
+- 
+
+### Mentioned Videos
+- 
 
 ----
 
@@ -433,6 +496,15 @@
 
 ### Mentioned Videos
 - [Godzilla Ate My Lunch](https://youtu.be/CSXo2GfyvGU)
+
+----
+
+## Pennywise the Clown
+#### Origin: **
+- 
+
+### Mentioned Videos:
+- []()
 
 ----
 
@@ -560,7 +632,7 @@
 ----
 
 ## Tommy / Timothy Casket
-#### Origin: \(Actual) *Haunted By Cardboard Friend* / \(Physical) *Chica Visits Pizza Hut*
+#### Origin: \(Named) *Haunted By Cardboard Friend* / \(Physical) *Chica Visits Pizza Hut*
 - Ghost has claimed him as his father \[12:11 - *Haunted By Cardboard Friend*]
   - Toast knows this, calling "Casket" his family name \[18:33]
   - Died before Ghost was born; he lived alone with his mother off of his father's wealth, which put him through school \[17:50]

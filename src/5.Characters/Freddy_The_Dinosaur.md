@@ -1,20 +1,20 @@
-# Darth Calculus
+# Freddy / Freddio the Dinosaur  
 
 
 ## | Basics  
 - Introduction Video: **  
-- Branch / Occupation:   
-- Weapon of Choice:   
+- Branch / Occupation: Chaotic Force  
+- Weapon of Choice: Self  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
-- Species:   
+- Species: Dinosaur  
 - Other Names / Titles:   
-  - none  
-- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
+  - Freddio  
+- Played By: []()  
 
 
 ## | Relationships  
-- [** **]()  
-  -  
+- [**Sally Acachalla**](5.Characters/Sally_Acachalla.html)  
+  - Sally is the only one to be able to tame Freddy 
 
 
 ## | Biography  

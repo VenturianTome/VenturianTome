@@ -71,6 +71,9 @@
   - Ernie Ghost
   - Grandfather
   - Grandpa Sink Supplies
+  - Hickle Coolbreeze
+  - Jenny Ghost
+  - Jenny Toast
   - Johnny Cranky
   - Johnny Toasts \(Other / Fake)
   - Katrina
@@ -78,7 +81,6 @@
   - Mark \(Skyrim)
   - Mary Toast \(Fan-Named)
   - Pennywise the Clown
-  - Quasar the Dog
   - Timothy / Tommy Casket
   - Vahl Kahli \(Elder Scrolls Online)
   - William Smigglebug
