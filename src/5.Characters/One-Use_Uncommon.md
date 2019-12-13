@@ -29,12 +29,21 @@
 
 ----
 
+## Anna \(Frozen)
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
+
+----
+
 ## Aqua the Puppy
 #### Origin: **
 - 
 
 ### Mentioned Videos
-- 
+- []()
 
 ----
 
@@ -57,7 +66,7 @@
 
 ----
 
-## BananaCorp
+## BananaCorp / Banana Man
 #### Origin: **
 - They kidnapped Toast but he was saved by Ghost after 2 “stressful” weeks \[0:47 / 1:17 - *Kidnapped By BananaCorp*]
 - There is \(or was) a Banana King \[1:17 - *Kidnapped By BananaCorp*]
@@ -163,7 +172,7 @@
 - 
 
 ### Mentioned Videos
-- 
+- []()
 
 ----
 
@@ -508,7 +517,7 @@
 
 ----
 
-## P.I.E.'s Butler
+## P.I.E. / Toast's Butler
 #### Origin: **
 - 
 
@@ -553,6 +562,15 @@
 
 ### Mentioned Videos
 - [Big Dragon Mod](https://youtu.be/nkWX5eoDSEk)
+
+----
+
+## Sasquatch\(es)
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
 
 ----
 
@@ -644,6 +662,15 @@
 ### Mentioned Videos
 - [Chica Visits Pizza Hut](https://youtu.be/VcBOrWgqyrY)
 - [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ)
+
+----
+
+## Toothless the Dragon
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
 
 ----
 
