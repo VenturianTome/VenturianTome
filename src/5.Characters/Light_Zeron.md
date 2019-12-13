@@ -13,9 +13,11 @@
 
 
 ## | Relationships  
-- [** **]()  
-  - Relationship desc.  
-  - Other facts  
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)  
+  - 
+
+- [**Johnny Toast**](5.Characters/Johnny_Toast.html)
+  - 
 
 
 ## | Biography  

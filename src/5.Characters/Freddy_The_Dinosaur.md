@@ -9,7 +9,7 @@
 - Species: Dinosaur  
 - Other Names / Titles:   
   - Freddio  
-- Played By: []()  
+- Played By: none  
 
 
 ## | Relationships  

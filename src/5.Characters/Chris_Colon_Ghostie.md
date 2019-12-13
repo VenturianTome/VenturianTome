@@ -2,7 +2,7 @@
 
 
 ## | Basics  
-- Introduction Video: **  
+- Introduction Video: *Haunted School*  
 - Branch / Occupation: P.I.E. Team Member  
 - Weapon of Choice: Handgun  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
@@ -44,6 +44,7 @@
 ## | Mentioned Videos
 - [Baraslavian Prison](https://youtu.be/acQ_AEIHW-M)
 - [Haunted By Grandma](https://youtu.be/yMRGseByyCU)
+- [Haunted School](https://youtu.be/cV31R3z-P7M)
 - [HIDE Horror Map](https://youtu.be/XV7ZJMx2_tQ)
 - [Johnny Ghost Moving](https://youtu.be/hf04_xQdqfQ)
 - [Playable Animatronics 10](https://youtu.be/2qdDjiasqEc)

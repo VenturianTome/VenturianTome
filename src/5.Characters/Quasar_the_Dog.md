@@ -1,9 +1,9 @@
-# Quasar The Dog 
+# Quasar The Dog
 
 
 ## | Basics  
 - Introduction Video: **  
-- Branch / Occupation: Tale Character / Pet  
+- Branch / Occupation: Companion / Follower / Pet  
 - Weapon of Choice: none  
 - Most Common Series: [A Fallout Tale](6.Series/Tale_Series.html)  
 - Species: Dog  
