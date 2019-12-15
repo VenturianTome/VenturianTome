@@ -7,17 +7,12 @@
 
 ## Batman
 - 
-
 ----
-
 ## The Flash
 - 
-
 ----
-
 ## Superman
 - 
-
 ----
 
 ## | Links  

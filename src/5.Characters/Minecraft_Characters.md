@@ -3,18 +3,19 @@
 
 ## Daxius
 - He can be found [here](6.Characters/Daxius.html)!
-
+----
 ## Mountain Cows
 - 
-
+----
 ## Red Flowers
 - 
-
+----
 ## Tommy \(The Mentor)
 - 
-
+----
 ## Yellow Flowers
 - 
+----
 
 ## | Links  
 - ### [Masterlist]()  
