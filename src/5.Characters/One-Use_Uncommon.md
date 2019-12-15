@@ -134,6 +134,15 @@
 
 ----
 
+## Buzz Lightyear \(Toy Story)
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
+
+----
+
 ## Cecil the Gnome
 #### Origin: **
 - Cecil the Gnome once told Ghost that he was friends with "a little red-headed girl from the wasteland," which Ghost didn't believe \[5:41 - *Funny Oogie Boogie*]
@@ -236,7 +245,16 @@
 ### Mentioned Videos
 - [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og)
 
----- 
+----
+
+## Gavin Toast
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
+
+----
 ## Grandfather
 #### Origin: **
 - 
@@ -395,6 +413,24 @@
 
 ----
 
+## Judy Hopps \(Zootopia)
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
+
+----
+
+## K-C
+#### Origin: **
+- 
+
+### Mentioned Videos
+- 
+
+----
+
 ## Katrina
 #### Origin: *HUNT Pt.2* & *HUNT Pt.2 FINALE*
 - Ghost recognizes an entity as "Katrina" and says the ghost is messing with him \[3:59]
@@ -408,12 +444,12 @@
 
 ----
 
-## K-C
+## Kylo Ren \(Star Wars)
 #### Origin: **
 - 
 
 ### Mentioned Videos
-- 
+- []()
 
 ----
 
@@ -426,12 +462,30 @@
 
 ----
 
+## Luigi
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
+
+----
+
 ## Mark \(Skyrim)
 #### Origin: **
 - 
 
 ### Mentioned Videos
 - 
+
+----
+
+## Mario
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
 
 ----
 
@@ -481,6 +535,15 @@
 
 ----
 
+## Nick Wilde \(Zootopia)
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
+
+----
+
 ## Officer Starbucks
 #### Origin: **
 - 
@@ -514,15 +577,6 @@
 
 ### Mentioned Videos:
 - []()
-
-----
-
-## P.I.E. / Toast's Butler
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
 
 ----
 
@@ -607,6 +661,15 @@
 
 ### Mentioned Videos
 - 
+
+----
+
+## Spongebob
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
 
 ----
 
@@ -698,6 +761,15 @@
 
 ### Mentioned Videos
 - 
+
+----
+
+## Woody \(Toy Story)
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
 
 ----
 

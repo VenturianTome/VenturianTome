@@ -1,20 +1,20 @@
-# Freddy / Freddio the Dinosaur  
+# Vahl Aradur  
 
 
 ## | Basics  
 - Introduction Video: **  
-- Branch / Occupation: Chaotic Force  
-- Weapon of Choice: Self  
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
-- Species: Dinosaur  
+- Branch / Occupation: Tale Character / Adventurer  
+- Weapon of Choice: Sword \()  
+- Most Common Series: [A Skyrim Tale](6.Series/Tale_Series.html)  
+- Species: Dark Elf  
 - Other Names / Titles:   
-  - Freddio  
+  - none  
 - Played By: none  
 
 
 ## | Relationships  
-- [**Sally Acachalla**](5.Characters/Sally_Acachalla.html)  
-  - Sally is the only one to be able to tame Freddy 
+- [**Farkas**](5.Characters/Farkas.html)  
+  -   
 
 
 ## | Biography  
