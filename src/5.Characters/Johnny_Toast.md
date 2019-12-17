@@ -30,6 +30,7 @@
   - According to Ghost, he taught Ghost everything he knows \[8:25 - *Scary Ghost Children*]
   - Him and Ghost usually go out for brunch together \[4:18 - *Johnny Ghost vs Zombies*]
   - He is what quells Ghost’s episodes and keeps him grounded \[1:24 / 15:31 - *Johnny Ghost vs Zombies*]
+  - Ghost is thankful for his partner Johnny Toast, Toast is thankful for himself and Ghost \("it's a whole thing" -Ghost) [20:01 - *Acachalla's Thanksgiving (2019)*]
 
 - [**The Queen of England**](5.Characters/Queen_of_England.html)
   - He is the Queen of England’s grandson \[13:28 - *President Visits McDonald’s*]
@@ -40,16 +41,11 @@
 
 
 ## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  - New Playermodel
+- ### New Playermodel
    - Toast's old playermodel was scrapped and replaced with a new one in *Haunted By Sonic*  
   - Puppet Arc
    - He was following Ghost and found him when he fell out of the sky into Germany \[1:56 / 2:04 - *I Am The Puppet*]
 - \(Puppet Arc) Toast didn't do much while Ghost was in the cosmos \[3:11 - *The Horror Continues*]
-- ### Current Life  
-  -   
 
 
 ## | Fakes
@@ -151,6 +147,8 @@
 - He has spied on Ghost's dreams \[9:57 - *OMG Cute Cats*]
 - He bought Ghost a camera for his birthday \[1:22 - *Yoshi Nintendo Mod*]
 - Maloney has flirted with Toast \(who was pretending to be "Debra Toast") \[13:12 - *Bonnie Visits Walmart*]
+- His mom told him he's not allowed to be in cupboards [14:14 - *Acachalla's Thanksgiving (2019)*]
+- He has a crush on Dwayne Johnson [14:25 / 14:59 - *Acachalla's Thanksgiving (2019)*]
 
 
 ## | Mentioned Videos

@@ -134,6 +134,18 @@
 
 ----
 
+### Boot the Minion
+#### Origin: *Minions Visit McDonald's*
+- Ghost used science to create him out of nothing but a twinkie and originally named him Toast but changed his name [1:08 / 1:43 / 14:58 / 15:26 - *Minions Visit McDonald's*]
+- It has grenades, a crossbow, and a grenade launcher [7:08 / 8:42 / 12:14 - *Minions Visit McDonald's*]
+- The Almighty Boot was originally a Minion [14:13 - *Johnny Bot*]
+
+### Mentioned Videos
+- [Johnny Bot](https://youtu.be/I_8FpxwKSNo)
+- [Minions Visit McDonald's](https://youtu.be/Yk0RNCWNQKY)
+
+----
+
 ## Buzz Lightyear \(Toy Story)
 #### Origin: **
 - 
@@ -318,6 +330,15 @@
 
 ----
 
+## Jackson from Child Services
+#### Origin: *The Joker Babysits*
+- Jackson from Child/Family Service pays a visit to investigate the house \(13:19 - He's actually Batman in disguise) [11:37 - *The Joker Babysits*]
+
+### Mentioned Videos
+- [The Joker Babysits](https://youtu.be/lCWMkMoA85Y)
+
+----
+
 ## Jenny Ghost
 #### Origin: **
 - 
@@ -459,6 +480,15 @@
 
 ### Mentioned Videos
 - 
+
+----
+
+## Leon S. Kennedy
+#### Origin: *Does Acachalla Like Wendy's?*
+- He works at Wendy's [1:29 - *Does Acachalla Like Wendy's?*]
+
+### Mentioned Videos
+- [Does Acachalla Like Wendy's?](https://youtu.be/K2-86Dc81Ec)
 
 ----
 

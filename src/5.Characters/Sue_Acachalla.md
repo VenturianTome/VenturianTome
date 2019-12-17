@@ -21,12 +21,8 @@
 
 
 ## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+- ### Military Experience
+  - He was taught to be ready for and react to anything [1:56 - *Playable Animatronics 8*]
 
  
 ## | Links  
@@ -36,7 +32,8 @@
 
 
 ## | Other Trivia  
--   
+- He uses conditioner \(on both his mask and wig) [0:58 / 4:18 - *Playable Animatronics 8*]
+- He has been scared by a mirror before [3:42 - *Playable Animatronics 8*]  
 
 ## | Mentioned Videos
 - 

@@ -45,8 +45,11 @@
 - He is the most feared ghost in history and is responsible for black holes \[4:19 - *Super-Powered Baby Mod*]
 - Toilet Touchers are actually a race of “the most legendary beings of the universe” / “the most ancient beings in the universe” who have created and destroyed entire planets \[5:00 / 6:32 - *Super-Powered Baby Mod*]
 - His Ultimate Form is a floating Doge \[10:43 - *Super-Powered Baby Mod*]
+- The Toilet Toucher likes cheese & whiskey [3:52 - *Acachalla's Thanksgiving (2019)*]
+- Papa doesn't know who the Toilet Toucher is [4:43 - *Acachalla's Thanksgiving (2019)*]
 
 ## | Mentioned Videos
+- [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk)
 - [Cops & Robbers: Toilet Toucher 2](https://youtu.be/UqhzSvza9dc)
 - [Dating Slenderman](https://youtu.be/iKCA4r6euXM)
 - [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og)

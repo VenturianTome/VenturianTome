@@ -28,8 +28,12 @@
   - Him and Toast usually go out for brunch together \[4:18 - *Johnny Ghost vs Zombies*]
   - Toast is what quells his episodes and keeps him grounded \[1:24 / 15:31 - *Johnny Ghost vs Zombies*]
   - He regards Toast as his “only friend” \[13:47 - *Kidnapped By BananaCorp*]
+  - Ghost is thankful for his partner Johnny Toast, Toast is thankful for himself and Ghost ("it's a whole thing" -Ghost) [20:01 - *Acachalla's Thanksgiving (2019)*]
 
-- [**Tommy / Timothy Casket**]()
+- [**Spencer Acachalla**](5.Characters/Spencer_Acachalla.html)
+  - Ghost knows that Spencer is (like) a 60,000 year old deity that was resurrected from a lava dimension [6:28 - *Haunted School*]
+
+- [**Tommy / Timothy Casket**](5.Characters/One-Use_Uncommon.html)
    - Ghost once told Toast that his father was a spaceman, but he was actually a police officer \[13:34 - *FNAF & Zootopia 2*]
 
 
@@ -77,9 +81,14 @@
 - He has met Miraak \[5:08 - *Medieval Mod*]
 - He loves boats \[6:41 / 8:50 - *Medieval Mod*]
 - Ghost's greatest fear is that Toast will be replaced by Spooker again \[2:07 - *Johnny Ghost vs Zombies*]
-  
+- Ghost claims he has a lisp [12:43 - *Acachalla's Thanksgiving (2019)*]
+- Ghost is of the political party of "Giant Meteor 2016" rather than Trump or Hillary [4:11 - *Haunted School*]
+- He doesn't know what a fire extinguisher is [5:32 - *Haunted School*]
+- He was in Band class [9:11 - *Haunted School*]
+  - He says he's a drummer/dancer/singer-guy
 
 ## | Mentioned Videos
+- [Acachalla's Thanksgiving \(2019)]()
 - [Big Dragon Mod](https://youtu.be/nkWX5eoDSEk)
 - [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g)
 - [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og)
