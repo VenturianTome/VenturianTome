@@ -19,7 +19,7 @@
 ----
 ## Quasar the Dog
 #### Origin: **
-- 
+- Ghost had a dog named Quasar in his childhood \[4:11 - *Ghost Hunt: The Mothman*]
 ----
 ## Toast's "Hamster"
 #### Origin: **
@@ -37,8 +37,8 @@
 -   
 
 ## | Mentioned Videos
-- []()
+- [Ghost Hunt: The Mothman](https://youtu.be/np-IMVWwpEs)
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!

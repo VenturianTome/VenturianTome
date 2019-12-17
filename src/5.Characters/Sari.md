@@ -14,8 +14,7 @@
 
 ## | Relationships  
 - [**Vahl Aradur**](5.Characters/Vahl_Aradur.html)  
-  - Relationship desc.  
-  - Other facts  
+  - 
 
 
 ## | Biography  
@@ -41,4 +40,4 @@
 
 ----
 
-> **NOTE:** *Find something that’s wrong or missing? Contact the Admin [here](./chapter_2.md)!*
+> **NOTE:** *Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!*

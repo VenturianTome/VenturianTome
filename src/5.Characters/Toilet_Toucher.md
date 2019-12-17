@@ -17,7 +17,7 @@
 - [**Billy Acachalla**](5.Characters/Billy_Acachalla.html)
   - 
 
-- [**Ernie Ghost**]()  
+- [**Ernie Ghost**](5.Characters/One-Use_Uncommon.html)  
   - Ernie IS the Toilet Toucher, just a past version that was exiled to the 16th Dimension \[14:08 - *FNAF & Zootopia 2*]
 
 
@@ -57,4 +57,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!

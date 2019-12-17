@@ -8,7 +8,7 @@
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
 - Other Names / Titles:   
-  - Tyler from *Twenty-One Pilots*  
+  - Josh from *Twenty-One Pilots*  
 - Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)  
 
 
@@ -40,4 +40,4 @@
 
 ----
 
-> **NOTE:** *Find something that’s wrong or missing? Contact the Admin [here](./chapter_2.md)!*
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

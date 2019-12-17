@@ -12,7 +12,7 @@ Hello! Glad to know you're interested to know who's running this site.
 - I will try to respond to any emails that I get. If you need something from the site or from the Admin, contact me at [*venturiantome@gmail.com*](https://mail.google.com/mail/u/0/)
 
 ## Social Media
-> Feel free to contact me at any one of these as long as you are *respectful* and *understanding that I may not be able to answer immediately*. I will try to answer any messages that I get; if I don't answer yours, I promise that I will read it as soon as I am able.
+> Feel free to contact me at any one of these as long as you are *respectful* and *understanding* that *I may not be able to answer immediately*. I will try to answer any messages that I get; if I don't answer yours, I promise that I will read it as soon as I am able.
 - Send me cool things and chat with me on my [Instagram](https://instagram.com/hauntedbyeverything?igshid=y29spkcp7eri)
 - Interact with me a lot on my [Tumblr](https://www.tumblr.com/blog/venturiantome) \(and [sideblog](https://www.tumblr.com/blog/johnnynojohnnyyes))
 - Check out my videos and playlists on my [YouTube Channel](https://youtube.com/channel/UCY0etJmLpMe20cv3j5Pm25Q)

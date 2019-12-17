@@ -41,4 +41,4 @@
 
 ----
 
-> **NOTE:** *Find something that’s wrong or missing? Contact the Admin [here](./chapter_2.md)!*
+> **NOTE:** *Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!*

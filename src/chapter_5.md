@@ -60,6 +60,7 @@
 - [Minecraft Characters](5.Characters/Minecraft_Characters.html)
   - Mountain Cows
   - Red Flowers
+  - Palayy
   - Tommy
   - Yellow Flowers
 
@@ -152,8 +153,6 @@
 
 ## **P**
 - [Papa Acachalla](5.Characters/Papa_Acachalla.html)
-- [P.I.E.'s Interns](5.Characters/PIEs_Interns.html)
-  - Toast's Butler
 - [Pets](5.Characters/Pets.html)
   - Aqua the Puppy \(Skyrim)
   - Freddy the Dinosaur
@@ -201,4 +200,4 @@
 
 *There are a total of -- characters here! Wow!*
 
-*Is someone missing? Make sure you search the site to make sure they’re truly not here first! If they’re still missing, contact the Admin [here](./chapter_2.html)!*
+*Is someone missing? Make sure you search the site to make sure they’re truly not here first! If they’re still missing, contact the Admin [here](../chapter_2.html)!*

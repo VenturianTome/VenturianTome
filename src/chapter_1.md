@@ -17,11 +17,12 @@ I will provide information from specific videos \(including all of the informati
 Feel free to ask an admin about anything related to the site and we will try to respond as soon as we can!
 
 ## Exploration
-- [The Admin](chapter_2.html)
-- [The Siblings](chapter_3.html)
-- [The World](chapter_4.html)
-- [Characters](chapter_5.html)
-- [Series](chapter_6.html)
+- [The Admin](../chapter_2.html)
+- [The Siblings](../chapter_3.html)
+- [The World](../chapter_4.html)
+- [Characters](../chapter_5.html)
+- [Series](../chapter_6.html)
+- [Other Family](../chapter_7.html)
 
 ## All The Videos!
 - I made a playlist containing ALL of VenturianTale's uploads \(*yes, even from back in 2013*) and you can watch it [here](https://www.youtube.com/playlist?list=PLwljWXtmIKiR6RCrbGztF5LhGXAEF7pX_) if you want to!
@@ -30,7 +31,7 @@ Feel free to ask an admin about anything related to the site and we will try to 
 
 > **NOTE:** This site is always updating when a new video comes out and while trying to catch up on older videos's info, so it is currently incomplete. Feel free to help an admin out by contacting them with more information and please be patient until it is completed. Thank you!
 
-> If you want to know how to help the admin create and improve the site, go to the [Meet The Admin](chapter_2.html) page to find out where you can contact me and ways to help!
+> If you want to know how to help the admin create and improve the site, go to the [Meet The Admin](../chapter_2.html) page to find out where you can contact me and ways to help!
 
 ----
 
