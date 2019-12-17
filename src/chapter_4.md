@@ -22,6 +22,9 @@
    - Sally is thankful that she gets to get food and that she got her secret out [20:42]
    - Billy is thankful for 10 tons of dynamite \(and crashes the game by trying to blow it up) \[21:03]
 
+## 4th Wall Breaks
+- Gertrude breaks the 4th wall by mentioning character changes [5:36 - *Playable Animatronics 8*]
+
 ## Other World Trivia
 - There was a Great Roblox War of 2017 [9:38 - Johnny Bot]
 - There is a possibility of characters jumping between consciousnesses when they die [18:35 - Johnny Bot]
@@ -29,6 +32,7 @@
 - Ghost has called Earth "currently destroyed" [6:10 - Funny Olaf]
 - Setting a bathtub on fire is against the Constitution of the United States of America [10:43 - Haunted By FNAF]
 - Butt-activated technology was being developed in India, extremely experimentally [10:31 - Hell's Resort]
+- Spencer claims that 97% of the world's "thanks" come from Tom Hanks because he's such a nice guy and that Thanksgiving would not exist without T. Hanks [9:43 - *Acachalla's Thanksgiving (2019)*]
 
 ----
 ## Mentioned Videos
@@ -40,6 +44,7 @@
 - [Johnny Bot]()
 - [Johnny Ghost vs Zombies]()
 - [Murder 3: Jimmy Casket]()
+- [Playable Animatronics 8]()
 
 ----
 

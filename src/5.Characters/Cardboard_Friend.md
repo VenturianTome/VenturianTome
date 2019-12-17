@@ -3,7 +3,7 @@
 
 ## | Basics  
 - Introduction Video: *Cardboard Friend*  
-- Branch / Occupation: Ghost / Creature  
+- Branch / Occupation: Entity  
 - Weapon of Choice: none  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Entity  
@@ -49,8 +49,7 @@
 
 ## | Other Trivia  
 - The Governor of North Dakota came by what was Gertrude's house to warn her of a 37 year old man from Michigan wanted in 13 states for dressing up in cardboard boxes and breaking into people's houses \[14:34 - *Cardboard Friend*]  
-- Cardboard Friend wants to "be a family again" "just like old times" \[9:08 / 13:51 - *Haunted By Cardboard Friend*]  
-- Cardboard Friend is a Level 4 entity that is resistant to reflective surfaces \[10:03 - *Haunted By Cardboard Friend*]  
+- Cardboard Friend wants to "be a family again" "just like old times" \[9:08 / 13:51 - *Haunted By Cardboard Friend*]   
 - The story of Cardboard Friend, according to Toast's book, is that there was a family a long time ago, "there was a family, some children, some ghost shows up, kid goes crazy, and disappears" dates aren't recorded and they don't know much about it; Ghost figures that Cardboard Friend creates insanity in its victims and feeds off of it \[10:54 - *Haunted By Cardboard Friend*]  
 
 

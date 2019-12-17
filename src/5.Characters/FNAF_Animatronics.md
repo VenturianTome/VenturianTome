@@ -17,19 +17,19 @@
 ## The Mangle
 - Balloon Boy helps Mangle rearrange themselves after they fall off the ceiling but sometimes messes up a bit or freestyles it \[3:03 - *Playable Animatronics 2*]
 - Mangle considers themself good at acrobatics \[3:58 - *Playable Animatronics 2*]
-- Mangle was assigned to be a modern art piece of scrap metal for PIE \[4:33 - *Playable Animatronics 2*]
+- Mangle was assigned to be a modern art piece of scrap metal for P.I.E. \[4:33 - *Playable Animatronics 2*]
 
 ## The Puppet
 - 
 
 ## Toy Bonnie
-- Toy Bonnie got assigned to the role of moving target in the firing range for PIE \[7:32 - *Playable Animatronics 2*]
+- Toy Bonnie got assigned to the role of moving target in the firing range for P.I.E. \[7:32 - *Playable Animatronics 2*]
 
 ## Toy Chica
-- Toy Chica got assigned to make PIE baked goods \[10:10 - *Playable Animatronics 2*]
+- Toy Chica got assigned to make P.I.E. baked goods \[10:10 - *Playable Animatronics 2*]
 
 ## Toy Freddy
-- Toy Freddy was worked for PIE since 1987 \[15:21 - *Playable Animatronics 2*]
+- Toy Freddy was worked for P.I.E. since 1987 \[15:21 - *Playable Animatronics 2*]
 
  
 ## | Links  

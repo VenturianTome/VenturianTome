@@ -1,11 +1,12 @@
-# Welcome To The Site / Introduction
+# Welcome to VenturianTome!
+## > A place to store the lore <
 
 Welcome to VenturianTome, a site dedicated to keeping track of everything VenturianTale and providing sources for all of the information that we find!  
 
 I am V, the main admin of the site. If you want to learn more about me or need to contact me, please do so at the links on
 [this page.](chapter_2.html)
 
-**WARNING**: This is a compltely *fan-made* site. The Siblings are not involved in creating this site in way other than providing the information through their videos. The Admins will try to source everything as much as possible.
+> **WARNING**: This is a compltely *fan-made* site. The Siblings are not involved in creating this site in way other than providing the information through their videos. The Admins will try to source everything as much as possible.
 
 ## Enjoy!
 Feel free to peruse this dictionary of characters and pages. All of this information comes directly from the VT Sibling's videos or other social medias, followed by timestamps and sources for each bit of information. 
@@ -29,13 +30,15 @@ Feel free to ask an admin about anything related to the site and we will try to 
 
 > **NOTE:** This site is always updating when a new video comes out and while trying to catch up on older videos's info, so it is currently incomplete. Feel free to help an admin out by contacting them with more information and please be patient until it is completed. Thank you!
 
-> **NOTE:** If you want to know how to help the admin create and improve the site, go to the [Meet The Admin](chapter_2.html) page to find out where you can contact me!
+> If you want to know how to help the admin create and improve the site, go to the [Meet The Admin](chapter_2.html) page to find out where you can contact me and ways to help!
 
 ----
 
 ## Thanks To...
 - The Siblings
   - For making a world of characters that the fans adore and explore
+- My Brother
+  - For helping me create this site in way that can be easily run
 - The VenturianTale fan community on Tumblr
   - For welcoming me into this section of the community with open arms and crazed theories
 - @lesliefromskies on Tumblr

@@ -19,6 +19,6 @@ Hello! Glad to know you're interested to know who's running this site.
 
 ## Helping The Admin
 - To help the Admin, please contact them respectfully and ask how you can help. If you are unsure check the possibilities below to see how to help!
- - Video Notes
-   - To gain information for each page, making Video Notes pages are crucial. They help to get information from specific videos, whether they be old or new, and to get timestamps for when each bit of information is learned.
-   - Learn how to properly make these using my tutorial either on [my Tumblr](https://venturiantome.tumblr.com/post/187827892813/oh-i-forgot-a-key-detail-to-get-these-to-me-you) or [Google Docs](https://docs.google.com/document/d/1EtSWsHFoiZhlNxEZkv6U3YR3iqmkSeaUQ4xFkfOOrZ4/edit)
+  - Video Notes
+    - To gain information for each page, making Video Notes pages are crucial. They help to get information from specific videos, whether they be old or new, and to get timestamps for when each bit of information is learned.
+    - Learn how to properly make these using my tutorial either on [my Tumblr](https://venturiantome.tumblr.com/post/187827892813/oh-i-forgot-a-key-detail-to-get-these-to-me-you) or [Google Docs](https://docs.google.com/document/d/1EtSWsHFoiZhlNxEZkv6U3YR3iqmkSeaUQ4xFkfOOrZ4/edit)

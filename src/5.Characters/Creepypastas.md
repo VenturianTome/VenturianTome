@@ -19,6 +19,10 @@
 - Jeff paints his nails \[8:54 - *Creepypasta College*]
 - Jeff got promoted to Biology 101 teacher \(in a place that turned out to be a mental institution) \[9:22 - *Creepypasta College*]
 
+## The Rake
+- Rake has a twin sister \[1:44 - *Creepypasta College*]
+- Rake and Slender are brothers \[1:57 - *Creepypasta College*]
+
 ## Slenderman
 - Slender was promoted to the role of World History teacher \(in a place that turned out to be a mental institution) \[0:54 / 6:17 - *Creepypasta College*]
 - Rake and Slender are brothers \[1:57 - *Creepypasta College*]
@@ -27,11 +31,6 @@
 - He doesn't have a mama \[4:53 - *Dating Slenderman*]
 - He litters \[5:17 - *Dating Slenderman*]
 - Maloney has accused Slenderman of never retiring, but instead working for the CIA; Slender says he's working for Sia, the singer \[16:41 - *Dating Slenderman*]
-
-## The Rake
-- Rake has a twin sister \[1:44 - *Creepypasta College*]
-- Rake and Slender are brothers \[1:57 - *Creepypasta College*]
-
 
 ## | Links  
 - ### [Masterlist]()  

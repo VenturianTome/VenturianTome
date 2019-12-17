@@ -118,7 +118,7 @@
 
 ## Billy Acachalla \(Others / Fakes)
 #### Origins: **
-- 
+- There was a fake Billy in \[11:47 - *Murder 4: Majora's Mask*] that he won against
 
 ### Mentioned Videos
 - []()

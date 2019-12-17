@@ -39,11 +39,14 @@
 
 
 ## | Other Trivia  
-- There was a fake Billy in \[11:47 - *Murder 4: Majora's Mask*] that he won against
 - He can become a bird \[16:53 - *Super-Powered Baby Mod*]
+- He believes he will die by getting shot by Papa on Thanksgiving as the Toilet Toucher [4:25 - *Acachalla's Thanksgiving (2019)*]
+- He loves parkour [0:45 - *Does Acachalla Like Wendy's?*]
 
 
 ## | Mentioned Videos
+- [Acachalla'a Thanksgiving \(2019)]()
+- [Does Acachalla Like Wendy's?]()
 - [Motorcycle Mod](https://youtu.be/gNREBUzmn98)
 - [Murder 4: Majora's Mask](https://youtu.be/rJShOzX411o)
 - [Scary Batman Horror Map](https://youtu.be/EB9US2_E0J8)

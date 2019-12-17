@@ -19,11 +19,12 @@
 - A meteor once fell outside a city in New Mexico and PIE collected a small egg from inside; there was a beaver and a dinosaur in the egg and the dinosaur \(that sings like Justin Bieber) became PIE's secret weapon \[6:33 / 10:43 - *Johnny Ghost L4D*]
 - PIE has a Peanut Butter Trap \("for Bigfoot and Bigfoot only") \[17:01 - *Johnny Ghost L4D*]
 - They have a paranormal machine gun \[2:16 - *Playable Animatronics 17*]
-- They have a Bubble Trap that they used to hunt Frankenstein in Europe \[11:05 / 12:23 - *Return of JC*]
+- They have a Bubble Trap that they used to hunt Frankenstein in Europe \[11:05 / 12:23 - *Return of Jimmy Casket*]
 - PIE has a piece of equipment called the "Ethereal Lasso" which can be used to restrain ghosts \[6:22 - *Haunted By Delphox*]
 - PIE has expensive equipment that can transmit a message to ghosts \[7:40 - *Haunted By Elmo*]
 - PIE has a division called KITE \(Kitten Intelligence Team Earth) that Nyan Cat is a part of \[9:03 - *Haunted By Elmo*]
 - LemurKing999 is the PIE dispatcher \[0:16 / 1:55 - *Kidnapped by BananaCorp*]
+- Colon carries a Super Monster Zapper Gun on him \[14:03 - *Playable Animatronics 10*]
 
 ## | Rules
 - \[11:58 - *Johnny Ghost Moving*] The 5 rules/steps of encountering a foreign, animal-like substance are:
@@ -67,7 +68,7 @@
 - [Playable Animatronics 10](https://youtu.be/2qdDjiasqEc)
 - [Playable Animatronics 17](https://youtu.be/mkyVjLCmh8w)
 - [Prop Hunt 18: Ghost Hunt](https://youtu.be/2yVe4fe8lRw)
-- [Return of JC](https://youtu.be/Twja4LFhVaU)
+- [Return of Jimmy Casket](https://youtu.be/Twja4LFhVaU)
 - [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U)
 - [Super-Powered Baby Mod](https://youtu.be/jWXZO7cAe3o)
 - [Yoshi Nintendo Mod](https://youtu.be/ptihpSu4vcY)
