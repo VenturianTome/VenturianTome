@@ -52,10 +52,6 @@ Video Playlist: [All FNAF](https://www.youtube.com/playlist?list=PLwljWXtmIKiSmX
 
 ## Mentioned Videos
 - []()
-- []()
-- []()
-- []()
-- []()
 
 ----
 

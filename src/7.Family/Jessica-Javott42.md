@@ -54,7 +54,11 @@
 ----
 
 ## Mentioned Videos
-- []()
+- [I Got Married](https://youtu.be/mDasjRwGf2k)
+- [Portal 2 Co-OP #1 (J&J)](https://youtu.be/6GE1-ReTdtU)
+- [Portal 2 Co-OP #4 (J&J)](https://youtu.be/ohAhMp0tO00)
+- [Q&A With My Wife](https://youtu.be/fcWrt_7xM3w)
+- [what's happening](https://youtu.be/8wn34LSj_Iw)
 
 ----
 > **NOTE:** Is something missing or wrong? Make sure to check the rest of the site to make sure it’s truly not here! If it’s still missing or you want it to be corrected, contact the admin [here](../chapter_2.html)!

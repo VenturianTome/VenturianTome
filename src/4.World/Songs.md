@@ -1,14 +1,17 @@
 # Songs
 
 
+## | Back from the Dead
+- Origin: ?? - *Motorcycle Mod*
+
 ## | Cash Register Song
-- Origin: \[6:26 - Working At McDonald’s]
+- Origin: 6:26 - *Working At McDonald’s*
 
 ## | "I'm Dancin' On The Roof!"
-- Origin: \[9:15 / 11:04 - Playable Animatronics 13]
+- Origin: 9:15 / 11:04 - *Playable Animatronics 13*
 
 ## | "Murder!"
-- Origin: \[0:30 - Murder 11: Olaf]
+- Origin: 0:30 - *Murder 11: Olaf*
 
 ## | Trivia
 - 

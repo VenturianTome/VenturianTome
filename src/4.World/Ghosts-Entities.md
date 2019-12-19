@@ -84,7 +84,7 @@
 - Ghost claims that the top drawer of a cupboard is cursed if the cupboard has 3 drawers [14:29 - *Acachalla's Thanksgiving (2019)*]
 
 ## | Mentioned Videos
-- [Acachalla's Thanksgiving \(2019)]()
+- [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk)
 - [Funny Balloon Boy](https://youtu.be/EnoiRkmE1y8)
 - [Funny Horror Game](https://youtu.be/W_p-t0KtS3U)
 - [Ghost Hunt: The Mothman](https://youtu.be/np-IMVWwpEs)

@@ -39,7 +39,7 @@ Feel free to ask an admin about anything related to the site and we will try to 
 - The Siblings
   - For making a world of characters that the fans adore and explore
 - My Brother
-  - For helping me create this site in way that can be easily run
+  - For helping me create this site in a way that can be easily run
 - The VenturianTale fan community on Tumblr
   - For welcoming me into this section of the community with open arms and crazed theories
 - @lesliefromskies on Tumblr

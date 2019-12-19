@@ -29,7 +29,7 @@
 - An Abyss Mouth is a portal to the Underworld; they were not used since 84 A.D. \[11:07 - Paranormal Ghost Hunt]
 - Spooker has banished ghosts to Mordor \[8:42 / 14:21 - Scary Ghost Children]
 
-> **NOTE:** Information about the Puppet Arc can be found [here](chapter_4.html)
+> **NOTE:** Information about the Puppet Arc can be found [here](../chapter_4.html)
 
 ## | Mentioned Videos
 - [Baraslavian Prison](https://youtu.be/acQ_AEIHW-M)
