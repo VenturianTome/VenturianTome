@@ -14,7 +14,7 @@
 ## Red Flowers
 - Red flowers are evil; “they’re horrible, they’re despicable creatures” - Jordan [2:19 - *AMT S2 E2*]
 ----
-## Tommy \(The Mentor)
+## Tommy the Mentor
 - 
 ----
 ## Yellow Flowers

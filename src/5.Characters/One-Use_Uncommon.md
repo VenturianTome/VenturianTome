@@ -38,15 +38,6 @@
 
 ----
 
-## Aqua the Puppy
-#### Origin: **
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
 ## Bad / Low Texture Bronson
 #### Origin: *Chica Visits Pizza Hut*
 - Acted as Tommy’s sidekick on his TV show \[4:42 - *Chica Visits Pizza Hut*]
@@ -197,6 +188,15 @@
 
 ----
 
+## Connor \(Detroit: Become Human)
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
+
+----
+
 ## Crispy Toast
 #### Origin: **
 - 
@@ -250,6 +250,15 @@
 
 ----
 
+## Elsa \(Frozen)
+#### Origin: **
+- 
+
+### Menioned Videos
+- []()
+
+----
+
 ## \(Uncle) Ernie Ghost
 #### Origin: **
 - Ernie IS the Toilet Toucher, just a past version that was exiled to the 16th Dimension \[14:08 - *FNAF & Zootopia 2*]
@@ -300,6 +309,15 @@
 
 ### Mentioned Videos
 - 
+
+----
+
+## Gumball Watterson
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
 
 ----
 
@@ -413,6 +431,15 @@
 
 ### Mentioned Videos
 - 
+
+----
+
+## Johnny Ghost's Mom
+#### Origin: **
+- 
+
+### Mentioned Videos
+- []()
 
 ----
 

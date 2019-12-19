@@ -1,5 +1,6 @@
 # The Characters
 
+
 ## **A**
 - [Aimee](5.Characters/Aimee.html)
 - [Asylum Weaver](5.Characters/Asylum_Weaver.html)
@@ -59,9 +60,9 @@
 - [Maxwell Acachalla](5.Characters/Maxwell_Acachalla.html)
 - [Minecraft Characters](5.Characters/Minecraft_Characters.html)
   - Mountain Cows
-  - Red Flowers
   - Palayy
-  - Tommy
+  - Red Flowers
+  - Tommy the Mentor
   - Yellow Flowers
 
 ## **O**
@@ -79,6 +80,7 @@
   - Better Texture Monson
   - Billy Acachalla \(Others / Fakes)
   - Bonbon the Baby / Baby Doll
+  - Boot the Minion
   - Buzz Lightyear \(Toy Story)
   - Cecil the Gnome
   - Charlie Charlie Chase Buttface
@@ -97,25 +99,28 @@
   - Grandma-challa
   - Grandpa Sink Supplies
   - Gregory.Gregory
-  - Gumball
+  - Gumball Watterson
   - Hickle Coolbreeze
   - Hilda Niceguy \(Scripted)
   - Jack Links
+  - Jackson from Child Services
   - Jenny Ghost
   - Jenny Toast
   - Jeremy Acachalla
+  - John Hundred
   - Johnathon Core
   - Johnathon Ghost Senior
   - Johnny Boast
   - Johnny Cranky
   - Johnny Ghost's Mom
   - Johnny Roast
-  - Johnny Toasts \(Others / Fakes)
+  - Johnny Toast \(Others / Fakes)
   - Judy Hopps \(Zootopia)
   - K-C
   - Katrina
   - Kylo Ren \(Star Wars)
   - Lady Buttlegum
+  - Leon S. Kennedy
   - Luigi
   - Mark \(Skyrim)
   - Mario
@@ -131,7 +136,6 @@
   - Pennywise the Clown
   - Principal Buttkicker
   - Poop Poop
-  - Ronnie Boast
   - Ronnie Boast
   - Rosie
   - Sasquatch\(es)
@@ -157,7 +161,7 @@
   - Aqua the Puppy \(Skyrim)
   - Freddy the Dinosaur
   - Lil' Vent
-  - Jumper/Spot
+  - Jumper / Spot
   - Quasar the Dog
   - Toast's "Hamster"
 - [Poet](5.Characters/Poet.html)

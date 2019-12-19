@@ -1,10 +1,11 @@
 # Welcome to VenturianTome!
 ## > A place to store the lore <
 
+
 Welcome to VenturianTome, a site dedicated to keeping track of everything VenturianTale and providing sources for all of the information that we find!  
 
 I am V, the main admin of the site. If you want to learn more about me or need to contact me, please do so at the links on
-[this page.](chapter_2.html)
+[this page.](../chapter_2.html)
 
 > **WARNING**: This is a compltely *fan-made* site. The Siblings are not involved in creating this site in way other than providing the information through their videos. The Admins will try to source everything as much as possible.
 
