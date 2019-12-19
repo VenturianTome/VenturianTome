@@ -202,6 +202,6 @@
 
 ----
 
-*There are a total of 161 characters listed here! Wow!*
+*There are a total of 157 characters listed here! Wow!*
 
 *Is someone missing? Make sure you search the site to make sure they’re truly not here first! If they’re still missing, contact the Admin [here](../chapter_2.html)!*
