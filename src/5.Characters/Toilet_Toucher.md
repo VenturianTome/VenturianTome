@@ -14,6 +14,9 @@
 
 
 ## | Relationships  
+- [**Bert Niceguy**](5.Characters/One-Use_Uncommon.html)
+  - Bert Niceguy says the Toilet Toucher looks like his uncle \[14:27 - *VenturianTale Scripted*]
+
 - [**Billy Acachalla**](5.Characters/Billy_Acachalla.html)
   - 
 
@@ -32,6 +35,7 @@
 ----
 
 ## | Other Trivia  
+- He is a level 7.6894503.01 \[6:59 - *VenturianTale Scripted*]
 - He sucks at soccer \[5:35 - *Cops & Robbers: Toilet Toucher 2*]
 - When a Toilet Toucher touches a toilet too big for their butt it sets off a nuke \[11:15 - *Cops & Robbers: Toilet Toucher 2*]
   - "That's canon. I expect that to be on the wiki. Get to work" -Jordan
@@ -58,6 +62,7 @@
 - [Dating Slenderman](https://youtu.be/iKCA4r6euXM)
 - [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og)
 - [Super-Powered Baby Mod](https://youtu.be/jWXZO7cAe3o)
+- [VenturianTale Scripted](https://youtu.be/iD4Mw3rx4wc)
 
 ----
 

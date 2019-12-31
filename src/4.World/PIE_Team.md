@@ -1,5 +1,5 @@
-# Paranormal Investigators Extraordinaire
 # The P.I.E. Team
+# Paranormal Investigators Extraordinaire
 ## [Playlist]()
 
 
@@ -36,6 +36,7 @@
   5. Enter the infected area and prepare for combat
 - They follow the Shadow Proclamation \[1:51 - *Prop Hunt 18: Ghost Hunt*]
   - Under Section 31, ghostly bicycles must be shot with a shotgun
+- Ghost Hunting 101: the item you need will be behind barrels \[8:01 - *My Wife's First Horror Map*]
 
 ## | Locations
 - PIE has a special house as a training ground for new PIE recruits \[1:04 - *Playable Animatronics 10*]
@@ -51,7 +52,8 @@
 - 1-800-GHOST-AWAY is the PIE phone number \[1:33 - *Haunted By Delphox*]
 - PIE has investigated the Loch Ness Monster \[18:50 - *Haunted By Delphox*]
 - The PIE commercial goes "if you've got problems with your ghost, call Johnny Ghost; "it had a budget of $50 \[3:20 - *Haunted By Cardboard Friend*]
-- They have a CEO, who told Ghost and Toast to get their act together and be "cool" and professional \[1:05 - *Haunted By Elmo*]
+- They have a CEO, who told Ghost and Toast to get their act together and be "cool" and professional \[1:05 - *Haunted By Elmo*]4
+- They create audio logs to keep track of events \[1:09 - *Rat Man of Washington*]
 
 ## | Mentioned Videos
 - [Funny Horror Game](https://youtu.be/W_p-t0KtS3U)
@@ -65,10 +67,12 @@
 - [Johnny Ghost L4D](https://youtu.be/u4msj3CN7yI)
 - [Johnny Ghost Moving](https://youtu.be/hf04_xQdqfQ)
 - [Kidnapped By BananaCorp](https://youtu.be/wt_kHMmAnTQ)
+- [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY)
 - [Playable Animatronics 2](https://youtu.be/_tv07JJ0HE8)
 - [Playable Animatronics 10](https://youtu.be/2qdDjiasqEc)
 - [Playable Animatronics 17](https://youtu.be/mkyVjLCmh8w)
 - [Prop Hunt 18: Ghost Hunt](https://youtu.be/2yVe4fe8lRw)
+- [Rat Man of Washington](https://youtu.be/DYH4xQ-U0gE)
 - [Return of Jimmy Casket](https://youtu.be/Twja4LFhVaU)
 - [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U)
 - [Super-Powered Baby Mod](https://youtu.be/jWXZO7cAe3o)

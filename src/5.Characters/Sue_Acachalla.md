@@ -27,8 +27,9 @@
 ----
 
 ## | Other Trivia  
-- He uses conditioner \(on both his mask and wig) [0:58 / 4:18 - *Playable Animatronics 8*]
-- He has been scared by a mirror before [3:42 - *Playable Animatronics 8*]  
+- He uses shampoo/conditioner \(on both his mask and wig) [0:58 / 4:18 - *Playable Animatronics 8*]
+- He has been scared by a mirror before [3:42 - *Playable Animatronics 8*]
+- Sue has a wig that he washes at a dry cleaner's \[4:18 - *Playable Animatronics 8*]
 
 ----
 

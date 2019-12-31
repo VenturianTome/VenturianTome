@@ -34,7 +34,12 @@
 - [**Princeton Quagmire**](5.Characters/Princeton_Quagmire.html)
   - Casket has pretended to be Princeton Quagmire and managed to shoot someone \[11:57 - *Murder 11: Olaf*]
 
-- [**TImothy / Tommy Casket**]()
+- [**The Rat Man of Washington**](5.Characters/One-Use_Uncommon.html)
+  - He killed the Rat Man \[11:27 - *Rat Man of Washington*]
+    - When Ghost comes back, he has no idea what just happened
+    - Ghost says there's no evidence of the Rat Man ever existing and that "the reports are all faulty" \[12:06]
+
+- [**Timothy / Tommy Casket**]()
   - He keeps his father’s golden watch on his person \[14:45 - *Johnny Ghost vs Zombies*]
 
 
@@ -81,6 +86,7 @@
 - [Murder 3: Jimmy Casket](https://youtu.be/ijGTXelXjx4)
 - [Murder 4: Majora's Mask](https://youtu.be/rJShOzX411o)
 - [Murder 11: Olaf](https://youtu.be/g2tvu5gFGhI)
+- [Rat Man of Washington](https://youtu.be/DYH4xQ-U0gE)
 - [Scary Underground Horror Map](https://youtu.be/Hd_KT6KbnHI)
 
 ----

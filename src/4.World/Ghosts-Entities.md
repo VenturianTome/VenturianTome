@@ -25,6 +25,8 @@
   - Ex: Unnamed Level 5 ghost that poops flowers \[8:14 - *Ghost Hunters*]  
 #### **Level 6** 
   - Ex: Zombies \[16:51 - *Paranormal Ghost Hunt*]  
+#### **Level 7.6894503.01**
+  - Ex. The Toilet Toucher \[6:59 - *VenturianTale Scripted*]
 #### **Level 15**
 - Smell like bacon grease and can control other people's minds and possibly travel to other dimensions \[5:11 / 6:32 / 7:03 - *Hell's Island Pt.2*]
 - Can tear your head clean off your body \[14:39 - *Scary Ghost Children*]

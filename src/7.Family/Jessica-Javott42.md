@@ -3,6 +3,9 @@
 
 ## Basics
 - Jessica is [Jordan](3.Siblings/3.1.Jordan-Frye-Venturian.html)'s wife
+- Her first official Gmod video was *Playing Gmod With My Wife*
+  - Jordan teaches her the basics of the game
+- Her first horror map and character were in *My Wife's First Horror Map*
 
 ----
 
@@ -44,6 +47,7 @@
 - Jessica disagrees with pineapple on pizza [15:33 - *Q&A With My Wife*]
 - Jessica's favourite candy is the Hershey's Cookies and Creme bars [16:20 - *Q&A With My Wife*]
 - Jessica's ideal DnD character is a dwarf/wizard who was a librarian and everytime she sneezed she froze stuff around her and had a chicken foot [18:12 - *Q&A With My Wife*]
+- Jessica takes horror "horribly;" she made it "all of 3 minutes" through Resident Evil 2 \(the remake) \[0:23 - *My Wife's First Horror Map*]
 
 ----
 
@@ -55,6 +59,8 @@
 
 ## Mentioned Videos
 - [I Got Married](https://youtu.be/mDasjRwGf2k)
+- [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY)
+- [Playing Gmod With My Wife](https://youtu.be/E7IVRnqu_wc)
 - [Portal 2 Co-OP #1 (J&J)](https://youtu.be/6GE1-ReTdtU)
 - [Portal 2 Co-OP #4 (J&J)](https://youtu.be/ohAhMp0tO00)
 - [Q&A With My Wife](https://youtu.be/fcWrt_7xM3w)

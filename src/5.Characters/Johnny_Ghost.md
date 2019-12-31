@@ -1,5 +1,6 @@
 # Johnny Ghost  
 
+- "I hunt paranormal entities, and I try and stop them because that's what I do." -Ghost \[2:46 - *My Wife's First Horror Map*]
 
 ## | Basics  
 - Introduction Video: \(Technically) **; \(Formally) *Prop Hunt 18: Ghost Hunt*  
@@ -38,12 +39,8 @@
 
 
 ## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+- ### Time at P.I.E.  
+  - He believes he himself is "part of the merchandising of PIE Incorporated" \[3:40 - *My Wife's First Horror Map*]
 
 ----
 
@@ -110,6 +107,7 @@
 - [Johnny Ghost vs Zombies](https://youtu.be/ZZi4QOcKkno)
 - [Kidnapped By BananaCorp](https://youtu.be/wt_kHMmAnTQ)
 - [Medieval Mod](https://youtu.be/C9Gvs-3MxNY)
+- [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY)
 - [Minions Visit McDonald's](https://youtu.be/Yk0RNCWNQKY)
 - [Paranormal Ghost Hunt](https://youtu.be/VEq4ggHacoU)
 - [Yoshi Nintendo Mod](https://youtu.be/ptihpSu4vcY)

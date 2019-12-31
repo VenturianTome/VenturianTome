@@ -71,11 +71,11 @@
 ----
 
 ## Bert Niceguy \(Scripted)
-#### Origin: **
-- 
+#### Origin: *VenturianTale Scripted*
+- Bert Niceguy says the Toilet Toucher looks like his uncle \[14:27 - *VenturianTale Scripted*]
 
 ### Mentioned Videos
-- 
+- [VenturianTale Scripted](https://youtu.be/iD4Mw3rx4wc)
 
 ----
 
@@ -117,15 +117,16 @@
 ----
 
 ## Bonbon the Baby / Baby Doll
-#### Origin: **
-- 
+#### Origin: *Funny Baby Mod*
+- They live in a green house in a culdesac with Charlie Charlie Chase Buttface \[10:11 - *Funny Baby Mod*]
+- In the future, Bonbon went to \(and is failing) college \[11:36 - *Funny Baby Mod*]
 
 ### Mentioned Videos
-- []()
+- [Funny Baby Mod](https://youtu.be/tfSHka5Kxwo)
 
 ----
 
-### Boot the Minion
+## Boot the Minion
 #### Origin: *Minions Visit McDonald's*
 - Ghost used science to create him out of nothing but a twinkie and originally named him Toast but changed his name [1:08 / 1:43 / 14:58 / 15:26 - *Minions Visit McDonald's*]
 - It has grenades, a crossbow, and a grenade launcher [7:08 / 8:42 / 12:14 - *Minions Visit McDonald's*]
@@ -134,6 +135,16 @@
 ### Mentioned Videos
 - [Johnny Bot](https://youtu.be/I_8FpxwKSNo)
 - [Minions Visit McDonald's](https://youtu.be/Yk0RNCWNQKY)
+
+----
+
+## Burning Bridges
+#### Origin: *Murder 14: Announcements, Celebrations*
+- Jeff Bridges' grandmother [11:41 - *Murder 14: Announcements, Celebrations*]
+- Has a gigantic mole on their face that has a voice and is named Timothy; it moves around sometimes [11:41 - *Murder 14: Announcements, Celebrations*]
+
+### Mentioned Videos
+- [Murder 14: Announcements, Celebrations](https://youtu.be/Tmn4m60nE5g)
 
 ----
 
@@ -159,11 +170,12 @@
 ----
 
 ##  Charlie Charlie Chase Buttface
-#### Origin: **
-- 
+#### Origin: *Funny Baby Mod*
+- Charlie keeps switching accents \(Russian, Japanese) \[5:32 / 6:40 - *Funny Baby Mod*]
+- She lives in a green house in a culdesac with Bonbon \[10:11 - *Funny Baby Mod*]
 
 ### Mentioned Videos
-- []()
+- [Funny Baby Mod](https://youtu.be/tfSHka5Kxwo)
 
 ----
 
@@ -278,10 +290,10 @@
 ----
 ## Grandfather
 #### Origin: **
-- 
+- The statue is his petrified upper half [9:48 - *Murder 14: Announcements, Celebrations*]
 
 ### Mentioned Videos
-- 
+- [Murder 14: Annoucements, Celebrations](https://youtu.be/Tmn4m60nE5g)
 
 ----
 
@@ -519,6 +531,27 @@
 
 ----
 
+## Leonard Malkovich
+### Origin: *My Wife's First Horror Map*
+- Jessica's first character \[0:07 - *My Wife's First Horror Map*]
+- Was Ghost's temporary partner for a day \[0:51 - *My Wife's First Horror Map*]
+  - Ghost found him on Craigslist
+- He's from Brooklyn \[1:52 - *My Wife's First Horror Map*]
+- The suit that Malkovich is wearing is his casual clothes \("basic Tuesday clothes") \[2:06 - *My Wife's First Horror Map*]
+  - Ghost says it would anger the spirits of the 2nd dimension 
+- He is highly allergic to some cleaning products \[2:52 - *My Wife's First Horror Map*]
+- He has flashlight shoes; he's an inventor in his free time \[3:21 - *My Wife's First Horror Map*]
+- He doesn't like heights \[4:48 - *My Wife's First Horror Map*]
+- The color grey makes him very nauseous \[4:48 - *My Wife's First Horror Map*]
+- He lost most of his hearing "back in 'Nam" \[4:56 - *My Wife's First Horror Map*]
+  - He was a janitor \[13:05]
+- He has a grandson \[6:34 - *My Wife's First Horror Map*]
+
+## Mentioned Videos
+- [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY)
+
+----
+
 ## Luigi
 #### Origin: **
 - 
@@ -652,6 +685,26 @@
 
 ### Mentioned Videos
 - 
+
+----
+
+## The Rat Man of Washington
+#### Origin: *Rat Man of Washington*
+- The Washington \[State] National Park & campground where the Rat Man was last seen \[0:58 - *Rat Man of Washington*]
+  - The entire campground was evacuated due to a murder that took place earlier \[1:20]
+    - Earlier that day \(at 7 AM), on the west side of the campground, a murder scene was found; the victim was entirely drained of blood and missing both eyeballs \(they were both replaced with Magic 8 balls) \[1:37]
+- His event is recorded in Audio Log 41 \[2:33 - *Rat Man of Washington*]
+- "Rats don't make that noise! Make rat noises!" -Ghost [3:46 - *Rat Man of Washington*]
+- Ghost originally believed the Rat Man either be an apparition or "a local college student who's hyped up on cheese puffs" in a rat costume, making ghost noises and throwing armed grenades through the window \[3:59 - *Rat Man of Washington*]
+  - Ghost later believes that the Rat People were once humans that once stayed at the camp due to the human qualities they retain \[7:05 / 9:50]
+  - Ghost believes that it's either A) a scientific experiment, B) exposure to radiation, or C) they are aliens \[7:28]
+- Ghost figures that there's more than one Rat Man \[4:23 - *Rat Man of Washington*]
+- They are a bipedal race \[6:15 - *Rat Man of Washington*]
+- One rouge Rat Man has killed all of the rest of his kind and has become a homicidal maniac \[10:21 - *Rat Man of Washington*]
+- It can communicate with Ghost telepathically \[11:06 - *Rat Man of Washington*]
+
+### Mentioned Videos
+- [Rat Man of Washington](https://youtu.be/DYH4xQ-U0gE)
 
 ----
 

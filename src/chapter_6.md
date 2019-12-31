@@ -1,11 +1,17 @@
 # Series
 [*All Videos*](https://www.youtube.com/playlist?list=PLwljWXtmIKiR6RCrbGztF5LhGXAEF7pX_)
 
-## [**VT-Specific**](6.Series/VT_Specific.html)
-- Animations
-- Montages
-- Speedpaints
-- VenturianTale Mods
+## [**Five Nights At Freddy’s**](6.Series/FNAF.html)
+- FNAF 1
+- FNAF 2
+- FNAF 3
+- FNAF 4
+- FNAF 5 \(Sister Location)
+- FNAF 6 \(Pizzaria Simulator)
+- FNAF World
+- Five Nights At VenturianTale
+- Gameplay Livestreams
+- The Joy of Creation: Reborn
 
 ## [**Gmod**](6.Series/Gmod.html)
 - Cops & Robbers
@@ -22,34 +28,16 @@
 - Stop It Slender!
 - Survival Maps
 
+## [**Livestreams**](6.Series/Livestreams.html)
+- One Million Subscribers
+- Anniversary Livestreams
+
 ## [**Minecraft**](6.Series/Minecraft.html)
 - A Minecraft Tale
 - Another Minecraft Tale
 - Another Minecraft Tale: Season 2
 - Fan Challenges
 - Mods & Maps
-
-## [**Tale Series**](6.Series/Tale_Series.html)
-- A Fallout Tale
-- A Skyrim Tale
-  - Elder Scrolls Online
-- An Oblivion Tale
-
-## [**Five Nights At Freddy’s**](6.Series/FNAF.html)
-- FNAF 1
-- FNAF 2
-- FNAF 3
-- FNAF 4
-- FNAF 5 \(Sister Location)
-- FNAF 6 \(Pizzaria Simulator)
-- FNAF World
-- Five Nights At VenturianTale
-- Gameplay Livestreams
-- The Joy of Creation: Reborn
-
-## [**Portal**](6.Series/Portal)
-- Isaac & Bethany's Co-op
-- Jordan & Jessica's Co-op
 
 ## [**Other Games**](6.Series/Other_Games.html)
 - Banjo Kazooie
@@ -75,10 +63,28 @@
 - Team Fortress 2
 - Untitled Goose Game
 
+## [**Portal**](6.Series/Portal.html)
+- Isaac & Bethany's Co-op
+- Jordan & Jessica's Co-op
+
+## [**Qeios**](6.Series/Quios.html)
+
+## [**Tale Series**](6.Series/Tale_Series.html)
+- A Fallout Tale
+- A Skyrim Tale
+  - Elder Scrolls Online
+- An Oblivion Tale
+
 ## [**Vlogs**](6.Series/Vlogs.html)
 - Moving Houses
 - Updates
 - VenturianMail
+
+## [**VT-Specific**](6.Series/VT_Specific.html)
+- Animations
+- Montages
+- Speedpaints
+- VenturianTale Mods
 
 ----
 
