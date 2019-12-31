@@ -39,19 +39,22 @@
 - ### Current Life  
   - Cardboard Friend’s whereabouts are currently unknown, but Jordan has expressed that there is more to know about the backstory of Cardboard Friend and the characters it connects to \[ - *5th Anniversary Live Stream*]
 
- 
-## | Links  
-- ### [Masterlist \(By Series)](https://docs.google.com/document/d/1P4ZRD6jhglXKt3SsYtIAv_rMaoukohVZo7UtJlB7gJU/edit)  
-- ### [Masterlist \(Chronological)](https://docs.google.com/document/d/13oE9ME_8PNXHDKpw5HVfEFSxjqhHP0kOD7ag5coS6h0/edit)
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - The Governor of North Dakota came by what was Gertrude's house to warn her of a 37 year old man from Michigan wanted in 13 states for dressing up in cardboard boxes and breaking into people's houses \[14:34 - *Cardboard Friend*]  
 - Cardboard Friend wants to "be a family again" "just like old times" \[9:08 / 13:51 - *Haunted By Cardboard Friend*]   
 - The story of Cardboard Friend, according to Toast's book, is that there was a family a long time ago, "there was a family, some children, some ghost shows up, kid goes crazy, and disappears" dates aren't recorded and they don't know much about it; Ghost figures that Cardboard Friend creates insanity in its victims and feeds off of it \[10:54 - *Haunted By Cardboard Friend*]  
 
+----
+
+## | Links  
+- [Masterlist \(By Series)](https://docs.google.com/document/d/1P4ZRD6jhglXKt3SsYtIAv_rMaoukohVZo7UtJlB7gJU/edit)  
+- [Masterlist \(Chronological)](https://docs.google.com/document/d/13oE9ME_8PNXHDKpw5HVfEFSxjqhHP0kOD7ag5coS6h0/edit)
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [5th Anniversary Live Stream](https://youtu.be/6AHnicY1Iq4)

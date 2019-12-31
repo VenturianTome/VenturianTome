@@ -1,8 +1,10 @@
 # Series: Qeios
- 
-Playlist: []()
+## [Playlist]()
+
+
 > **NOTE:** You might be looking for the characters, which are [here](5.Characters/Qeios_Characters.html)!
- 
+
+
 ## **P1**  
 - 
  
@@ -10,7 +12,9 @@ Playlist: []()
  
 ## Series Trivia
 - 
- 
+
+----
+
 ## Mentioned Videos
 - []()
  

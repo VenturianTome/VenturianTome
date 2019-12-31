@@ -33,12 +33,7 @@
   - He has super-secret door-removing powers [3:25 - *Haunted School*]
   - He can smell democracy, but he might just be able to smell capitalism [3:58 / 4:48 - *Haunted School*]
 
- 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - Colon's speciality is in forensics \[1:12 - *Haunted By Grandma*]
@@ -50,6 +45,15 @@
 - He used to play in the NBA [6:46 - *Haunted School*]
 - He is related to Lebron James [7:36 - *Haunted School*]
 - He had an incident where he slipped, there was a toilet and Donald Trump involved, and he got his butt ripped off [12:35 / 13:15 - *Haunted School*]
+
+----
+
+## | Links  
+- [Masterlist]()  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Baraslavian Prison](https://youtu.be/acQ_AEIHW-M)

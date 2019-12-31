@@ -46,13 +46,7 @@
 - ### Current Life  
   -   
 
- 
-## | Links  
-- ### [Masterlist \(By Series)](https://drive.google.com/open?id=1Q70TOV2USknDBMNtzaAegT2xaBJPmYXNBV_BQyPij28)
-- ### [Masterlist \(Chronological)](https://drive.google.com/open?id=1cSqV-6bN2i3ZpLb4thxJJ4LALoFeQ11kgFLUowdLEU0)  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - Jimmy Casket even creeps Jordan out \[16:21 - *Scary Underground*]
@@ -66,6 +60,16 @@
 - Casket has a fear of macaroni; he has dreams where it comes and \(ironically) eats him \[17:32 / 19:05 - *Murder 4: Majora's Mask*]
 - Casket can come through walls \[13:48 - *Creepypasta College*]
 - Casket can't tell the difference between Slender and Jeff \[14:00 - *Creepypasta College*]
+
+----
+
+## | Links  
+- [Masterlist \(By Series)](https://drive.google.com/open?id=1Q70TOV2USknDBMNtzaAegT2xaBJPmYXNBV_BQyPij28)
+- [Masterlist \(Chronological)](https://drive.google.com/open?id=1cSqV-6bN2i3ZpLb4thxJJ4LALoFeQ11kgFLUowdLEU0)  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Creepypasta College](https://youtu.be/TyTM5NU8jKY)

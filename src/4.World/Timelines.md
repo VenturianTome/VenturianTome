@@ -1,7 +1,8 @@
-# Timelines  
+# Timelines 
+## [Playlist]()
 
 
-## | Jumps  
+## | Jumps / Skips 
 - Ghost went through a 3-year time skip, leaving Toast and Colon behind; herbal tea messes up Ghost's temporal processing [17:03 - Haunted By Grandma]
 
 ## | Trivia

@@ -25,15 +25,19 @@
 - ### Current Life  
   -   
 
- 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - Chakalata Soup was involved in a case known as "The Restaurant Haunting Case of 1996" \[6:47 - *Haunted By Delphox*]
+
+----
+
+## | Links  
+- [Masterlist]()  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Haunted By Delphox](https://youtu.be/gVmjfDiJ184)

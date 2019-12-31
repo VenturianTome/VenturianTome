@@ -29,20 +29,23 @@
 
 
 ## | Fakes
-- 
+- His fakes can be found [here](5.Characters/One-Use_Uncommon.html)!
  
-
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - He can become a bird \[16:53 - *Super-Powered Baby Mod*]
 - He believes he will die by getting shot by Papa on Thanksgiving as the Toilet Toucher [4:25 - *Acachalla's Thanksgiving (2019)*]
 - He loves parkour [0:45 - *Does Acachalla Like Wendy's?*]
 
+----
+
+## | Links  
+- [Masterlist]()  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Acachalla'a Thanksgiving \(2019)]()

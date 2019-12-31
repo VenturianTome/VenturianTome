@@ -24,16 +24,20 @@
 - ### Current Life  
   -   
 
- 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - Officer Maloney is played by Bethany in \[12:52 - *Bonnie Visits Walmart*]
 - Maloney has flirted with Toast \(who was pretending to be "Debra Toast") \[13:12 - *Bonnie Visits Walmart*]
+
+----
+
+## | Links  
+- [Masterlist]()  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g)

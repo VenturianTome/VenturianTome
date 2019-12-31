@@ -26,16 +26,20 @@
 - ### Current Life  
   -   
 
- 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - The Queen of England did tractor races in the palace \[4:39 - *Hell's Resort*]
 - There weren't a lot of royal beheadings in the palace, mostly just throwing people down a well \[4:39 - *Hell's Resort*]
+
+----
+
+## | Links  
+- [Masterlist]()  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g)

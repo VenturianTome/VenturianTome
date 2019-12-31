@@ -1,7 +1,7 @@
 # Series: Five Nights At Freddy's
+[Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSmXxL38qza5WIwpXO78Aun)
 
 
-Video Playlist: [All FNAF](https://www.youtube.com/playlist?list=PLwljWXtmIKiSmXxL38qza5WIwpXO78Aun)
 > **NOTE:** You might be looking for the characters, which are [here](5.Characters/FNAF_Animatronics.html)!
 
 
@@ -49,6 +49,8 @@ Video Playlist: [All FNAF](https://www.youtube.com/playlist?list=PLwljWXtmIKiSmX
 
 ## Series Trivia
 - 
+
+----
 
 ## Mentioned Videos
 - []()

@@ -31,15 +31,19 @@
 ## Toy Freddy
 - Toy Freddy was worked for P.I.E. since 1987 \[15:21 - *Playable Animatronics 2*]
 
- 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
--   
+- 
+
+----
+
+## | Links  
+- [Masterlist]()  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Funny Balloon Boy](https://youtu.be/EnoiRkmE1y8)

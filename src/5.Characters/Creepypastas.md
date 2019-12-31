@@ -32,14 +32,19 @@
 - He litters \[5:17 - *Dating Slenderman*]
 - Maloney has accused Slenderman of never retiring, but instead working for the CIA; Slender says he's working for Sia, the singer \[16:41 - *Dating Slenderman*]
 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 -   
+
+----
+
+## | Links  
+- [Masterlist]()  
+- [Characters Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Creepypasta College](https://youtu.be/TyTM5NU8jKY)

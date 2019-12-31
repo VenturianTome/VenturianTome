@@ -28,15 +28,19 @@
 - ### Current Life  
   -   
 
- 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - Maddie Friend has been in an insane asylum \[11:19 - *Scary Underground Horror Map*]
+
+----
+
+## | Links  
+- [Masterlist]()  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Scary Underground Horror Map](https://youtu.be/Hd_KT6KbnHI)

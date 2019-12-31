@@ -1,5 +1,6 @@
 # Other Games
- 
+## [Playlist]()
+
  
 ## **Banjo Kazooie**  
 ### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSlz620-NbpDD2Pr-UZ-XIB)
@@ -86,7 +87,9 @@
  
 ## Series Trivia
 - 
- 
+
+----
+
 ## Mentioned Videos
 - [G O O S E](https://youtu.be/DhNZfvpS5Xc)
  

@@ -49,14 +49,9 @@
 
 
 ## | Fakes
-- 
+- His fakes can be found [here](5.Characters/One-Use_Uncommon.html)!
 
- 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - He has a summer home in the UK \[0:45 - *Haunted By Godzilla*]
@@ -75,7 +70,8 @@
 - Toast comes from a family of hicks and "sort of was adopted" \[10:01 - *HUNT Pt.2 Finale*]
 - Toast's dad died before he was 5 \[10:29 - *HUNT Pt.2 Finale*]
 - Toast can't jump unless he's intoxicated \[19:23 - *HUNT Pt.2 Finale*]
-- Toast had a pink hamster; Ghost claims that it wasn't even a hamster \[23:40 - *HUNT Pt.2 Finale*]
+- Toast had a [pink hamster](5.Characters/Pets.html)
+  - Ghost claims that it wasn't even a hamster \[23:40 - *HUNT Pt.2 Finale*]
 - Toast has a sister named Jenny, and she was a cop \[3:41 - *I Am The Puppet*]
 - Toast's favourite book is "How To Make Macaroni & Cheese" \[11:47 - *The Horror Continues*]
 - Toast had a cat named Marshmallow, but it died \[13:51 - *The Horror Continues*]
@@ -150,6 +146,14 @@
 - His mom told him he's not allowed to be in cupboards [14:14 - *Acachalla's Thanksgiving (2019)*]
 - He has a crush on Dwayne Johnson [14:25 / 14:59 - *Acachalla's Thanksgiving (2019)*]
 
+----
+ 
+## | Links  
+- ### [Masterlist]()  
+- ### [Character Playlist]()  
+- ### [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Big Dragon Mod](https://youtu.be/nkWX5eoDSEk)

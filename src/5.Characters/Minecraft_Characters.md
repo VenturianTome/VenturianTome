@@ -19,16 +19,19 @@
 ----
 ## Yellow Flowers
 - Yellow flowers are wise, like “sages of the wilderness” [2:19 - *AMT S2 E2*]
+
 ----
 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
-
 ## | Other Trivia  
--   
+- 
+
+----
+## | Links  
+- [Masterlist]()  
+- [Characters Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - []()

@@ -40,12 +40,7 @@
 - ### Current Life  
   -   
 
- 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - Acachalla was hired to help renovate a mental institution and make it into an IHop; he only got paid $1.50 an hour \[19:17 - *Creepypasta College*]
@@ -54,6 +49,15 @@
 - Papa struggles to say "thanks" [7:18 - *Acachalla's Thanksgiving (2019)*]
 - Papa has a 2021 Tesla Cybertruck that he got from Russia [8:49 - *Acachalla's Thanksgiving (2019)* / 0:31 - *Does Acachalla Like Wendy's?*]
 - His occupation is "not necessarily occupied with anything," his social security number is "socially," and his bank account number is "lack of money" [10:37 - *Playable Animatronics 8*]
+
+----
+
+## | Links  
+- [Masterlist]()  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Creepypasta College](https://youtu.be/TyTM5NU8jKY)

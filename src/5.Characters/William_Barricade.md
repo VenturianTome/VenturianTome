@@ -25,15 +25,19 @@
 - ### Current Life  
   -   
 
- 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - According to him, Minions are "alien terrorists from another dimension" \[5:38 - *Minions Visit McDonald's*]
+
+---
+
+## | Links  
+- [Masterlist]()  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Minions Visit McDonald’s](https://youtu.be/Yk0RNCWNQKY)

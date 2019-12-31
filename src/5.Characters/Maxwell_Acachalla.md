@@ -28,15 +28,19 @@
 - ### Current Life  
   -   
 
- 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - Maxwell has died in a bank robbery and a court case \[12:57 - *Scary Underground Horror Map*]
+
+----
+
+## | Links  
+- [Masterlist]()  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Scary Underground Horror Map](https://youtu.be/Hd_KT6KbnHI)

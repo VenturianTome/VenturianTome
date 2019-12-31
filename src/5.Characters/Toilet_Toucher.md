@@ -29,12 +29,7 @@
 - ### Current Life  
   -   
 
- 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - He sucks at soccer \[5:35 - *Cops & Robbers: Toilet Toucher 2*]
@@ -47,6 +42,15 @@
 - His Ultimate Form is a floating Doge \[10:43 - *Super-Powered Baby Mod*]
 - The Toilet Toucher likes cheese & whiskey [3:52 - *Acachalla's Thanksgiving (2019)*]
 - Papa doesn't know who the Toilet Toucher is [4:43 - *Acachalla's Thanksgiving (2019)*]
+
+----
+
+## | Links  
+- [Masterlist]()  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk)

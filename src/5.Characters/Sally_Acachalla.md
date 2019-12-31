@@ -25,12 +25,7 @@
 - ### Current Life  
   -   
 
- 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - Sally feeds off of her own waffle body fat \[7:12 - *Acachalla Winter Vacation*]
@@ -40,6 +35,15 @@
 - She has a secret that she can't tell anyone because they'll get mad [13:05 - *Acachalla's Thanksgiving (2019)*]
   - Ghost recommended writing it down and putting it in the treehouse where no one will find it and then one day when Papa goes up there during a rage-filled moment he'll read it and know why he truly loves her
 - She got "turkey rot" from being in Thanksgiving "marination" for too long [18:53 - *Acachalla's Thanksgiving (2019)*]
+
+----
+
+## | Links  
+- [Masterlist]()  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk)

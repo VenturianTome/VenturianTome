@@ -1,5 +1,6 @@
 # Series: Tale Series
- 
+## [Playlist]()
+
  
 ## **A Fallout Tale**  
 ### [Full Playlist]()
@@ -23,7 +24,9 @@
  
 ## Series Trivia
 - 
- 
+
+----
+
 ## Mentioned Videos
 - []()
  

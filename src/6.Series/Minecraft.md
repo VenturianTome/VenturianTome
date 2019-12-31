@@ -1,4 +1,5 @@
 # Series: Minecraft
+## [Playlist]()
 
 
 > **NOTE:** You might be looking for the Minecraft characters, which are [here](5.Characters/Minecraft_Characters/html)!
@@ -32,7 +33,9 @@
  
 ## Series Trivia
 - 
- 
+
+----
+
 ## Mentioned Videos
 - [AMT S2 E1](https://youtu.be/QveKwulefP0)
 - [AMT S2 E2](https://youtu.be/uzu9DVzDVnk)

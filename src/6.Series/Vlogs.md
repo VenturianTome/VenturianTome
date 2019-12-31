@@ -1,6 +1,7 @@
 # Series: Vlogs
- 
- 
+## [Playlist]()
+
+
 ## **Moving Houses**  
 ### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiR-P2zo92MltQhVHCPAT_o4)
 - 
@@ -17,7 +18,9 @@
  
 ## Series Trivia
 - 
- 
+
+----
+
 ## Mentioned Videos
 - []()
  

@@ -38,12 +38,7 @@
 - ### Current Life  
   -   
 
- 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - He has abs \[3:20 - *Johnny Ghost Moving*]
@@ -55,6 +50,15 @@
 - “Peanut butter in the sink" is Spooker's diet \[14:09 - *Funny Horror Game*]
 - Spooker went to college once \[14:58 - *Funny Horror Game*]
 - Spooker's home looks similar to / is a grave \[19:05 - *Funny Horror Game*]
+
+----
+
+## | Links  
+- [Masterlist]()  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og)

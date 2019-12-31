@@ -35,16 +35,20 @@
 - ### Current Life  
   -   
 
- 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - Gregory can't read \[2:01 - *Cardboard Friend*]
 - Gregory says that "first \[his] parents left \[him], then \[his] grandparents" \[4:22 - *Cardboard Friend*]
+
+----
+
+## | Links  
+- [Masterlist]()  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Cardboard Friend](https://youtu.be/gHrJoNfyna4)

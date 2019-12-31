@@ -6,26 +6,6 @@
 
 ----
 
-## Trivia
-- Her and Jordan play Portal 2 Co-OP together a lot [0:17 - *Portal 2 Co-OP #1 (J&J)*]
-- Jordan claims his and Jessica's height difference is about the same as Gimli compared to Legolas ("My shins are the only thing in danger" -Jordan) [7:46 - *Portal 2 Co-OP #1 (J&J)*]
-- She barely knows Metroid [13:23 - *Portal 2 Co-OP #1 (J&J)*]
-- She loves chicken and Star Wars [18:30 - *Portal 2 Co-OP #4 (J&J)*]
-- She's taken a trip with Jordan
-  - A California road trip [0:17 - *what's happening*]
-  - Jessica is moving with Jordan to Indiana [3:09 - *I Got Married*]
-- Jessica's phone has a How To Train Your Dragon case [0:54 - *Q&A With My Wife*]
-- Jessica has a volume level that Jordan can find her anywhere \(she's the iceberg to his Titanic) [5:16 - *Q&A With My Wife*]
-- Jessica's dream vacation is DisneyLand / Switzerland [5:52 - Q&A With My Wife]
-- Her exposure to Pokemon was Pokemon Go [6:34 - *Q&A With My Wife*]
-- She has 3 FunkoPops; she plans to start a giant collection [13:24 - *Q&A With My Wife*]
-- Her favourite villain is Yzma from Emperor's New Groove [14:33 - *Q&A With My Wife*]
-- Jessica disagrees with pineapple on pizza [15:33 - *Q&A With My Wife*]
-- Jessica's favourite candy is the Hershey's Cookies and Creme bars [16:20 - *Q&A With My Wife*]
-- Jessica's ideal DnD character is a dwarf/wizard who was a librarian and everytime she sneezed she froze stuff around her and had a chicken foot [18:12 - *Q&A With My Wife*]
-
-----
-
 ## Marriage
 > "Love has compromise" -Jessica [22:06 - *Q&A With My Wife*]
 - Jordan and Jessica got married on October 31st, 2019 [0:10 - *I Got Married*]
@@ -44,6 +24,26 @@
   - Asking Jessica to get married had a lot of anxiety and emotions with it; Jordan's favourite moment with Jessica was right after the proposal, when they both were in the "let's do it" mindset and getting everything together for the wedding in a day [23:30]
 - Jordan says travelling with a wife has taught him patience that he didn't know he had [4:00 - *Q&A With My Wife*]
 > "When you're doing what you're meant to do, everything goes well" -Jordan [23:30 - *Q&A With My Wife*]
+
+----
+
+## Trivia
+- Her and Jordan play Portal 2 Co-OP together a lot [0:17 - *Portal 2 Co-OP #1 (J&J)*]
+- Jordan claims his and Jessica's height difference is about the same as Gimli compared to Legolas ("My shins are the only thing in danger" -Jordan) [7:46 - *Portal 2 Co-OP #1 (J&J)*]
+- She barely knows Metroid [13:23 - *Portal 2 Co-OP #1 (J&J)*]
+- She loves chicken and Star Wars [18:30 - *Portal 2 Co-OP #4 (J&J)*]
+- She's taken a trip with Jordan
+  - A California road trip [0:17 - *what's happening*]
+  - Jessica is moving with Jordan to Indiana [3:09 - *I Got Married*]
+- Jessica's phone has a How To Train Your Dragon case [0:54 - *Q&A With My Wife*]
+- Jessica has a volume level that Jordan can find her anywhere \(she's the iceberg to his Titanic) [5:16 - *Q&A With My Wife*]
+- Jessica's dream vacation is DisneyLand / Switzerland [5:52 - Q&A With My Wife]
+- Her exposure to Pokemon was Pokemon Go [6:34 - *Q&A With My Wife*]
+- She has 3 FunkoPops; she plans to start a giant collection [13:24 - *Q&A With My Wife*]
+- Her favourite villain is Yzma from Emperor's New Groove [14:33 - *Q&A With My Wife*]
+- Jessica disagrees with pineapple on pizza [15:33 - *Q&A With My Wife*]
+- Jessica's favourite candy is the Hershey's Cookies and Creme bars [16:20 - *Q&A With My Wife*]
+- Jessica's ideal DnD character is a dwarf/wizard who was a librarian and everytime she sneezed she froze stuff around her and had a chicken foot [18:12 - *Q&A With My Wife*]
 
 ----
 

@@ -28,15 +28,19 @@
 - ### Current Life  
   -   
 
- 
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - You can buy a life-size HDH mannequin for 4 payments of $29.99 \[1:09 - *Ghost Hunters*]
+
+----
+
+## | Links  
+- [Masterlist]()  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Ghost Hunters Horror Map](https://youtu.be/oA9jS2ArUk0)

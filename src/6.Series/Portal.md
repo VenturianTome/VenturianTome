@@ -1,5 +1,6 @@
 # Series: Portal
- 
+## [Playlist]()
+
  
 ## **Issac & Bethany's Co-op**  
 ### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSMPtKOeZ-pWCLkcmaoiH80)
@@ -15,7 +16,9 @@
  
 ## Series Trivia
 - 
- 
+
+----
+
 ## Mentioned Videos
 - [Portal 2 Co-OP #1 (J&J)](https://youtu.be/6GE1-ReTdtU)
 - [Portal 2 Co-OP #2 (J&J)](https://youtu.be/PMN_G7V_6nI)

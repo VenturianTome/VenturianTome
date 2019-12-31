@@ -28,17 +28,21 @@
 - ### Current Life  
   -   
 
- 
-## | Links  
-- ### [Masterlist]()
-- ### [Character Playlist]() 
-- ### [Branch Playlist]()
-
+----
 
 ## | Other Trivia  
 - Gertrude is a famous swimmer \[7:51 - *Scary Underground Horror Map*]
 - She went blind during *Acachalla's Thanksgiving (2019)* at [6:56 / 8:02]
   - They replaced her eyes with the turkey's \[16:34]
+
+----
+
+## | Links  
+- [Masterlist]()
+- [Character Playlist]() 
+- [Branch Playlist]()
+
+----
 
 ## | Mentioned Videos
 - [Acachalla's Thanksgiving \(2019)]()

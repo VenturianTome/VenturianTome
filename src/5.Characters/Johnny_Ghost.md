@@ -45,12 +45,7 @@
 - ### Current Life  
   -   
 
-
-## | Links  
-- ### [Masterlist]()  
-- ### [Character Playlist]()  
-- ### [Branch Playlist]()  
-
+----
 
 ## | Other Trivia  
 - He and Toast have a scheduled kite-flying day \[0:23 - *Haunted By Godzilla*]  
@@ -86,6 +81,15 @@
 - He doesn't know what a fire extinguisher is [5:32 - *Haunted School*]
 - He was in Band class [9:11 - *Haunted School*]
   - He says he's a drummer/dancer/singer-guy
+
+----
+
+## | Links  
+- [Masterlist]()  
+- [Character Playlist]()  
+- [Branch Playlist]()  
+
+----
 
 ## | Mentioned Videos
 - [Acachalla's Thanksgiving \(2019)]()
