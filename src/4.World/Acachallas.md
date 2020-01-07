@@ -1,5 +1,5 @@
 # The Acachallas
-## [Playlist]()
+## [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQ5Ycwlaq_kqvVdqgkROIdP)
 
 
 ## | Family Members  
@@ -13,7 +13,7 @@
 
 ## | Trivia
 - There was a Mario and Luigi ghost haunting at the Acachalla household in 1987 \[17:15 - *Funny Balloon Boy*]
-- The Acachalla's stove made a noise when they tried to clean it, so they don't want to try again, even though it's filthy [15:38 - *Acachalla's Thanksgiving (2019)*]
+- The Acachalla's stove made a noise when they tried to clean it, so they don't want to try again, even though it's filthy \[15:38 - *Acachalla's Thanksgiving (2019)*]
 
 
 ## | Mentioned Videos

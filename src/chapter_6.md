@@ -29,8 +29,8 @@
 - Survival Maps
 
 ## [**Livestreams**](6.Series/Livestreams.html)
-- One Million Subscribers
 - Anniversary Livestreams
+- Subscriber Milestones
 
 ## [**Minecraft**](6.Series/Minecraft.html)
 - A Minecraft Tale

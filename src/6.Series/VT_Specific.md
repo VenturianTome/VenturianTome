@@ -1,34 +1,50 @@
 # Series: VT-Specific
-## [Playlist]()
 
  
 ## **Animations**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS9e8P8yWyK9iexXWBXne-g)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS9e8P8yWyK9iexXWBXne-g)
 - 
- 
+
+### Mentioned Videos
+- []()
+
+----
+
 ## **Anniversary Livestreams**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSzbw3HuSRtnuR4-h_APaUT)
-- 
- 
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSzbw3HuSRtnuR4-h_APaUT)
+- More about these can be found [here](6.Series/Livestreams.html)
+
+----
+
 ## **Montages**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQGXCslKRBC-PL9JASozwK8)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQGXCslKRBC-PL9JASozwK8)
 - 
- 
+
+### Mentioned Videos
+- []()
+
+----
+
 ## **Speedpaints**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSwCvOKbYdriVjJhtO8PtZj)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSwCvOKbYdriVjJhtO8PtZj)
 - 
- 
+
+### Mentioned Videos
+- []()
+
+----
+
 ## **VenturianTale Mods**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS3zW-4Fs03PStqBnzIFiI5)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS3zW-4Fs03PStqBnzIFiI5)
 - 
+
+### Mentioned Videos
+- []()
 
 ----
  
 ## Series Trivia
 - 
- 
-## Mentioned Videos
-- []()
  
 ----
  

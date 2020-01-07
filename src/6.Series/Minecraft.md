@@ -5,15 +5,25 @@
 > **NOTE:** You might be looking for the Minecraft characters, which are [here](5.Characters/Minecraft_Characters/html)!
 
 ## **A Minecraft Tale**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQ7slEkLipg8CICj5I6RO_H)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQ7slEkLipg8CICj5I6RO_H)
 - 
- 
+
+### Mentioned Videos
+- []()
+
+----
+
 ## **Another Minecraft Tale**  
-### [Full Playlist]()
+### [Playlist]()
 - 
- 
+
+### Mentioned Videos
+- []()
+
+----
+
 ## **Another Minecraft Tale: Season 2**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS_ZM1N5DDG5sLsSIP30K3r)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS_ZM1N5DDG5sLsSIP30K3r)
 - Being a Florist
   > “Being a florist has nothing to do with planting or growing; being a florist is like being a therapist for plants” - Jordan [2:19 - *AMT S2 E2*]
   - Florists call tall grass biomes “bliomes” and just put “l” as the 2nd letter of random words [2:10 - *AMT S2 E1*]
@@ -21,13 +31,26 @@
   - Minecraft Florists can eat anything but squid (because they would make the best florists with 8 tentacles) [11:38 - *AMT S2 E1*]
   - Farms are against the florist way [5:52 / 6:00 - *AMT S2 E9*]
 
+### Mentioned Videos
+- []()
+
+----
+
 ## **Fan Challenges**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRUhf_a4eKRmTQXx8IKOO4o)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRUhf_a4eKRmTQXx8IKOO4o)
 - 
+
+### Mentioned Videos
+- []()
+
+----
  
 ## **Mods & Maps**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSc3ZD9BquRz__Cv-mWP3IJ)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSc3ZD9BquRz__Cv-mWP3IJ)
 - 
+
+### Mentioned Videos
+- []()
  
 ----
  

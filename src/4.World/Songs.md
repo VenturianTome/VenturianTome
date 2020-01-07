@@ -1,5 +1,5 @@
 # Songs
-## [Playlist]()
+## [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRHBCcZqY6zwS-4NRU4z1TR)
 
 
 ## | Back from the Dead

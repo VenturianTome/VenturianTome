@@ -1,5 +1,6 @@
 # Ghosts & Entities
-## [Playlist]()
+## [Entities Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSnOYhURHBJLwi7ZuRXC_zN)
+## [Levels Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQdkpyDPi95F7V0V39JAoeW)
 
 
 ## | Levels / Categories
@@ -83,8 +84,8 @@
 - Maxwell and Cardboard Friend are friends \[10:31 - *Prop Hunt 18: Ghost Hunt*]
 - There was a Mario and Luigi ghost haunting at the Acachalla household in 1987 \[17:15 - *Funny Balloon Boy*]
 - Ghost and Toast faced a Level 6 in Brazil; their plan kind of worked and set off a volcano \[6:31 - *Paranormal Ghost Hunt*]
-- An Abyss Mouth is a portal to the Underworld; they were not used since 84 A.D. [11:07 - Paranormal Ghost Hunt]
-- Ghost claims that the top drawer of a cupboard is cursed if the cupboard has 3 drawers [14:29 - *Acachalla's Thanksgiving (2019)*]
+- An Abyss Mouth is a portal to the Underworld; they were not used since 84 A.D. \[11:07 - Paranormal Ghost Hunt]
+- Ghost claims that the top drawer of a cupboard is cursed if the cupboard has 3 drawers \[14:29 - *Acachalla's Thanksgiving (2019)*]
 
 ## | Mentioned Videos
 - [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk)

@@ -1,5 +1,5 @@
-# Paula Frye / Paula Blox Art
-### [*Playlist*]()
+# Paula Frye / Paula Blox Art / MomWithGuns
+### [*Playlist*](https://www.youtube.com/playlist?list=PLwljWXtmIKiTC5ra7VWTv3ArqwplzVNlx)
 
 ## Basics
 - Paula is the mother of the [siblings](../chapter_3.html)
@@ -13,7 +13,7 @@
 ----
 
 ## Social Media / Other Sites
-- [Instagram]()
+- [Instagram](https://instagram.com/paulablox?igshid=1tzjx6waiq1p7)
 - [Youtube Channel]()
 
 ----

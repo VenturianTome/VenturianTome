@@ -1,6 +1,6 @@
 # The P.I.E. Team
 # Paranormal Investigators Extraordinaire
-## [Playlist]()
+## [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiT-Ikb_wQoVS7-Bb8dDsQdx)
 
 
 ## | Members  

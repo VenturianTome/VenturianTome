@@ -1,6 +1,6 @@
 # Dimensions / Realms  
 #### *A dimension, as defined by Johnny Ghost, is a plane of existence held within space-time but not relative to space-time held between other dimensions by something theorized as dark matter, which causes time to flow in a linear progression of cause to effect [1:21 - Big Dragon]*
-## [Playlist]()
+## [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQ6dsoaLZzYI3D9_3DXtC_B)
 
 
 ## | Levels
@@ -31,7 +31,7 @@
 - An Abyss Mouth is a portal to the Underworld; they were not used since 84 A.D. \[11:07 - *Paranormal Ghost Hunt*]
 - Spooker has banished ghosts to Mordor \[8:42 / 14:21 - *Scary Ghost Children*]
 
-> **NOTE:** Information about the Puppet Arc can be found [here](../chapter_4.html)
+> Information about the Puppet Arc can be found [here](../chapter_4.html)
 
 ## | Mentioned Videos
 - [Baraslavian Prison](https://youtu.be/acQ_AEIHW-M)

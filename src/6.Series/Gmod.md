@@ -1,9 +1,8 @@
-# Series: Gmod 
-## [Playlist]()
+# Series: Gmod
 
 
 ## **Cops & Robbers**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTfblhqDNcSubJ3Bg5TvouG)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTfblhqDNcSubJ3Bg5TvouG)
 - 
 
 ### Mentioned Videos
@@ -12,7 +11,7 @@
 ----
 
 ## **Crazy Fun Dupes**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTQxaqHpA0otEYKKjqEQO3D)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTQxaqHpA0otEYKKjqEQO3D)
 - 
 
 ### Mentioned Videos
@@ -21,7 +20,7 @@
 ----
 
 ## **Deathmatches**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQyS4TDesAXnlwaRjMDqIM0)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQyS4TDesAXnlwaRjMDqIM0)
 - 
 
 ### Mentioned Videos
@@ -30,7 +29,7 @@
 ----
 
 ## **Fan Challenges**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiR_uZuIR8xD0b_AIMV59aCV)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiR_uZuIR8xD0b_AIMV59aCV)
 - 
 
 ### Mentioned Videos
@@ -39,7 +38,7 @@
 ----
 
 ## **Horror Maps**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSvAdfVX_gX1LQSkMybEUHB)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSvAdfVX_gX1LQSkMybEUHB)
 - 
 
 ### Mentioned Videos
@@ -48,7 +47,7 @@
 ----
 
 ## **Mods & Maps**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTD_kjV4TxxREJYnqZ1NMOq)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTD_kjV4TxxREJYnqZ1NMOq)
 - 
 
 ### Mentioned Videos
@@ -57,8 +56,8 @@
 ----
 
 ## **Murder**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSuLDit5I43PSnjAkQUi4cf)
-- Scores
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSuLDit5I43PSnjAkQUi4cf)
+- Scores \(Total)
   - Bystanders 9
   - Murderer 11
 
@@ -69,7 +68,7 @@
 ----
 
 ## **Roleplays**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRGpPwlWY9M-6FiN2dUrJP0)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRGpPwlWY9M-6FiN2dUrJP0)
 - 
 
 ### Mentioned Videos
@@ -78,7 +77,7 @@
 ----
 
 ## **Prop Hunt**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRgYZKOhNdA2YuXGB4Crikj)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRgYZKOhNdA2YuXGB4Crikj)
 - 
 
 ### Mentioned Videos
@@ -87,7 +86,7 @@
 ----
 
 ## **Saves**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTQqAZt0CfbR7xm-XUEvZP2)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTQqAZt0CfbR7xm-XUEvZP2)
 - 
 
 ### Mentioned Videos
@@ -96,7 +95,7 @@
 ----
 
 ## **Scripted**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS_Xjd8XcOK8rUhzv6VlhAI)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS_Xjd8XcOK8rUhzv6VlhAI)
 - VenturianTale Scripted
   - Bethany named the story "The Ghost in the Bathroom: Part 17" \[1:28]
   - PIE is investigating Bert Niceguy's house because he had a ghost problem \[3:16]
@@ -111,7 +110,7 @@
 ----
 
 ## **Stop It Slender!**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSu4vfBodQbed5STEVuxCQS)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSu4vfBodQbed5STEVuxCQS)
 - 
 
 ### Mentioned Videos
@@ -120,7 +119,7 @@
 ----
 
 ## **Survival Maps**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTyGnpUAZa8ibv8XQZCloSH)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTyGnpUAZa8ibv8XQZCloSH)
 - 
 
 ### Mentioned Videos
