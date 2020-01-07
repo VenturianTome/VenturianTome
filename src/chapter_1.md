@@ -1,5 +1,5 @@
 # Welcome to VenturianTome!
-## > A place to store the lore <
+## A fanmade library of lore and trivia for the characters of the YouTube channel VenturianTale
 
 
 Welcome to VenturianTome, a site dedicated to keeping track of everything VenturianTale and providing sources for all of the information that we find!  
