@@ -169,7 +169,7 @@
 
 ----
 
-##  Charlie Charlie Chase Buttface
+## Charlie Charlie Chase Buttface
 #### Origin: *Funny Baby Mod*
 - Charlie keeps switching accents \(Russian, Japanese) \[5:32 / 6:40 - *Funny Baby Mod*]
 - She lives in a green house in a culdesac with Bonbon \[10:11 - *Funny Baby Mod*]
@@ -561,15 +561,6 @@
 
 ----
 
-## Mark \(Skyrim)
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
 ## Mario
 #### Origin: **
 - 
@@ -756,7 +747,7 @@
 
 ----
 
-## Sonic the Hedgehog
+## Sonic the Hedgehog / Sonic.exe
 #### Origin: **
 - Sonic.exe is a Level 5 noob ghost that was only recently evolved into a Level 5, which is a physical entity \(unlike a Level 4) [7:55 - *Haunted By Sonic*]
 
@@ -848,15 +839,6 @@
 ----
 
 ## Tootsie
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Vahl Kahli \(Elder Scrolls Online)
 #### Origin: **
 - 
 
