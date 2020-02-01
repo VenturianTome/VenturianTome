@@ -1,41 +1,27 @@
 # Aimee  
-
+### [Masterlist]()
+### [Playlist]()
 
 ## | Basics  
-- Introduction Video: **  
-- Branch / Occupation: Ghost/Entity   
-- Weapon of Choice: none  
+- Introduction Video: **
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
-- Species: Ghost  
-- Other Names / Titles:   
-  - none  
+- Species: [Ghost](4.World/Ghost-Entities.html)
 - Played By: [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)  
 
 
 ## | Relationships  
 - [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)  
-  -  
+  - --
 
+----
 
 ## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+- 
 
 ----
 
 ## | Other Trivia  
--   
-
-----
-
-## | Links  
-- [Masterlist]()  
-- [Character Playlist]()  
-- [Branch Playlist]()  
+- 
 
 ----
 

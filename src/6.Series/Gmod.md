@@ -57,11 +57,13 @@
 
 ## **Murder**  
 ### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSuLDit5I43PSnjAkQUi4cf)
-- Scores \(Total)
+- Total Score
   - Bystanders 9
   - Murderer 11
+- A coffee mug keeps you safe during Murder [20:03 - *Murder 3: Jimmy Casket*]
 
 ### Mentioned Videos
+- [Murder 3: Jimmy Casket](https://youtu.be/ijGTXelXjx4) - NOT IN TOTAL SCORE
 - [Murder 14: Announcements, Celebrations](https://youtu.be/Tmn4m60nE5g)
 - [Murder 17: Murder Mystery at Freddy's Pizzaria](https://youtu.be/e2Eo0UxQviQ)
 

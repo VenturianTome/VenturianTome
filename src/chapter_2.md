@@ -11,15 +11,18 @@ Hello! Glad to know you're interested to know who's running this site.
 
 ## Main Contact
 - I will try to respond to any emails that I get. If you need something from the site or from the Admin, contact me at [*venturiantome@gmail.com*](https://mail.google.com/mail/u/0/)
+- Please do not send any hate mail or passive-aggresive emails. That behaviour is unacceptable and inconsiderate.
 
 ## Social Media
 > Feel free to contact me at any one of these as long as you are *respectful* and *understanding* that *I may not be able to answer immediately*. I will try to answer any messages that I get; if I don't answer yours, I promise that I will read it as soon as I am able.
 - Send me cool things and chat with me on my [Instagram](https://instagram.com/hauntedbyeverything?igshid=y29spkcp7eri)
-- Interact with me a lot on my [Tumblr](https://www.tumblr.com/blog/venturiantome) \(and [sideblog](https://www.tumblr.com/blog/johnnynojohnnyyes))
+- Interact with me a lot on [my Tumblr](https://www.tumblr.com/blog/venturiantome) \(and [sideblog](https://www.tumblr.com/blog/johnnynojohnnyyes))
 - Check out my videos and playlists on my [YouTube Channel](https://youtube.com/channel/UCY0etJmLpMe20cv3j5Pm25Q)
 
 ## Helping The Admin
-- To help the Admin, please contact them respectfully and ask how you can help. If you are unsure check the possibilities below to see how to help!
+- To help the Admin, please contact them respectfully and ask how you can help. If you are unsure, check the possibilities below to see how to help!
   - Video Notes
     - To gain information for each page, making Video Notes pages are crucial. They help to get information from specific videos, whether they be old or new, and to get timestamps for when each bit of information is learned.
-    - Learn how to properly make these using my tutorial either on my [Tumblr](https://venturiantome.tumblr.com/post/187827892813/oh-i-forgot-a-key-detail-to-get-these-to-me-you) or [Google Docs](https://docs.google.com/document/d/1EtSWsHFoiZhlNxEZkv6U3YR3iqmkSeaUQ4xFkfOOrZ4/edit)
+    - Learn how to properly make these using my tutorial either on my [Tumblr](https://venturiantome.tumblr.com/post/187827892813/oh-i-forgot-a-key-detail-to-get-these-to-me-you) or [Google Docs](https://docs.google.com/document/d/1EtSWsHFoiZhlNxEZkv6U3YR3iqmkSeaUQ4xFkfOOrZ4/edit?usp=sharing)
+  - Corrections
+    - We make mistakes! Please feel free to correct us and the information on this site using [this guide](https://docs.google.com/document/d/1U40g6dqhDeBJgtTbPVV-S0vthlIVFltQpwKWZESY77k/edit?usp=sharing) so we can fix it as fast as possible

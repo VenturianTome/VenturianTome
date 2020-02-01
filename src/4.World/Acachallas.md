@@ -1,5 +1,5 @@
 # The Acachallas
-## [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQ5Ycwlaq_kqvVdqgkROIdP)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQ5Ycwlaq_kqvVdqgkROIdP)
 
 
 ## | Family Members  
@@ -11,10 +11,13 @@
 - [Spencer](5.Characters/Spencer_Acachalla.html)
 - [Sue](5.Characters/Sue_Acachalla.html)
 
-## | Trivia
+----
+
+## | Acachalla Family Trivia
 - There was a Mario and Luigi ghost haunting at the Acachalla household in 1987 \[17:15 - *Funny Balloon Boy*]
 - The Acachalla's stove made a noise when they tried to clean it, so they don't want to try again, even though it's filthy \[15:38 - *Acachalla's Thanksgiving (2019)*]
 
+----
 
 ## | Mentioned Videos
 - [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk)

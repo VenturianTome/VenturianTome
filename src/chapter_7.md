@@ -1,7 +1,7 @@
 # Other Family Members
 
 ## Basics
-- The Frye Siblings \(Jordan, Cierra, Bethany & Isaac) are the people who run [VenturianTale](https://www.youtube.com/user/VenturianTale)
+- [The Frye Siblings](../chapter_3.html) are the people who run [VenturianTale](https://www.youtube.com/user/VenturianTale), but many other people have been on the channel or have contributed to the videos
 
 ----
 ## Other Family Members

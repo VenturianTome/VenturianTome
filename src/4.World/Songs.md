@@ -1,22 +1,25 @@
 # Songs
-## [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRHBCcZqY6zwS-4NRU4z1TR)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRHBCcZqY6zwS-4NRU4z1TR)
 
 
-## | Back from the Dead
-- Origin: ?? - *Motorcycle Mod*
+## | "Back from the Dead"
+- **Origin:** ?? - *Motorcycle Mod*
 
 ## | Cash Register Song
-- Origin: 6:26 - *Working At McDonald’s*
+- **Origin:** 6:26 - *Working At McDonald’s*
 
 ## | "I'm Dancin' On The Roof!"
-- Origin: 9:15 / 11:04 - *Playable Animatronics 13*
+- **Origin:** 9:15 / 11:04 - *Playable Animatronics 13*
 
 ## | "Murder!"
-- Origin: 0:30 - *Murder 11: Olaf*
+- **Origin:** 0:30 - *Murder 11: Olaf*
+
+----
 
 ## | Trivia
-- 
+- There are many more songs on Jordan's [Soundcloud](https://soundcloud.com/venturianmusic)!
 
+----
 
 ## | Mentioned Videos
 - [Motorcycle Mod](https://youtu.be/gNREBUzmn98)

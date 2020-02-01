@@ -23,13 +23,16 @@
 - 
 
 ## Toy Bonnie
-- Toy Bonnie got assigned to the role of moving target in the firing range for P.I.E. \[7:32 - *Playable Animatronics 2*]
+- He got assigned to the role of moving target in the firing range for P.I.E. \[7:32 - *Playable Animatronics 2*]
 
 ## Toy Chica
-- Toy Chica got assigned to make P.I.E. baked goods \[10:10 - *Playable Animatronics 2*]
+- She got assigned to make P.I.E. baked goods \[10:10 - *Playable Animatronics 2*]
 
 ## Toy Freddy
-- Toy Freddy was worked for P.I.E. since 1987 \[15:21 - *Playable Animatronics 2*]
+- He has worked for P.I.E. since 1987 \[15:21 - *Playable Animatronics 2*]
+
+## Withered Bonnie
+- Is a level 3 entity that has lots of steam \[6:42 - *Playable Animatronics 10*]
 
 ----
 
@@ -48,6 +51,7 @@
 ## | Mentioned Videos
 - [Funny Balloon Boy](https://youtu.be/EnoiRkmE1y8)
 - [Playable Animatronics 2](https://youtu.be/_tv07JJ0HE8)
+- [Playable Animatronics 10](https://youtu.be/2qdDjiasqEc)
 - [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U)
 
 ----

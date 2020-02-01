@@ -108,7 +108,7 @@
 ----
 
 ## Billy Acachalla \(Others / Fakes)
-#### Origins: **
+#### Origin: **
 - There was a fake Billy in \[11:47 - *Murder 4: Majora's Mask*] that he won against
 
 ### Mentioned Videos
@@ -482,15 +482,6 @@
 
 ----
 
-## K-C
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
 ## Katrina
 #### Origin: *HUNT Pt.2* & *HUNT Pt.2 FINALE*
 - Ghost recognizes an entity as "Katrina" and says the ghost is messing with him \[3:59]
@@ -501,6 +492,15 @@
 ### Mentioned Videos
 - [HUNT Pt.2](https://youtu.be/Q_iwzgwlbwg)
 - [HUNT Pt.2 FINALE](https://youtu.be/nNLNxjfItLU)
+
+----
+
+## K-C
+#### Origin: **
+- 
+
+### Mentioned Videos
+- 
 
 ----
 

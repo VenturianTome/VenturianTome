@@ -1,48 +1,22 @@
 # Series: Tale Series
 
-> **NOTE:** *A Minecraft Tale* and other Minecraft-related media can be found [here](6.Series/Minecraft.html)
-
-## **Elder Scrolls Online**  
-### [Full Playlist]()
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## **A Fallout Tale**  
-### [Full Playlist]()
-- 
-
-### Mentioned Videos
-- []()
+## | Series
+### Fallout
+- [A Fallout Tale](./6.Series/Tale_Series/Fallout_Tale.md)
+### Minecraft
+- [A Minecraft Tale](./6.Series/Tale_Series/Minecraft_Tale.md)
+- [Another Minecraft Tale](./6.Series/Tale_Series/Another_Minecraft_Tale.md)
+- [Another Minecraft Tale \(Season 2)](./6.Series/Tale_Series/Another_Minecraft_Tale_S2.md)
+### Oblivion
+- [An Oblivion Tale](./6.Series/Tale_Series/Oblivion_Tale.md)
+### Skyrim
+- [Elder Scrolls Online](./6.Series/Tale_Series/Elder_Scrolls_Online.md)
+- [A Skyrim Tale](./6.Series/Tale_Series/Skyrim_Tale.md)
 
 ----
 
-## **A Skyrim Tale**  
-### [Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiR7oOC07oqYQeLpMaq01YYp)
+## | Series Trivia
 - 
-
-### Mentioned Videos
-- []()
-
-----
-
-## **An Oblivion Tale**  
-### [Full Playlist]()
-- 
-
-### Mentioned Videos
-- []()
-
-----
- 
-## Series Trivia
-- 
-
-### Mentioned Videos
-- []()
 
 ----
  

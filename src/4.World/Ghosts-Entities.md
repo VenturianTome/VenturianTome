@@ -1,11 +1,11 @@
 # Ghosts & Entities
-## [Entities Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSnOYhURHBJLwi7ZuRXC_zN)
-## [Levels Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQdkpyDPi95F7V0V39JAoeW)
+### [Entities Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSnOYhURHBJLwi7ZuRXC_zN)
+### [Levels Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQdkpyDPi95F7V0V39JAoeW)
 
 
 ## | Levels / Categories
 #### **Level 0** 
-  - Ex: The FNAF Cupcake \[5:33 - *Scary Ghost Children*]  
+  - Example: [The FNAF Cupcake](5.Characters/FNAF_Animatronics.html) \[5:33 - *Scary Ghost Children*]  
 #### **Level 1**
 - Only appears with equipment \[2:21 - *Paranormal Ghost Hunt*]  
 #### **Level 2**
@@ -13,44 +13,47 @@
 #### **Level 3**
 - Can be heard \[2:21 - *Paranormal Ghost Hunt*]
 - Have lots of steam \[6:42 - *Playable Animatronics 10*]  
+  - Example: [Withered Bonnie](5.Characters/FNAF_Animatronics.html)
 #### **Level 4**
 - Usually don't interact with humans; can scratch you when angry \[2:53 - *Funny Horror Game*]
 - Have a physical body \[2:21 - *Paranormal Ghost Hunt*]
 - Typically hide a key somewhere in a room under a table or in a cabinet and have a jumpscare for said cabinet \[15:31 - *Paranormal Ghost Hunt*]
 - Resistant to reflective surfaces \[6:33 - *Haunted By Cardboard Friend*]
-  - Ex: Cardboard Friend  
+  - Example: [Cardboard Friend](5.Characters/Cardboard_Friend.html)  
 #### **Level 5**
 - A physical entity \[7:55 - *Haunted By Sonic*]
 - Typically stays closer to an exit \[9:58 - *Scary Ghost Children*]
-  - Ex: Sonic.exe \[7:55 - *Haunted By Sonic*]
-  - Ex: Unnamed Level 5 ghost that poops flowers \[8:14 - *Ghost Hunters*]  
+  - Example: [Sonic.exe](5.Characters/One-Use_Uncommon.html) \[7:55 - *Haunted By Sonic*]
+  - Example: Unnamed Level 5 ghost that poops flowers \[8:14 - *Ghost Hunters*]  
 #### **Level 6** 
-  - Ex: Zombies \[16:51 - *Paranormal Ghost Hunt*]  
-#### **Level 7.6894503.01**
-  - Ex. The Toilet Toucher \[6:59 - *VenturianTale Scripted*]
+  - Example: Zombies \[16:51 - *Paranormal Ghost Hunt*]  
+#### **Level 7.6894503.01 or 7.6894503.02**
+- Only ever mentioned in the first *VenturianTale Scripted* video
+  - Example: [The Toilet Toucher](5.Characters/Toilet_Toucher.html) \[6:59 - *VenturianTale Scripted*]
 #### **Level 15**
 - Smell like bacon grease and can control other people's minds and possibly travel to other dimensions \[5:11 / 6:32 / 7:03 - *Hell's Island Pt.2*]
 - Can tear your head clean off your body \[14:39 - *Scary Ghost Children*]
-  - Ex: Chakalata Soup \[17:28 - *Haunted By Delphox*]  
+  - Example: [Chakalata Soup](5.Characters/Chakalata_Soup.html) \[17:28 - *Haunted By Delphox*]  
 #### **Level 25**
 - Could destroy the entire world with a flick of its fingers or open a dimension to a black hole at any time \(“You never face a demon of that caliber”) \[15:09 - *Scary Ghost Children*]
 - Can only be stopped by a certain radio/music setting \[10:05 - *Haunted By Delphox*]
-  - Ex: Demon that looks like a cat plushie \[15:09 - *Scary Ghost Children*]
-  - Ex: Balloons \[10:05 - *Haunted By Delphox*] 
+  - Example: [The Cat Demon](5.Characters/One-Use_Uncommon.html) \[15:09 - *Scary Ghost Children*]
+  - Example: Balloons \[10:05 - *Haunted By Delphox*] 
 #### **Alpha Level**
 - Impervious to grenades and possibly popsicles \[5:45 - *Haunted By Delphox*]  
 
+----
 
 ## | Other Types of Entities
 #### Crusty Butt Entities
 - Haven't been heard of since a sarcophagus was uncovered in Gaza, Egypt \[2:05 - *Haunted By Grandma*]
+  - Example: [Grandma Ghost](5.Characters/One-Use_Uncommon.html)
+    - She won't come near car keys and can mess with time \[18:36 / 19:24 - *Haunted By Grandma*]
 #### Dragon Ghosts
 - Roofs are super dangerous because they can land on them at any time \[12:50 - *Scary Ghost Children*]
-#### Grandma Ghost
-- She won't come near car keys and can mess with time \[18:36 / 19:24 - *Haunted By Grandma*]
 #### Hawaiian Legend
 - A spirit that would take people \[3:26 - *Haunted By Grandma*]
-- A Hawaiian girl signifies a kidnapping / represents the afterlife \(as "payment" for the soul of the person) \[5:12 - *Haunted By Grandma*]
+- A Hawaiian girl signifies a kidnapping & represents the afterlife \(as "payment" for the soul of the person) \[5:12 - *Haunted By Grandma*]
 #### Minions
 - They are "alien terrorists from another dimension" \(according to William Barricade) \[5:38 - *Minions Visit McDonald's*]
 #### Mothman
@@ -61,31 +64,37 @@
 - Only lets off paranormal smoke, which doesn't fill up a room \[0:40 - *HUNT Pt.2*]
 #### The Puppet \(Puppet Arc)
 - It is 7 1/2 feet tall and shakes around quite a bit \[3:19 - *Hell's Island Pt.1*]
+> More information on the Puppet Arc can be found [here](../chapter_4.html)
 #### Woodswimmer Ghosts
 - Had not been seen since the summer of 1999 before *Haunted By Godzilla* \[8:14]
-  - Godzilla is one
+  - Example: [Godzilla](5.Characters/One-Use_Uncommon.html)
+
+----
 
 ## | Interacting with Entities
 - Never use the restroom of a haunted building; ghosts love bathrooms \[3:30 - *Funny Horror Game*]
 - Ghosts find cameras very aggravating \[13:13 - *Paranormal Ghost Hunt*]
-- Ghosts are very shy, so if you make too much noise or twitch around you can scare them off \[6:38 - *Playable Animatronics 2*]
+- Ghosts are very shy, so if you make too much noise or twitch around you can scare them off and make them hide \[6:38 - *Playable Animatronics 2* // 16:43 - *Scary Ghost Children*]
+  - Lesson 13: Do not hum around ghosts; music to ghosts sets them off and makes them go feral \[10:34 - *Scary Ghost Children*]
+  - However, ghosts love to hear screams \[3:41 - *Scary Underground*]
 - Under Section 31 of the Shadow Proclamation, ghostly bicycles must be shot with a shotgun \[1:51 - *Prop Hunt: Ghost Hunt*]
 - To banish a ghost, you must announce your name to it and show that you are not afraid of it \(otherwise it can haunt you for the rest of your life) \[6:29 - *Scary Ghost Children*]
-  - Ghosts are banished to the 13th Realm \(or Mordor, in Spooker’s case) \[8:42 / 14:21]
-- Ghosts love to hear screams \[3:41 - *Scary Underground*]
 - Ghosts hate disorderly things \[14:59 - *Johnny Ghost L4D*]
-- Lesson 13: Do not hum around ghosts; music to ghosts sets them off and makes them go feral \[10:34 - *Scary Ghost Children*]
-- A ghost will hide if it hears you coming \[16:43 - *Scary Ghost Children*]
 - Ghosts hate it when trash cans are turned upside down as it is a sign of disrespect \[3:01 - *Haunted By Delphox*]
-- A ghost will hide if it hears you coming \[16:43 - *Scary Ghost Children*]
 - Mirrors/reflections make a Special Level 3 through Level 16 leave the premises \[6:33 - *Haunted By Cardboard Friend*]
 
+----
+
 ## | Other Entity Trivia
-- Maxwell and Cardboard Friend are friends \[10:31 - *Prop Hunt 18: Ghost Hunt*]
-- There was a Mario and Luigi ghost haunting at the Acachalla household in 1987 \[17:15 - *Funny Balloon Boy*]
-- Ghost and Toast faced a Level 6 in Brazil; their plan kind of worked and set off a volcano \[6:31 - *Paranormal Ghost Hunt*]
+- [Maxwell](5.Characters/Maxwell_Acachalla.html) and [Cardboard Friend](5.Characters/Cardboard_Friend.html) are friends \[10:31 - *Prop Hunt 18: Ghost Hunt*]
+- There was a [Mario and Luigi](5.Characters/One-Use_Uncommon.html) ghost haunting at the Acachalla household in 1987 \[17:15 - *Funny Balloon Boy*]
+- [Ghost](5.Characters.Johnny_Ghost.html) and [Toast](5.Characters/Johnny_Toast.html) faced a Level 6 in Brazil; their plan kind of worked and set off a volcano \[6:31 - *Paranormal Ghost Hunt*]
 - An Abyss Mouth is a portal to the Underworld; they were not used since 84 A.D. \[11:07 - Paranormal Ghost Hunt]
-- Ghost claims that the top drawer of a cupboard is cursed if the cupboard has 3 drawers \[14:29 - *Acachalla's Thanksgiving (2019)*]
+- [Ghost](5.Characters.Johnny_Ghost.html) claims that the top drawer of a cupboard is cursed if the cupboard has 3 drawers \[14:29 - *Acachalla's Thanksgiving (2019)*]
+
+> More information about the P.I.E. Team can be found [here](4.World/PIE_Team.html)
+
+----
 
 ## | Mentioned Videos
 - [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk)
@@ -105,11 +114,6 @@
 - [Prop Hunt 18: Ghost Hunt](https://youtu.be/2yVe4fe8lRw)
 - [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U)
 - [Scary Underground Horror Map](https://youtu.be/Hd_KT6KbnHI)
-
-
-## | Links
-- [Levels Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQdkpyDPi95F7V0V39JAoeW)
-- [Entities Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSnOYhURHBJLwi7ZuRXC_zN)
 
 ----
 

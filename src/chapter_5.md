@@ -60,7 +60,7 @@
 - [Maxwell Acachalla](5.Characters/Maxwell_Acachalla.html)
 - [Minecraft Characters](5.Characters/Minecraft_Characters.html)
   - Mountain Cows
-  - Palayy
+  - Palayy the Cat
   - Red Flowers
   - Tommy the Mentor
   - Yellow Flowers
@@ -81,6 +81,7 @@
   - Billy Acachalla \(Others / Fakes)
   - Bonbon the Baby / Baby Doll
   - Boot the Minion
+  - Burning Bridges
   - Buzz Lightyear \(Toy Story)
   - Cecil the Gnome
   - Charlie Charlie Chase Buttface
@@ -116,11 +117,12 @@
   - Johnny Roast
   - Johnny Toast \(Others / Fakes)
   - Judy Hopps \(Zootopia)
-  - K-C
   - Katrina
+  - K-C
   - Kylo Ren \(Star Wars)
   - Lady Buttlegum
   - Leon S. Kennedy
+  - Leonard Malkovich
   - Luigi
   - Mark \(Skyrim)
   - Mario
@@ -136,6 +138,7 @@
   - Pennywise the Clown
   - Principal Buttkicker
   - Poop Poop
+  - The Rat Man of Washington
   - Ronnie Boast
   - Rosie
   - Sasquatch\(es)
@@ -175,7 +178,21 @@
 
 ## **Q**
 - [Qeios Characters](5.Characters/Qeios_Characters.html)
+  - Audrey and Andre
+  - Black Guardian
+  - Citizen Man
+  - Citizen Woman
+  - Comet the Talking Dog
+  - Derpy Guardian
+  - Eva
+  - Jasper
   - Jeremy
+  - King Rothlyn
+  - Lord Zesh
+  - Mrs. Whiteley
+  - Rivatha
+  - Sonia
+  - Woodrow
 - [The Queen of England / Toast’s Grandmother](5.Characters/Queen_of_England.html)
 
 ## **S**
