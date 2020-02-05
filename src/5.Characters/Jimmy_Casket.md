@@ -1,16 +1,18 @@
 # Jimmy Casket  
+### [Masterlist \(By Series)](https://drive.google.com/open?id=1Q70TOV2USknDBMNtzaAegT2xaBJPmYXNBV_BQyPij28)
+### [Masterlist \(Chronological)](https://drive.google.com/open?id=1cSqV-6bN2i3ZpLb4thxJJ4LALoFeQ11kgFLUowdLEU0)
+### [Playlist]()
 
 
 ## | Basics  
 - Introduction Video: \(Created) *Murder 1*; \(Named) *Murder 3: Jimmy Casket*  
 - Branch / Occupation: Murderer / Entity  
-- Weapon of Choice: Knife \(specifically Knifey)  
+- Weapon of Choice: Knife \(Knifey)  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
-- Species: Paranormal Entity  
-- Other Names / Titles:   
-  - Gregory Casket \(past)  
+- Species: Paranormal Entity
 - Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
 
+----
 
 ## | Relationships  
 - [**Gregory Casket**](5.Characters/Gregory_Casket.html)
@@ -20,7 +22,7 @@
   - He believes that he was locked into the dimension with the Housekeeper as the Housekeeper’s punishment \[14:25 - *Johnny Ghost vs Zombies*]
 
 - [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)
-  - Ghost refers to him as a "demon," denting any relation to him
+  - Ghost refers to him as a "demon," denying any relation to him
    - He says that it's just entities trying to use his memories against him \[17:50 - *Haunted By Cardboard Friend*]
 - Ghost uses him to get answers \(“There’s only one way I know how to get answers”) \[17:54 - *Kidnapped By BananaCorp*]
    - He doesn’t react to getting shot due to high health \(“Shoot me! See what happens!”) \[18:00 - *Kidnapped By BananaCorp*]
@@ -42,14 +44,10 @@
 - [**Timothy / Tommy Casket**]()
   - He keeps his father’s golden watch on his person \[14:45 - *Johnny Ghost vs Zombies*]
 
+----
 
 ## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+- 
 
 ----
 
@@ -65,14 +63,6 @@
 - Casket has a fear of macaroni; he has dreams where it comes and \(ironically) eats him \[17:32 / 19:05 - *Murder 4: Majora's Mask*]
 - Casket can come through walls \[13:48 - *Creepypasta College*]
 - Casket can't tell the difference between Slender and Jeff \[14:00 - *Creepypasta College*]
-
-----
-
-## | Links  
-- [Masterlist \(By Series)](https://drive.google.com/open?id=1Q70TOV2USknDBMNtzaAegT2xaBJPmYXNBV_BQyPij28)
-- [Masterlist \(Chronological)](https://drive.google.com/open?id=1cSqV-6bN2i3ZpLb4thxJJ4LALoFeQ11kgFLUowdLEU0)  
-- [Character Playlist]()  
-- [Branch Playlist]()  
 
 ----
 

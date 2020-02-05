@@ -1,29 +1,25 @@
 # Sally Acachalla 
-
+### [Masterlist]()
+### [Playlist]()
 
 ## | Basics  
 - Introduction Video: **  
-- Branch / Occupation: Acachalla  
+- Occupation: Acachalla Kid
 - Weapon of Choice: Self / Handgun / Waffle Gun  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human / Waffle Demon  
-- Other Names / Titles:   
-  - none  
 - Played By: [Cierra Frye / ImmortalKyodai](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)  
 
+----
 
 ## | Relationships  
 - [**Slenderman**](5.Characters/Creepypastas.html)  
   - She is Slender's girlfriend \[17:51 - *Creepypasta College*]
 
+----
 
 ## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+- 
 
 ----
 
@@ -34,14 +30,7 @@
 - Sally is good at lockpicking \[18:27 - *Creepypasta College*]
 - She has a secret that she can't tell anyone because they'll get mad [13:05 - *Acachalla's Thanksgiving (2019)*]
   - Ghost recommended writing it down and putting it in the treehouse where no one will find it and then one day when Papa goes up there during a rage-filled moment he'll read it and know why he truly loves her
-- She got "turkey rot" from being in Thanksgiving "marination" for too long [18:53 - *Acachalla's Thanksgiving (2019)*]
-
-----
-
-## | Links  
-- [Masterlist]()  
-- [Character Playlist]()  
-- [Branch Playlist]()  
+- She got "turkey rot" from being in Thanksgiving "marination" for too long [18:53 - *Acachalla's Thanksgiving (2019)*] 
 
 ----
 

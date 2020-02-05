@@ -1,15 +1,14 @@
 # Darth Calculus
-
+### [Masterlist]()
+### [Playlist]()
 
 ## | Basics  
-- Introduction Video: **  
-- Branch / Occupation:   
-- Weapon of Choice:   
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
-- Species:   
-- Other Names / Titles:   
-  - none  
-- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
+- Introduction Video: **
+- Occupation: Dark Arts Teacher
+- Weapon of Choice: 
+- Most Common Series: [Gmod](6.Series/Gmod.html)
+- Species: Human
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)
 
 
 ## | Relationships  
@@ -18,24 +17,12 @@
 
 
 ## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+- 
 
 ----
 
 ## | Other Trivia  
--   
-
-----
-
-## | Links  
-- [Masterlist]()  
-- [Character Playlist]()  
-- [Branch Playlist]()  
+- 
 
 ----
 

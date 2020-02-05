@@ -1,41 +1,28 @@
-# Name  
+# Daxius
 
 
 ## | Basics  
-- Introduction Video: **  
-- Branch / Occupation:   
-- Weapon of Choice:   
-- Most Common Series: [Minecraft](6.Series/Minecraft.html) / [A Fallout Tale](6.Series/Tale_Series.html)
-- Species: Golem / Giant Robot  
-- Other Names / Titles:   
-  - none  
-- Played By: none  
+- Introduction Video: **
+- Occupation: Ally
+- Weapon of Choice: Self
+- Most Common Series: [A Minecraft Tale](6.Series/Tale_Series/Minecraft_Tale.html) / [A Fallout Tale](6.Series/Tale_Series/Falout_Tale.html)
+- Species: Golem / Giant Robot
 
+----
 
-## | Relationships  
+## | Relationships
 - [** **]()  
   - 
 
+----
 
-## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+## | Biography
+- 
 
 ----
 
-## | Other Trivia  
--   
-
-----
-
-## | Links  
-- [Masterlist]()  
-- [Character Playlist]()  
-- [Branch Playlist]()  
+## | Other Trivia
+- 
 
 ----
 

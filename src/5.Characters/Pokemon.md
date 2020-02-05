@@ -1,9 +1,19 @@
 # Pokemon  
-
+### [Masterlist]()
+### [Playlist]()
 
 ## | Basics
 - Most Common Series: [Gmod](6.Series/Gmod.html)
 
+----
+
+## Characters
+- Charmander
+- Eevee
+- Haunter
+- Pikachu
+
+----
 
 ## Charmander
 - 
@@ -21,13 +31,6 @@
 
 ## | Other Trivia  
 - 
-
-----
-
-## | Links  
-- [Masterlist]()  
-- [Characters Playlist]()  
-- [Branch Playlist]()  
 
 ----
 

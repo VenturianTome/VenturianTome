@@ -1,53 +1,101 @@
-# Qeios Characters  
-
+# Qeios Characters
+### [Masterlist]()
+### [Playlist]()
 
 ## | Basics
 - Series: [Qeios](6.Series/Qeios.html)
 
+----
+
 ## Characters
+- Audrey and Andre
+- Black Guardian
+- Citizen Man
+- Citizen Woman
+- Comet the Talking DOg
+- Derpy Guardian
+- Eva
+- Jasper
+- Jeremy
+- King Rothlyn
+- Lord Zesh
+- Mrs. Whiteley
+- Rivatha
+- Sonia
+- Woodrow
+
+----
 
 ### Audrey and Andre
 - Played by Javott42
 
+----
+
 ### Black Guardian
 - Played by HomelessGoomba
+
+----
 
 ### Citizen Man
 - Played by GutTC
 
+----
+
 ### Citizen Woman
 - Played by Pingutux123
+
+----
 
 ### Comet the Talking Dog
 - Played by GutTC
 
+----
+
 ### Derpy Guardian
 - Played by TerminalVelociRaptor
+
+----
 
 ### Eva
 - Played by Rebaka-Chan
 
+----
+
 ### Jasper
 - Played by MCab719
 
+----
+
 ### Jeremy
 - 
+
+----
 
 ### King Rothlyn
 - Played by Venturian
 - Rivatha's father
 
+----
+
 ### Lord Zesh
 - 
+
+----
 
 ### Mrs. Whiteley
 - Played by BenPlus
 
+----
+
 ### Rivatha
 - Played by SylarGrimm
 
+----
+
 ### Sonia
 - Played by Mythic4IF1re
+
+----
 
 ### Woodrow
 - Played by ImmortalKyodai
@@ -60,14 +108,7 @@
 ----
 
 ## | Other Trivia  
-- BethanyFrye was the Director, Jordan was the Music Composer, and Isaac did the Ragdoll Animation
-
-----
-
-## | Links  
-- [Masterlist]()  
-- [Character Playlist]()  
-- [Branch Playlist]()  
+- Bethany was the Director, Jordan was the Music Composer, and Isaac did the Ragdoll Animation
 
 ----
 

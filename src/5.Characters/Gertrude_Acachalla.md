@@ -1,10 +1,11 @@
-# Gertrude Acachalla 
-
+# Gertrude Acachalla
+### [Masterlist]()
+### [Playlist]()
 
 ## | Basics  
 - Introduction Video: **  
-- Branch / Occupation: Acachalla, Foster Mother  
-- Weapon of Choice: none  
+- Occupation: Foster Mother  
+- Weapon of Choice: Crowbar
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
 - Other Names / Titles:   
@@ -13,20 +14,15 @@
 
 
 ## | Relationships  
-- [**Papa Acachalla**]()  
+- [**Papa Acachalla**](5.Characters/Papa_Acachalla.html)
   -  
 
-- [**Sally Acachalla**]()
+- [**Sally Acachalla**](5.Characters/Sally_Acachalla.html)
   - 
 
 
-## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+## | Biography
+- 
 
 ----
 
@@ -37,15 +33,8 @@
 
 ----
 
-## | Links  
-- [Masterlist]()
-- [Character Playlist]() 
-- [Branch Playlist]()
-
-----
-
 ## | Mentioned Videos
-- [Acachalla's Thanksgiving \(2019)]()
+- [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk)
 - [Scary Underground Horror Map](https://youtu.be/Hd_KT6KbnHI)
 
 ----

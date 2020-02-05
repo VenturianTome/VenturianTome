@@ -1,4 +1,6 @@
-# Stardust Sprinkleshine  
+# Stardust Sprinkleshine
+### [Masterlist]()
+### [Playlist]()
 
 > "Unicorn gonna mess you up, foo'!"
 
@@ -8,10 +10,9 @@
 - Weapon of Choice: Unicorn Powers  
 - Most Common Series: [Gmod](6.Series/GMod.html)  
 - Species: Unicorn  
-- Other Names / Titles:   
-  - none  
 - Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
 
+----
 
 ## | Relationships  
 - [** **]()  
@@ -19,25 +20,15 @@
   - Other facts  
 
 
+----
+
 ## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+- 
 
 ----
 
 ## | Other Trivia  
--   
-
-----
-
-## | Links  
-- [Masterlist]()  
-- [Character Playlist]()  
-- [Branch Playlist]()  
+- 
 
 ----
 

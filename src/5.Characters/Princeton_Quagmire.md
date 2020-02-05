@@ -1,9 +1,10 @@
 # Princeton Quagmire 
-
+### [Masterlist]()
+### [Playlist]()
 
 ## | Basics  
 - Introduction Video: *Murder 3: Jimmy Casket*  
-- Branch / Occupation: Law Enforcement / Sheriff
+- Occupation: Law Enforcement / Sheriff
 - Weapon of Choice: Handgun \(Revolver)  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
@@ -21,12 +22,7 @@
 
 
 ## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+- 
 
 ----
 
@@ -35,14 +31,7 @@
 - Princeton Quagmire is/looks like a woman \[12:33 - *Murder 5: Doctor Who*]
 - Quagmire says he doesn't have nor plans to have kids \[13:01 - *Murder 5: Doctor Who*]
 - Princeton Quagmire never finished school; he dropped out of Preschool because he got arrested \[13:30 - *Murder 5: Doctor Who*]
-- Princeton Quagmire "solved life when he was 6 and a half years old" \[19:34 - *Murder 5: Doctor Who*]
-
-----
-
-## | Links  
-- [Masterlist]()  
-- [Character Playlist]()  
-- [Branch Playlist]()  
+- Princeton Quagmire "solved life when he was 6 and a half years old" \[19:34 - *Murder 5: Doctor Who*] 
 
 ----
 

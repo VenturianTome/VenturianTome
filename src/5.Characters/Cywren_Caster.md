@@ -1,41 +1,31 @@
 # Cywren Caster  
-
+### [Masterlist]()
+### [Playlist]()
 
 ## | Basics  
-- Introduction Video: **  
-- Branch / Occupation: Adventurer  
-- Weapon of Choice: Gun \()  
-- Most Common Series: [A Fallout Tale](6.Series/Tale_Series.html)  
-- Species: Human  
-- Other Names / Titles:   
-  - none  
-- Played By: none; Lead by [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
+- Introduction Video: **
+- Occupation: Adventurer
+- Weapon of Choice: Gun
+- Most Common Series: [A Fallout Tale](6.Series/Tale_Series/Fallout_Tale.html)
+- Species: Human
+- Lead by: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)
 
+----
 
 ## | Relationships  
-- [**Timebomb**](5.Characters/Timebomb.html)  
-  -  
+- [**Timebomb**](5.Characters/Tale_Series/Fallout_Tale.html)  
+  - Timebomb is Cywren's closest friend and love interest during the series
+  - He is known to be unconscious commonly
 
+----
 
 ## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+- 
 
 ----
 
 ## | Other Trivia  
--   
-
-----
- 
-## | Links  
-- [Masterlist]()  
-- [Character Playlist]()  
-- [Branch Playlist]()  
+- 
 
 ----
 

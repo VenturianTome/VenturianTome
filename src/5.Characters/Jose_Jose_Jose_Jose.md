@@ -1,16 +1,15 @@
 # Jose Jose Jose Jose  
-
+### [Masterlist]()
+### [Playlist]()
 
 ## | Basics  
-- Introduction Video: **  
-- Branch / Occupation: Alternate Personality  
-- Weapon of Choice:   
+- Introduction Video: **
+- Occupation: Alternate Personality
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
-- Species: Human  
-- Other Names / Titles:   
-  - none  
+- Species: Ghost / Entity
 - Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
 
+----
 
 ## | Relationships  
 - [**Papa Acachalla**](5.Characters/Papa_Acachalla.html)  
@@ -18,24 +17,12 @@
 
 
 ## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+- 
 
 ----
 
 ## | Other Trivia  
 - 
-
-----
-
-## | Links  
-- [Masterlist]()  
-- [Character Playlist]()  
-- [Branch Playlist]()  
 
 ----
 

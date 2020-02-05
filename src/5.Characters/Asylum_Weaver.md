@@ -3,18 +3,20 @@
 ### [Playlist]()
 
 ## | Basics  
-- Introduction Video: **  
-- Occupation: Adventurer  
-- Weapon of Choice: Sword \()  
-- Most Common Series: [An Oblivion Tale](6.Series/Tale_Series/Oblivion_Tale.html)  
+- Introduction Video: **
+- Occupation: Adventurer
+- Weapon of Choice: Sword
+- Most Common Series: [An Oblivion Tale](6.Series/Tale_Series/Oblivion_Tale.html)
 - Species: Human
-- Lead by: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
+- Lead by: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)
 
+----
 
 ## | Relationships  
 - [** **]()  
   - --
 
+----
 
 ## | Biography  
 - 

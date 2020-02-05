@@ -1,16 +1,18 @@
 # Papa Acachalla  
-
+### [Masterlist]()
+### [Playlist]()
 
 ## | Basics  
 - Introduction Video: *Motorcycle Mod*  
-- Branch / Occupation: Acachalla Family / Foster Father  
-- Weapon of Choice: Handgun / Annabelle \(shotgun)  
+- Occupation: Acachalla Family / Foster Father  
+- Weapon of Choice: Handgun / Shotgun \(Annabelle)  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
 - Other Names / Titles:   
   - Papa  
 - Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
 
+----
 
 ## | Relationships  
 - [**Billy Acachalla**]()  
@@ -31,14 +33,10 @@
 - [**Toilet Toucher**](5.Characters/Toilet_Toucher.html)
   - Papa doesn't know who the Toilet Toucher is [4:43 - *Acachalla's Thanksgiving (2019)*]
 
+----
 
 ## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+- 
 
 ----
 
@@ -52,15 +50,10 @@
 
 ----
 
-## | Links  
-- [Masterlist]()  
-- [Character Playlist]()  
-- [Branch Playlist]()  
-
-----
-
 ## | Mentioned Videos
+- [Acachalla's Thanksgiving (2019)](https://youtu.be/dC5GT2mZNEk)
 - [Creepypasta College](https://youtu.be/TyTM5NU8jKY)
+- [Playable Animatronics 8](https://youtu.be/KByoXkGBzWo)
 
 ----
 

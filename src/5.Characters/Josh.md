@@ -1,9 +1,10 @@
 # Josh  
-
+### [Masterlist]()
+### [Playlist]()
 
 ## | Basics  
 - Introduction Video: **  
-- Branch / Occupation:   
+- Occupation:   
 - Weapon of Choice:   
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human  
@@ -18,24 +19,12 @@
 
 
 ## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+- 
 
 ----
 
 ## | Other Trivia  
 - 
-
-----
-
-## | Links  
-- [Masterlist]()  
-- [Character Playlist]()  
-- [Branch Playlist]()  
 
 ----
 

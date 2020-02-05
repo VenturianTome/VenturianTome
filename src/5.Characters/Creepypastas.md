@@ -1,29 +1,48 @@
 # Creepypastas  
-
+### [Masterlist]()
+### [Playlist]()
 
 ## | Basics  
-- Introduction Video: **  
-- Branch / Occupation: Creepypasta  
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
-- Species: Ghost / Entity  
-- Played By: [All Siblings](./chapter_3.html)  
+- Introduction Video: **
+- Occupation: Creepypasta
+- Most Common Series: [Gmod](6.Series/Gmod.html)
+- Species: Ghost / Entity
+- Played By: [All Siblings](./chapter_3.html)
 
+----
 
-## Ben Drowned
-- 
+## Characters
+- Ben Drowned
+- Jeff the Killer
+- The Rake
+- Slenderman
 
-## Jeff The Killer
+----
+
+### Ben Drowned
+- Commonly played by [FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+
+----
+
+### Jeff The Killer
+- Commonly played by [ImmortalKyodai](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)
 - Jeff is good at scooting/slithering \[2:35 / 10:00 - *Creepypasta College*]
 - Jeff has a twin brother: Other Jeff \[4:10 - *Creepypasta College*]
 - Jeff doesn't know how to sit on a table \[7:04 - *Creepypasta College*]
 - Jeff paints his nails \[8:54 - *Creepypasta College*]
 - Jeff got promoted to Biology 101 teacher \(in a place that turned out to be a mental institution) \[9:22 - *Creepypasta College*]
 
-## The Rake
+----
+
+### The Rake
+- Commonly played by [HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)
 - Rake has a twin sister \[1:44 - *Creepypasta College*]
 - Rake and Slender are brothers \[1:57 - *Creepypasta College*]
 
-## Slenderman
+----
+
+### Slenderman
+- Commonly played by [FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
 - Slender was promoted to the role of World History teacher \(in a place that turned out to be a mental institution) \[0:54 / 6:17 - *Creepypasta College*]
 - Rake and Slender are brothers \[1:57 - *Creepypasta College*]
 - Slender can only move forward if you aren't looking at him \[3:37 - *Creepypasta College*]
@@ -35,14 +54,7 @@
 ----
 
 ## | Other Trivia  
--   
-
-----
-
-## | Links  
-- [Masterlist]()  
-- [Characters Playlist]()  
-- [Branch Playlist]()  
+- 
 
 ----
 

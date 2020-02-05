@@ -1,9 +1,10 @@
 # Fred “Spooker” Soup  
-
+### [Masterlist]()
+### [Playlist]()
 
 ## | Basics  
 - Introduction Video: *Scary Ghost Children*  
-- Branch / Occupation: P.I.E. Team Member 
+- Occupation: P.I.E. Team Member 
 - Weapon of Choice: Handgun  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
 - Species: Human, Puppymonkeybaby  
@@ -12,6 +13,7 @@
   - Spooks  
 - Played By: [Bethany Frye / FyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)  
 
+----
 
 ## | Relationships 
 - [**Chakalata Soup**](5.Characters/Chakalata_Soup.html)
@@ -29,14 +31,10 @@
 - [**Johnny Toast**](5.Characters/Johnny_Toast.html)
   - He took Toast’s place as Ghost’s partner while Toast was in jail for burning down the McDonald’s [*Scary Ghost Children*]
 
+----
 
 ## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+- 
 
 ----
 
@@ -50,13 +48,6 @@
 - “Peanut butter in the sink" is Spooker's diet \[14:09 - *Funny Horror Game*]
 - Spooker went to college once \[14:58 - *Funny Horror Game*]
 - Spooker's home looks similar to / is a grave \[19:05 - *Funny Horror Game*]
-
-----
-
-## | Links  
-- [Masterlist]()  
-- [Character Playlist]()  
-- [Branch Playlist]()  
 
 ----
 

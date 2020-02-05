@@ -1,32 +1,31 @@
 # Billy Acachalla  
-
+### [Masterlist]()  
+### [Playlist]()
 
 ## | Basics  
 - Introduction Video: *Motorcycle Mod*  
-- Branch / Occupation: Acachalla, Medic  
-- Weapon of Choice: Handgun  
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
-- Species: Human  
-- Other Names / Titles:   
-  - Billy Medic  
+- Occupation: Acachalla, Medic
+- Weapon of Choice: Handgun
+- Most Common Series: [Gmod](6.Series/Gmod.html)
+- Species: Human / Bird
+- Other Names / Titles:
+  - Billy Medic
   - Ernie Ghost \(future)
   - Toilet Toucher \(future)
-- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)  
+- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)
 
+----
 
 ## | Relationships  
 - [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)  
   - Billy was going to help Ghost repay his college fund \[11:13 - *Scary Batman Horror Map*]
 
+----
 
 ## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+- 
 
+----
 
 ## | Fakes
 - His fakes can be found [here](5.Characters/One-Use_Uncommon.html)!
@@ -41,16 +40,9 @@
 
 ----
 
-## | Links  
-- [Masterlist]()  
-- [Character Playlist]()  
-- [Branch Playlist]()  
-
-----
-
 ## | Mentioned Videos
-- [Acachalla'a Thanksgiving \(2019)]()
-- [Does Acachalla Like Wendy's?]()
+- [Acachalla'a Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk)
+- [Does Acachalla Like Wendy's?](https://youtu.be/K2-86Dc81Ec)
 - [Motorcycle Mod](https://youtu.be/gNREBUzmn98)
 - [Murder 4: Majora's Mask](https://youtu.be/rJShOzX411o)
 - [Playable Animatronics 8](https://youtu.be/KByoXkGBzWo)

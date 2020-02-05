@@ -1,16 +1,18 @@
 # Maxwell Acachalla  
-
+### [Masterlist]()
+### [Playlist]()
 
 ## | Basics  
 - Introduction Video: **  
-- Branch / Occupation: Robber / Entity  
+- Occupation: Robber / Entity  
 - Weapon of Choice: Handgun  
 - Most Common Series: [Gmod](6.Series/Gmod.html)  
-- Species: Ghost  
+- Species: Ghost / Entity
 - Other Names / Titles:   
   - Uncle Maxwell \(by Billy Acachalla)  
 - Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)  
 
+----
 
 ## | Relationships  
 - [**Jimmy Casket**](5.Characters/Jimmy_Casket.html)  
@@ -19,26 +21,15 @@
 - [**Papa Acachalla**](5.Characters/Papa_Acachalla.html)
   - 
 
+----
 
 ## | Biography  
-- ### Early Life  
-  -   
-- ### Big Events  
-  -   
-- ### Current Life  
-  -   
+- 
 
 ----
 
 ## | Other Trivia  
 - Maxwell has died in a bank robbery and a court case \[12:57 - *Scary Underground Horror Map*]
-
-----
-
-## | Links  
-- [Masterlist]()  
-- [Character Playlist]()  
-- [Branch Playlist]()  
 
 ----
 

@@ -8,6 +8,7 @@
 - Lil' Vent
 - Lydia
 - Mark
+- Poet
 - Serena
 - Vahl Aradur
 
@@ -24,6 +25,9 @@
 - 
 
 ### Mark
+- 
+
+### Poet
 - 
 
 ### Serena
