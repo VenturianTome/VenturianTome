@@ -6,7 +6,8 @@
 ## | Series
 
 ### Channel Livestreams
-- [Anniversary Livestreams](./6.Series/Anniversary_Livestreams.html)
+- [Anniversaries](./6.Series/Anniversary_Livestreams.html)
+- [Subscriber Milestones](./6.Series/Subscriber_Milestone_Livestreams.html)
 
 ### Gameplay Livestreams
 - For FNAF Livestreams, go [here](6.Series/FNAF/Gameplay_Livestreams.html)
