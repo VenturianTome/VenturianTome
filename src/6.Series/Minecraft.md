@@ -1,36 +1,24 @@
 # Series: Minecraft
-## [Playlist]()
-
 
 > **NOTE:** You might be looking for the Minecraft characters, which are [here](5.Characters/Minecraft_Characters.html)!
 
-## **Fan Challenges**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRUhf_a4eKRmTQXx8IKOO4o)
-- 
+## | Series
 
-### Mentioned Videos
-- []()
+### Tale Series
+- For A Minecraft Tale, go [here](./6.Series/A_Minecraft_Tale.html)
+- For Another Minecraft Tale, go [here](./6.Series/Another_Minecraft_Tale.html)
+- For Another Minecraft Tale \(Season 2), go [here](./6.Series/Another_Minecraft_Tale_S2.html)
 
-----
- 
-## **Mods & Maps**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSc3ZD9BquRz__Cv-mWP3IJ)
-- 
+### Mods & Maps
+- [Mods & Maps](./6.Series/Minecraft/Mods_And_Maps.html)
 
-### Mentioned Videos
-- []()
- 
-----
- 
-## Series Trivia
-- 
+### Other
+- [Fan Challenges](./6.Series/Minecraft/Fan_Challenges.html)
 
 ----
 
-## Mentioned Videos
-- [AMT S2 E1](https://youtu.be/QveKwulefP0)
-- [AMT S2 E2](https://youtu.be/uzu9DVzDVnk)
-- [AMT S2 E9](https://youtu.be/d-uGxP960kA)
+## | Series Trivia
+- 
 
 ----
  

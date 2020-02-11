@@ -1,103 +1,29 @@
 # Series: Five Nights At Freddy's
-[Full Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSmXxL38qza5WIwpXO78Aun)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSmXxL38qza5WIwpXO78Aun)
 
+## | Series
 
-> **NOTE:** You might be looking for the characters, which are [here](5.Characters/FNAF_Animatronics.html)!
+### FNAF
+- [FNAF 1](./6.Series/FNAF_1.html)
+- [FNAF 2](./6.Series/FNAF_2.html)
+- [FNAF 3](./6.Series/FNAF_3.html)
+- [FNAF 4](./6.Series/FNAF_4.html)
+- [FNAF 5 \(Sister Location)](./6.Series/FNAF_5-Sister_Location.html)
+- [FNAF 6 \(Pizzarias Simiulator)](./6.Series/FNAF_6-Pizzaria_Simulator.html)
+- [FNAF World](./6.Series/FNAF_World.html)
 
+### Fan-Games
+- [The Joy of Creation: Reborn](./6.Series/TJoC-R.html)
+- [Five Nights at VenturianTale](./6.Series/FNAV.html)
 
-## **FNAF 1**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQiFr4-PEPz-mXSdJtjyU4T)
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## **FNAF 2**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTKJviHbWZVC6AElAtw1xrM)
-- 
-
-### Mentioned Videos
-- []()
+### Livestreams
+- [Gameplay Livestreams](./6.Series.FNAF_Gameplay_Livestreams.html)
 
 ----
 
-## **FNAF 3**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSoglF8GZiEByCllDwsJhj1)
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## **FNAF 4**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTfG-iqsO8vz7-PwjF9g-93)
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## **FNAF 5 \(Sister Location)**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQAXvxluRPnjOv_PNSrRW7i)
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## **FNAF 6 \(Pizzaria Simulator)**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTUj0EkNUPU5aj2Z3FczTCl)
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## **FNAF World**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRd0WbW5R4pzAaPb-ul1jhH)
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## **Five Nights At VenturianTale**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS9Rc1EHdE2B6g-Qjjs-JZ5)
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## **Gameplay Livestreams**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQ7s0Cti9kDbD1ED1quDE4N)
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## **The Joy of Creation: Reborn**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSgk_FRtc__I5JVsZ2uuUyY)
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## Series Trivia
+## | Series Trivia
 - 
 
 ----
-
+ 
 > **NOTE:** Is something missing or wrong? Make sure you search the site to make sure it’s truly not here first! If it’s still missing, contact the admin [here](../chapter_2.html)!

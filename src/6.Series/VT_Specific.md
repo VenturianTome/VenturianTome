@@ -1,51 +1,24 @@
-# Series: VT-Specific
+# Series: VenturianTale Specific
 
- 
-## **Animations**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS9e8P8yWyK9iexXWBXne-g)
-- 
+> **NOTE:** You might be looking for the characters, which are [here](5.Characters/--.html)!
 
-### Mentioned Videos
-- []()
+## | Series
 
-----
+### Art
+- [Animations](./6.Series/.html)
+- [Speedpaints](./6.Series/.html)
 
-## **Anniversary Livestreams**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSzbw3HuSRtnuR4-h_APaUT)
-- More about these can be found [here](6.Series/Livestreams.html)
-
-----
-
-## **Montages**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQGXCslKRBC-PL9JASozwK8)
-- 
-
-### Mentioned Videos
-- []()
+### Channel
+- Anniversary Livestreams
+  - More about these can be found [here](./6.Series/Livestreams/Anniversary_Livestreams.html)
+- [Montages](./6.Series/.html)
+- [VenturianTale Mods](./6.Series/.html)
 
 ----
 
-## **Speedpaints**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSwCvOKbYdriVjJhtO8PtZj)
+## | Series Trivia
 - 
 
-### Mentioned Videos
-- []()
-
-----
-
-## **VenturianTale Mods**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS3zW-4Fs03PStqBnzIFiI5)
-- 
-
-### Mentioned Videos
-- []()
-
-----
- 
-## Series Trivia
-- 
- 
 ----
  
 > **NOTE:** Is something missing or wrong? Make sure you search the site to make sure it’s truly not here first! If it’s still missing, contact the admin [here](../chapter_2.html)!

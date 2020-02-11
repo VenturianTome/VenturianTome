@@ -2,6 +2,8 @@
 ### [Playlist]()
 *This series is played through the game []() made by []()*
 
+----
+
 ## | Characters In This Series:
 - Aqua the Puppy
 - Farkas

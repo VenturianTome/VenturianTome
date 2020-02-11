@@ -1,26 +1,22 @@
 # Series: Livestreams
-## [Anniversary Livestream Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSzbw3HuSRtnuR4-h_APaUT)
 
-> For FNAF Livestreams, go [here](6.Series/FNAF.html)
-> For Roblox Livestreams, go [here](6.Series/Other_Games.html)
+> **NOTE:** You might be looking for the characters, which are [here](../chapter_5.html)!
 
-## **1 Million Subscribers \(Clips)**
-### [Playlist]()
-- Hit 1 million subscribers \[0:23 - *Murder 14: Announcements, Celebrations*]
-  - They planned to celebrate on a livestream on Monday \(21st of July, 2014) at 1 PM EST
-    - This was their 1st official livestream 
 
-### Mentioned Videos
-- [Murder 14: Announcements, Celebrations](https://youtu.be/Tmn4m60nE5g)
+## | Series
+
+### Channel Livestreams
+- [Anniversary Livestreams](./6.Series/Anniversary_Livestreams.html)
+
+### Gameplay Livestreams
+- For FNAF Livestreams, go [here](6.Series/FNAF/Gameplay_Livestreams.html)
+- For Roblox Livestreams, go [here](6.Series/Other_Games/Roblox.html)
 
 ----
- 
-## Series Trivia
+
+## | Series Trivia
 - 
- 
-### Mentioned Videos
-- [Murder 14: Announcements, Celebrations](https://youtu.be/Tmn4m60nE5g)
- 
+
 ----
  
 > **NOTE:** Is something missing or wrong? Make sure you search the site to make sure it’s truly not here first! If it’s still missing, contact the admin [here](../chapter_2.html)!

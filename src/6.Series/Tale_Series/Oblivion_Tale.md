@@ -2,6 +2,7 @@
 ### [Playlist]()
 *This series is played through the game [The Elder Scrolls IV: Oblivion](https://elderscrolls.bethesda.net/en/oblivion) made by [Bethesda Game Studios](https://bethesdagamestudios.com/)*
 
+----
 
 ## | Characters In This Series:
 - Asylum Weaver

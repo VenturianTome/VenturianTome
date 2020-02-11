@@ -1,38 +1,22 @@
 # Series: Vlogs
-## [Playlist]()
 
+## | Series
 
-## **Moving Houses**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiR-P2zo92MltQhVHCPAT_o4)
-- 
+### Updates
+- [Moving Houses](./6.Series/Vlogs/Moving_Houses_Vlogs.html)
+- [Updates](./6.Series/Update_Vlogs.html)
 
-### Mentioned Videos
-- []()
-
-----
-
-## **Updates**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQgAD-fPU6vN2E8RvDconaM)
-- 
-
-### Mentioned Videos
-- []()
+### Mail
+- [VenturianMail](./6.Series/VenturianMail_Vlogs.html)
 
 ----
 
-## **VenturianMail**  
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQ8tPAQQomixGLE01lrjcQ8)
-- 
-
-### Mentioned Videos
-- []()
- 
-----
- 
-## Series Trivia
+## | Series Trivia
 - Jordan doesn't vlog more often because he has no clue what to vlog about \[1:12 / 1:57 / 4:40 - *what's happening*]
 
-### Mentioned Videos
+----
+
+## Mentioned Videos
 - [what's happening](https://youtu.be/8wn34LSj_Iw)
 
 ----
