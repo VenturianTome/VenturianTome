@@ -34,6 +34,7 @@
   - Toy Bonnie
   - Toy Chica
   - Toy Freddy
+  - Withered Bonnie
 - [Fred “Spooker” Soup](5.Characters/Fred_Spooker_Soup.html)
 
 ## **G**
@@ -163,7 +164,6 @@
 - [Pets](5.Characters/Pets.html)
   - Aqua the Puppy \(Skyrim)
   - Freddy the Dinosaur
-  - Lil' Vent
   - Jumper / Spot
   - Quasar the Dog
   - Toast's "Hamster"

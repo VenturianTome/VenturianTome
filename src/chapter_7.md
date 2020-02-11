@@ -10,5 +10,7 @@
 - [Paula Frye / Paula Blox Art](7.Family/Paula_Frye-Paula_Blox_Art.html)
     - [The Siblings](..chapter_3.html)' Mother
 
+----
+
 ## Trivia of the Family
 - 
