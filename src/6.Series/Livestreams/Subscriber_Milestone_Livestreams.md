@@ -5,7 +5,11 @@
 ----
 
 ## | Big Events
-- 
+- 1 Million Subscribers \(Clips)
+  - [Playlist]()
+  - Hit 1 million subscribers \[0:23 - *Murder 14: Announcements, Celebrations*]
+    - They planned to celebrate on a livestream on Monday \(21st of July, 2014) at 1 PM EST
+      - This was their 1st official livestream
 
 ----
 
