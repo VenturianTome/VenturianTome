@@ -1,4 +1,4 @@
-# Other Family Members
+# Other Family
 
 ## Basics
 - [The Frye Siblings](../chapter_3.html) are the people who run [VenturianTale](https://www.youtube.com/user/VenturianTale), but many other people have been on the channel or have contributed to the videos

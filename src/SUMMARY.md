@@ -133,6 +133,6 @@
       - [Montages](./6.Series/VT-Specific/Montages.md)
       - [Speedpaints](./6.Series/VT-Specific/Speedpaints.md)
       - [VenturianTale Mods](./6.Series/VT-Specific/VenturianTale_Mods.md)
-- [Other Family Members](./chapter_7.md)
+- [Other Family](./chapter_7.md)
     - [Jessica / Javott42](./7.Family/Jessica-Javott42.md)
     - [Paula Frye / Paula Blox Art](./7.Family/Paula_Frye-Paula_Blox_Art.md)
