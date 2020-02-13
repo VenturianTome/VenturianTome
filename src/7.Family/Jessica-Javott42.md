@@ -1,5 +1,5 @@
 # Jessica / Javott42
-### [*Playlist*](https://www.youtube.com/playlist?list=PLwljWXtmIKiS5imR9OHoog4BKtMPbFCXp)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS5imR9OHoog4BKtMPbFCXp)
 
 ## Basics
 - Jessica is [Jordan](3.Siblings/3.1.Jordan-Frye-Venturian.html)'s wife

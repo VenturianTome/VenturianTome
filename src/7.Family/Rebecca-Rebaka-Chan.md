@@ -1,19 +1,18 @@
-# Paula Frye / Paula Blox Art / MomWithGuns
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTC5ra7VWTv3ArqwplzVNlx)
+# Rebecca / Rebaka-Chan
+### [Playlist]()
 
 ## Basics
-- Paula is the mother of the [siblings](../chapter_3.html)
-  - She is very supportive of what they do
-
-----
-
-## Trivia
 - 
 
 ----
 
+## Trivia
+-
+
+----
+
 ## Social Media / Other Sites
-- [Instagram](https://instagram.com/paulablox?igshid=1tzjx6waiq1p7)
+- [Instagram]()
 - [Youtube Channel]()
 
 ----
