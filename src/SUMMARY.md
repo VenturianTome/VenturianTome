@@ -22,7 +22,7 @@
     - [Cardboard Friend](./5.Characters/Cardboard_Friend.md)
     - [Chakalata Soup](./5.Characters/Chakalata_Soup.md)
     - [Chris "Colon" Ghostie](./5.Characters/Chris_Colon_Ghostie.md)
-    - [Creepypastas](./5.Characters/Creepypastas.md)
+    - [Creepypasta Characters](./5.Characters/Creepypastas.md)
     - [Cywren Caster](5.Characters/Cywren_Caster.md)
     - [Darth Calculus](5.Characters/Darth_Calculus.md)
     - [Daxius](5.Characters/Daxius.md)
