@@ -49,6 +49,7 @@
 - Jessica's favourite candy is the Hershey's Cookies and Creme bars \[16:20 - *Q&A With My Wife*]
 - Jessica's ideal DnD character is a dwarf/wizard who was a librarian and everytime she sneezed she froze stuff around her and had a chicken foot \[18:12 - *Q&A With My Wife*]
 - Jessica takes horror "horribly;" she made it "all of 3 minutes" through Resident Evil 2 \(the remake) \[0:23 - *My Wife's First Horror Map*]
+- She played [Audrey and Andre](../5.Characters/Qeios_Characters.html) in [Qeios](../6.Series/Qeios.html)
 
 ----
 

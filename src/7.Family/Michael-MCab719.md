@@ -7,7 +7,7 @@
 ----
 
 ## Trivia
--
+- He played [Jasper](../5.Characters/Qeios_Characters.html) in [Qeios](../6.Series/Qeios.html)
 
 ----
 

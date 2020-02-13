@@ -7,7 +7,7 @@
 ----
 
 ## Trivia
--
+- He played the [Citizen Man](../5.Characters/Qeios_Characters.html) and [Comet the Talking Dog](../5.Characters/Qeios_Characters.html) in [Qeios](../6.Series/Qeios.html)
 
 ----
 
