@@ -6,19 +6,19 @@
 - Introduction Video: **  
 - Branch / Occupation: Acachalla / Law Enforcement  
 - Weapon of Choice: Handgun  
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Human  
 - Other Names / Titles:   
   - Sue  
-- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)  
+- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)  
 
 ----
 
 ## | Relationships  
-- [**Gertrude Acachalla**](5.Characters/Gertrude_Acachalla.html)
+- [**Gertrude Acachalla**](5.Characters/Gertrude_Acachalla.md)
   - 
 
-- [**Papa Acachalla**](5.Characters/Papa_Acachalla.html)  
+- [**Papa Acachalla**](5.Characters/Papa_Acachalla.md)  
   -  
 
 ----
@@ -41,4 +41,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

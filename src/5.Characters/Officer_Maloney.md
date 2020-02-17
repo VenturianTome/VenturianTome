@@ -6,14 +6,14 @@
 - Introduction Video: **  
 - Occupation: Law Enforcement / Police Force  
 - Weapon of Choice: Bubble Gun \(Banned)  
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Bird-Alien
-- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)  
 
 ----
 
 ## | Relationships  
-- [**Officer Starbucks**](5.Characters/One-Use_Uncommon.html)
+- [**Officer Starbucks**](5.Characters/One-Use_Uncommon.md)
   - 
 
 ----
@@ -34,4 +34,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

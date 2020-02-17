@@ -16,7 +16,7 @@
 ----
 
 ### Aqua the Puppy \(Skyrim)
-> More information about Aqua can be found [here](6.Series/Tale_Series/Skyrim_Tale.html)
+> More information about Aqua can be found [here](6.Series/Tale_Series/Skyrim_Tale.md)
 
 ----
 
@@ -45,7 +45,7 @@
 
 ### Quasar the Dog
 - Ghost had a dog named Quasar in his childhood \[4:11 - *Ghost Hunt: The Mothman*]
-> More information about Quasar can be found [here](6.Series/Tale_Series/Skyrim_Tale.html)
+> More information about Quasar can be found [here](6.Series/Tale_Series/Skyrim_Tale.md)
 
 ----
 
@@ -65,4 +65,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

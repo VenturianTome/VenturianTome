@@ -6,7 +6,7 @@
 ## | Levels
 #### **2nd Dimension**
 - A black hole with nothing left other than a singular Chuck E. Cheese's \[6:07 - *Dating Slenderman*]
-- Spirits of the 2nd dimension dislike overly colourful and fancy dress, like what [Leonard Malkovich](5.Characters/One-Use_Uncommon.html) wears \[2:06 - *My Wife's First Horror Map*]
+- Spirits of the 2nd dimension dislike overly colourful and fancy dress, like what [Leonard Malkovich](../5.Characters/One-Use_Uncommon.md) wears \[2:06 - *My Wife's First Horror Map*]
 #### **13th Dimension**
 -  Ghosts are commonly banished here
 #### **16th Dimension**
@@ -37,7 +37,7 @@
 - Ghost and Toast are both mermaids in the Medieval dimension \[9:33 - *Medieval Mod*]
 - An Abyss Mouth is a portal to the Underworld; they were not used since 84 A.D. \[11:07 - *Paranormal Ghost Hunt*]
 
-> Information about the Puppet Arc can be found [here](../chapter_4.html)
+> Information about the Puppet Arc can be found [here](../chapter_4.md)
 
 ----
 
@@ -56,4 +56,4 @@
 
 ----
 
-**NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+**NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

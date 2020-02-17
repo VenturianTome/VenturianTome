@@ -11,7 +11,7 @@
 - PIE has a special house as a training ground for new PIE recruits \[1:04 - *Playable Animatronics 10*]
 - They got an office that Ghost wallpapered in floral pattern \[0:38 - *Yoshi Nintendo Mod*]
 
-> More information about the P.I.E. Team can be found [here](4.World/PIE_Team.html)
+> More information about the P.I.E. Team can be found [here](4.World/PIE_Team.md)
 
 ----
 
@@ -27,4 +27,4 @@
 
 ----
 
-**NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)
+**NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)

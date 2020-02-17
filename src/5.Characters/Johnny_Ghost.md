@@ -8,17 +8,17 @@
 - Introduction Video: \(Technically) **; \(Formally) *Prop Hunt 18: Ghost Hunt*  
 - Occupation: P.I.E. Team Member
 - Weapon of Choice: Handgun  
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Human
-- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)  
 
 ----
 
 ## | Relationships  
-- [**Jimmy Casket**](5.Characters/Jimmy_Casket.html)
+- [**Jimmy Casket**](5.Characters/Jimmy_Casket.md)
   - 
 
-- [**Johnny Toast**](5.Characters/Johnny_Toast.html)
+- [**Johnny Toast**](5.Characters/Johnny_Toast.md)
   - Johnny Toast is commonly known as Ghost’s best friend  
   - Ghost was 6 when Toast was 8, so they have \(or had, with timelines changes) a 2-year age difference [7:03 - *Haunted By Delphox*]
   - Ghost and Toast played together since they were kids \[3:54 - *Big Dragon*]
@@ -32,13 +32,13 @@
   - He regards Toast as his “only friend” \[13:47 - *Kidnapped By BananaCorp*]
   - Ghost is thankful for his partner Johnny Toast, Toast is thankful for himself and Ghost ("it's a whole thing" -Ghost) [20:01 - *Acachalla's Thanksgiving (2019)*]
 
-- [**Spencer Acachalla**](5.Characters/Spencer_Acachalla.html)
+- [**Spencer Acachalla**](5.Characters/Spencer_Acachalla.md)
   - Ghost knows that Spencer is ("like") a 60,000 year old deity that was resurrected from a lava dimension [6:28 - *Haunted School*]
 
-- [**Spooker**](5.Characters/Fred_Spooker_Soup.html)
+- [**Spooker**](5.Characters/Fred_Spooker_Soup.md)
   - Ghost's greatest fear is that Toast will be replaced by Spooker again \[2:07 - *Johnny Ghost vs Zombies*]
 
-- [**Tommy / Timothy Casket**](5.Characters/One-Use_Uncommon.html)
+- [**Tommy / Timothy Casket**](5.Characters/One-Use_Uncommon.md)
    - Ghost once told Toast that his father was a spaceman, but he was actually a police officer \[13:34 - *FNAF & Zootopia 2*]
 
 ----
@@ -113,4 +113,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

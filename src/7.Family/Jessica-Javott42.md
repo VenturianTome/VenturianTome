@@ -2,7 +2,7 @@
 ### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS5imR9OHoog4BKtMPbFCXp)
 
 ## Basics
-- Jessica is [Jordan](3.Siblings/3.1.Jordan-Frye-Venturian.html)'s wife
+- Jessica is [Jordan](3.Siblings/3.1.Jordan-Frye-Venturian.md)'s wife
 - Her first official Gmod video was *Playing Gmod With My Wife*
   - Jordan teaches her the basics of the game
 - Her first horror map and character were in *My Wife's First Horror Map*
@@ -49,7 +49,7 @@
 - Jessica's favourite candy is the Hershey's Cookies and Creme bars \[16:20 - *Q&A With My Wife*]
 - Jessica's ideal DnD character is a dwarf/wizard who was a librarian and everytime she sneezed she froze stuff around her and had a chicken foot \[18:12 - *Q&A With My Wife*]
 - Jessica takes horror "horribly;" she made it "all of 3 minutes" through Resident Evil 2 \(the remake) \[0:23 - *My Wife's First Horror Map*]
-- She played [Audrey and Andre](../5.Characters/Qeios_Characters.html) in [Qeios](../6.Series/Qeios.html)
+- She played [Audrey and Andre](../5.Characters/Qeios_Characters.md) in [Qeios](../6.Series/Qeios.md)
 
 ----
 
@@ -69,4 +69,4 @@
 - [what's happening](https://youtu.be/8wn34LSj_Iw)
 
 ----
-> **NOTE:** Is something missing or wrong? Make sure to check the rest of the site to make sure it’s truly not here! If it’s still missing or you want it to be corrected, contact the admin [here](../chapter_2.html)!
+> **NOTE:** Is something missing or wrong? Make sure to check the rest of the site to make sure it’s truly not here! If it’s still missing or you want it to be corrected, contact the admin [here](../chapter_2.md)!

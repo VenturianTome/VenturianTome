@@ -6,18 +6,18 @@
 - Introduction Video: *Murder 3: Jimmy Casket*  
 - Occupation: Law Enforcement / Sheriff
 - Weapon of Choice: Handgun \(Revolver)  
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Human  
 - Other Names / Titles:   
   - The Sheriff  
-- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)  
 
 
 ## | Relationships  
-- [**Jimmy Casket**](5.Characters/Jimmy_Casket.html)  
+- [**Jimmy Casket**](5.Characters/Jimmy_Casket.md)  
   - Casket has pretended to be Princeton Quagmire and managed to shoot someone \[11:57 - *Murder 11: Olaf*]
 
-- [**Maxwell Acachalla**](5.Characters/Maxwell_Acachalla.html)
+- [**Maxwell Acachalla**](5.Characters/Maxwell_Acachalla.md)
   - Princeton Quagmire captured Maxwell Acachalla in 1864 with one of his "legendary quiz-games" while Maxwell was on a wagon-train to New Mexico \(this may or may not be true as it is Casket pretending to be him) \[12:30 - *Murder 11: Olaf*]
 
 
@@ -42,4 +42,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

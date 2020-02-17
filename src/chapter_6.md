@@ -1,110 +1,110 @@
 # Series
 [*All Videos*](https://www.youtube.com/playlist?list=PLwljWXtmIKiR6RCrbGztF5LhGXAEF7pX_)
 
-## [**Five Nights At Freddy’s**](./6.Series/FNAF.html)
-- [FNAF 1](../6.Series/FNAF/FNAF_1.html)
-- [FNAF 2](../6.Series/FNAF/FNAF_2.html)
-- [FNAF 3](../6.Series/FNAF/FNAF_3.html)
-- [FNAF 4](../6.Series/FNAF/FNAF_4.html)
-- [FNAF 5 \(Sister Location)](../6.Series/FNAF/FNAF_5-Sister_Location.html)
-- [FNAF 6 \(Pizzaria Simulator)](../6.Series/FNAF/FNAF_6-Pizzaria_Simulator.html)
-- [FNAF World](../6.Series/FNAF/FNAF_World.html)
-- [Five Nights At VenturianTale](../6.Series/FNAF/FNAV.html)
-- [Gameplay Livestreams](../6.Series/FNAF/FNAF_Gameplay_Livestreams.html)
-- [The Joy of Creation: Reborn](../6.Series/FNAF/TJoC-R.html)
+## [**Five Nights At Freddy’s**](6.Series/FNAF.md)
+- [FNAF 1](6.Series/FNAF/FNAF_1.md)
+- [FNAF 2](6.Series/FNAF/FNAF_2.md)
+- [FNAF 3](6.Series/FNAF/FNAF_3.md)
+- [FNAF 4](6.Series/FNAF/FNAF_4.md)
+- [FNAF 5 \(Sister Location)](6.Series/FNAF/FNAF_5-Sister_Location.md)
+- [FNAF 6 \(Pizzaria Simulator)](6.Series/FNAF/FNAF_6-Pizzaria_Simulator.md)
+- [FNAF World](6.Series/FNAF/FNAF_World.md)
+- [Five Nights At VenturianTale](6.Series/FNAF/FNAV.md)
+- [Gameplay Livestreams](6.Series/FNAF/FNAF_Gameplay_Livestreams.md)
+- [The Joy of Creation: Reborn](6.Series/FNAF/TJoC-R.md)
 
 ----
 
-## [**Gmod**](./6.Series/Gmod.html)
-- [Cops & Robbers](../6.Series/Gmod/Cops_And_Robbers.html)
-- [Crazy Fun Dupes](../6.Series/Gmod/Crazy_Fun_Dupes.html)
-- [Deathmatches](../6.Series/Gmod/Deathmatches.html)
-- [Fan Challenges](../6.Series/Gmod/Fan_Challenges.html)
-- [Horror Maps](../6.Series/Gmod/Horror_Maps.html)
-- [Mods & Maps](../6.Series/Gmod/Mods_And_Maps.html)
-- [Murder](../6.Series/Gmod/Murder.html)
-- [Roleplays](../6.Series/Gmod/Roleplays.html)
-- [Prop Hunt](../6.Series/Gmod/Prop_Hunt.html)
-- [Saves](../6.Series/Gmod/Saves.html)
-- [Scripted](../6.Series/Gmod/Scripted.html)
-- [Stop It Slender!](../6.Series/Gmod/Stop_It_Slender.html)
-- [Survival Maps](../6.Series/Gmod/Survival_Maps.html)
+## [**Gmod**](6.Series/Gmod.md)
+- [Cops & Robbers](6.Series/Gmod/Cops_And_Robbers.md)
+- [Crazy Fun Dupes](6.Series/Gmod/Crazy_Fun_Dupes.md)
+- [Deathmatches](6.Series/Gmod/Deathmatches.md)
+- [Fan Challenges](6.Series/Gmod/Fan_Challenges.md)
+- [Horror Maps](6.Series/Gmod/Horror_Maps.md)
+- [Mods & Maps](6.Series/Gmod/Mods_And_Maps.md)
+- [Murder](6.Series/Gmod/Murder.md)
+- [Roleplays](6.Series/Gmod/Roleplays.md)
+- [Prop Hunt](6.Series/Gmod/Prop_Hunt.md)
+- [Saves](6.Series/Gmod/Saves.md)
+- [Scripted](6.Series/Gmod/Scripted.md)
+- [Stop It Slender!](6.Series/Gmod/Stop_It_Slender.md)
+- [Survival Maps](6.Series/Gmod/Survival_Maps.md)
 
 ----
 
-## [**Livestreams**](./6.Series/Livestreams.html)
-- [Anniversary Livestreams](../6.Series/Livestreams/Anniversary_Livestreams.html)
-- [Subscriber Milestones](../6.Series/Livestreams/Subscriber_Milestone_Livestreams.html)
+## [**Livestreams**](6.Series/Livestreams.md)
+- [Anniversary Livestreams](6.Series/Livestreams/Anniversary_Livestreams.md)
+- [Subscriber Milestones](6.Series/Livestreams/Subscriber_Milestone_Livestreams.md)
 
 ----
 
-## [**Minecraft**](./6.Series/Minecraft.html)
-- [Fan Challenges](../6.Series/Minecraft/Fan_Challenges.html)
-- [Mods & Maps](../6.Series/Minecraft/Mods_And_Maps.html)
+## [**Minecraft**](6.Series/Minecraft.md)
+- [Fan Challenges](6.Series/Minecraft/Fan_Challenges.md)
+- [Mods & Maps](6.Series/Minecraft/Mods_And_Maps.md)
 
 ----
 
-## [**Other Games**](./6.Series/Other_Games.html)
-- [Banjo Kazooie](../6.Series/Other_Games/Banjo_Kazooie.html)
-- [Bendy & The Ink Machine](../6.Series/Other_Games/BatIM.html)
-- [Black Ops 2](../6.Series/Other_Games/Black_Ops_2.html)
-- [BROTHERS: A Tale of Two Sons](../6.Series/Other_Games/BROTHERS-ATo2S.html)
-- [Crysis](../6.Series/Other_Games/Crysis.html)
-- [Cube World](../6.Series/Other_Games/Cube_World.html)
-- [Just Cause 2](../6.Series/Other_Games/Just_Cause_2.html)
-- [Left 4 Dead](../6.Series/Other_Games/Left_4_Dead.html)
-- [LittleBigPlanet 2](../6.Series/Other_Games/LittleBigPlanet_2.html)
-- [Mario Games](../6.Series/Other_Games/Mario_Games.html)
+## [**Other Games**](6.Series/Other_Games.md)
+- [Banjo Kazooie](6.Series/Other_Games/Banjo_Kazooie.md)
+- [Bendy & The Ink Machine](6.Series/Other_Games/BatIM.md)
+- [Black Ops 2](6.Series/Other_Games/Black_Ops_2.md)
+- [BROTHERS: A Tale of Two Sons](6.Series/Other_Games/BROTHERS-ATo2S.md)
+- [Crysis](6.Series/Other_Games/Crysis.md)
+- [Cube World](6.Series/Other_Games/Cube_World.md)
+- [Just Cause 2](6.Series/Other_Games/Just_Cause_2.md)
+- [Left 4 Dead](6.Series/Other_Games/Left_4_Dead.md)
+- [LittleBigPlanet 2](6.Series/Other_Games/LittleBigPlanet_2.md)
+- [Mario Games](6.Series/Other_Games/Mario_Games.md)
   - Luigi's Mansion
   - Super Mario 64
   - Super Smash Bros. Brawl
-- [One-Play Games](../6.Series/Other_Games/One-Play_Games.html)
+- [One-Play Games](6.Series/Other_Games/One-Play_Games.md)
   - X
-- [Perspective](../6.Series/Other_Games/Perspective.html)
-- [Roblox](../6.Series/Other_Games/Roblox.html)
-- [Slender](../6.Series/Other_Games/Slender.html)
-- [Spiral Knights Co-op](../6.Series/Other_Games/Spiral_Knights.html)
-- [Sumotori Dreams](../6.Series/Other_Games/Sumotori_Dreams.html)
-- [Tattletail](../6.Series/Other_Games/Tattletail.html)
-- [Team Fortress 2](../6.Series/Other_Games/Team_Fortress_2.html)
-- [Untitled Goose Game](../6.Series/Other_Games/Untitled_Goose_Game.html)
+- [Perspective](6.Series/Other_Games/Perspective.md)
+- [Roblox](6.Series/Other_Games/Roblox.md)
+- [Slender](6.Series/Other_Games/Slender.md)
+- [Spiral Knights Co-op](6.Series/Other_Games/Spiral_Knights.md)
+- [Sumotori Dreams](6.Series/Other_Games/Sumotori_Dreams.md)
+- [Tattletail](6.Series/Other_Games/Tattletail.md)
+- [Team Fortress 2](6.Series/Other_Games/Team_Fortress_2.md)
+- [Untitled Goose Game](6.Series/Other_Games/Untitled_Goose_Game.md)
 
 ----
 
-## [**Portal**](./6.Series/Portal.html)
-- [Isaac & Bethany's Co-op](../6.Series/Portal/Isaac_Bethany_Co-op.html)
-- [Jordan & Jessica's Co-op](../6.Series/Portal/Jordan_Jessica_Co-op.html)
+## [**Portal**](6.Series/Portal.md)
+- [Isaac & Bethany's Co-op](6.Series/Portal/Isaac_Bethany_Co-op.md)
+- [Jordan & Jessica's Co-op](6.Series/Portal/Jordan_Jessica_Co-op.md)
 
 ----
 
-## [**Qeios**](./6.Series/Quios.html)
+## [**Qeios**](6.Series/Qeios.md)
 
 ----
 
-## [**Tale Series**](./6.Series/Tale_Series.html)
-- [A Minecraft Tale](../6.Series/Tale_Series/A_Minecraft_Tale.html)
-- [Another Minecraft Tale](../6.Series/Tale_Series/Another_Minecraft_Tale.html)
-- [Another Minecraft Tale \(Season 2)](../6.Series/Tale_Series/Another_Minecraft_Tale_S2.html)
-- [Elder Scrolls Online](../6.Series/Tale_Series/Elder_Scrolls_Online.html)
-- [A Fallout Tale](../6.Series/Tale_Series/Fallout_Tale.html)
-- [A Minecraft Tale](../6.Series/Tale_Series/Minecraft_Tale.html)
-- [An Oblivion Tale](../6.Series/Tale_Series/Oblivion_Tale.html)
-- [A Skyrim Tale](../6.Series/Tale_Series/Skyrim_Tale.html)
+## [**Tale Series**](6.Series/Tale_Series.md)
+- [A Minecraft Tale](6.Series/Tale_Series/A_Minecraft_Tale.md)
+- [Another Minecraft Tale](6.Series/Tale_Series/Another_Minecraft_Tale.md)
+- [Another Minecraft Tale \(Season 2)](6.Series/Tale_Series/Another_Minecraft_Tale_S2.md)
+- [A Fallout Tale](6.Series/Tale_Series/Fallout_Tale.md)
+- [A Minecraft Tale](6.Series/Tale_Series/Minecraft_Tale.md)
+- [An Oblivion Tale](6.Series/Tale_Series/Oblivion_Tale.md)
+- [A Skyrim Tale](6.Series/Tale_Series/Skyrim_Tale.md)
+- [Elder Scrolls Online](6.Series/Tale_Series/Elder_Scrolls_Online.md)
 
 ----
 
-## [**Vlogs**](./6.Series/Vlogs.html)
-- [Moving Houses](../6.Series/Vlogs/Moving_Houses_Vlogs.html)
-- [Updates](../6.Series/Vlogs/Update_Vlogs.html)
-- [VenturianMail](../6.Series/Vlogs/VenturianMail_Vlogs.html)
+## [**Vlogs**](6.Series/Vlogs.md)
+- [Moving Houses](6.Series/Vlogs/Moving_Houses_Vlogs.md)
+- [Updates](6.Series/Vlogs/Update_Vlogs.md)
+- [VenturianMail](6.Series/Vlogs/VenturianMail_Vlogs.md)
 
 ----
 
-## [**VT-Specific**](./6.Series/VT_Specific.html)
-- [Animations](../6.Series/VT-Specific/Animations.html)
-- [Montages](../6.Series/VT-Specific/Montages.html)
-- [Speedpaints](../6.Series/VT-Specific/Speedpaints.html)
-- [VenturianTale Mods](../6.Series/VT-Specific/VenturianTale_Mods.html)
+## [**VT-Specific**](6.Series/VT_Specific.md)
+- [Animations](6.Series/VT-Specific/Animations.md)
+- [Montages](6.Series/VT-Specific/Montages.md)
+- [Speedpaints](6.Series/VT-Specific/Speedpaints.md)
+- [VenturianTale Mods](6.Series/VT-Specific/VenturianTale_Mods.md)
 
 ----
 

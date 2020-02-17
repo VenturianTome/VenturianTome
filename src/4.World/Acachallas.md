@@ -3,13 +3,13 @@
 
 
 ## | Family Members  
-- [Billy](5.Characters/Billy_Acachalla.html)
-- [Gertrude](5.Characters/Gertrude_Acachalla.html)
-- [Maxwell](5.Characters/Maxwell_Acachalla.html)
-- [Papa](5.Characters/Papa_Acachalla.html)
-- [Sally](5.Characters/Sally_Acachalla.html)
-- [Spencer](5.Characters/Spencer_Acachalla.html)
-- [Sue](5.Characters/Sue_Acachalla.html)
+- [Billy](../5.Characters/Billy_Acachalla.md)
+- [Gertrude](../5.Characters/Gertrude_Acachalla.md)
+- [Maxwell](../5.Characters/Maxwell_Acachalla.md)
+- [Papa](../5.Characters/Papa_Acachalla.md)
+- [Sally](../5.Characters/Sally_Acachalla.md)
+- [Spencer](../5.Characters/Spencer_Acachalla.md)
+- [Sue](../5.Characters/Sue_Acachalla.md)
 
 ----
 
@@ -25,4 +25,4 @@
 
 ----
 
->**NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+>**NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

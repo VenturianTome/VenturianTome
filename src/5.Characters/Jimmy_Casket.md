@@ -8,35 +8,35 @@
 - Introduction Video: \(Created) *Murder 1*; \(Named) *Murder 3: Jimmy Casket*  
 - Branch / Occupation: Murderer / Entity  
 - Weapon of Choice: Knife \(Knifey)  
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Paranormal Entity
-- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)  
 
 ----
 
 ## | Relationships  
-- [**Gregory Casket**](5.Characters/Gregory_Casket.html)
+- [**Gregory Casket**](5.Characters/Gregory_Casket.md)
   - Casket says his secret is that his name is Gregory \[13:54 - *Murder 11: Olaf*]
 
-- [**The Housekeeper**](5.Characters/Housekeeper.html)
+- [**The Housekeeper**](5.Characters/Housekeeper.md)
   - He believes that he was locked into the dimension with the Housekeeper as the Housekeeper’s punishment \[14:25 - *Johnny Ghost vs Zombies*]
 
-- [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
   - Ghost refers to him as a "demon," denying any relation to him
    - He says that it's just entities trying to use his memories against him \[17:50 - *Haunted By Cardboard Friend*]
 - Ghost uses him to get answers \(“There’s only one way I know how to get answers”) \[17:54 - *Kidnapped By BananaCorp*]
    - He doesn’t react to getting shot due to high health \(“Shoot me! See what happens!”) \[18:00 - *Kidnapped By BananaCorp*]
 
-- [**Johnny Toast**](5.Characters/Johnny_Toast.html)
+- [**Johnny Toast**](5.Characters/Johnny_Toast.md)
   - Toast is what quells Ghost’s episodes and keeps him grounded \[1:24 / 15:31 - *Johnny Ghost vs Zombies*]
 
-- [**Maxwell Acachalla**](5.Characters/Maxwell_Acachalla.html)  
+- [**Maxwell Acachalla**](5.Characters/Maxwell_Acachalla.md)  
   - Maxwell and Casket have teamed up \[15:23 - *Scary Underground*]
 
-- [**Princeton Quagmire**](5.Characters/Princeton_Quagmire.html)
+- [**Princeton Quagmire**](5.Characters/Princeton_Quagmire.md)
   - Casket has pretended to be Princeton Quagmire and managed to shoot someone \[11:57 - *Murder 11: Olaf*]
 
-- [**The Rat Man of Washington**](5.Characters/One-Use_Uncommon.html)
+- [**The Rat Man of Washington**](5.Characters/One-Use_Uncommon.md)
   - He killed the Rat Man \[11:27 - *Rat Man of Washington*]
     - When Ghost comes back, he has no idea what just happened
     - Ghost says there's no evidence of the Rat Man ever existing and that "the reports are all faulty" \[12:06]
@@ -81,4 +81,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

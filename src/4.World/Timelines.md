@@ -8,7 +8,7 @@
 ----
 
 ## | Trivia
-- The videos themselves jump around timelines often, whether to express a (back)story or just to have fun with the character(s)'s lives
+- The videos themselves jump around timelines often, whether to express a \(back)story or just to have fun with the character\(s)'s lives
 
 ----
 

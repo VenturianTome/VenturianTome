@@ -5,7 +5,7 @@
 ## | Basics  
 - Introduction Video: *President Visits McDonald’s*  
 - Occupation: Grandparent / Royalty
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Human  
 - Other Names / Titles:   
   - The Queen
@@ -13,7 +13,7 @@
 ----
 
 ## | Relationships  
-- [**Johnny Toast**](5.Characters/Johnny_Toast.html)  
+- [**Johnny Toast**](5.Characters/Johnny_Toast.md)  
   - Toast doesn't shop; all his clothes are handmade \(by his Grandmother) \[3:35 - *OMG Cute Cats*]
   - Toast's car was once owned by the Queen of England; he has dented both sides of it \[1:16 - *Bonnie Visits Walmart*]
 
@@ -38,4 +38,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

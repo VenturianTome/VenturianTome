@@ -38,7 +38,6 @@
     - [Jose Jose Jose Jose](5.Characters/Jose_Jose_Jose_Jose.md)
     - [Josh](5.Characters/Josh.md)
     - [Light Zeron](5.Characters/Light_Zeron.md)
-    - [Lil’ Vent](5.Characters/Lil_Vent.md)
     - [Maddie Friend](./5.Characters/Maddie_Friend.md)
     - [Maxwell Acachalla](./5.Characters/Maxwell_Acachalla.md)
     - [Minecraft Characters](5.Characters/Minecraft_Characters.md)

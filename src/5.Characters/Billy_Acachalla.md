@@ -6,18 +6,18 @@
 - Introduction Video: *Motorcycle Mod*  
 - Occupation: Acachalla, Medic
 - Weapon of Choice: Handgun
-- Most Common Series: [Gmod](6.Series/Gmod.html)
+- Most Common Series: [Gmod](6.Series/Gmod.md)
 - Species: Human / Bird
 - Other Names / Titles:
   - Billy Medic
   - Ernie Ghost \(future)
   - Toilet Toucher \(future)
-- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)
+- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
 
 ----
 
 ## | Relationships  
-- [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)  
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)  
   - Billy was going to help Ghost repay his college fund \[11:13 - *Scary Batman Horror Map*]
 
 ----
@@ -28,7 +28,7 @@
 ----
 
 ## | Fakes
-- His fakes can be found [here](5.Characters/One-Use_Uncommon.html)!
+- His fakes can be found [here](5.Characters/One-Use_Uncommon.md)!
  
 ----
 
@@ -51,4 +51,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

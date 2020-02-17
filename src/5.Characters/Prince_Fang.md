@@ -6,11 +6,11 @@
 - Introduction Video: **  
 - Occupation: Entity  
 - Weapon of Choice: Self
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Dragon  
 - Other Names / Titles:   
   - Fang  
-- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)  
+- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)  
 
 ----
 

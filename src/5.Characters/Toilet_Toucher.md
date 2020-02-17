@@ -6,23 +6,23 @@
 - Introduction Video: **  
 - Occupation: Entity  
 - Weapon of Choice: Handgun  
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Ghost / Alien  
 - Other Names / Titles:   
   - Billy Acachalla \(past)
   - Ernie Ghost \(past)  
-- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)  
+- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)  
 
 ----
 
 ## | Relationships  
-- [**Bert Niceguy**](5.Characters/One-Use_Uncommon.html)
+- [**Bert Niceguy**](5.Characters/One-Use_Uncommon.md)
   - Bert Niceguy says the Toilet Toucher looks like his uncle \[14:27 - *VenturianTale Scripted*]
 
-- [**Billy Acachalla**](5.Characters/Billy_Acachalla.html)
+- [**Billy Acachalla**](5.Characters/Billy_Acachalla.md)
   - 
 
-- [**Ernie Ghost**](5.Characters/One-Use_Uncommon.html)  
+- [**Ernie Ghost**](5.Characters/One-Use_Uncommon.md)  
   - Ernie IS the Toilet Toucher, just a past version that was exiled to the 16th Dimension \[14:08 - *FNAF & Zootopia 2*]
 
 ----
@@ -57,4 +57,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

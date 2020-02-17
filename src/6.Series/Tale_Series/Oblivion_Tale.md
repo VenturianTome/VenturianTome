@@ -12,7 +12,7 @@
 
 ### Asylum Weaver
 - He is the protagonist of this series
-> More information about him can be found [here](5.Characters/Asylum_Weaver.html)
+> More information about him can be found [here](../5.Characters/Asylum_Weaver.md)
 
 ### Lena
 - 
@@ -40,4 +40,4 @@
  
 ----
  
-> **NOTE:** Is something missing or wrong? Make sure you search the site to make sure it’s truly not here first! If it’s still missing, contact the admin [here](../chapter_2.html)!
+> **NOTE:** Is something missing or wrong? Make sure you search the site to make sure it’s truly not here first! If it’s still missing, contact the admin [here](../chapter_2.md)!

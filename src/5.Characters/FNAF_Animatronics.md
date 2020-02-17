@@ -3,9 +3,9 @@
 ### [Playlist]()
 
 ## | Basics
-- Most Common Series: [Gmod](6.Series/Gmod.html) / [Five Nights At Freddy’s](6.Series/FNAF.html)
+- Most Common Series: [Gmod](6.Series/Gmod.md) / [Five Nights At Freddy’s](6.Series/FNAF.md)
 - Species: Animatronic(s)
-- Played By: [All Siblings](./chapter_3.html)
+- Played By: [All Siblings](../chapter_3.md)
 
 ----
 
@@ -41,7 +41,7 @@
 
 ### The Puppet
 - 
-> This doesn't include any information on the Puppet Arc, which can be found [here](../chapter_4.html)
+> This doesn't include any information on the Puppet Arc, which can be found [here](../chapter_4.md)
 
 ----
 
@@ -78,4 +78,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

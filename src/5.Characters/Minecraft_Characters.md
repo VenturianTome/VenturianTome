@@ -15,7 +15,7 @@
 ----
 
 ### Daxius
-- He can be found [here](6.Characters/Daxius.html)!
+- He can be found [here](6.Characters/Daxius.md)!
 
 ----
 
@@ -57,4 +57,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

@@ -6,17 +6,17 @@
 - Introduction Video: *Haunted School*
 - Occupation: P.I.E. Team Member
 - Weapon(s) of Choice: Handgun, Super Monster Zapper Gun
-- Most Common Series: [Gmod](6.Series/Gmod.html)
+- Most Common Series: [Gmod](6.Series/Gmod.md)
 - Species: Human
 - Other Names / Titles:
   - Colon
   - Chris Ghostie
-- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)
+- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
 
 ----
 
 ## | Relationships  
-- [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)  
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)  
   - Colon screaming for him is the 2nd most annoying sound Ghost has heard [11:02 - *Haunted School*]
 
 ----
@@ -62,4 +62,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

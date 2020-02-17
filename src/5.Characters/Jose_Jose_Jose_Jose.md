@@ -5,14 +5,14 @@
 ## | Basics  
 - Introduction Video: **
 - Occupation: Alternate Personality
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Ghost / Entity
-- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)  
 
 ----
 
 ## | Relationships  
-- [**Papa Acachalla**](5.Characters/Papa_Acachalla.html)  
+- [**Papa Acachalla**](5.Characters/Papa_Acachalla.md)  
   -  
 
 

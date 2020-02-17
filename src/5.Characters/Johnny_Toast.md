@@ -6,20 +6,20 @@
 - Introduction Video: *Prop Hunt 18: Ghost Hunt* 
 - Occupation: P.I.E. Team Member
 - Weapon of Choice: Handgun  
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Human, Werewolf, Vampire  
 - Other Names / Titles:   
   - Johnny Bartholomew Toast
   - Johnathan Maxwell Toast  
-- Played By: [Cierra Frye / ImmortalKyodai](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)  
+- Played By: [Cierra Frye / ImmortalKyodai](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)  
 
 ----
 
 ## | Relationships  
-- [**Aimee**](5.Characters/Aimee.html)
+- [**Aimee**](5.Characters/Aimee.md)
   - Toast has had nightmares of Aimee for weeks \[10:34 - *Johnny Ghost L4D*]
 
-- [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)  
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)  
   - Ghost is Toast’s closest friend with which he goes on many paranormal adventures
   - Toast doesn't know Ghost's birthday, even though they're close friends \[3:59 - *Ghost Hunters*]
     - He bought Ghost a camera for his birthday \[1:22 - *Yoshi Nintendo Mod*]
@@ -35,11 +35,11 @@
   - He is what quells Ghost’s episodes and keeps him grounded \[1:24 / 15:31 - *Johnny Ghost vs Zombies*]
   - Ghost is thankful for his partner Johnny Toast, Toast is thankful for himself and Ghost \("it's a whole thing" -Ghost) [20:01 - *Acachalla's Thanksgiving (2019)*]
 
-- [**The Queen of England**](5.Characters/Queen_of_England.html)
+- [**The Queen of England**](5.Characters/Queen_of_England.md)
   - He is the Queen of England’s grandson \[13:28 - *President Visits McDonald’s*]
   - Toast's car was once owned by the Queen of England; he has dented both sides of it \[1:16 - *Bonnie Visits Walmart*]
 
-- [**The Rake**](5.Characters/Creepypastas.html)
+- [**The Rake**](5.Characters/Creepypastas.md)
   - He went to Rake's wedding \[0:46 - *Haunted By Cardboard Friend*]
 
 ----
@@ -76,7 +76,7 @@
   - He has spied on Ghost's dreams \[9:57 - *OMG Cute Cats*]
 
 ## | Fakes
-- His fakes can be found [here](5.Characters/One-Use_Uncommon.html)!
+- His fakes can be found [here](5.Characters/One-Use_Uncommon.md)!
 
 ----
 
@@ -97,11 +97,11 @@
 - Toast comes from a family of hicks and "sort of was adopted" \[10:01 - *HUNT Pt.2 Finale*]
 - Toast's dad died before he was 5 \[10:29 - *HUNT Pt.2 Finale*]
 - Toast can't jump unless he's intoxicated \[19:23 - *HUNT Pt.2 Finale*]
-- Toast had a [pink hamster](5.Characters/Pets.html)
+- Toast had a [pink hamster](5.Characters/Pets.md)
   - Ghost claims that it wasn't even a hamster \[23:40 - *HUNT Pt.2 Finale*]
 - Toast has a sister named Jenny, and she was a cop \[3:41 - *I Am The Puppet*]
 - Toast's favourite book is "How To Make Macaroni & Cheese" \[11:47 - *The Horror Continues*]
-- Toast had a cat named [Marshmallow](5.Characters/Pets.html), but it died \[13:51 - *The Horror Continues*]
+- Toast had a cat named [Marshmallow](5.Characters/Pets.md), but it died \[13:51 - *The Horror Continues*]
 - Toast wrote a paper in college about the use of music in paranormal investigations \[6:59 - *Hell's Resort*]
 - Toast does the technical stuff, uses the equipment, and drives the van \[9:46 - *Hell's Resort*]
 - Toast quit smoking \[10:13 - *Hell's Resort*]
@@ -172,4 +172,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

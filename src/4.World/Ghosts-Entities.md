@@ -5,7 +5,7 @@
 
 ## | Levels / Categories
 #### **Level 0** 
-  - Example: [The FNAF Cupcake](5.Characters/FNAF_Animatronics.html) \[5:33 - *Scary Ghost Children*]  
+  - Example: [The FNAF Cupcake](../5.Characters/FNAF_Animatronics.md) \[5:33 - *Scary Ghost Children*]  
 #### **Level 1**
 - Only appears with equipment \[2:21 - *Paranormal Ghost Hunt*]  
 #### **Level 2**
@@ -13,31 +13,31 @@
 #### **Level 3**
 - Can be heard \[2:21 - *Paranormal Ghost Hunt*]
 - Have lots of steam \[6:42 - *Playable Animatronics 10*]  
-  - Example: [Withered Bonnie](5.Characters/FNAF_Animatronics.html)
+  - Example: [Withered Bonnie](../5.Characters/FNAF_Animatronics.md)
 #### **Level 4**
 - Usually don't interact with humans; can scratch you when angry \[2:53 - *Funny Horror Game*]
 - Have a physical body \[2:21 - *Paranormal Ghost Hunt*]
 - Typically hide a key somewhere in a room under a table or in a cabinet and have a jumpscare for said cabinet \[15:31 - *Paranormal Ghost Hunt*]
 - Resistant to reflective surfaces \[6:33 - *Haunted By Cardboard Friend*]
-  - Example: [Cardboard Friend](5.Characters/Cardboard_Friend.html)  
+  - Example: [Cardboard Friend](../5.Characters/Cardboard_Friend.md)  
 #### **Level 5**
 - A physical entity \[7:55 - *Haunted By Sonic*]
 - Typically stays closer to an exit \[9:58 - *Scary Ghost Children*]
-  - Example: [Sonic.exe](5.Characters/One-Use_Uncommon.html) \[7:55 - *Haunted By Sonic*]
+  - Example: [Sonic.exe](../5.Characters/One-Use_Uncommon.md) \[7:55 - *Haunted By Sonic*]
   - Example: Unnamed Level 5 ghost that poops flowers \[8:14 - *Ghost Hunters*]  
 #### **Level 6** 
   - Example: Zombies \[16:51 - *Paranormal Ghost Hunt*]  
 #### **Level 7.6894503.01 or 7.6894503.02**
 - Only ever mentioned in the first *VenturianTale Scripted* video
-  - Example: [The Toilet Toucher](5.Characters/Toilet_Toucher.html) \[6:59 - *VenturianTale Scripted*]
+  - Example: [The Toilet Toucher](../5.Characters/Toilet_Toucher.md) \[6:59 - *VenturianTale Scripted*]
 #### **Level 15**
 - Smell like bacon grease and can control other people's minds and possibly travel to other dimensions \[5:11 / 6:32 / 7:03 - *Hell's Island Pt.2*]
 - Can tear your head clean off your body \[14:39 - *Scary Ghost Children*]
-  - Example: [Chakalata Soup](5.Characters/Chakalata_Soup.html) \[17:28 - *Haunted By Delphox*]  
+  - Example: [Chakalata Soup](../5.Characters/Chakalata_Soup.md) \[17:28 - *Haunted By Delphox*]  
 #### **Level 25**
 - Could destroy the entire world with a flick of its fingers or open a dimension to a black hole at any time \(“You never face a demon of that caliber”) \[15:09 - *Scary Ghost Children*]
 - Can only be stopped by a certain radio/music setting \[10:05 - *Haunted By Delphox*]
-  - Example: [The Cat Demon](5.Characters/One-Use_Uncommon.html) \[15:09 - *Scary Ghost Children*]
+  - Example: [The Cat Demon](../5.Characters/One-Use_Uncommon.md) \[15:09 - *Scary Ghost Children*]
   - Example: Balloons \[10:05 - *Haunted By Delphox*] 
 #### **Alpha Level**
 - Impervious to grenades and possibly popsicles \[5:45 - *Haunted By Delphox*]  
@@ -47,7 +47,7 @@
 ## | Other Types of Entities
 #### Crusty Butt Entities
 - Haven't been heard of since a sarcophagus was uncovered in Gaza, Egypt \[2:05 - *Haunted By Grandma*]
-  - Example: [Grandma Ghost](5.Characters/One-Use_Uncommon.html)
+  - Example: [Grandma Ghost](../5.Characters/One-Use_Uncommon.md)
     - She won't come near car keys and can mess with time \[18:36 / 19:24 - *Haunted By Grandma*]
 #### Dragon Ghosts
 - Roofs are super dangerous because they can land on them at any time \[12:50 - *Scary Ghost Children*]
@@ -64,10 +64,10 @@
 - Only lets off paranormal smoke, which doesn't fill up a room \[0:40 - *HUNT Pt.2*]
 #### The Puppet \(Puppet Arc)
 - It is 7 1/2 feet tall and shakes around quite a bit \[3:19 - *Hell's Island Pt.1*]
-> More information on the Puppet Arc can be found [here](../chapter_4.html)
+> More information on the Puppet Arc can be found [here](../chapter_4.md)
 #### Woodswimmer Ghosts
 - Had not been seen since the summer of 1999 before *Haunted By Godzilla* \[8:14]
-  - Example: [Godzilla](5.Characters/One-Use_Uncommon.html)
+  - Example: [Godzilla](../5.Characters/One-Use_Uncommon.md)
 
 ----
 
@@ -86,13 +86,13 @@
 ----
 
 ## | Other Entity Trivia
-- [Maxwell](5.Characters/Maxwell_Acachalla.html) and [Cardboard Friend](5.Characters/Cardboard_Friend.html) are friends \[10:31 - *Prop Hunt 18: Ghost Hunt*]
-- There was a [Mario and Luigi](5.Characters/One-Use_Uncommon.html) ghost haunting at the Acachalla household in 1987 \[17:15 - *Funny Balloon Boy*]
-- [Ghost](5.Characters.Johnny_Ghost.html) and [Toast](5.Characters/Johnny_Toast.html) faced a Level 6 in Brazil; their plan kind of worked and set off a volcano \[6:31 - *Paranormal Ghost Hunt*]
+- [Maxwell](../5.Characters/Maxwell_Acachalla.md) and [Cardboard Friend](5.Characters/Cardboard_Friend.md) are friends \[10:31 - *Prop Hunt 18: Ghost Hunt*]
+- There was a [Mario and Luigi](5.Characters/One-Use_Uncommon.md) ghost haunting at the Acachalla household in 1987 \[17:15 - *Funny Balloon Boy*]
+- [Ghost](../5.Characters.Johnny_Ghost.md) and [Toast](../5.Characters/Johnny_Toast.md) faced a Level 6 in Brazil; their plan kind of worked and set off a volcano \[6:31 - *Paranormal Ghost Hunt*]
 - An Abyss Mouth is a portal to the Underworld; they were not used since 84 A.D. \[11:07 - Paranormal Ghost Hunt]
-- [Ghost](5.Characters.Johnny_Ghost.html) claims that the top drawer of a cupboard is cursed if the cupboard has 3 drawers \[14:29 - *Acachalla's Thanksgiving (2019)*]
+- [Ghost](../5.Characters.Johnny_Ghost.md) claims that the top drawer of a cupboard is cursed if the cupboard has 3 drawers \[14:29 - *Acachalla's Thanksgiving (2019)*]
 
-> More information about the P.I.E. Team can be found [here](4.World/PIE_Team.html)
+> More information about the P.I.E. Team can be found [here](4.World/PIE_Team.md)
 
 ----
 
@@ -117,4 +117,4 @@
 
 ----
 
-**NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+**NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

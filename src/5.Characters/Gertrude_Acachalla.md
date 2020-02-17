@@ -6,18 +6,18 @@
 - Introduction Video: **  
 - Occupation: Foster Mother  
 - Weapon of Choice: Crowbar
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Human  
 - Other Names / Titles:   
   - Mama Gertrude  
-- Played By: [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)  
+- Played By: [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)  
 
 
 ## | Relationships  
-- [**Papa Acachalla**](5.Characters/Papa_Acachalla.html)
+- [**Papa Acachalla**](5.Characters/Papa_Acachalla.md)
   -  
 
-- [**Sally Acachalla**](5.Characters/Sally_Acachalla.html)
+- [**Sally Acachalla**](5.Characters/Sally_Acachalla.md)
   - 
 
 
@@ -39,4 +39,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

@@ -3,7 +3,7 @@
 ### [Playlist]()
 
 ## | Basics
-- Most Common Series: [Gmod](6.Series/Gmod.html)
+- Most Common Series: [Gmod](6.Series/Gmod.md)
 
 ----
 
@@ -39,4 +39,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

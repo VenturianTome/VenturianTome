@@ -6,11 +6,11 @@
 - Introduction Video: *Motorcycle Mod*  
 - Occupation: Acachalla Family / Foster Father  
 - Weapon of Choice: Handgun / Shotgun \(Annabelle)  
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Human  
 - Other Names / Titles:   
   - Papa  
-- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)  
 
 ----
 
@@ -30,7 +30,7 @@
 - [**Sue Acachalla**]()  
   - 
 
-- [**Toilet Toucher**](5.Characters/Toilet_Toucher.html)
+- [**Toilet Toucher**](5.Characters/Toilet_Toucher.md)
   - Papa doesn't know who the Toilet Toucher is [4:43 - *Acachalla's Thanksgiving (2019)*]
 
 ----
@@ -57,4 +57,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

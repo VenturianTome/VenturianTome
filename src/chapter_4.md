@@ -4,16 +4,16 @@
 ## Big Events
 
 ### Billion-Year War
-- Was implied to be started by Ghost and Colon going into and then leaving Baraslavia [13:03 - *Baraslavian Prison*]
+- Was implied to be started by Ghost and Colon going into and then leaving Baraslavia \[13:03 - *Baraslavian Prison*]
 
 ### Puppet Arc \(Fan-Named)
-- Ghost believed himself to be in a dimensional bubble or limbo-like state during the Puppet Arc [4:04 - *Johnny Ghost vs Zombies*]
+- Ghost believed himself to be in a dimensional bubble or limbo-like state during the Puppet Arc \[4:04 - *Johnny Ghost vs Zombies*]
 
 ### Thanksgiving Celebrations
-> "You're not cooking dinner, you're cooking the house!" -Papa [6:00 - *Acachalla's Thanksgiving (2019)*]
+> "You're not cooking dinner, you're cooking the house!" -Papa \[6:00 - *Acachalla's Thanksgiving (2019)*]
 - 2019: Acachalla's Thanksgiving
   - Thanksgiving has been in danger because their house's "thank tanks" are running low/empty \[5:07]
-   - They need 267,000 thanks and they need T. Hanks (Tom Hanks) for that; Ghost was going to suggest him but they decide on finding The Rock \[13:43]
+   - They need 267,000 thanks and they need T. Hanks \(Tom Hanks) for that; Ghost was going to suggest him but they decide on finding The Rock \(Dwayne Johnson) \[13:43]
   - Gertrude goes blind \[6:56 / 8:02]
    - Gertrude somehow winds up in the basement; they plan to replace her eyes with the turkey's \[16:34]
   - Sally has a secret that she can't tell anyone because they'll get mad \[13:05]
@@ -51,4 +51,4 @@
 
 ----
 
-> **NOTE:** Is something missing or wrong? Make sure you search the site to make sure it’s truly not here first! If it’s still missing, contact the admin [here](../chapter_2.html)!
+> **NOTE:** Is something missing or wrong? Make sure you search the site to make sure it’s truly not here first! If it’s still missing, contact the admin [here](../chapter_2.md)!

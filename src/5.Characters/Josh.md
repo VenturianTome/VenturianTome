@@ -6,15 +6,15 @@
 - Introduction Video: **  
 - Occupation:   
 - Weapon of Choice:   
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Human  
 - Other Names / Titles:   
   - Josh from *Twenty-One Pilots*  
-- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)  
+- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)  
 
 
 ## | Relationships  
-- [**Dummy**](5.Characters/Dummy.html)  
+- [**Dummy**](5.Characters/Dummy.md)  
   - 
 
 

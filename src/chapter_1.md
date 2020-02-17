@@ -5,7 +5,7 @@
 Welcome to VenturianTome, a site dedicated to keeping track of everything VenturianTale and providing sources for all of the information given!  
 
 I'm V, the Main Admin of the site. If you want to learn more about me or need to contact me, please do so at the links on
-[this page.](../chapter_2.html)
+[this page.](../chapter_2.md)
 
 > **WARNING**: This is a completely *fan-made* site made by fans of the channel. The Siblings are not involved in creating this site in way other than providing the information through their videos. The Admin will try to source everything from the videos as much as possible.
 
@@ -14,19 +14,19 @@ I'm V, the Main Admin of the site. If you want to learn more about me or need to
 ## Enjoy!
 Feel free to peruse this dictionary of characters and pages. All of this information comes directly from the VT Sibling's videos or other social medias, followed by timestamps and sources for each bit of information. 
 
-If you need any additional information or help navigating the site, please contact me [here](chapter_2.html).
+If you need any additional information or help navigating the site, please contact me [here](../chapter_2.md).
 - I will provide information from specific videos, links to videos or other resources, a tutorial on how to navigate the site, or anything else you might need.
 Feel free to ask the admin about anything related to the site and I'll try to respond as soon as I can!
 
 ----
 
 ## Exploration
-- [The Admin](../chapter_2.html)
-- [The Siblings](../chapter_3.html)
-- [The World](../chapter_4.html)
-- [Characters](../chapter_5.html)
-- [Series](../chapter_6.html)
-- [Other Family](../chapter_7.html)
+- [The Admin](../chapter_2.md)
+- [The Siblings](../chapter_3.md)
+- [The World](../chapter_4.md)
+- [Characters](../chapter_5.md)
+- [Series](../chapter_6.md)
+- [Other Family](../chapter_7.md)
 
 ----
 
@@ -37,7 +37,7 @@ Feel free to ask the admin about anything related to the site and I'll try to re
 
 > **NOTE:** This site is always updating when a new video comes out and while trying to catch up on older videos's info, so it is currently incomplete. Feel free to help an admin out by contacting them with more information and please be patient until it is completed. Thank you!
 
-> If you want to know how to help the admin create and improve the site, go to the [Meet The Admin](../chapter_2.html) page to find out where you can contact me and ways to help!
+> If you want to know how to help the admin create and improve the site, go to the [Meet The Admin](../chapter_2.md) page to find out where you can contact me and ways to help!
 
 ----
 

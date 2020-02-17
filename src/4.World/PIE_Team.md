@@ -4,13 +4,13 @@
 
 
 ## | Members  
-- [**Ghost**](5.Characters/Johnny_Ghost.html)
+- [**Ghost**](../5.Characters/Johnny_Ghost.md)
     - The assumed leader of the Team; the one who usually commands what the Team does
-- [**Toast**](5.Characters/Johnny_Toast.html)
+- [**Toast**](../5.Characters/Johnny_Toast.md)
     - The true leader of the company; he funds the Team
-- [**Spooker**](5.Characters/Fred_Spooker_Soup.html)
+- [**Spooker**](../5.Characters/Fred_Spooker_Soup.md)
     - Spooker and Colon aren't technically interns because they're on the team, but they're not higher members than Ghost and Toast \[0:53 - *HIDE Horror Map*]
-- [**Colon**](5.Characters/Chris_Colon_Ghostie.html)
+- [**Colon**](../5.Characters/Chris_Colon_Ghostie.md)
     - Spooker and Colon aren't technically interns because they're on the team, but they're not higher members than Ghost and Toast \[0:53 - *HIDE Horror Map*]
 
 ----
@@ -65,7 +65,7 @@
 ## | Other Trivia
 - Sacrificing Colon for a plan is a last-ditch effort \[5:32 - *Haunted By Grandma*]
 - Recruits get paid $20 an hour \[1:49 - *Scary Ghost Children*]
-- They have investigated the Legend of [Bonbon](5.Characters/One-Use_Uncommon.html) and the disappearance of [Charlie Charlie Chase Buttface](5.Characters/One-Use_Uncommon.html) in Idaho \[3:58 / 5:31 - *Super-Powered Baby Mod*]
+- They have investigated the Legend of [Bonbon](../5.Characters/One-Use_Uncommon.md) and the disappearance of [Charlie Charlie Chase Buttface](../5.Characters/One-Use_Uncommon.md) in Idaho \[3:58 / 5:31 - *Super-Powered Baby Mod*]
 - They have a plan called Alpha Omega 3: Fish Oil \[11:55 - *Super-Powered Baby Mod*]
 - 1-800-GHOST-AWAY is their phone number \[1:33 - *Haunted By Delphox*]
 - They investigated the Loch Ness Monster \[18:50 - *Haunted By Delphox*]
@@ -100,4 +100,4 @@
 
 ----
 
-**NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+**NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

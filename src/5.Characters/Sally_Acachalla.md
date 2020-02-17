@@ -6,14 +6,14 @@
 - Introduction Video: **  
 - Occupation: Acachalla Kid
 - Weapon of Choice: Self / Handgun / Waffle Gun  
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Human / Waffle Demon  
-- Played By: [Cierra Frye / ImmortalKyodai](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)  
+- Played By: [Cierra Frye / ImmortalKyodai](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)  
 
 ----
 
 ## | Relationships  
-- [**Slenderman**](5.Characters/Creepypastas.html)  
+- [**Slenderman**](5.Characters/Creepypastas.md)  
   - She is Slender's girlfriend \[17:51 - *Creepypasta College*]
 
 ----
@@ -41,4 +41,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

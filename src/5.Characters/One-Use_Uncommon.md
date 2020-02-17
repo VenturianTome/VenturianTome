@@ -13,7 +13,7 @@
 
 ## Agent Angel
 #### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.html)
+#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 
 ### Mentioned Videos
 - 
@@ -40,7 +40,7 @@
 
 ## Bad / Low Texture Bronson
 #### Origin: *Chica Visits Pizza Hut*
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 - Acted as Tommy’s sidekick on his TV show \[4:42 - *Chica Visits Pizza Hut*]
 
 ### Mentioned Videos
@@ -50,7 +50,7 @@
 
 ## Bad / Low Texture Johnson
 #### Origin: *Chica Visits Pizza Hut*
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 - Acted as Tommy’s sidekick on his TV show \[2:05 - *Chica Visits Pizza Hut*]
   - Faked his death \[13:11 / 13:34]
 
@@ -61,7 +61,7 @@
 
 ## BananaCorp / Banana Man
 #### Origin: **
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html) & [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)
+#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md) & [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
 - They kidnapped Toast but he was saved by Ghost after 2 “stressful” weeks \[0:47 / 1:17 - *Kidnapped By BananaCorp*]
 - There is \(or was) a Banana King \[1:17 - *Kidnapped By BananaCorp*]
 - Their lair was under a volcano \[2:25 - *Kidnapped By BananaCorp*]
@@ -75,7 +75,7 @@
 
 ## Bert Niceguy \(Scripted)
 #### Origin: *VenturianTale Scripted*
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 - Bert Niceguy says the Toilet Toucher looks like his uncle \[14:27 - *VenturianTale Scripted*]
 
 ### Mentioned Videos
@@ -85,7 +85,7 @@
 
 ## The Betrayer
 #### Origin: *I Am The Puppet* & *The Horror Continues*
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 - Lives \(or *lived*) in Germany \[2:04 - *I Am The Puppet*]
 - Was a resident of the town \(and was even a cop for a while) before everyone else died \[3:33 - *I Am The Puppet*]
 - They use a test to make sure if someone is “infected” or not, which is to know something about your childhood \[10:06 - *I Am The Puppet*]
@@ -104,7 +104,7 @@
 
 ## Better Texture Monson
 #### Origin: *Chica Visits Pizza Hut*
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 - Acted as Tommy’s sidekick on his TV show \[11:18 - *Chica Visits Pizza Hut*]
   - Tommy believed he was an undercover spy \(because he was reading his lines for the show) and killed him \[11:54]
 
@@ -115,7 +115,7 @@
 
 ## Billy Acachalla \(Others / Fakes)
 #### Origin: **
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 - There was a fake Billy in \[11:47 - *Murder 4: Majora's Mask*] that he won against
 
 ### Mentioned Videos
@@ -125,7 +125,7 @@
 
 ## Bonbon the Baby / Baby Doll
 #### Origin: *Funny Baby Mod*
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)
+#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 - They live in a green house in a culdesac with Charlie Charlie Chase Buttface \[10:11 - *Funny Baby Mod*]
 - In the future, Bonbon went to \(and is failing) college \[11:36 - *Funny Baby Mod*]
 
@@ -136,7 +136,7 @@
 
 ## Boot the Minion
 #### Origin: *Minions Visit McDonald's*
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)
+#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 - Ghost used science to create him out of nothing but a twinkie and originally named him Toast but changed his name [1:08 / 1:43 / 14:58 / 15:26 - *Minions Visit McDonald's*]
 - It has grenades, a crossbow, and a grenade launcher [7:08 / 8:42 / 12:14 - *Minions Visit McDonald's*]
 - The Almighty Boot was originally a Minion [14:13 - *Johnny Bot*]
@@ -168,7 +168,7 @@
 
 ## Cecil the Gnome
 #### Origin: **
-#### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)
+#### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
 - Cecil the Gnome once told Ghost that he was friends with "a little red-headed girl from the wasteland," which Ghost didn't believe \[5:41 - *Funny Oogie Boogie*]
 - BananaCorp had enslaved his people \[7:44 - *Kidnapped By BananaCorp*]
   - He sacrificed himself to detonate the BananaCorp’s lair \[21:35 - *Kidnapped By BananaCorp*]
@@ -181,7 +181,7 @@
 
 ## Charlie Charlie Chase Buttface
 #### Origin: *Funny Baby Mod*
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.html)
+#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 - Charlie keeps switching accents \(Russian, Japanese) \[5:32 / 6:40 - *Funny Baby Mod*]
 - She lives in a green house in a culdesac with Bonbon \[10:11 - *Funny Baby Mod*]
 
@@ -192,7 +192,7 @@
 
 ## Chucky Toast
 #### Origin: *Big Dragon Mod*
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)
+#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 - When Ghost is stranded in multiple dimensions during the Puppet Arc, he lands on an island inhabited by Rosie and Chucky Toast
 - Ghost mistakes him for Johnny Toast, but is proven wrong; Ghost is still overprotective of him \[3:07 / 5:15 / 6:51 / 7:47 / 8:32 - Big Dragon Mod]
 - He gets his name at \[9:55]
@@ -204,7 +204,7 @@
 ----
 
 ## Chump Kazooie
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 #### Origin: **
 - 
 
@@ -223,7 +223,7 @@
 ----
 
 ## Crispy Toast
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)
+#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 #### Origin: **
 - 
 
@@ -234,7 +234,7 @@
 
 ## Dipper
 #### Origin: *Gravity Falls Dipper*
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 - Ghost is a big fan of Dipper's; Dipper was doing what Ghost does before he did - he was Ghost's inspiration; Ghost wrote an essay about the Mystery Shack in school \[2:32 / 6:20 / 7:09 - *Gravity Falls Dipper*]
 - Dipper found the well of eternal life by playing video games and not noticing time passing \[6:32 - *Gravity Falls Dipper*]
 - Dipper has a machine that can observe the aspects of sleep \[8:35 - *Gravity Falls Dipper*]
@@ -247,7 +247,7 @@
 
 ## Doge
 #### Origin: **
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 - 
 
 ### Mentioned Videos
@@ -257,7 +257,7 @@
 
 ## Donald Donnie
 #### Origin: *Godzilla Ate My Lunch*
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)
+#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 - He is a health inspector \[2:11]
 - Was Ghost's friend in middle school \[5:08]
   - Told Ghost to sign a fruit roll-up with a pen as a declaration of friendship \[6:47]
@@ -298,7 +298,7 @@
 ----
 
 ## Gavin Toast
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)
+#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 #### Origin: **
 - 
 
@@ -325,7 +325,7 @@
 ----
 
 ## Grandpa Sink Supplies
-#### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)
+#### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
 #### Origin: **
 - 
 
@@ -345,9 +345,9 @@
 
 ## Gregory Casket
 #### Origin: *Cardboard Friend*
-#### Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)
+#### Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 - The child who created Cardboard Friend because no one else would play with him \[1:28 - *Cardboard Friend*]
-- Became scared of [Cardboard Friend](5.Characters/Cardboard_Friend.html)
+- Became scared of [Cardboard Friend](5.Characters/Cardboard_Friend.md)
   - He thought Cardboard Friend was going to kill him and steal his soul, crayons and toys \[7:02 - *Cardboard Friend*]
 - He has called Cardboard Friend "Gregory" instead of himself and then quickly backtracked \[8:40 - *Cardboard Friend*]
 - Decided to set Cardboard Friend free to its planet and people, accidentally calling it "Gregory" \[13:12 - *Cardboard Friend*]
@@ -372,7 +372,7 @@
 
 ## Hickle Coolbreeze
 #### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.html)
+#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 - 
 
 ### Mentioned Videos
@@ -382,7 +382,7 @@
 
 ## Hilda Niceguy \(Scripted)
 #### Origin: **
-#### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)
+#### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
 - 
 
 ### Mentioned Videos
@@ -401,7 +401,7 @@
 
 ## Jackson from Child Services
 #### Origin: *The Joker Babysits*
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.html)
+#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 - Jackson from Child/Family Service pays a visit to investigate the house \(13:19 - He's actually Batman in disguise) [11:37 - *The Joker Babysits*]
 
 ### Mentioned Videos
@@ -411,7 +411,7 @@
 
 ## Jenny Ghost
 #### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.html)
+#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 - 
 
 ### Mentioned Videos
@@ -421,7 +421,7 @@
 
 ## Jenny Toast
 #### Origin: **
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)
+#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 - 
 
 ### Mentioned Videos
@@ -440,7 +440,7 @@
 
 ## John Hundred
 #### Origin: *Funny Oogie Boogie*
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)
+#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 - John wears a potato sack \[2:17]
 - John made Ghost communicate to him through letters \[3:27]
 - John has a "hot sauce factory" in his house that is actually a portal to the underworld \[3:53]
@@ -482,7 +482,7 @@
 
 ## Johnny Cranky
 #### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.html)
+#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 - 
 
 ### Mentioned Videos
@@ -510,7 +510,7 @@
 
 ## Johnny Toast \(Others / Fakes)
 #### Origins: **
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)
+#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 - 
 
 ### Mentioned Videos
@@ -551,7 +551,7 @@
 
 ## Kylo Ren \(Star Wars)
 #### Origin: **
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 - 
 
 ### Mentioned Videos
@@ -561,7 +561,7 @@
 
 ## Lady Buttlegum
 #### Origin: **
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 - 
 
 ### Mentioned Videos
@@ -580,7 +580,7 @@
 
 ## Leonard Malkovich
 ### Origin: *My Wife's First Horror Map*
-#### Played by [Jessica](7.Family/Jessica-Javott42.html)
+#### Played by [Jessica](7.Family/Jessica-Javott42.md)
 - Jessica's first character \[0:07 - *My Wife's First Horror Map*]
 - Was Ghost's temporary partner for a day \[0:51 - *My Wife's First Horror Map*]
   - Ghost found him on Craigslist
@@ -638,7 +638,7 @@
 
 ## Military Morons
 #### Origin: *Paranormal Ghost Hunt*
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html) & [Issac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md) & [Issac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
 - Toast brought the Military Morons along because they're cousins of his sister / his 3rd cousins \[8:00 / 9:32]
 - Joined the PIE Team on their investigation \[0:22]
 
@@ -649,7 +649,7 @@
 
 ## Mr. No
 #### Origin: **
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 
 - 
 
@@ -660,7 +660,7 @@
 
 ## Mr. Sviggles
 #### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.html)
+#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 - 
 
 ### Mentioned Videos
@@ -679,7 +679,7 @@
 
 ## Officer Starbucks
 #### Origin: **
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 - 
 
 ### Mentioned Videos
@@ -689,7 +689,7 @@
 
 ## Olaf
 #### Origin: **
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)
+#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 - Ghost claims he's "like 7 and a half foot tall" [1:04 - *Funny Olaf*]
 
 ### Mentioned Videos
@@ -708,7 +708,7 @@
 
 ## Pennywise the Clown
 #### Origin: **
-#### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)
+#### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
 - 
 
 ### Mentioned Videos:
@@ -718,7 +718,7 @@
 
 ## Principal Buttkicker
 #### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.html)
+#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 - 
 
 ### Mentioned Videos
@@ -737,7 +737,7 @@
 
 ## The Rat Man of Washington
 #### Origin: *Rat Man of Washington*
-#### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)
+#### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
 - The Washington \[State] National Park & campground where the Rat Man was last seen \[0:58 - *Rat Man of Washington*]
   - The entire campground was evacuated due to a murder that took place earlier \[1:20]
     - Earlier that day \(at 7 AM), on the west side of the campground, a murder scene was found; the victim was entirely drained of blood and missing both eyeballs \(they were both replaced with Magic 8 balls) \[1:37]
@@ -767,7 +767,7 @@
 
 ## Rosie
 #### Origin: *Big Dragon Mod*
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 - When Ghost is stranded in multiple dimensions during the Puppet Arc, he lands on an island inhabited by Rosie and Chucky Toast
 - She doesn’t know about dimensions \[1:16]
 - She names herself at \[9:55]
@@ -789,7 +789,7 @@
 
 ## Shiogami / Shinogami
 #### Origin: **
-#### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)
+#### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
 - 
 
 ### Mentioned Videos
@@ -817,7 +817,7 @@
 
 ## Sparkly Puddleshine
 #### Origin: **
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.html)
+#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 - 
 
 ### Mentioned Videos
@@ -845,7 +845,7 @@
 
 ## Swift Taylor
 #### Origin: *Haunted By FNAF*
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 - Actual name is Taylor Swift, but that would've gotten Toast's show under copyright fire
 - Is a bathtub engineer \[5:05 / 5:44]
 - Swift Taylor can revive people by having them eat a balloon \[9:45]
@@ -876,7 +876,7 @@
 
 ## Tommy / Timothy Casket
 #### Origin: \(Named) *Haunted By Cardboard Friend* / \(Physical) *Chica Visits Pizza Hut*
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.html)
+#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 - Ghost has claimed him as his father \[12:11 - *Haunted By Cardboard Friend*]
   - Toast knows this, calling "Casket" his family name \[18:33]
   - Died before Ghost was born; he lived alone with his mother off of his father's wealth, which put him through school \[17:50]
@@ -893,7 +893,7 @@
 
 ## Toothless the Dragon
 #### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.html)
+#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 - 
 
 ### Mentioned Videos
@@ -903,7 +903,7 @@
 
 ## Tootsie
 #### Origin: **
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)
+#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 - 
 
 ### Mentioned Videos
@@ -929,4 +929,4 @@
 
 ----
 
-> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

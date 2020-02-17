@@ -8,9 +8,9 @@
 - Introduction Video: **  
 - Branch / Occupation: Alternate Personality  
 - Weapon of Choice: Unicorn Powers  
-- Most Common Series: [Gmod](6.Series/GMod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Unicorn  
-- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.html)  
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)  
 
 ----
 

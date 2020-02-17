@@ -7,21 +7,21 @@
 - Introduction Video: *Cardboard Friend*  
 - Branch / Occupation: Entity  
 - Weapon of Choice: none  
-- Most Common Series: [Gmod](6.Series/Gmod.html)  
+- Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Entity  
 - Other Names / Titles:   
   - Box Friend  
-- Played By: [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.html)  
+- Played By: [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)  
 
 ----
 
 ## | Relationships  
-- [**The Betrayer**](5.Characters/One-Use_Uncommon.html)
+- [**The Betrayer**](5.Characters/One-Use_Uncommon.md)
   - There is speculation that The Betrayer is a future version of Cardboard Friend due to some of the suspicious things that they say in both *Hell’s Island Pt.1* and *Hell’s Island Pt.2*
    - The Betrayer says that they and Ghost were friends, but Ghost denies it \[12:25 - *The Horror Continues*]
    - The Betrayer claims Ghost "found another friend," to which Ghost says that Toast has always been his friend; The Betrayer says that that wasn't always true and that Ghost was so lonely as a child \[22:54 - *The Horror Continues*]
 
-- [**Gregory Casket**](5.Characters/Gregory_Casket.html)  
+- [**Gregory Casket**](5.Characters/Gregory_Casket.md)  
   - The first time we saw Cardboard Friend was when he was haunting the house of young Gregory, playing as his friend and eventually scaring him
     - Gregory is the child who created Cardboard Friend because no one else would play with him \[1:28 - *Cardboard Friend*]
   - Cardboard Friend has tried to convince Gregory that he already died \[5:59 - *Cardboard Friend*]
@@ -29,7 +29,7 @@
   - Gregory has called Cardboard Friend "Gregory" instead of himself and then quickly backtracked \[8:40 - *Cardboard Friend*]
   - Gregory decided to set Cardboard Friend free to its 'planet and people', accidentally calling it "Gregory" \[13:12 - *Cardboard Friend*]
 
-- [**Johnny Ghost**](5.Characters/Johnny_Ghost.html)  
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)  
   - Cardboard Friend haunts Ghost in *Haunted By CF*
   - Ghost is established as the grown-up version of Gregory after the events that transpired with Cardboard Friend in his childhood \[5:27 - *Prop Hunt: Ghost Hunt*]
 
@@ -57,4 +57,4 @@
 
 ----
 
-**NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.html)!
+**NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

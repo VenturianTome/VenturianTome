@@ -3,11 +3,11 @@
 ## | Series
 
 ### Updates
-- [Moving Houses](./6.Series/Vlogs/Moving_Houses_Vlogs.html)
-- [Updates](./6.Series/Update_Vlogs.html)
+- [Moving Houses](6.Series/Vlogs/Moving_Houses_Vlogs.md)
+- [Updates](6.Series/Update_Vlogs.md)
 
 ### Mail
-- [VenturianMail](./6.Series/VenturianMail_Vlogs.html)
+- [VenturianMail](6.Series/VenturianMail_Vlogs.md)
 
 ----
 
@@ -21,4 +21,4 @@
 
 ----
  
-> **NOTE:** Is something missing or wrong? Make sure you search the site to make sure it’s truly not here first! If it’s still missing, contact the admin [here](../chapter_2.html)!
+> **NOTE:** Is something missing or wrong? Make sure you search the site to make sure it’s truly not here first! If it’s still missing, contact the admin [here](../chapter_2.md)!
