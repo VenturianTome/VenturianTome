@@ -3,13 +3,13 @@
 
 
 ## | Family Members  
-- [Billy](../5.Characters/Billy_Acachalla.md)
-- [Gertrude](../5.Characters/Gertrude_Acachalla.md)
-- [Maxwell](../5.Characters/Maxwell_Acachalla.md)
-- [Papa](../5.Characters/Papa_Acachalla.md)
-- [Sally](../5.Characters/Sally_Acachalla.md)
-- [Spencer](../5.Characters/Spencer_Acachalla.md)
-- [Sue](../5.Characters/Sue_Acachalla.md)
+- [Billy](5.Characters/Billy_Acachalla.md)
+- [Gertrude](5.Characters/Gertrude_Acachalla.md)
+- [Maxwell](5.Characters/Maxwell_Acachalla.md)
+- [Papa](5.Characters/Papa_Acachalla.md)
+- [Sally](5.Characters/Sally_Acachalla.md)
+- [Spencer](5.Characters/Spencer_Acachalla.md)
+- [Sue](5.Characters/Sue_Acachalla.md)
 
 ----
 

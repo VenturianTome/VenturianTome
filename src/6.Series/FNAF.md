@@ -11,7 +11,7 @@
 - [FNAF 3](6.Series/FNAF_3.md)
 - [FNAF 4](6.Series/FNAF_4.md)
 - [FNAF 5 \(Sister Location)](6.Series/FNAF_5-Sister_Location.md)
-- [FNAF 6 \(Pizzarias Simiulator)](6.Series/FNAF_6-Pizzaria_Simulator.md)
+- [FNAF 6 \(Pizzeria Simulator)](6.Series/FNAF_6-Pizzaria_Simulator.md)
 - [FNAF World](6.Series/FNAF_World.md)
 
 ### Fan-Games

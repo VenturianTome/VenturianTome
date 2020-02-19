@@ -1,4 +1,6 @@
 # Daxius
+### [Masterlist]()
+### [Playlist]()
 
 
 ## | Basics  

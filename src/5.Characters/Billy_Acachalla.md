@@ -18,7 +18,7 @@
 
 ## | Relationships  
 - [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)  
-  - Billy was going to help Ghost repay his college fund \[11:13 - *Scary Batman Horror Map*]
+  - Billy was going to help Ghost repay Ghost's college fund \[11:13 - *Scary Batman Horror Map*]
 
 ----
 
