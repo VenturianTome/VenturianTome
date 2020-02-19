@@ -166,6 +166,15 @@
 
 ----
 
+## The Cat Demon
+#### Origin: *Scary Ghost Children*
+- A [Level 25](4.World/Ghosts-Entities.md) entity that could destroy the entire world with a flick of its fingers or open a dimension to a black hole at any time 
+
+### Mentioned Videos
+-  [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U)
+
+----
+
 ## Cecil the Gnome
 #### Origin: **
 #### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
@@ -306,6 +315,17 @@
 - []()
 
 ----
+
+## Godzilla\(s)
+#### Origin: *Haunted By Godzilla*
+> Donald Donnie is on a separate section on this page
+- 
+
+### Mentioned Videos
+- [Haunted By Godzilla](https://youtu.be/BehxBDbUJlI)
+
+----
+
 ## Grandfather
 #### Origin: **
 - The statue is his petrified upper half [9:48 - *Murder 14: Announcements, Celebrations*]
@@ -321,6 +341,15 @@
 
 ### Mentioned Videos
 - 
+
+----
+
+## Grandma Ghost
+#### Origin: *Haunted By Grandma*
+- 
+
+### Mentioned Videos
+- [Haunted By Grandma](https://youtu.be/yMRGseByyCU)
 
 ----
 
