@@ -84,6 +84,7 @@
   - Boot the Minion
   - Burning Bridges
   - Buzz Lightyear \(Toy Story)
+  - The Cat Demon
   - Cecil the Gnome
   - Charlie Charlie Chase Buttface
   - Chucky Toast
@@ -97,8 +98,10 @@
   - Elsa \(Frozen)
   - \(Uncle) Ernie Ghost
   - Gavin Toast
+  - Godzilla\(s)
   - Grandfather
   - Grandma-challa
+  - Grandma Ghost
   - Grandpa Sink Supplies
   - Gregory.Gregory
   - Gumball Watterson
