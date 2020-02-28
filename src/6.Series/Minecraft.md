@@ -4,18 +4,16 @@
 
 ## | Series
 
-### Tale Series
-
 ### Minecraft
-- For A Minecraft Tale, go [here](6.Series/A_Minecraft_Tale.md)
-- For Another Minecraft Tale, go [here](6.Series/Another_Minecraft_Tale.md)
-- For Another Minecraft Tale \(Season 2), go [here](6.Series/Another_Minecraft_Tale_S2.md)
+- For A Minecraft Tale, go [here](../6.Series/A_Minecraft_Tale.md)
+- For Another Minecraft Tale, go [here](../6.Series/Another_Minecraft_Tale.md)
+- For Another Minecraft Tale \(Season 2), go [here](../6.Series/Another_Minecraft_Tale_S2.md)
 
 ### Mods & Maps
-- [Mods & Maps](6.Series/Minecraft/Mods_And_Maps.md)
+- [Mods & Maps](../6.Series/Minecraft/Mods_And_Maps.md)
 
 ### Other
-- [Fan Challenges](6.Series/Minecraft/Fan_Challenges.md)
+- [Fan Challenges](../6.Series/Minecraft/Fan_Challenges.md)
 
 ----
 

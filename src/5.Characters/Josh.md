@@ -4,7 +4,7 @@
 
 ## | Basics  
 - Introduction Video: **  
-- Occupation:   
+- Occupation: 
 - Weapon of Choice:   
 - Most Common Series: [Gmod](6.Series/Gmod.md)  
 - Species: Human  

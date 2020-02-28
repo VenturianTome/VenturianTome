@@ -24,7 +24,7 @@
 - A physical entity \[7:55 - *Haunted By Sonic*]
 - Typically stays closer to an exit \[9:58 - *Scary Ghost Children*]
   - Example: [Sonic.exe](../5.Characters/One-Use_Uncommon.md) \[7:55 - *Haunted By Sonic*]
-  - Example: Unnamed Level 5 ghost that poops flowers \[8:14 - *Ghost Hunters*]  
+  - Example: Unnamed Level 5 ghost that poops flowers \[8:14 - *Ghost Hunters Horror Map*]  
 #### **Level 6** 
   - Example: Zombies \[16:51 - *Paranormal Ghost Hunt*]  
 #### **Level 7.6894503.01 or 7.6894503.02**

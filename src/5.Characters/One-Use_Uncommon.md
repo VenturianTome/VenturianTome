@@ -375,8 +375,8 @@
 ## Gregory Casket
 #### Origin: *Cardboard Friend*
 #### Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)
-- The child who created Cardboard Friend because no one else would play with him \[1:28 - *Cardboard Friend*]
-- Became scared of [Cardboard Friend](5.Characters/Cardboard_Friend.md)
+- The child who created [Cardboard Friend](5.Characters/Cardboard_Friend.md) because no one else would play with him \[1:28 - *Cardboard Friend*]
+- Became scared of Cardboard Friend
   - He thought Cardboard Friend was going to kill him and steal his soul, crayons and toys \[7:02 - *Cardboard Friend*]
 - He has called Cardboard Friend "Gregory" instead of himself and then quickly backtracked \[8:40 - *Cardboard Friend*]
 - Decided to set Cardboard Friend free to its planet and people, accidentally calling it "Gregory" \[13:12 - *Cardboard Friend*]
@@ -406,6 +406,17 @@
 
 ### Mentioned Videos
 - 
+
+----
+
+## Higgly Diggly Hoogan
+#### Origin: **
+#### Played By: [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
+- He took Ghost's place as cameraman for Toast in \[0:36 - *Ghost Hunters Horror Map*]
+- You can buy a life-size mannequin of him for 4 payments of $29.99 \[1:09 - *Ghost Hunters Horror Map*]
+
+### Mentioned Videos
+- [Ghost Hunters Horror Map](https://youtu.be/oA9jS2ArUk0)
 
 ----
 
@@ -540,6 +551,16 @@
 ## Johnny Toast \(Others / Fakes)
 #### Origins: **
 #### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
+- 
+
+### Mentioned Videos
+- []()
+
+----
+
+## Jose Jose Jose Jose
+#### Origin: **
+#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 - 
 
 ### Mentioned Videos
@@ -764,6 +785,21 @@
 
 ----
 
+## Queen of England
+#### Origin: *President Visits McDonald’s*
+- Toast doesn't shop; all his clothes are handmade \(by his Grandmother) \[3:35 - *OMG Cute Cats*]
+- Toast's car was once owned by the Queen of England; he has dented both sides of it \[1:16 - *Bonnie Visits Walmart*]
+- The Queen of England did tractor races in the palace \[4:39 - *Hell's Resort*]
+- There weren't a lot of royal beheadings in the palace, mostly just throwing people down a well \[4:39 - *Hell's Resort*]
+
+### Mentioned Videos
+- [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g)
+- [Hell’s Resort](https://youtu.be/mqVWhWEK2AQ)
+- [OMG Cute Cats](https://youtu.be/Rf-fAoo64Lc)
+- [President Visits McDonald’s](https://youtu.be/SuFQcxceQJI)
+
+----
+
 ## The Rat Man of Washington
 #### Origin: *Rat Man of Washington*
 #### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
@@ -804,6 +840,16 @@
 
 ### Mentioned Videos
 - [Big Dragon Mod](https://youtu.be/nkWX5eoDSEk)
+
+----
+
+## Sally Betty Jessica
+#### Origin: **
+#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
+- 
+
+### Mentioned Videos
+- []()
 
 ----
 
@@ -937,6 +983,17 @@
 
 ### Mentioned Videos
 - 
+
+----
+
+## William Barricade
+#### Origin: **
+#### Played by [Jordan Frye](3.Siblings/3.1.Jordan_Frye-Venturian/md)
+- Him and [Ghost](5.Characters/Johnny_Ghost.md) know each other, but have never interacted on-screen \(probably because Jordan plays both characters) \[14:00 - *Minions Visit McDonald's*]
+- According to him, Minions are "alien terrorists from another dimension" \[5:38 - *Minions Visit McDonald's*]
+
+### Mentioned Videos
+- [Minions Visit McDonald’s](https://youtu.be/Yk0RNCWNQKY)
 
 ----
 

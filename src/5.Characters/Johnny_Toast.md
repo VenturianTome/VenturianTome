@@ -10,7 +10,7 @@
 - Species: Human, Werewolf, Vampire  
 - Other Names / Titles:   
   - Johnny Bartholomew Toast
-  - Johnathan Maxwell Toast  
+  - Johnathan Maxwell Toast
 - Played By: [Cierra Frye / ImmortalKyodai](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)  
 
 ----

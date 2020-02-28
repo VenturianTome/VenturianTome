@@ -27,42 +27,42 @@
 ----
 
 ### Audrey and Andre
-- Played by Javott42
+- Played by [Javott42](7.Family/Jessica-Javott42.md)
 
 ----
 
 ### Black Guardian
-- Played by HomelessGoomba
+- Played by [HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
 
 ----
 
 ### Citizen Man
-- Played by GutTC
+- Played by [GutTC](7.Family/Gut-GutTC.md)
 
 ----
 
 ### Citizen Woman
-- Played by Pingutux123
+- Played by [Pingutux123](7.Family/Pingutux123.md)
 
 ----
 
 ### Comet the Talking Dog
-- Played by GutTC
+- Played by [GutTC](7.Family/Gut-GutTC.md)
 
 ----
 
 ### Derpy Guardian
-- Played by TerminalVelociRaptor
+- Played by [TerminalVelociRaptor](7.Family/TerminalVelociRaptor.md)
 
 ----
 
 ### Eva
-- Played by Rebaka-Chan
+- Played by [Rebaka-Chan](7.Family/Rebecca-Rebaka-Chan.md)
 
 ----
 
 ### Jasper
-- Played by MCab719
+- Played by [MCab719](7.Family/Michael-MCab719.md)
 
 ----
 
@@ -72,7 +72,7 @@
 ----
 
 ### King Rothlyn
-- Played by Venturian
+- Played by [Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 - Rivatha's father
 
 ----
@@ -83,22 +83,22 @@
 ----
 
 ### Mrs. Whiteley
-- Played by BenPlus
+- Played by [BenPlus](7.Family/Ben-BenPlus.md)
 
 ----
 
 ### Rivatha
-- Played by SylarGrimm
+- Played by [SylarGrimm](7.Family/Sylar-SylarGrimm.md)
 
 ----
 
 ### Sonia
-- Played by Mythic4IF1re
+- Played by [Mythic4IF1re](7.Family/Mythic4IF1re.md)
 
 ----
 
 ### Woodrow
-- Played by ImmortalKyodai
+- Played by [ImmortalKyodai](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 
 ----
 

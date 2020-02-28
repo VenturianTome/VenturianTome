@@ -15,7 +15,7 @@
 ----
 
 ## | Relationships  
-- [**Gregory Casket**](5.Characters/Gregory_Casket.md)
+- [**Gregory Casket**](5.Characters/One-Off_Uncommon.md)
   - Casket says his secret is that his name is Gregory \[13:54 - *Murder 11: Olaf*]
 
 - [**The Housekeeper**](5.Characters/Housekeeper.md)
