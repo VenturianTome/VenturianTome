@@ -1,4 +1,4 @@
-# Spiral Knights (Co-OP)
+# Spiral Knights (Co-op)
 ### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSbweDodbrg1kt2gds8-J4O)
 *This series is played through the game [Spiral Knights]() made by []()*
 

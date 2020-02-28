@@ -119,7 +119,6 @@
       - [Another Minecraft Tale](./6.Series/Tale_Series/Another_Minecraft_Tale.md)
       - [Another Minecraft Tale \(Season 2)](./6.Series/Tale_Series/Another_Minecraft_Tale_S2.md)
       - [A Fallout Tale](./6.Series/Tale_Series/Fallout_Tale.md)
-      - [A Minecraft Tale](./6.Series/Tale_Series/Minecraft_Tale.md)
       - [An Oblivion Tale](./6.Series/Tale_Series/Oblivion_Tale.md)
       - [A Skyrim Tale](./6.Series/Tale_Series/Skyrim_Tale.md)
       - [Elder Scrolls Online](./6.Series/Tale_Series/Elder_Scrolls_Online.md)
