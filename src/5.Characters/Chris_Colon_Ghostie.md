@@ -1,12 +1,12 @@
-# Chris “Colon” Ghostie  
+# Chris “Colon” Ghostie
 ### [Masterlist]()
 ### [Playlist]()
 
-## | Basics  
+## | Basics
 - Introduction Video: *Haunted School*
 - Occupation: P.I.E. Team Member
 - Weapon(s) of Choice: Handgun, Super Monster Zapper Gun
-- Most Common Series: [Gmod](6.Series/Gmod.md)
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)
 - Species: Human
 - Other Names / Titles:
   - Colon
@@ -15,13 +15,13 @@
 
 ----
 
-## | Relationships  
-- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)  
+## | Relationships
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
   - Colon screaming for him is the 2nd most annoying sound Ghost has heard [11:02 - *Haunted School*]
 
 ----
 
-## | Biography  
+## | Biography
 - Growing Up
   - He grew up in the Netherlands, but he ended up in America because his colon yearned for ghosts [1:19 - *Haunted School*]
     - This story is why Ghost opts to call him Colon \[1:39]
@@ -39,7 +39,7 @@
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - His speciality is in forensics \[1:12 - *Haunted By Grandma*]
 - Sacrificing Colon for a plan is a last-ditch effort \[5:32 - *Haunted By Grandma*]
 - His goldfish died and Ghost uses it to nag on him \[9:14 / 12:29 - *HIDE Horror Map*]

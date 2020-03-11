@@ -2,31 +2,33 @@
 ### [Masterlist]()
 ### [Playlist]()
 
-## | Basics  
-- Introduction Video: **  
-- Occupation: Foster Mother  
+## | Basics
+- Introduction Video: **
+- Occupation: Foster Mother
 - Weapon of Choice: Crowbar
-- Most Common Series: [Gmod](6.Series/Gmod.md)  
-- Species: Human  
-- Other Names / Titles:   
-  - Mama Gertrude  
-- Played By: [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)  
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)
+- Species: Human
+- Other Names / Titles:
+  - Mama Gertrude
+- Played By: [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 
+----
 
-## | Relationships  
+## | Relationships
 - [**Papa Acachalla**](5.Characters/Papa_Acachalla.md)
   -  
 
 - [**Sally Acachalla**](5.Characters/Sally_Acachalla.md)
   - 
 
+----
 
 ## | Biography
 - 
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - Gertrude is a famous swimmer \[7:51 - *Scary Underground Horror Map*]
 - She went blind during *Acachalla's Thanksgiving (2019)* at [6:56 / 8:02]
   - They replaced her eyes with the turkey's \[16:34]

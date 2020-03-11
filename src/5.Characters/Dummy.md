@@ -1,29 +1,27 @@
-# Dummy  
+# Dummy
 ### [Masterlist]()
 ### [Playlist]()
 
-## | Basics  
+## | Basics
 - Introduction Video: **
-- Occupation: 
-- Weapon of Choice: 
-- Most Common Series: [Gmod](6.Series/Gmod.md)
-- Species: Live Mannequin
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)
+- Species: Live Crash-Test Dummy
 - Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
 
 ----
 
-## | Relationships  
-- [**Josh**](5.Characters/Josh.md)  
+## | Relationships
+- [**Josh**](5.Characters/Josh.md)
   - 
 
 ----
 
-## | Biography  
+## | Biography
 - 
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - 
 
 ----

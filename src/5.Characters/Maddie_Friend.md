@@ -1,20 +1,20 @@
-# Maddie Friend 
+# Maddie Friend
 ### [Masterlist]()
 ### [Playlist]()
 
-## | Basics  
-- Introduction Video: **  
-- Occupation: Stalker  
-- Most Common Series: [Gmod](6.Series/Gmod.md)  
-- Species: Human  
-- Other Names / Titles:   
-  - Maddie  
-- Played By: [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)  
+## | Basics
+- Introduction Video: **
+- Occupation: Stalker
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)
+- Species: Human
+- Other Names / Titles:
+  - Maddie
+- Played By: [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 
 ----
 
-## | Relationships  
-- [**Billy Acachalla**](5.Charcters/Billy_Acachalla.md)  
+## | Relationships
+- [**Billy Acachalla**](5.Charcters/Billy_Acachalla.md)
   -   
 
 - [**Johnny Toast**](5.Characters/Johnny_Toast.md)
@@ -22,12 +22,12 @@
 
 ----
 
-## | Biography  
+## | Biography
 - 
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - Maddie Friend has been in an insane asylum \[11:19 - *Scary Underground Horror Map*]
 
 ----

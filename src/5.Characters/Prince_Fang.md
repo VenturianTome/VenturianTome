@@ -1,32 +1,31 @@
-# Prince Fang  
+# Prince Fang
 ### [Masterlist]()
 ### [Playlist]()
 
-## | Basics  
-- Introduction Video: **  
-- Occupation: Entity  
+## | Basics
+- Introduction Video: **
+- Occupation: Entity
 - Weapon of Choice: Self
-- Most Common Series: [Gmod](6.Series/Gmod.md)  
-- Species: Dragon  
-- Other Names / Titles:   
-  - Fang  
-- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)  
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)
+- Species: Dragon
+- Other Names / Titles:
+  - Fang
+- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
 
 ----
 
-## | Relationships  
-- [** **]()  
-  - Relationship desc.  
-  - Other facts  
+## | Relationships
+- [** **]()
+  - 
 
 ----
 
-## | Biography  
+## | Biography
 - 
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - 
 
 ----

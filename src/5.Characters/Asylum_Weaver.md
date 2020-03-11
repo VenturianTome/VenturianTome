@@ -1,10 +1,10 @@
-# Asylum Weaver  
-### [Masterlist]()  
+# Asylum Weaver
+### [Masterlist]()
 ### [Playlist]()
 
 > More information about An Oblivion Tale and Asylum's companion characters can be found [here](6.Series/Tale_Series/Oblivion_Tale.md)
 
-## | Basics  
+## | Basics
 - Introduction Video: **
 - Occupation: Adventurer
 - Weapon of Choice: Sword
@@ -14,18 +14,18 @@
 
 ----
 
-## | Relationships  
-- [** **]()  
+## | Relationships
+- [** **]()
   - --
 
 ----
 
-## | Biography  
+## | Biography
 - 
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 -   
 
 ----

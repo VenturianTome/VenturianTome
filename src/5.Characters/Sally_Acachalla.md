@@ -1,29 +1,29 @@
-# Sally Acachalla 
+# Sally Acachalla
 ### [Masterlist]()
 ### [Playlist]()
 
-## | Basics  
-- Introduction Video: **  
+## | Basics
+- Introduction Video: **
 - Occupation: Acachalla Kid
-- Weapon of Choice: Self / Handgun / Waffle Gun  
-- Most Common Series: [Gmod](6.Series/Gmod.md)  
-- Species: Human / Waffle Demon  
-- Played By: [Cierra Frye / ImmortalKyodai](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)  
+- Weapon of Choice: Self / Handgun / Waffle Gun
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)
+- Species: Human / Waffle Demon
+- Played By: [Cierra Frye / ImmortalKyodai](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 
 ----
 
-## | Relationships  
-- [**Slenderman**](5.Characters/Creepypastas.md)  
+## | Relationships
+- [**Slenderman**](5.Characters/Creepypastas.md)
   - She is Slender's girlfriend \[17:51 - *Creepypasta College*]
 
 ----
 
-## | Biography  
+## | Biography
 - 
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - Sally feeds off of her own waffle body fat \[7:12 - *Acachalla Winter Vacation*]
 - Sally stayed in a room in the back of a mental institution \[17:16 - *Creepypasta College*]
 - Sally is a Creepypasta \[17:51 - *Creepypasta College*]

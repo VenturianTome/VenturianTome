@@ -1,33 +1,33 @@
-# Aimee  
+# Aimee
 ### [Masterlist]()
 ### [Playlist]()
 
-## | Basics  
+## | Basics
 - Introduction Video: **
-- Most Common Series: [Gmod](6.Series/Gmod.md)
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)
 - Species: [Ghost](4.World/Ghost-Entities.md)
 - Played By: [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 
 ----
 
-## | Relationships  
-- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)  
+## | Relationships
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
   - --
 
 ----
 
-## | Biography  
+## | Biography
 - 
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - 
 
 ----
 
 ## | Mentioned Videos
-- 
+- []()
 
 ----
 

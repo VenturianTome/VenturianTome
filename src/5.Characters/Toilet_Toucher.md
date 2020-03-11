@@ -1,33 +1,33 @@
-# Toilet Toucher  
+# Toilet Toucher
 ### [Masterlist]()
 ### [Playlist]()
 
-## | Basics  
-- Introduction Video: **  
-- Occupation: Entity  
-- Weapon of Choice: Handgun  
-- Most Common Series: [Gmod](6.Series/Gmod.md)  
-- Species: Ghost / Alien  
-- Other Names / Titles:   
+## | Basics
+- Introduction Video: **
+- Occupation: Entity
+- Weapon of Choice: Handgun
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)
+- Species: Ghost / Alien
+- Other Names / Titles:
   - Billy Acachalla \(past)
-  - Ernie Ghost \(past)  
-- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)  
+  - Ernie Ghost \(past)
+- Played By: [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
 
 ----
 
-## | Relationships  
+## | Relationships
 - [**Bert Niceguy**](5.Characters/One-Use_Uncommon.md)
   - Bert Niceguy says the Toilet Toucher looks like his uncle \[14:27 - *VenturianTale Scripted*]
 
 - [**Billy Acachalla**](5.Characters/Billy_Acachalla.md)
   - 
 
-- [**Ernie Ghost**](5.Characters/One-Use_Uncommon.md)  
+- [**Ernie Ghost**](5.Characters/One-Use_Uncommon.md)
   - Ernie IS the Toilet Toucher, just a past version that was exiled to the 16th Dimension \[14:08 - *FNAF & Zootopia 2*]
 
 ----
 
-## | Biography  
+## | Biography
 - Being a Ghost
   - He is a level 7.6894503.01 \[6:59 - *VenturianTale Scripted*]
   - He is the most feared ghost in history and is responsible for black holes \[4:19 - *Super-Powered Baby Mod*]
@@ -35,7 +35,7 @@
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - He sucks at soccer \[5:35 - *Cops & Robbers: Toilet Toucher 2*]
 - When a Toilet Toucher touches a toilet too big for their butt it sets off a nuke \[11:15 - *Cops & Robbers: Toilet Toucher 2*]
   > "That's canon. I expect that to be on the wiki. Get to work" -Jordan

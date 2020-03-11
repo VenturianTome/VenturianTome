@@ -1,22 +1,22 @@
-# The Housekeeper  
+# The Housekeeper
 ### [Masterlist]()
 ### [Playlist]()
 
-## | Basics  
+## | Basics
 - Introduction Video: \(Mentioned) *Paranormal Ghost Hunt* / \(Physical) *Johnny Ghost vs Zombies*
-- Occupation: Ghost / Entity 
-- Most Common Series: [Gmod](6.Series/Gmod.md)  
-- Species: Ghost / Entity  
-- Other Names / Titles:   
+- Occupation: Ghost / Entity
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md) & [Gmod Horror Maps](6.Series/Gmod/Horror_Maps.md)
+- Species: Ghost / Entity
+- Other Names / Titles:
   - The Whisperer
-  - The Homekeeper  
+  - The Homekeeper
 - Played By: [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 
 ----
 
-## | Relationships  
-- [**Jimmy Casket**](5.Characters/Jimmy_Casket.md)  
-  - Ghost claims that the Housekeeper is the one who created Jimmy Casket \[ - *Neighbor Visits McDonald's*] 
+## | Relationships
+- [**Jimmy Casket**](5.Characters/Jimmy_Casket.md)
+  - Ghost claims that the Housekeeper is the one who created Jimmy Casket \[ - *Neighbor Visits McDonald's*]
 
 ----
 
@@ -30,7 +30,7 @@
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - He is a Level 4 entity which has shown up 36 times since his first appearance in 1936
   - He's killed 13 people \[1:57]
 

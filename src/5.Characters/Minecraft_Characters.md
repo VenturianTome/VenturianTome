@@ -1,6 +1,8 @@
-# Minecraft Characters  
+# Minecraft Characters
 ### [Masterlist]()
 ### [Playlist]()
+
+> More about Minecraft can be found [here](6.Series/Minecraft.md)!
 
 ----
 

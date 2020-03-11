@@ -1,19 +1,17 @@
-# Light Zeron  
+# Light Zeron
 ### [Masterlist]()
 ### [Playlist]()
 
-## | Basics  
+## | Basics
 - Introduction Video: **
-- Occupation: 
-- Weapon of Choice: 
-- Most Common Series: [Gmod](6.Series/Gmod.md)  
-- Species: Vampire 
-- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)  
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)
+- Species: Vampire
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 
 ----
 
-## | Relationships  
-- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)  
+## | Relationships
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
   - 
 
 - [**Johnny Toast**](5.Characters/Johnny_Toast.md)
@@ -21,12 +19,12 @@
 
 ----
 
-## | Biography  
+## | Biography
 - 
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - 
 
 ----

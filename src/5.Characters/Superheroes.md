@@ -1,9 +1,9 @@
-# Superheroes  
+# Superheroes
 ### [Masterlist]()
 ### [Playlist]()
 
 ## | Basics
-- Most Common Series: [Gmod](6.Series/Gmod.md)
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)
 
 ----
 
@@ -29,7 +29,7 @@
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - 
 
 ----

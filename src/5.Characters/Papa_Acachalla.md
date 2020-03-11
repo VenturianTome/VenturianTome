@@ -1,33 +1,33 @@
-# Papa Acachalla  
+# Papa Acachalla
 ### [Masterlist]()
 ### [Playlist]()
 
-## | Basics  
-- Introduction Video: *Motorcycle Mod*  
-- Occupation: Acachalla Family / Foster Father  
-- Weapon of Choice: Handgun / Shotgun \(Annabelle)  
-- Most Common Series: [Gmod](6.Series/Gmod.md)  
-- Species: Human  
-- Other Names / Titles:   
-  - Papa  
-- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)  
+## | Basics
+- Introduction Video: *Motorcycle Mod*
+- Occupation: Acachalla Family / Foster Father
+- Weapon of Choice: Handgun / Shotgun \(Annabelle)
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)
+- Species: Human
+- Other Names / Titles:
+  - Papa \(of the Universe)
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 
 ----
 
-## | Relationships  
-- [**Billy Acachalla**]()  
+## | Relationships
+- [**Billy Acachalla**]()
   - 
 
-- [**Gertrude Acachalla**]()  
+- [**Gertrude Acachalla**]()
   - 
 
-- [**Sally Acachalla**]()  
+- [**Sally Acachalla**]()
   - 
 
-- [**Spencer Acachalla**]()  
+- [**Spencer Acachalla**]()
   - 
 
-- [**Sue Acachalla**]()  
+- [**Sue Acachalla**]()
   - 
 
 - [**Toilet Toucher**](5.Characters/Toilet_Toucher.md)
@@ -35,12 +35,12 @@
 
 ----
 
-## | Biography  
+## | Biography
 - 
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - Acachalla was hired to help renovate a mental institution and make it into an IHop; he only got paid $1.50 an hour \[19:17 - *Creepypasta College*]
 - Papa says his ex-wife looks like the Rake \[18:41 - *Creepypasta College*]
 - Papa thinks "marinating/marination" means "Mommy, am I a good boy, in this sauce?" [1:42 / 6:29 - *Acachalla's Thanksgiving (2019)*]

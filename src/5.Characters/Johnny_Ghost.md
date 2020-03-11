@@ -4,17 +4,17 @@
 
 > "I hunt paranormal entities, and I try and stop them because that's what I do." -Ghost \[2:46 - *My Wife's First Horror Map*]
 
-## | Basics  
-- Introduction Video: \(Technically) **; \(Formally) *Prop Hunt 18: Ghost Hunt*  
+## | Basics
+- Introduction Video: \(Technically) **; \(Formally) *Prop Hunt 18: Ghost Hunt*
 - Occupation: P.I.E. Team Member
-- Weapon of Choice: Handgun  
-- Most Common Series: [Gmod](6.Series/Gmod.md)  
+- Weapon of Choice: Handgun
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md) & [Gmod Horror Maps](6.Series/GMod/Horror_Maps.md)
 - Species: Human
-- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)  
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 
 ----
 
-## | Relationships  
+## | Relationships
 - [**Jimmy Casket**](5.Characters/Jimmy_Casket.md)
   - 
 
@@ -43,7 +43,7 @@
 
 ----
 
-## | Biography  
+## | Biography
 - Ghost & Toast's Adventures
   - They built a wagon out of old cereal boxes \[3:54 - *Big Dragon*]
   - He and Toast have a scheduled kite-flying day \[0:23 - *Haunted By Godzilla*]
@@ -73,7 +73,7 @@
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - He has above normal intelligence \[1:33 - *HUNT Pt.2*]
    - He has a college education \[23:15 - *Paranormal Ghost Hunt*]
 - There was a short time during the Puppet Arc where Ghost had a strange nightmare in which Toast was a girl named Jenny and they got married and got a pet cat named Poltergeist after Ghost's dead fish \[7:00 - *I Am The Puppet*]

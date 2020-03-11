@@ -1,11 +1,11 @@
-# Creepypastas  
+# Creepypastas
 ### [Masterlist]()
 ### [Playlist]()
 
-## | Basics  
+## | Basics
 - Introduction Video: **
 - Occupation: Creepypasta
-- Most Common Series: [Gmod](6.Series/Gmod.md)
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)
 - Species: Ghost / Entity
 - Played By: [All Siblings](../chapter_3.md)
 
@@ -54,7 +54,7 @@
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 -
 
 ----

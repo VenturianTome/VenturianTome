@@ -3,7 +3,7 @@
 ### [Playlist]()
 
 ## | Basics
-- Most Common Series: [Gmod](6.Series/Gmod.md) / [Five Nights At Freddy’s](6.Series/FNAF.md)
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md) / [Five Nights At Freddy’s](6.Series/FNAF.md)
 - Species: Animatronic(s)
 - Played By: [All Siblings](../chapter_3.md)
 

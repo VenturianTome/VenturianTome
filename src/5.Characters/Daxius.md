@@ -3,7 +3,7 @@
 ### [Playlist]()
 
 
-## | Basics  
+## | Basics
 - Introduction Video: **
 - Occupation: Ally
 - Weapon of Choice: Self
@@ -13,7 +13,7 @@
 ----
 
 ## | Relationships
-- [** **]()  
+- [** **]()
   - 
 
 ----

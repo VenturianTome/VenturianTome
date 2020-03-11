@@ -1,12 +1,12 @@
-# Billy Acachalla  
-### [Masterlist]()  
+# Billy Acachalla
+### [Masterlist]()
 ### [Playlist]()
 
-## | Basics  
-- Introduction Video: *Motorcycle Mod*  
+## | Basics
+- Introduction Video: *Motorcycle Mod*
 - Occupation: Acachalla, Medic
 - Weapon of Choice: Handgun
-- Most Common Series: [Gmod](6.Series/Gmod.md)
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)
 - Species: Human / Bird
 - Other Names / Titles:
   - Billy Medic
@@ -16,23 +16,23 @@
 
 ----
 
-## | Relationships  
-- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)  
+## | Relationships
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
   - Billy was going to help Ghost repay Ghost's college fund \[11:13 - *Scary Batman Horror Map*]
 
 ----
 
-## | Biography  
+## | Biography
 - 
 
 ----
 
 ## | Fakes
 - His fakes can be found [here](5.Characters/One-Use_Uncommon.md)!
- 
+
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - He can become a bird \[16:53 - *Super-Powered Baby Mod*]
 - He believes he will die by getting shot by Papa on Thanksgiving as the Toilet Toucher [4:25 - *Acachalla's Thanksgiving (2019)*]
 - He loves parkour [0:45 - *Does Acachalla Like Wendy's?*]

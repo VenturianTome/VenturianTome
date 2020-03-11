@@ -1,32 +1,33 @@
-# Princeton Quagmire 
+# Princeton Quagmire
 ### [Masterlist]()
 ### [Playlist]()
 
-## | Basics  
-- Introduction Video: *Murder 3: Jimmy Casket*  
+## | Basics
+- Introduction Video: *Murder 3: Jimmy Casket*
 - Occupation: Law Enforcement / Sheriff
-- Weapon of Choice: Handgun \(Revolver)  
-- Most Common Series: [Gmod](6.Series/Gmod.md)  
-- Species: Human  
-- Other Names / Titles:   
-  - The Sheriff  
-- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)  
+- Weapon of Choice: Handgun \(Revolver)
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md) & [Gmod Murder](6.Series/Gmod/Murder.md)
+- Species: Human
+- Other Names / Titles:
+  - The Sheriff
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 
+----
 
-## | Relationships  
-- [**Jimmy Casket**](5.Characters/Jimmy_Casket.md)  
+## | Relationships
+- [**Jimmy Casket**](5.Characters/Jimmy_Casket.md)
   - Casket has pretended to be Princeton Quagmire and managed to shoot someone \[11:57 - *Murder 11: Olaf*]
 
 - [**Maxwell Acachalla**](5.Characters/Maxwell_Acachalla.md)
   - Princeton Quagmire captured Maxwell Acachalla in 1864 with one of his "legendary quiz-games" while Maxwell was on a wagon-train to New Mexico \(this may or may not be true as it is Casket pretending to be him) \[12:30 - *Murder 11: Olaf*]
 
 
-## | Biography  
+## | Biography
 - 
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - He calls himself "the fastest gun in the west" and "the most accurate revolver-shooter-guy in the entire world" \[12:27 / 15:16 - *Murder 3: Jimmy Casket*]
 - Princeton Quagmire is/looks like a woman \[12:33 - *Murder 5: Doctor Who*]
 - Quagmire says he doesn't have nor plans to have kids \[13:01 - *Murder 5: Doctor Who*]

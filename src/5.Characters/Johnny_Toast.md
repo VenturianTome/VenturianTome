@@ -1,25 +1,25 @@
-# Johnny Toast  
+# Johnny Toast
 ### [Masterlist]()
 ### [Playlist]()
 
-## | Basics  
-- Introduction Video: *Prop Hunt 18: Ghost Hunt* 
+## | Basics
+- Introduction Video: *Prop Hunt 18: Ghost Hunt*
 - Occupation: P.I.E. Team Member
-- Weapon of Choice: Handgun  
-- Most Common Series: [Gmod](6.Series/Gmod.md)  
-- Species: Human, Werewolf, Vampire  
-- Other Names / Titles:   
+- Weapon of Choice: Handgun
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md) & [Gmod Horror Maps](6.Series/Gmod/Horror_Maps.md)
+- Species: Human, Werewolf, Vampire
+- Other Names / Titles:
   - Johnny Bartholomew Toast
   - Johnathan Maxwell Toast
-- Played By: [Cierra Frye / ImmortalKyodai](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)  
+- Played By: [Cierra Frye / ImmortalKyodai](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 
 ----
 
-## | Relationships  
+## | Relationships
 - [**Aimee**](5.Characters/Aimee.md)
   - Toast has had nightmares of Aimee for weeks \[10:34 - *Johnny Ghost L4D*]
 
-- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)  
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
   - Ghost is Toast’s closest friend with which he goes on many paranormal adventures
   - Toast doesn't know Ghost's birthday, even though they're close friends \[3:59 - *Ghost Hunters*]
     - He bought Ghost a camera for his birthday \[1:22 - *Yoshi Nintendo Mod*]
@@ -44,12 +44,12 @@
 
 ----
 
-## | Biography  
+## | Biography
 - New Playermodel
    - Toast's old playermodel was scrapped and replaced with a new one in *Haunted By Sonic*  
-  - Puppet Arc
+- Puppet Arc
    - He was following Ghost and found him when he fell out of the sky into Germany \[1:56 / 2:04 - *I Am The Puppet*]
-- \(Puppet Arc) Toast didn't do much while Ghost was in the cosmos \[3:11 - *The Horror Continues*]
+   - \(Puppet Arc) Toast didn't do much while Ghost was in the cosmos \[3:11 - *The Horror Continues*]
 - Ghost & Toast's Adventures
   - They built a wagon out of old cereal boxes \[3:54 - *Big Dragon*]
   - Ghost and Toast use to eat pineapples together \[10:52 - *Big Dragon Mod*]
@@ -80,7 +80,7 @@
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - He has a summer home in the UK \[0:45 - *Haunted By Godzilla*]
 - Toast doesn't like pineapples \[4:29 - *Haunted By Grandma*]
 - Toast has an allergic reaction to fabrics; whenever Toast is completely nude, he doesn't make contact with physical objects \[12:10 - *Haunted By Grandma*]

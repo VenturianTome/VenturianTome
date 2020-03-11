@@ -12,7 +12,7 @@
 - Black Guardian
 - Citizen Man
 - Citizen Woman
-- Comet the Talking DOg
+- Comet the Talking Dog
 - Derpy Guardian
 - Eva
 - Jasper

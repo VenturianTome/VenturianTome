@@ -1,29 +1,29 @@
-# Chakalata Soup  
+# Chakalata Soup
 ### [Masterlist]()
 ### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiR--7rH1xDP2-4TeErEeK_K)
 
-## | Basics  
+## | Basics
 - Introduction Video: **
 - Occupation: Ghost / Entity
 - Weapon of Choice: Soup
-- Most Common Series: [Gmod](6.Series/Gmod.md)
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)
 - Species: Ghost
 - Played By: [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 
 ----
 
-## | Relationships  
-- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)  
+## | Relationships
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
   - Ghost built a ghost detector out of bubblegum and a pan of Chakalata's own soup \[7:12 - *Haunted By Delphox*]
 
 ----
 
-## | Biography  
+## | Biography
 - 
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - Chakalata Soup was involved in a case known as "The Restaurant Haunting Case of 1996" \[6:47 - *Haunted By Delphox*]  
 
 ----

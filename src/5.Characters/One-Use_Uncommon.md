@@ -1,5 +1,5 @@
 # One-Use / Uncommon Characters
-#### *These are characters that have only been used once or only a few times on the channel*
+#### *These are characters that have only been used once or only a few times on the channel, commonly in [Gmod Roleplays](6.Series/GMod/Roleplays.md)*
 
 
 ## Action Charlie

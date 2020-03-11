@@ -2,26 +2,27 @@
 ### [Masterlist]()
 ### [Playlist]()
 
-## | Basics  
+## | Basics
 - Introduction Video: **
 - Occupation: Dark Arts Teacher
-- Weapon of Choice: 
-- Most Common Series: [Gmod](6.Series/Gmod.md)
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)
 - Species: Human
 - Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 
+----
 
-## | Relationships  
-- [** **]()  
-  -  
+## | Relationships
+- [** **]()
+  - 
 
+----
 
-## | Biography  
+## | Biography
 - 
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - 
 
 ----

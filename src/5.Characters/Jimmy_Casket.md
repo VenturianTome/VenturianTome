@@ -1,20 +1,20 @@
-# Jimmy Casket  
+# Jimmy Casket
 ### [Masterlist \(By Series)](https://drive.google.com/open?id=1Q70TOV2USknDBMNtzaAegT2xaBJPmYXNBV_BQyPij28)
 ### [Masterlist \(Chronological)](https://drive.google.com/open?id=1cSqV-6bN2i3ZpLb4thxJJ4LALoFeQ11kgFLUowdLEU0)
 ### [Playlist]()
 
 
-## | Basics  
-- Introduction Video: \(Created) *Murder 1*; \(Named) *Murder 3: Jimmy Casket*  
-- Branch / Occupation: Murderer / Entity  
-- Weapon of Choice: Knife \(Knifey)  
-- Most Common Series: [Gmod](6.Series/Gmod.md)  
+## | Basics
+- Introduction Video: \(Created) *Murder 1*; \(Named) *Murder 3: Jimmy Casket*
+- Branch / Occupation: Murderer / Entity
+- Weapon of Choice: Knife \(Knifey)
+- Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md) & [Gmod Murder](6.Series/Gmod/Murder.md)
 - Species: Paranormal Entity
-- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)  
+- Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 
 ----
 
-## | Relationships  
+## | Relationships
 - [**Gregory Casket**](5.Characters/One-Off_Uncommon.md)
   - Casket says his secret is that his name is Gregory \[13:54 - *Murder 11: Olaf*]
 
@@ -30,7 +30,7 @@
 - [**Johnny Toast**](5.Characters/Johnny_Toast.md)
   - Toast is what quells Ghost’s episodes and keeps him grounded \[1:24 / 15:31 - *Johnny Ghost vs Zombies*]
 
-- [**Maxwell Acachalla**](5.Characters/Maxwell_Acachalla.md)  
+- [**Maxwell Acachalla**](5.Characters/Maxwell_Acachalla.md)
   - Maxwell and Casket have teamed up \[15:23 - *Scary Underground*]
 
 - [**Princeton Quagmire**](5.Characters/Princeton_Quagmire.md)
@@ -46,12 +46,12 @@
 
 ----
 
-## | Biography  
+## | Biography
 - 
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - Jimmy Casket even creeps Jordan out \[16:21 - *Scary Underground*]
 - Casket has a realm of flames \[6:51 - *Johnny Bot*]
 - Casket uses people's flesh as a stress toy \[2:23 - *Murder 3: Jimmy Casket*]

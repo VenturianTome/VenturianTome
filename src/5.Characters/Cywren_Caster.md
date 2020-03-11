@@ -1,10 +1,10 @@
-# Cywren Caster  
+# Cywren Caster
 ### [Masterlist]()
 ### [Playlist]()
 
 > More information about A Fallout Tale and Cywren's companion characters can be found [here](6.Series/Tale_Series/Fallout_Tale.md)
 
-## | Basics  
+## | Basics
 - Introduction Video: **
 - Occupation: Adventurer
 - Weapon of Choice: Gun
@@ -14,19 +14,19 @@
 
 ----
 
-## | Relationships  
-- [**Timebomb**](5.Characters/Tale_Series/Fallout_Tale.md)  
+## | Relationships
+- [**Timebomb**](5.Characters/Tale_Series/Fallout_Tale.md)
   - Timebomb is Cywren's closest friend and love interest during the series
   - He is known to be unconscious commonly
 
 ----
 
-## | Biography  
+## | Biography
 - 
 
 ----
 
-## | Other Trivia  
+## | Other Trivia
 - 
 
 ----
