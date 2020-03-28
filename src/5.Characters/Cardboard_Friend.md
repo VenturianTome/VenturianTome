@@ -16,7 +16,7 @@
 
 ## | Relationships
 - [**The Betrayer**](5.Characters/One-Use_Uncommon.md)
-  - There is speculation that The Betrayer is a future version of Cardboard Friend due to some of the suspicious things that they say in both *Hell’s Island Pt.1* and *Hell’s Island Pt.2*
+  - There is *speculation* that The Betrayer is a future version of Cardboard Friend due to some of the suspicious things that they say in both *Hell’s Island Pt.1* and *Hell’s Island Pt.2*
    - The Betrayer says that they and Ghost were friends, but Ghost denies it \[12:25 - *The Horror Continues*]
    - The Betrayer claims Ghost "found another friend," to which Ghost says that Toast has always been his friend; The Betrayer says that that wasn't always true and that Ghost was so lonely as a child \[22:54 - *The Horror Continues*]
 
@@ -35,12 +35,13 @@
 ----
 
 ## | Biography
-  - Cardboard Friend’s whereabouts are currently unknown, but Jordan has expressed that there is more to know about the backstory of Cardboard Friend and the characters it connects to \[ - *5th Anniversary Live Stream*]
+- Cardboard Friend’s whereabouts are currently unknown, but Jordan has expressed that there is more to know about the backstory of Cardboard Friend and the characters it connects to \[ - *5th Anniversary Livestream*]
 
 ----
 
 ## | Other Trivia
-- The Governor of North Dakota came by what was Gertrude's house to warn her of a 37 year old man from Michigan wanted in 13 states for dressing up in cardboard boxes and breaking into people's houses \[14:34 - *Cardboard Friend*]  
+- Cardboard Friend says it isn't real, only in Gregory's head, but says it might be real because it can be seen [5:36 - *Cardboard Friend*]
+- The Governor of North Dakota came by what was Gertrude's house to warn her of a 37 year old man from Michigan who is wanted in 13 states for dressing up in cardboard boxes and breaking into people's houses \[14:34 - *Cardboard Friend*]  
 - Cardboard Friend wants to "be a family again" "just like old times" \[9:08 / 13:51 - *Haunted By Cardboard Friend*]   
 - The story of Cardboard Friend, according to Toast's book, is that there was a family a long time ago, "there was a family, some children, some ghost shows up, kid goes crazy, and disappears" dates aren't recorded and they don't know much about it; Ghost figures that Cardboard Friend creates insanity in its victims and feeds off of it \[10:54 - *Haunted By Cardboard Friend*]
 

@@ -1,5 +1,6 @@
 # The Characters
 
+> "Let's suddenly get into character!" -Jordan \[1:15 - *Haunted By Batman*]
 
 ## **A**
 - [Aimee](5.Characters/Aimee.md)

@@ -9,9 +9,9 @@
 - [**Toast**](../5.Characters/Johnny_Toast.md)
     - The true leader of the company; he funds the Team
 - [**Spooker**](../5.Characters/Fred_Spooker_Soup.md)
-    - Spooker and Colon aren't technically interns because they're on the team, but they're not higher members than Ghost and Toast \[0:53 - *HIDE Horror Map*]
+    - Not technically an intern because he's on the team, but he is not a higher member than Ghost and Toast \[0:53 - *HIDE Horror Map*]
 - [**Colon**](../5.Characters/Chris_Colon_Ghostie.md)
-    - Spooker and Colon aren't technically interns because they're on the team, but they're not higher members than Ghost and Toast \[0:53 - *HIDE Horror Map*]
+    - Not technically an intern because he's on the team, but he is not a higher member than Ghost and Toast \[0:53 - *HIDE Horror Map*]
 
 ----
 
@@ -35,6 +35,8 @@
 - LemurKing999 is the P.I.E. dispatcher \[0:16 / 1:55 - *Kidnapped by BananaCorp*]
 ### Vehicles
 - A "legit white van" that used to say "Scotch" \[2:27 - *Haunted By Sonic*]
+- The Ghost Mobile, a red hotrod car \[2:36 - *Haunted By Batman*]
+  - It later get smashed through a wall underground \[7:56 - *Scary & Funny Horror Investigation*]
 ### Weapons
 - They have a dinosaur as a secret weapon \[6:33 / 10:43 - *Johnny Ghost L4D*]
   - A meteor once fell outside a city in New Mexico; they collected a small egg from inside
@@ -42,9 +44,12 @@
   - The dinosaur sings like Justin Bieber
 - They have a paranormal machine gun \[2:16 - *Playable Animatronics 17*]
 - Colon carries a Super Monster Zapper Gun on him \[14:03 - *Playable Animatronics 10*]
+- Spooker carries a Ray Gun of Paranormal Activity and a harmonica \[11:37 - *Funny Horror Game*]
 ### Other Items
-- They have a "secret sauce" to transform people back into humans \[4:48 - *I Am The Puppet*]
+- They have a "secret sauce" to transform people back into humans \[4:48 - *I Am The Puppet (Hell's Island Pt.1)*]
   - It's a mixture of chocolate pudding, graham crackers, and gunpowder ingested with a match
+- A crowbar that can bring people back to life \[10:48 - *Can Ghost Hunters Survive on an Island?*]
+  - Ghost left his at the bottom of the ocean
 
 ----
 
@@ -59,6 +64,16 @@
   - Under Section 31, ghostly bicycles must be shot with a shotgun
 - Ghost Hunting 101: the item you need will be behind barrels \[8:01 - *My Wife's First Horror Map*]
 - Lesson 13: Do not hum around ghosts; music to ghosts sets them off and makes them go feral \[10:34 - *Scary Ghost Children*]
+- Ghost has said that P.I.E. stands for Pretty Interesting Environmentalists \(which means that they're good with and know nature) \[1:54 - *Can Ghost Hunters Survive on an Island?*]
+  - \[2:47 / 3:55] They have 3 rules of survival:
+    1. Assess your immediate situation \(if anyone is physically injured)
+    2. Find shelter
+    3. ?? \(It's never said)
+- \[0:56 - *Johnny Ghost Did A Bad Thing*] The rules of being kidnapped are:
+  1. Any good kidnapper knows to leave out the tools of survival and escape
+  2. Check your surroundings
+  3. Don't panic
+  4. Shoot the zombies in the head
 
 ----
 
@@ -72,31 +87,37 @@
 - Their commercial says "if you've got problems with your ghost, call Johnny Ghost" \[3:20 - *Haunted By Cardboard Friend*]
   - It had a budget of $50
 - They create audio logs to keep track of events \[1:09 - *Rat Man of Washington*]
+- The siblings have wondered if they can pull together a video of all of the P.I.E. characters together \[1:40:25 - *7th Anniversary Livestream*]
+- PIE's archnemesis is "and always has been" [the Housekeeper](5.Characters/One-Use_Uncommon.md) \[5:39 - *Neighbor Visits McDonald's*]
 
 ----
 
 ## | Mentioned Videos
-- [Funny Horror Game](https://youtu.be/W_p-t0KtS3U)
-- [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ)
-- [Haunted By Delphox](https://youtu.be/gVmjfDiJ184)
-- [Haunted By Elmo](https://youtu.be/h0_eE9JnLi0)
-- [Haunted By Grandma](https://youtu.be/yMRGseByyCU)
-- [Haunted By Sonic](https://youtu.be/VHp98-xtHlw)
-- [HIDE Horror Map](https://youtu.be/XV7ZJMx2_tQ)
-- [I Am The Puppet](https://youtu.be/NuONWZ-LDQ0)
-- [Johnny Ghost L4D](https://youtu.be/u4msj3CN7yI)
-- [Johnny Ghost Moving](https://youtu.be/hf04_xQdqfQ)
-- [Kidnapped By BananaCorp](https://youtu.be/wt_kHMmAnTQ)
-- [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY)
-- [Playable Animatronics 2](https://youtu.be/_tv07JJ0HE8)
-- [Playable Animatronics 10](https://youtu.be/2qdDjiasqEc)
-- [Playable Animatronics 17](https://youtu.be/mkyVjLCmh8w)
-- [Prop Hunt 18: Ghost Hunt](https://youtu.be/2yVe4fe8lRw)
-- [Rat Man of Washington](https://youtu.be/DYH4xQ-U0gE)
-- [Return of Jimmy Casket](https://youtu.be/Twja4LFhVaU)
-- [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U)
-- [Super-Powered Baby Mod](https://youtu.be/jWXZO7cAe3o)
-- [Yoshi Nintendo Mod](https://youtu.be/ptihpSu4vcY)
+- [Can Ghost Hunters Survive on an Island?](https://youtu.be/xW4E8DGLAbM) \(November 14, 2017)
+- [Funny Horror Game](https://youtu.be/W_p-t0KtS3U) \(April 5, 2015)
+- [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ) \(July 10, 2014)
+- [Haunted By Delphox](https://youtu.be/gVmjfDiJ184) \(May 30, 2014)
+- [Haunted By Elmo](https://youtu.be/h0_eE9JnLi0) \(October 15, 2015)
+- [Haunted By Grandma](https://youtu.be/yMRGseByyCU) \(September 7, 2018)
+- [Haunted By Sonic](https://youtu.be/VHp98-xtHlw) \(August 15, 2014)
+- [HIDE Horror Map](https://youtu.be/XV7ZJMx2_tQ) \(October 7, 2018)
+- [I Am The Puppet (Hell's Island Pt.1)](https://youtu.be/NuONWZ-LDQ0) \(August 20, 2015)
+- [Johnny Ghost Did A Bad Thing](https://youtu.be/e94uIredEVM) \(March 8, 2020)
+- [Johnny Ghost L4D](https://youtu.be/u4msj3CN7yI) \(May 28, 2014)
+- [Johnny Ghost Moving](https://youtu.be/hf04_xQdqfQ) \(July 24, 2018)
+- [Kidnapped By BananaCorp](https://youtu.be/wt_kHMmAnTQ) \(April 2, 2019)
+- [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY) \(December 19, 2019)
+- [Neighbor Visits McDonald's](https://youtu.be/hviiaU4UmZA) \(March 4, 2017)
+- [Playable Animatronics 2](https://youtu.be/_tv07JJ0HE8) \(February 5, 2015)
+- [Playable Animatronics 10](https://youtu.be/2qdDjiasqEc) \(January 21, 2017)
+- [Playable Animatronics 17](https://youtu.be/mkyVjLCmh8w) \(November 18, 2018)
+- [Prop Hunt 18: Ghost Hunt](https://youtu.be/2yVe4fe8lRw) \(April 22, 2014)
+- [Rat Man of Washington](https://youtu.be/DYH4xQ-U0gE) \(November 2, 2016)
+- [Return of Jimmy Casket](https://youtu.be/Twja4LFhVaU) \(March 21, 2019)
+- [Scary & Funny Horror Investigation](https://youtu.be/DPolPvjBouo) \(February 9, 2016)
+- [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U) \(March 22, 2015)
+- [Super-Powered Baby Mod](https://youtu.be/jWXZO7cAe3o) \(May 11, 2014)
+- [Yoshi Nintendo Mod](https://youtu.be/ptihpSu4vcY) \(October 18, 2015)
 
 ----
 

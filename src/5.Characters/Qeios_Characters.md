@@ -63,6 +63,7 @@
 
 ### Jasper
 - Played by [MCab719](7.Family/Michael-MCab719.md)
+- He has hung out with Billy \[17:38 - *Haunted By Batman*]
 
 ----
 
@@ -113,9 +114,10 @@
 ----
 
 ## | Mentioned Videos
-- [Beyond the Wall! - Qeios Episode 1](https://www.youtube.com/watch?v=7x75F3d_2Bw)
-- [Beyond the Lies! - Qeios Episode 2]()
-- [Beyond the Killing! - Qeios Episode 3]()
+- [Beyond the Wall! - Qeios Episode 1](https://www.youtube.com/watch?v=7x75F3d_2Bw) \(August 11, 2014)
+- [Beyond the Lies! - Qeios Episode 2](https://www.youtube.com/watch?v=Zf7WRwfEu4Y) \(August 25, 2014)
+- [Beyond the Killing! - Qeios Episode 3](https://www.youtube.com/watch?v=7Nq6E_t8_Mw) \(September 1, 2014)
+- [Haunted By Batman](https://youtu.be/LymOGelRMwc) \(August 26, 2014)
 
 ----
 

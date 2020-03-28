@@ -14,17 +14,17 @@
 
 ----
 
-## Batman
+### Batman
+- He likes swimming like a little pony \[13:53 - *Haunted By Batman*]
+
+----
+
+### The Flash
 - 
 
 ----
 
-## The Flash
-- 
-
-----
-
-## Superman
+### Superman
 - 
 
 ----
@@ -35,7 +35,7 @@
 ----
 
 ## | Mentioned Videos
-- []()
+- [Haunted By Batman](https://youtu.be/LymOGelRMwc) \(August 26, 2014)
 
 ----
 

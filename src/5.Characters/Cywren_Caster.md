@@ -27,12 +27,12 @@
 ----
 
 ## | Other Trivia
-- 
+- Cywren's name is a combination of words that stuck \[16: 23 - *7th Anniversary Livestream*]
 
 ----
 
 ## | Mentioned Videos
-- []()
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 
 ----
 

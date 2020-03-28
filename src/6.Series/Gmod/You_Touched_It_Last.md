@@ -1,22 +1,21 @@
-# Team Fortress 2
+# You Touched It Last
 ### [Playlist]()
-*This series is played through the game [Team Fortress 2]() made by []()*
+*This series is played through the game [Garry's Mod]() made by []()*
 
 ----
 
 ## | Big Events
-- TF2 was the first game ever played on the VenturianTale channel! \[*TF2: Legend of Zelda*]
+- Played for the first time during a livestream \[49:38 - *7th Anniversary Livestream*]
 
 ----
 
 ## | Series Trivia
-- They all main The Sniper in Team Fortress 2 \[59:58 - *7th Anniversary Livestream*]
+- 
 
 ----
  
 ## | Mentioned Videos
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
-- [TF2: Legend of Zelda](https://youtu.be/nhUuVIC4OVU)
  
 ----
  

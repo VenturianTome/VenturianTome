@@ -13,6 +13,9 @@
 ----
 
 ## | Relationships
+- [Fred "Spooker" Soup](5.Characters/Fred_Spooker_Soup.md)
+  - Chakalata is Spooker's dad \[17:08 - *Funny Horror Game*]
+
 - [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
   - Ghost built a ghost detector out of bubblegum and a pan of Chakalata's own soup \[7:12 - *Haunted By Delphox*]
 

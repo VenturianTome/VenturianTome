@@ -38,6 +38,13 @@
 
 ----
 
+## Average Joe
+#### Origin: *Scary & Funny Horror Investigation*
+- Ghost's favourite politician \[7:13]
+- Stands for the legalization of macaroni but also says that they should support Average Lavigne \[8:33]
+
+----
+
 ## Bad / Low Texture Bronson
 #### Origin: *Chica Visits Pizza Hut*
 #### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
@@ -110,16 +117,6 @@
 
 ### Mentioned Videos
 - [Chica Visits Pizza Hut](https://youtu.be/VcBOrWgqyrY)
-
-----
-
-## Billy Acachalla \(Others / Fakes)
-#### Origin: **
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
-- There was a fake Billy in \[11:47 - *Murder 4: Majora's Mask*] that he won against
-
-### Mentioned Videos
-- []()
 
 ----
 
@@ -199,19 +196,6 @@
 
 ----
 
-## Chucky Toast
-#### Origin: *Big Dragon Mod*
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
-- When Ghost is stranded in multiple dimensions during the Puppet Arc, he lands on an island inhabited by Rosie and Chucky Toast
-- Ghost mistakes him for Johnny Toast, but is proven wrong; Ghost is still overprotective of him \[3:07 / 5:15 / 6:51 / 7:47 / 8:32 - Big Dragon Mod]
-- He gets his name at \[9:55]
-- He leaves the dimension with Ghost and Rosie on a raft
-
-### Mentioned Videos
-- [Big Dragon Mod](https://youtu.be/nkWX5eoDSEk)
-
-----
-
 ## Chump Kazooie
 #### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
 #### Origin: **
@@ -219,6 +203,12 @@
 
 ### Mentioned Videos
 - []()
+
+----
+
+## Clarence
+#### Origin: *Johnny Ghost Did A Bad Thing*
+- Ghost knew someone named Clarence in middle school who would always kid around; Ghost told him that cheating at Hot Wheel racing would get him killed \[10:09]
 
 ----
 
@@ -231,13 +221,13 @@
 
 ----
 
-## Crispy Toast
+## Crispy Toast (AKA "Crisps the Toast Man")
 #### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
-#### Origin: **
+#### Origin: *Neighbor Visits McDonald's*
 - 
 
 ### Mentioned Videos
-- 
+- [Neighbor Visits McDonald's](https://youtu.be/hviiaU4UmZA) \(March 4, 2017)
 
 ----
 
@@ -307,12 +297,16 @@
 ----
 
 ## Gavin Toast
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 #### Origin: **
-- 
+- Johnny Toast never mentions him even though Gavin is his twin brother \[2:36:05 - *7th Anniversary Livestream*]
+- Papa trusts Gavin because he trusts Johnny \[2:40:30 - *7th Anniversary Livestream*]
+- When asked what makes him different from Johnny, Gavin says he's extra edgy \[2:42:22 - *7th Anniversary Livestream*]
+- He and Maxwell have worked together to steal Papa Acachalla's house out from right under him \[2:42:33 - *7th Anniversary Livestream]
+- Gavin once tried to shoot Papa, but shot himself because he had whiskey before picking up his weapon \[2:45:33 - *7th Anniversary Livestream*]
+  - He was shot in the mouth; due to the wound scarring over, he now sounds like Mickey Mouse \[2:46:08]
 
 ### Mentioned Videos
-- []()
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(7th Anniversary Livestream)
 
 ----
 
@@ -326,12 +320,14 @@
 
 ----
 
-## Grandfather
+## Grandfather Acachalla
 #### Origin: **
 - The statue is his petrified upper half [9:48 - *Murder 14: Announcements, Celebrations*]
+- Invented the technology for the stretchy environments; he needed it because his pants were always too small \[17:02 - *Scary & Funny Horror Investigation*]
 
 ### Mentioned Videos
-- [Murder 14: Annoucements, Celebrations](https://youtu.be/Tmn4m60nE5g)
+- [Murder 14: Annoucements, Celebrations](https://youtu.be/Tmn4m60nE5g) \(July 18, 2014)
+- [Scary & Funny Horror Investigation](https://youtu.be/DPolPvjBouo) \(February 9, 2016)
 
 ----
 
@@ -396,6 +392,17 @@
 
 ### Mentioned Videos
 - []()
+
+----
+
+## The Helpful Man
+#### Origin: *7th Anniversary Livestream*
+- He helps Papa Acachalla around his house in the *7th Anniversary Livestream*
+- Papa asked the Helpful Man to exile Jeremy, Maxwell, and Gavin from his house when they stole it from him \[2:45:09]
+  > "I will do what I must"
+
+### Mentioned Videos
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 
 ----
 
@@ -471,10 +478,16 @@
 
 ## Jeremy Acachalla
 #### Origin: **
-- 
+- He doesn't speak because he's an NPC \[2:30:54 - *7th Anniversary Livestream*]
+- Papa, when in the war, was followed by a shadow figure that can be assumed to be Jeremy Acachalla in the trenches \[2:35:27 - *7th Anniversary Livestream*]
+- He is Papa's brother \[2:30:31 - *7th Anniversary Livestream*]
+- Papa apologized to Jeremy and freed his mortal soul from his body \[2:47:32 - *7th Anniversary Livestream*]
+  > "I've always loved you" -Papa Acachalla
 
 ### Mentioned Videos
-- 
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
+
+
 
 ----
 
@@ -520,16 +533,6 @@
 
 ----
 
-## Johnny Cranky
-#### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
-- 
-
-### Mentioned Videos
-- 
-
-----
-
 ## Johnny Ghost's Mom
 #### Origin: **
 - 
@@ -539,22 +542,21 @@
 
 ----
 
+## Johnny-not-Ghost
+#### Origin: *7th Anniversary Livestream*
+- Only difference is a brown hoodie \[5:53]
+
+### Mentioned Videos
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
+
+----
+
 ## Johnny Roast
 #### Origin: **
 - 
 
 ### Mentioned Videos
 - 
-
-----
-
-## Johnny Toast \(Others / Fakes)
-#### Origins: **
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
-- 
-
-### Mentioned Videos
-- []()
 
 ----
 
@@ -578,15 +580,17 @@
 ----
 
 ## Katrina
-#### Origin: *HUNT Pt.2* & *HUNT Pt.2 FINALE*
-- Ghost recognizes an entity as "Katrina" and says the ghost is messing with him \[3:59]
+#### Origin: *Scary Ghost HUNT Horror Map (Pt.2)* & *Scary Ghost HUNT Horror Map (Pt.2/FINALE)*
+- Ghost recognizes an entity as "Katrina" and says the ghost is messing with him \[3:59 - *Scary Ghost HUNT Horror Map (Pt.2)*]
   - He tells Toast to approach it, saying that he can't \("You know what happens") \[3:59]
   - Ghost tells Toast to tell him if he sees "her" again, saying that "this ghost might unveil the secret we've always been wanting to find... but never wanted to hear" \[4:58]
-- Katrina reappears and Toast questions why; Ghost says he's come to terms with "it," leaving it vague \[6:44]
+- Katrina reappears and Toast questions why; Ghost says he's come to terms with "it," leaving it vague \[6:44 - *Scary Ghost HUNT Horror Map (Pt.2)*]
+- When asked about who Katrina was, Jordan says it's part of Ghost's backstory and doesn't want to ruin the mystery \[1:37:06 - *7th Anniversary Livestream*]
 
 ### Mentioned Videos
-- [HUNT Pt.2](https://youtu.be/Q_iwzgwlbwg)
-- [HUNT Pt.2 FINALE](https://youtu.be/nNLNxjfItLU)
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
+- [Scary Ghost HUNT Horror Map (Pt.2)](https://youtu.be/Q_iwzgwlbwg) \(September 6, 2014)
+- [Scary Ghost HUNT Horror Map (Pt.2/FINALE)](https://youtu.be/nNLNxjfItLU) \(September 9, 2014)
 
 ----
 
@@ -641,12 +645,20 @@
 - He has flashlight shoes; he's an inventor in his free time \[3:21 - *My Wife's First Horror Map*]
 - He doesn't like heights \[4:48 - *My Wife's First Horror Map*]
 - The color grey makes him very nauseous \[4:48 - *My Wife's First Horror Map*]
-- He lost most of his hearing "back in 'Nam" \[4:56 - *My Wife's First Horror Map*]
-  - He was a janitor \[13:05]
+- He was a soldier/janitor in Vietnam and got his colours for it; his memory was damaged \[4:37 - *Scary Prison Horror Map*]
+  - He lost most of his hearing "back in 'Nam" \[4:56 - *My Wife's First Horror Map*]
+  - He was a janitor \[13:05 - *My Wife's First Horror Map*]
 - He has a grandson \[6:34 - *My Wife's First Horror Map*]
+- He and Colon have interacted, but don't know much about each other \[0:53 / 2:08 / 5:34 / 7:42 - *Scary Prison Horror Map*]
+- He has called himself ugly \[6:31 - *Scary Prison Horror Map*]
+- He doesn't like being called "sir" because it makes him feel old \[12:21 - *Scary Prison Horror Map*]
+- Jordan doesn't think he would make it through the P.I.E. interview process \[54:16 - *7th Anniversary Livestream*]
+  - Jordan left Leonard Malkovich being allowed to join P.I.E. to a vote in the comments \[1:40:53]
+    - A lot of the comments say "yes" and someone says "they let Ghost in, so sure"
 
 ## Mentioned Videos
-- [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY)
+- [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY) \(December 19, 2019)
+- [Scary Prison Horror Map](https://youtu.be/SGb7hPi-eO4) \(January 4, 2020)
 
 ----
 
@@ -656,6 +668,12 @@
 
 ### Mentioned Videos
 - []()
+
+----
+
+## Mama Ghost \(Johnny Ghost's Mother)
+#### Origin: **
+- His mother once told him "damage done at a distance is damage done indeed;" Ghost is unsure what she meant \[4:25 - *Johnny Ghost Meets Freddy the Dinosaur*]
 
 ----
 
@@ -744,6 +762,15 @@
 
 ### Mentioned Videos
 - [Funny Olaf](https://youtu.be/_onnlghtxTQ)
+
+----
+
+## The Orang
+#### Origin: *7th Anniversary Livestream*
+- They're powerful deities that can kill nearly anything \[2:18:21 - *7th Anniversary Livestream*]
+
+### Mentioned Videos
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 
 ----
 
@@ -976,13 +1003,14 @@
 
 ----
 
-## Tootsie
+## Venturian \(Character)
 #### Origin: **
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
-- 
+- [Ghost](5.Characters/Johnny_Ghost.md) and [Toast](5.Characters/Johnny_Toast.md) have found him in a padded cell in a mental institution \[9:32 - *Scary & Funny Horror Investigation*]
+  - He starts to escape; Ghost says that this must be how the channel got started \[12:42]
+  - Venturian blocks Ghost's path and to tries to get him to subscribe, so Ghost has to kill him \[14:52]
 
 ### Mentioned Videos
-- 
+- [Scary & Funny Horror Investigation](https://youtu.be/DPolPvjBouo) \(February 9, 2016)
 
 ----
 

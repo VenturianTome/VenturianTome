@@ -32,6 +32,8 @@
   - He is a level 7.6894503.01 \[6:59 - *VenturianTale Scripted*]
   - He is the most feared ghost in history and is responsible for black holes \[4:19 - *Super-Powered Baby Mod*]
   - Toilet Touchers are actually a race of “the most legendary beings of the universe” / “the most ancient beings in the universe” who have created and destroyed entire planets \[5:00 / 6:32 - *Super-Powered Baby Mod*]
+- Predicted Death
+  - Billy believes he will die by getting shot by Papa on Thanksgiving as the Toilet Toucher [4:25 - *Acachalla's Thanksgiving (2019)*]
 
 ----
 

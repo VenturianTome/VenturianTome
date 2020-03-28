@@ -19,7 +19,8 @@
 ----
 
 ## | Biography
-- 
+- Labratory
+  - He and his family of birds run a lab testing and experimenting on Gingerians \[12:16 / 13:11 - *Johnny Ghost Meets Freddy the Dinosaur*]
 
 ----
 
@@ -30,7 +31,8 @@
 ----
 
 ## | Mentioned Videos
-- [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g)
+- [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g) \(May 3, 2016)
+- [Johnny Ghost Meets Freddy the Dinosaur](https://youtu.be/cNcfpGXRgYM) \(March 14, 2020)
 
 ----
 

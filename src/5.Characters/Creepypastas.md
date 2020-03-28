@@ -28,7 +28,7 @@
 ### Jeff The Killer
 #### Commonly played by [ImmortalKyodai](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 - Jeff is good at scooting/slithering \[2:35 / 10:00 - *Creepypasta College*]
-- Jeff has a twin brother: Other Jeff \[4:10 - *Creepypasta College*]
+- Jeff has a twin brother named Other Jeff \[4:10 - *Creepypasta College*]
 - Jeff doesn't know how to sit on a table \[7:04 - *Creepypasta College*]
 - Jeff paints his nails \[8:54 - *Creepypasta College*]
 - Jeff got promoted to Biology 101 teacher \(in a place that turned out to be a mental institution) \[9:22 - *Creepypasta College*]
@@ -47,19 +47,21 @@
 - Slender was promoted to the role of World History teacher \(in a place that turned out to be a mental institution) \[0:54 / 6:17 - *Creepypasta College*]
 - Rake and Slender are brothers \[1:57 - *Creepypasta College*]
 - Slender can only move forward if you aren't looking at him \[3:37 - *Creepypasta College*]
-- Ghost regards Slenderman as his old nemesis; Slenderman has faked a job in accounting \[1:19 - *Dating Slenderman*]
+- Ghost regards Slenderman as his old nemesis; Slenderman faked a job in accounting \[1:19 - *Dating Slenderman*]
 - He doesn't have a mama \[4:53 - *Dating Slenderman*]
 - He litters \[5:17 - *Dating Slenderman*]
-- Maloney has accused Slenderman of never retiring, but instead working for the CIA; Slender says he's working for Sia, the singer \[16:41 - *Dating Slenderman*]
+- Maloney has accused Slenderman of never retiring, but instead working for the CIA; Slender instead says he's working for Sia, the singer \[16:41 - *Dating Slenderman*]
+- Sally and Slender are still together as of the *7th Anniversary Livestream* \[47:04]
 
 ----
 
 ## | Other Trivia
--
+- They were once on L4D as Creepypastas and another 4th person joined but still fit in with their theme by being Suicide Squidward \[11:51 - *7th Anniversary Livestream*]
 
 ----
 
 ## | Mentioned Videos
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 - [Creepypasta College](https://youtu.be/TyTM5NU8jKY)
 - [Dating Slenderman](https://youtu.be/iKCA4r6euXM)
 

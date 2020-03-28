@@ -8,8 +8,11 @@
 - Her first horror map and character were in *My Wife's First Horror Map*
 
 ----
+## Time on the Channel
+- Her first time on the facecam was in *Scary Prison Horror Map*
+- She was asked to end the *7th Anniversary Livestream* \[2:50:07 / 2:50:30 / 2:51:00 - *7th Anniversary Livestream*]
 
-## Relationship to Jordan / Marriage
+## Relationship with Jordan / Marriage
 - Her and Jordan play Portal 2 Co-OP together a lot \[0:17 - *Portal 2 Co-OP #1 (J&J)*]
 - Jordan claims his and Jessica's height difference is about the same as Gimli compared to Legolas
     > "My shins are the only thing in danger" -Jordan \[7:46 - *Portal 2 Co-OP #1 (J&J)*]
@@ -50,6 +53,7 @@
 - Jessica's ideal DnD character is a dwarf/wizard who was a librarian and everytime she sneezed she froze stuff around her and had a chicken foot \[18:12 - *Q&A With My Wife*]
 - Jessica takes horror "horribly;" she made it "all of 3 minutes" through Resident Evil 2 \(the remake) \[0:23 - *My Wife's First Horror Map*]
 - She played [Audrey and Andre](../5.Characters/Qeios_Characters.md) in [Qeios](../6.Series/Qeios.md)
+- The only Beatles song she knows it Let It Be \[50:49 - *7th Anniversary Livestream*]
 
 ----
 
@@ -60,12 +64,14 @@
 ----
 
 ## Mentioned Videos
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 - [I Got Married](https://youtu.be/mDasjRwGf2k)
 - [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY)
 - [Playing Gmod With My Wife](https://youtu.be/E7IVRnqu_wc)
 - [Portal 2 Co-OP #1 (J&J)](https://youtu.be/6GE1-ReTdtU)
 - [Portal 2 Co-OP #4 (J&J)](https://youtu.be/ohAhMp0tO00)
 - [Q&A With My Wife](https://youtu.be/fcWrt_7xM3w)
+- [Scary Prison Horror Map](https://youtu.be/SGb7hPi-eO4) \(January 4, 2020)
 - [what's happening](https://youtu.be/8wn34LSj_Iw)
 
 ----

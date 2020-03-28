@@ -51,33 +51,41 @@
 
 ----
 
+## | His Secrets
+- Casket claims that his secret is that his mother was a man & that he can't read [5:46 / 20:15 - *Murder 3: Jimmy Casket*]
+- Casket says his secret is that his name is Gregory [13:54 - *Murder 11: Olaf*]
+
+----
+
 ## | Other Trivia
 - Jimmy Casket even creeps Jordan out \[16:21 - *Scary Underground*]
 - Casket has a realm of flames \[6:51 - *Johnny Bot*]
 - Casket uses people's flesh as a stress toy \[2:23 - *Murder 3: Jimmy Casket*]
 - He calls himself the "The World's Most Renowned Murderer" \[5:27 - *Murder 3: Jimmy Casket*]
-- Casket claims that his secret is that his mother was a man & that he can't read \[5:46 / 20:15 - *Murder 3: Jimmy Casket*]
 - Casket can smell when someone's the murderer because of the blood of innocent people \[17:30 - *Murder 3: Jimmy Casket*]
 - Casket plays tic-tac-toe on the side of dead bodies \[18:08 - *Murder 3: Jimmy Casket*]
 - Casket pays his taxes and mows the lawn \[17:19 - *Murder 4: Majora's Mask*]
 - Casket has a fear of macaroni; he has dreams where it comes and \(ironically) eats him \[17:32 / 19:05 - *Murder 4: Majora's Mask*]
 - Casket can come through walls \[13:48 - *Creepypasta College*]
 - Casket can't tell the difference between Slender and Jeff \[14:00 - *Creepypasta College*]
+- His first murder was a "triple swirl homicide" \[39:28 - *7th Anniversary Livestream*]
+- He was dressed like a half-naked Joker in the *7th Anniversary Livestream* \[2:09:04]
 
 ----
 
 ## | Mentioned Videos
-- [Creepypasta College](https://youtu.be/TyTM5NU8jKY)
-- [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ)
-- [Johnny Bot](https://youtu.be/I_8FpxwKSNo)
-- [Johnny Ghost vs Zombies](https://youtu.be/ZZi4QOcKkno)
-- [Kidnapped By BananaCorp](https://youtu.be/wt_kHMmAnTQ)
-- [Murder 1](https://youtu.be/P4R_xbJrHWo)
-- [Murder 3: Jimmy Casket](https://youtu.be/ijGTXelXjx4)
-- [Murder 4: Majora's Mask](https://youtu.be/rJShOzX411o)
-- [Murder 11: Olaf](https://youtu.be/g2tvu5gFGhI)
-- [Rat Man of Washington](https://youtu.be/DYH4xQ-U0gE)
-- [Scary Underground Horror Map](https://youtu.be/Hd_KT6KbnHI)
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
+- [Creepypasta College](https://youtu.be/TyTM5NU8jKY) \(February 26, 2014)
+- [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ) \(July 10, 2014)
+- [Johnny Bot](https://youtu.be/I_8FpxwKSNo) \(December 14, 2018)
+- [Johnny Ghost vs Zombies](https://youtu.be/ZZi4QOcKkno) \(July 30, 2015)
+- [Kidnapped By BananaCorp](https://youtu.be/wt_kHMmAnTQ) \(April 2, 2019)
+- [Murder 1](https://youtu.be/P4R_xbJrHWo) \(January 12, 2014)
+- [Murder 3: Jimmy Casket](https://youtu.be/ijGTXelXjx4) \(January 18, 2014)
+- [Murder 4: Majora's Mask](https://youtu.be/rJShOzX411o) \(January 24, 2014)
+- [Murder 11: Olaf](https://youtu.be/g2tvu5gFGhI) \(May 3, 2014)
+- [Rat Man of Washington](https://youtu.be/DYH4xQ-U0gE) \(November 2, 2016)
+- [Scary Underground Horror Map](https://youtu.be/Hd_KT6KbnHI) \(January 22, 2014)
 
 ----
 

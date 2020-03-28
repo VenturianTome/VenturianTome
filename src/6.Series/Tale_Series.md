@@ -20,7 +20,13 @@
 ----
 
 ## | Series Trivia
-- 
+- When asked about what happened to  Fallout 4 \(and the other Tale Series), Jordan said "YouTube happened" \(its algorithm changed and it was killing the channel because it was a series) \[37:33 - *7th Anniversary Livestream*]
+  - When asked if he has thought about moving his Let's Plays to a 2nd channel, he says he could \(and eventually might) but if YouTube fixed the algorithm he'd happily go back to them \[40:05]
+
+----
+
+## Mentioned Videos
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 
 ----
  

@@ -15,6 +15,7 @@
 ## | Relationships
 - [**Slenderman**](5.Characters/Creepypastas.md)
   - She is Slender's girlfriend \[17:51 - *Creepypasta College*]
+  - Sally and Slender are still together as of the *7th Anniversary Livestream* \[47:04 - *7th Anniversary Livestream*]
 
 ----
 
@@ -30,14 +31,18 @@
 - Sally is good at lockpicking \[18:27 - *Creepypasta College*]
 - She has a secret that she can't tell anyone because they'll get mad [13:05 - *Acachalla's Thanksgiving (2019)*]
   - Ghost recommended writing it down and putting it in the treehouse where no one will find it and then one day when Papa goes up there during a rage-filled moment he'll read it and know why he truly loves her
-- She got "turkey rot" from being in Thanksgiving "marination" for too long [18:53 - *Acachalla's Thanksgiving (2019)*] 
+- She got "turkey rot" from being in Thanksgiving "marination" for too long [18:53 - *Acachalla's Thanksgiving (2019)*]
+- Sally doesn't know what division is \[10:02 - *Scariest Horror Map Ever!!*]
+- Jordan's best impression of her sounds like Spencer \[38:51 - *7th Anniversary Livestream*]
 
 ----
 
 ## | Mentioned Videos
-- [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk)
-- [Acachalla Winter Vacation](https://youtu.be/nQBiVNH1fUk)
-- [Creepypasta College](https://youtu.be/TyTM5NU8jKY)
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
+- [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk) \(November 28, 2019)
+- [Acachalla Winter Vacation](https://youtu.be/nQBiVNH1fUk) \(March 15, 2018)
+- [Creepypasta College](https://youtu.be/TyTM5NU8jKY) \(February 26, 2014)
+- [Scariest Horror Map Ever!!](https://youtu.be/7ZrYVSgBI1Y) \(October 7, 2014)
 
 ----
 

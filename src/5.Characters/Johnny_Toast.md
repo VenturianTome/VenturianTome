@@ -19,11 +19,15 @@
 - [**Aimee**](5.Characters/Aimee.md)
   - Toast has had nightmares of Aimee for weeks \[10:34 - *Johnny Ghost L4D*]
 
+- [**Gavin Toast**](5.Characters/One-Use_Uncommon.md)
+  - He never mentions his twin brother Gavin \[2:36:05 - *7th Anniversary Livestream*]
+  - When asked what makes him different from Johnny, Gavin says he's extra edgy \[2:42:22 - *7th Anniversary Livestream*]
+
 - [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
   - Ghost is Toast’s closest friend with which he goes on many paranormal adventures
   - Toast doesn't know Ghost's birthday, even though they're close friends \[3:59 - *Ghost Hunters*]
     - He bought Ghost a camera for his birthday \[1:22 - *Yoshi Nintendo Mod*]
-  - Toast says that it's his job to watch over Ghost as he can be stupid sometimes \[9:11 - *I Am The Puppet*]
+  - Toast says that it's his job to watch over Ghost as he can be stupid sometimes \[9:11 - *I Am The Puppet (Hell's Island Pt.1)*]
   - Ghost was 6 when Toast was 8, so they have \(or had, with timelines) a 2-year age difference \[7:03 - *Haunted By Delphox*]
   - Ghost and Toast played together since they were kids \[3:54 - *Big Dragon*]
   - He reads Ghost bedtime stories \[4:43 - *Playable Animatronics 17*]
@@ -34,6 +38,16 @@
   - Him and Ghost usually go out for brunch together \[4:18 - *Johnny Ghost vs Zombies*]
   - He is what quells Ghost’s episodes and keeps him grounded \[1:24 / 15:31 - *Johnny Ghost vs Zombies*]
   - Ghost is thankful for his partner Johnny Toast, Toast is thankful for himself and Ghost \("it's a whole thing" -Ghost) [20:01 - *Acachalla's Thanksgiving (2019)*]
+  - \[2:23 - *Johnny Ghost Meets Freddy the Dinosaur*] Toast taught Ghost some helpful tips for when he's stressed:
+    - Step 1) Breathe deeply
+    - Step 2) Check in the immediate vicinity for Chinese food
+    - Step 3) Get the key, use the Chinese food as a distraction
+  - Ghost and Toast are currently having a pun war \[5:49 - *Johnny Ghost Meets Freddy the Dinosaur*]
+  - Ghost can't remember the last time he's seen Toast in shorts \[6:06 - *Haunted By Batman*]
+  - Ghost has told Toast that his waistcoat is "quite fetching" \[17:23 - *Haunted By Batman*]
+
+- [**Papa Acachalla**](5.Characters/Papa_Acachalla.md)
+  - Toast has only led Papa wrong twice \[2:40:30 - *7th Anniversary Livestream*]
 
 - [**The Queen of England**](5.Characters/Queen_of_England.md)
   - He is the Queen of England’s grandson \[13:28 - *President Visits McDonald’s*]
@@ -48,20 +62,20 @@
 - New Playermodel
    - Toast's old playermodel was scrapped and replaced with a new one in *Haunted By Sonic*  
 - Puppet Arc
-   - He was following Ghost and found him when he fell out of the sky into Germany \[1:56 / 2:04 - *I Am The Puppet*]
-   - \(Puppet Arc) Toast didn't do much while Ghost was in the cosmos \[3:11 - *The Horror Continues*]
+   - He was following Ghost and found him when he fell out of the sky into Germany \[1:56 / 2:04 - *I Am The Puppet (Hell's Island Pt.1)*]
+   - \(Puppet Arc) Toast didn't do much while Ghost was in the cosmos \[3:11 - *The Horror Continues (Hell's Island Pt.2)*]
 - Ghost & Toast's Adventures
   - They built a wagon out of old cereal boxes \[3:54 - *Big Dragon*]
   - Ghost and Toast use to eat pineapples together \[10:52 - *Big Dragon Mod*]
   - He and Ghost have a scheduled kite-flying day \[0:23 - *Haunted By Godzilla*]
-  - Toast had an incident with Ghost's XBox 360, which Ghost says was Toast's fault because he's a "viva piñata maniac" \[4:27 - *HUNT Pt.2*]
-  - Ghost and Toast once went on a camping trip; Toast's dad drove off while the tent (and Ghost with it) were still attached to his truck \[16:08 - *HUNT Pt.2*]
-  - As kids, Ghost and Toast snuck into the movie theater and watched Predator \[2:18 - *HUNT Pt.2 Finale*]
-  - In their childhood, Ghost and Toast had a dog who Ghost called "Jumper" and Toast called "Spot" \[5:16 - *HUNT Pt.2 Finale*]
+  - Toast had an incident with Ghost's XBox 360, which Ghost says was Toast's fault because he's a "viva piñata maniac" \[4:27 - Scary Ghost HUNT Horror Map (Pt.2)*]
+  - Ghost and Toast once went on a camping trip; Toast's dad drove off while the tent (and Ghost with it) were still attached to his truck \[16:08 - *Scary Ghost HUNT Horror Map (Pt.2)*]
+  - As kids, Ghost and Toast snuck into the movie theater and watched Predator \[2:18 - *Scary Ghost HUNT Horror Map (Pt.2/FINALE)*]
+  - In their childhood, Ghost and Toast had a dog who Ghost called "Jumper" and Toast called "Spot" \[5:16 - *Scary Ghost HUNT Horror Map (Pt.2/FINALE)*]
     - Jumper got hit by a car while playing catch \[6:37]
-  - Ghost and Toast had a job at a library \[22:29 - *HUNT Pt.2 Finale*]
-  - Toast once turned a corner and smacked into Ghost and his Barbie dolls fell and got dirty, but Toast bought him a G.I. Joe figure that scared his mother half to death \[10:06 - *I Am The Puppet*]
-  - Ghost and Toast were once trying to find an arrowhead at the bottom of a lake, so Ghost tied a bowling ball to his ankle to get to the bottom faster but he almost drowned \[21:13 - *The Horror Continues*]
+  - Ghost and Toast had a job at a library \[22:29 - *Scary Ghost HUNT Horror Map (Pt.2/FINALE)*]
+  - Toast once turned a corner and smacked into Ghost and his Barbie dolls fell and got dirty, but Toast bought him a G.I. Joe figure that scared his mother half to death \[10:06 - *I Am The Puppet (Hell's Island Pt.1)*]
+  - Ghost and Toast were once trying to find an arrowhead at the bottom of a lake, so Ghost tied a bowling ball to his ankle to get to the bottom faster but he almost drowned \[21:13 - *The Horror Continues (Hell's Island Pt.2)*]
    - Toast saved him with a fishing rod
   - Ghost and Toast have ridden a 2-person bicycle \[6:33 - *Haunted By Delphox*]
   - Ghost and Toast had a pet rock in 1996 named Brett \[12:00 - *FNAF & Zootopia 2*]
@@ -74,9 +88,22 @@
   - Ghost and Toast have meet Miraak \[5:08 - *Medieval Mod*]
   - Ghost and Toast have gone "kayaking without water" with Johnny Toast \[2:11 / 13:14 - *Minions Visit McDonald's*]
   - He has spied on Ghost's dreams \[9:57 - *OMG Cute Cats*]
+- Books
+  - Toast has a '15 Tips to a Healthier Living' \[8:39 - *Johnny Ghost Meets Freddy the Dinosaur*]
+    - Tip 10) if there's a paint can, use it as a shield
+    - Tip 16) if it's Papa Acachalla, run for your life
+  - Toast's favourite book is "How To Make Macaroni & Cheese" \[11:47 - *The Horror Continues (Hell's Island Pt.2)*]
+- Time as Sally
+  - The Toast/Sally Arc ends \[17:23 - *Haunted By Batman*]
+- Dealing with Macaroni
+  - Toast's favourite book is "How To Make Macaroni & Cheese" \[11:47 - *The Horror Continues (Hell's Island Pt.2)*]
+  - Toast says he's always having trouble with the police \[9:56 - *Scary & Funny Horror Investigation*]
+  - He can get shipments of Macaroni anywhere, even on a deserted island \[11:59 - *Can Ghost Hunters Survive on an Island?*]
+  - Toast thinks mac & cheese is better with ketchup \[9:17 - *Scary & Funny Horror Investigation*]
+  - Toast has gone blind from macaroni before \[16:10 - *Scary & Funny Horror Investigation*]
 
 ## | Fakes
-- His fakes can be found [here](5.Characters/One-Use_Uncommon.md)!
+- His fakes can be found [here](5.Characters/Fakes-Dopplegangers.md)!
 
 ----
 
@@ -91,23 +118,22 @@
 - Toast has floral allergies \(he sneezes flowers) \[5:10 - *Ghost Hunters*]
 - Toast has a maneuver where he walks around on his elbows \[7:01 - *Ghost Hunters*]
 - Toast has a girly scream \[7:20 - *Ghost Hunters*]
-- Toast wrote a book on paranormal investigations \[1:43 - *HUNT Pt.2*]
-  - It’s titled "Paranormal Principles" \[11:38 - *Paranormal Ghost Hunt*]
-- Toast had a zombie-infested family reunion in which his grandmother "tried to invite herself" while she was Lord of the Zombies \[9:25 - *HUNT Pt.2 Finale*]
-- Toast comes from a family of hicks and "sort of was adopted" \[10:01 - *HUNT Pt.2 Finale*]
-- Toast's dad died before he was 5 \[10:29 - *HUNT Pt.2 Finale*]
-- Toast can't jump unless he's intoxicated \[19:23 - *HUNT Pt.2 Finale*]
+- Toast wrote a book on paranormal investigations \[1:43 - *Scary Ghost HUNT Horror Map (Pt.2)*]
+  - It’s titled "Paranormal Principles" \[11:38 - *Paranormal Ghost Hunting*]
+- Toast had a zombie-infested family reunion in which his grandmother "tried to invite herself" while she was Lord of the Zombies \[9:25 - *Scary Ghost HUNT Horror Map (Pt.2/FINALE)*]
+- Toast comes from a family of hicks and "sort of was adopted" \[10:01 - *Scary Ghost HUNT Horror Map (Pt.2/FINALE)*]
+- Toast's dad died before he was 5 \[10:29 - *Scary Ghost HUNT Horror Map (Pt.2/FINALE)*]
+- Toast can't jump unless he's intoxicated \[19:23 - *Scary Ghost HUNT Horror Map (Pt.2/FINALE)*]
 - Toast had a [pink hamster](5.Characters/Pets.md)
-  - Ghost claims that it wasn't even a hamster \[23:40 - *HUNT Pt.2 Finale*]
-- Toast has a sister named Jenny, and she was a cop \[3:41 - *I Am The Puppet*]
-- Toast's favourite book is "How To Make Macaroni & Cheese" \[11:47 - *The Horror Continues*]
-- Toast had a cat named [Marshmallow](5.Characters/Pets.md), but it died \[13:51 - *The Horror Continues*]
+  - Ghost claims that it wasn't even a hamster \[23:40 - *Scary Ghost HUNT Horror Map (Pt.2/FINALE)*]
+- Toast has a sister named Jenny, and she was a cop \[3:41 - *I Am The Puppet (Hell's Island Pt.1)*]
+- Toast had a cat named [Marshmallow](5.Characters/Pets.md), but it died \[13:51 - *The Horror Continues (Hell's Island Pt.2)*]
 - Toast wrote a paper in college about the use of music in paranormal investigations \[6:59 - *Hell's Resort*]
 - Toast does the technical stuff, uses the equipment, and drives the van \[9:46 - *Hell's Resort*]
 - Toast quit smoking \[10:13 - *Hell's Resort*]
 - Toast was in Boy Scouts \[12:31 - *Hell's Resort*]
-- Toast has been phased in and out of the dimensional rift before; they fixed it by rubbing cream cheese on his face \[13:23 - *Paranormal Ghost Hunt*]
-- Toast has mountain-climbing equipment \[23:38 - *Paranormal Ghost Hunt*]
+- Toast has been phased in and out of the dimensional rift before; they fixed it by rubbing cream cheese on his face \[13:23 - *Paranormal Ghost Hunting*]
+- Toast has mountain-climbing equipment \[23:38 - *Paranormal Ghost Hunting*]
 - Toast has been rock-climbing in a sewer \[1:05 - *Haunted By Delphox*]
 - Toast is an expert of hauntings by Pokémon \[5:29 - *Haunted By Delphox*]
 - Toast calculates things and plays Tetris in his head \[1:09 - *FNAF & Zootopia 2*]
@@ -143,32 +169,50 @@
 - Younger Toast etched little British flags into his roller skates; they have a “turbo speed” \[11:28 - *Working At McDonald’s*]
 - He sleeps in a nightgown \[1:13 - *Yoshi Nintendo Mod*]
   - Ghost says it’s the most demonic thing he’s ever seen
-- Toast has above normal intelligence and went to Harvard \[1:33 - *HUNT Pt.2*]
-  - He has a college education \[23:15 - *Paranormal Ghost Hunt*]
+- Toast has above normal intelligence and went to Harvard \[1:33 - *Scary Ghost HUNT Horror Map (Pt.2)*]
+  - He has a college education \[23:15 - *Paranormal Ghost Hunting*]
 - He loves boats \[6:41 / 8:50 - *Medieval Mod*]
 - Maloney has flirted with Toast \(who was pretending to be "Debra Toast") \[13:12 - *Bonnie Visits Walmart*]
 - His mom told him he's not allowed to be in cupboards [14:14 - *Acachalla's Thanksgiving (2019)*]
 - He has a crush on Dwayne Johnson [14:25 / 14:59 - *Acachalla's Thanksgiving (2019)*]
+- Toast *doesn't* know how to drive a boat \[0:38 - *Can Ghost Hunters Survive on an Island?*]
+- Toast doesn't do crosswords right; he uses cheese and other dairy products \[4:51 - *Haunted By Batman*]
+- It's implied that he's allergic to wood \[10:50 - *Haunted By Batman*]
+- Toast has twice tried to make an intro like Ghost has \[1:01 / 1:14 / 9:12 - *Scary & Funny Horror Investigation*]
+  - 1st Attempt: "I'm Johnny Toast and, um, part- partners and things, I- I like mayonnaise and- and ketchup, and you- you mix the ketchup and you put it on the-"
+  - 2nd Attempt: "I'm Johnny Toast and I like macaroni & cheese"
+- Every time Toast is nervous, he goes to condiments; his last date sounded like he was ordering off of a menu \[1:35 - *Scary & Funny Horror Investigation*]
+- He says he's an expert in stupid things \[2:56 - *Scary & Funny Horror Investigation*]
+- Toast can recognize a sky-angled picture of Los Angeles; Toast says he goes there a lot, Ghost says Toast has never been there in his life \[7:26 - *Scary & Funny Horror Investigation*]
+- Toast hates the politician Average Joe; AJ stands for the legalization of macaroni but also says that they should support Average Lavigne and Toast doesn't like her music \[8:33 - *Scary & Funny Horror Investigation*]
+- Toast wasn't allowed into the British Armed Forces because his arms weren't British enough \[10:36 - *Scary & Funny Horror Investigation*]
+- Toast is allergic to LA, which is a very rare condition \[13:52 - *Scary & Funny Horror Investigation*]
+- Toast sometimes has a beard but shaves it off \[15:55 - *Scary & Funny Horror Investigation*]
 
 ----
 
 ## | Mentioned Videos
-- [Big Dragon Mod](https://youtu.be/nkWX5eoDSEk)
-- [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g)
-- [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og)
-- [Funny Balloon Boy](https://youtu.be/EnoiRkmE1y8)
-- [Ghost Hunters Horror Map](https://youtu.be/oA9jS2ArUk0)
-- [Haunted By Delphox](https://youtu.be/gVmjfDiJ184)
-- [Haunted By Godzilla](https://youtu.be/BehxBDbUJlI)
-- [Haunted By Grandma](https://youtu.be/yMRGseByyCU)
-- [Haunted By Sonic](https://youtu.be/VHp98-xtHlw)
-- [Hell’s Resort](https://youtu.be/mqVWhWEK2AQ)
-- [The Horror Continues](https://youtu.be/YSmqZ0T6Enk)
-- [HUNT Pt.2](https://youtu.be/Q_iwzgwlbwg)
-- [HUNT Pt.2 Finale](https://youtu.be/nNLNxjfItLU)
-- [I Am The Puppet](https://youtu.be/NuONWZ-LDQ0)
-- [Paranormal Ghost Hunt](https://youtu.be/VEq4ggHacoU)
-- [Prop Hunt 18: Ghost Hunt](https://youtu.be/2yVe4fe8lRw)
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
+- [Big Dragon Mod](https://youtu.be/nkWX5eoDSEk) \(August 8, 2015)
+- [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g) \(May 3, 2016)
+- [Can Ghost Hunters Survive on an Island?](https://youtu.be/xW4E8DGLAbM) \(November 14, 2017)
+- [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og) \(May 15, 2016)
+- [Funny Balloon Boy](https://youtu.be/EnoiRkmE1y8) \(December 28, 2014)
+- [Ghost Hunters Horror Map](https://youtu.be/oA9jS2ArUk0) \(July 2, 2015)
+- [Haunted By Batman](https://youtu.be/LymOGelRMwc) \(August 26, 2014)
+- [Haunted By Delphox](https://youtu.be/gVmjfDiJ184) \(May 30, 2014)
+- [Haunted By Godzilla](https://youtu.be/BehxBDbUJlI) \(November 29, 2015)
+- [Haunted By Grandma](https://youtu.be/yMRGseByyCU) \(September 7, 2018)
+- [Haunted By Sonic](https://youtu.be/VHp98-xtHlw) \(August 15, 2014)
+- [Hell’s Resort](https://youtu.be/mqVWhWEK2AQ) \(November 6, 2015)
+- [The Horror Continues (Hell's Island Pt.2)](https://youtu.be/YSmqZ0T6Enk) \(August 21, 2015)
+- [Scary Ghost HUNT Horror Map (Pt.2)](https://youtu.be/Q_iwzgwlbwg) \(September 6, 2014)
+- [Scary Ghost HUNT Horror Map (Pt.2/FINALE)](https://youtu.be/nNLNxjfItLU) \(September 9, 2014)
+- [I Am The Puppet (Hell's Island Pt.1)](https://youtu.be/NuONWZ-LDQ0) \(August 20, 2015)
+- [Johnny Ghost Meets Freddy the Dinosaur](https://youtu.be/cNcfpGXRgYM) \(March 14, 2020)
+- [Paranormal Ghost Hunting](https://youtu.be/VEq4ggHacoU) \(June 7, 2014)
+- [Prop Hunt 18: Ghost Hunt](https://youtu.be/2yVe4fe8lRw) \(April 22, 2014)
+- [Scary & Funny Horror Investigation](https://youtu.be/DPolPvjBouo) \(February 9, 2016)
 
 ----
 

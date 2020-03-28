@@ -14,9 +14,18 @@
 - [Isaac Frye / HomelessGoomba](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.html)
 
 ## Trivia of the Siblings
-- They don’t commonly play Gmod outside of videos \[1:15 - *TJOC:R 3*]
+- They don’t commonly play Gmod outside of videos \[1:15 - *The Joy Of Creation: Reborn 3*]
 - There is a misconception that the Siblings use scripts in their videos \[0:35 - *VenturianTale Scripted*]
   - They don't - they come up with everything on camera
+- They used to play Vanguard \(the card game) a lot \[35:26 - *7th Anniversary Livestream*]
+- When asked about their fav. boss battle, they replied with Star Fox 64 \(Star Wolf) or the "Train Guy" \[1:13:44 - *7th Anniversary Livestream*]
+- None of them have played Deltarune yet \[1:38:18 - *7th Anniversary Livestream*]
+
+----
+
+## The Channel
+- The outro screen was changed on January 4th, 2020 \[15:42 - *Scary Prison Horror Map*]
+- Jordan says they spent a few days in deciding the channel name, but "Venturian" is a combination of words \(venture + centurion) and it stuck and "Tale" was added later \[16:23 - *7th Anniversary Livestream*]
 
 ----
 
@@ -25,7 +34,7 @@
 - [Blog](https://venturiantale.com)
 - [Facebook](https://m.facebook.com/venturiantalegames/)
 - [ImproveLoop](https://improveloop.com/loop/venturiantale)
-  - Noted as disabled as of February 7th, 2020
+  - Noted as disabled as of February 7th, 2020 \[20:47 - *7th Anniversary Livestream*]
 - [LegacyStats](http://legacystats.com/index.php)
 - [Twitter](https://twitter.com/VenturianTale)
 
@@ -39,8 +48,10 @@
 ----
 
 ## Mentioned Videos
-- [TJOC:R 3](https://youtu.be/B6jf67iGNlU)
-- [VenturianTale Scripted](https://youtu.be/iD4Mw3rx4wc)
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
+- [The Joy Of Creation: Reborn 3](https://youtu.be/B6jf67iGNlU) \(August 6, 2016)
+- [Scary Prison Horror Map](https://youtu.be/SGb7hPi-eO4) \(January 4, 2020)
+- [VenturianTale Scripted](https://youtu.be/iD4Mw3rx4wc) \(July 12, 2014)
 
 ----
 

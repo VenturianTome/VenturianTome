@@ -26,7 +26,7 @@ Feel free to ask the admin about anything related to the site and I'll try to re
 - [The World](../chapter_4.md)
 - [Characters](../chapter_5.md)
 - [Series](../chapter_6.md)
-- [Other Family](../chapter_7.md)
+- [Family](../chapter_7.md)
 
 ----
 

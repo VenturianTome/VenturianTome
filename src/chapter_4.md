@@ -14,27 +14,30 @@
 
 ## Worldbuilding
 - [Areas & Places](../4.World/Areas-Places.md)
+- [Canon Fixes](../4.World/Canon_Fixes.md)
 - [Dimensions & Realms](../4.World/Dimensions-Relams.md)
+- [Other Wars](../4.World/Other_Wars.md)
 - [Songs](../4.World/Songs.md)
-- [Timelines](../4.World/TImelines.md)
+- [Timelines](../4.World/Timelines.md)
 
 ----
 
 ## Other World Trivia
-- There was a Great Roblox War of 2017 \[9:38 - *Johnny Bot*]
-- There is a possibility of characters jumping between consciousnesses when they die \[18:35 - *Johnny Bot*]
 - Ghost has called Earth "currently destroyed" \[6:10 - *Funny Olaf*]
-- Setting a bathtub on fire is against the Constitution of the United States of America \[10:43 - *Haunted By FNAF*]
-- Butt-activated technology was being developed in India, extremely experimentally \[10:31 - *Hell's Resort*]
 - 97% of the world's "thanks" come from Tom Hanks because he's such a nice guy \[9:43 - *Acachalla's Thanksgiving (2019)*]
   - Thanksgiving would not exist without T. Hanks
+- Toast claims that rocks points toward civilization; Ghost says that that's a myth \[3:24 - *Can Ghost Hunters Survive on an Island?*]
+- Some structures are natural-grown \[10:22 - *Can Ghost Hunters Survive on an Island?*]
+- Horseradish is when a horse chews up a radish and spits it back out \[1:51 - *Scary & Funny Horror Investigation*]
+- In 1875, there was a man who was so crazy and so convinced that aliens inside his mind were trying to find his exact location, so he had a house built that was a maze that had pathways, windows, walls, and doors that lead nowhere \[3:21 - *Scary & Funny Horror Investigation*]
 
 ----
 ## Mentioned Videos
-- [Funny Olaf](https://youtu.be/_onnlghtxTQ)
-- [Haunted By FNAF](https://youtu.be/ntiwledOpi0)
-- [Hell's Resort](https://youtu.be/mqVWhWEK2AQ)
-- [Johnny Bot](https://youtu.be/I_8FpxwKSNo)
+- [Acachalla's Thanksgiving (2019)](https://youtu.be/dC5GT2mZNEk) \(November 28, 2019)
+- [Can Ghost Hunters Survive on an Island?](https://youtu.be/xW4E8DGLAbM) \(November 14, 2017)
+- [Funny Olaf](https://youtu.be/_onnlghtxTQ) \(July 22, 2015)
+- [Johnny Bot](https://youtu.be/I_8FpxwKSNo) \(December 14, 2018)
+- [Scary & Funny Horror Investigation](https://youtu.be/DPolPvjBouo) \(February 9, 2016)
 
 ----
 

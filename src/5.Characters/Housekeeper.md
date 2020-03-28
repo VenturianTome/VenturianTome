@@ -16,7 +16,10 @@
 
 ## | Relationships
 - [**Jimmy Casket**](5.Characters/Jimmy_Casket.md)
-  - Ghost claims that the Housekeeper is the one who created Jimmy Casket \[ - *Neighbor Visits McDonald's*]
+  - Is the one who created Jimmy Casket \[6:53 - *Neighbor Visits McDonald's*]
+
+- [**P.I.E.**](4.World/PIE_Team.md)
+  - The archnemesis of PIE "and always has been" \[5:39 / 6:53 - *Neighbor Visits McDonald's*]
 
 ----
 
@@ -33,13 +36,14 @@
 ## | Other Trivia
 - He is a Level 4 entity which has shown up 36 times since his first appearance in 1936
   - He's killed 13 people \[1:57]
+  - Considered the most terrifying ghost of all time \[6:17 - *Neighbor Visits McDonald's*]
 
 ----
 
 ## | Mentioned Videos
-- [Johnny Ghost vs Zombies](https://youtu.be/ZZi4QOcKkno)
-- [Neighbor Visits McDonald's](https://youtu.be/hviiaU4UmZA)
-- [Paranormal Ghost Hunt](https://youtu.be/VEq4ggHacoU)
+- [Johnny Ghost vs Zombies](https://youtu.be/ZZi4QOcKkno) \(July 30, 2015)
+- [Neighbor Visits McDonald's](https://youtu.be/hviiaU4UmZA) \(March 4, 2017)
+- [Paranormal Ghost Hunt](https://youtu.be/VEq4ggHacoU) \(June 7, 2014)
 
 ----
 
