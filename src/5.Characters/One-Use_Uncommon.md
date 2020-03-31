@@ -2,42 +2,6 @@
 #### *These are characters that have only been used once or only a few times on the channel, commonly in [Gmod Roleplays](6.Series/GMod/Roleplays.md)*
 
 
-## Action Charlie
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Agent Angel
-#### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
-
-### Mentioned Videos
-- 
-
-----
-
-## Ancient Johnnies
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Anna \(Frozen)
-#### Origin: **
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
 ## Average Joe
 #### Origin: *Scary & Funny Horror Investigation*
 - Ghost's favourite politician \[7:13]
@@ -120,7 +84,7 @@
 
 ----
 
-## Bonbon the Baby / Baby Doll
+## Bonbon the Baby/Baby Doll
 #### Origin: *Funny Baby Mod*
 #### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 - They live in a green house in a culdesac with Charlie Charlie Chase Buttface \[10:11 - *Funny Baby Mod*]
@@ -154,21 +118,12 @@
 
 ----
 
-## Buzz Lightyear \(Toy Story)
-#### Origin: **
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
 ## The Cat Demon
 #### Origin: *Scary Ghost Children*
 - A [Level 25](4.World/Ghosts-Entities.md) entity that could destroy the entire world with a flick of its fingers or open a dimension to a black hole at any time 
 
 ### Mentioned Videos
--  [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U)
+- [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U)
 
 ----
 
@@ -196,28 +151,9 @@
 
 ----
 
-## Chump Kazooie
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
-#### Origin: **
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
 ## Clarence
 #### Origin: *Johnny Ghost Did A Bad Thing*
 - Ghost knew someone named Clarence in middle school who would always kid around; Ghost told him that cheating at Hot Wheel racing would get him killed \[10:09]
-
-----
-
-## Connor \(Detroit: Become Human)
-#### Origin: **
-- 
-
-### Mentioned Videos
-- []()
 
 ----
 
@@ -244,16 +180,6 @@
 
 ----
 
-## Doge
-#### Origin: **
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
-- 
-
-### Mentioned Videos
-- 
-
-----
-
 ## Donald Donnie
 #### Origin: *Godzilla Ate My Lunch*
 #### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
@@ -275,15 +201,6 @@
 
 ### Mentioned Videos
 - [Godzilla Ate My Lunch](https://youtu.be/CSXo2GfyvGU)
-
-----
-
-## Elsa \(Frozen)
-#### Origin: **
-- 
-
-### Menioned Videos
-- []()
 
 ----
 
@@ -322,7 +239,7 @@
 
 ## Grandfather Acachalla
 #### Origin: **
-- The statue is his petrified upper half [9:48 - *Murder 14: Announcements, Celebrations*]
+- The statue is his petrified upper half \[9:48 - *Murder 14: Announcements, Celebrations*]
 - Invented the technology for the stretchy environments; he needed it because his pants were always too small \[17:02 - *Scary & Funny Horror Investigation*]
 
 ### Mentioned Videos
@@ -331,40 +248,15 @@
 
 ----
 
-## Grandma-challa
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
 ## Grandma Ghost
 #### Origin: *Haunted By Grandma*
-- 
+- She is Crusty Butt entity \[2:05]
+- She won't come near car keys \[18:36]
+- She can mess with time \[19:24]
+- Is actually [Ghost](5.Characters/Johnny_Ghost.md)'s grandma
 
 ### Mentioned Videos
 - [Haunted By Grandma](https://youtu.be/yMRGseByyCU)
-
-----
-
-## Grandpa Sink Supplies
-#### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
-#### Origin: **
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## Gregory.Gregory
-#### Origin: **
-- 
-
-### Mentioned Videos
-- []()
 
 ----
 
@@ -386,15 +278,6 @@
 
 ----
 
-## Gumball Watterson
-#### Origin: **
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
 ## The Helpful Man
 #### Origin: *7th Anniversary Livestream*
 - He helps Papa Acachalla around his house in the *7th Anniversary Livestream*
@@ -403,16 +286,6 @@
 
 ### Mentioned Videos
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
-
-----
-
-## Hickle Coolbreeze
-#### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
-- 
-
-### Mentioned Videos
-- 
 
 ----
 
@@ -428,21 +301,12 @@
 ----
 
 ## Hilda Niceguy \(Scripted)
-#### Origin: **
+#### Origin: *VenturianTale Scripted*
 #### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
-- 
+- Pretended to be Bert Niceguy's daughter, but is actually the [Toilet Toucher](5.Characters/Toilet_Toucher.md) in disguise
 
 ### Mentioned Videos
-- 
-
-----
-
-## Jack Links
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
+- [VenturianTale Scripted](https://youtu.be/iD4Mw3rx4wc) \(July 12, 2014)
 
 ----
 
@@ -456,26 +320,6 @@
 
 ----
 
-## Jenny Ghost
-#### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## Jenny Toast
-#### Origin: **
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
 ## Jeremy Acachalla
 #### Origin: **
 - He doesn't speak because he's an NPC \[2:30:54 - *7th Anniversary Livestream*]
@@ -486,8 +330,6 @@
 
 ### Mentioned Videos
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
-
-
 
 ----
 
@@ -506,76 +348,12 @@
 
 ----
 
-## Johnathan Core
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Johnathan Ghost Senior
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Johnny Boast
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Johnny Ghost's Mom
-#### Origin: **
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
 ## Johnny-not-Ghost
 #### Origin: *7th Anniversary Livestream*
 - Only difference is a brown hoodie \[5:53]
 
 ### Mentioned Videos
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
-
-----
-
-## Johnny Roast
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Jose Jose Jose Jose
-#### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## Judy Hopps \(Zootopia)
-#### Origin: **
-- 
-
-### Mentioned Videos
-- []()
 
 ----
 
@@ -591,35 +369,6 @@
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 - [Scary Ghost HUNT Horror Map (Pt.2)](https://youtu.be/Q_iwzgwlbwg) \(September 6, 2014)
 - [Scary Ghost HUNT Horror Map (Pt.2/FINALE)](https://youtu.be/nNLNxjfItLU) \(September 9, 2014)
-
-----
-
-## K-C
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Kylo Ren \(Star Wars)
-#### Origin: **
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## Lady Buttlegum
-#### Origin: **
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
-- 
-
-### Mentioned Videos
-- 
 
 ----
 
@@ -662,45 +411,9 @@
 
 ----
 
-## Luigi
-#### Origin: **
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
 ## Mama Ghost \(Johnny Ghost's Mother)
 #### Origin: **
 - His mother once told him "damage done at a distance is damage done indeed;" Ghost is unsure what she meant \[4:25 - *Johnny Ghost Meets Freddy the Dinosaur*]
-
-----
-
-## Mario
-#### Origin: **
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## Mary Toast \(Fan-Named)
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Medusa
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
 
 ----
 
@@ -712,46 +425,6 @@
 
 ### Mentioned Videos
 - [Paranormal Ghost Hunt](https://youtu.be/VEq4ggHacoU)
-
-----
-
-## Mr. No
-#### Origin: **
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
-
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Mr. Sviggles
-#### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Nick Wilde \(Zootopia)
-#### Origin: **
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## Officer Starbucks
-#### Origin: **
-#### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
-- 
-
-### Mentioned Videos
-- 
 
 ----
 
@@ -780,35 +453,6 @@
 
 ### Mentioned Videos
 - [Godzilla Ate My Lunch](https://youtu.be/CSXo2GfyvGU)
-
-----
-
-## Pennywise the Clown
-#### Origin: **
-#### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
-- 
-
-### Mentioned Videos:
-- []()
-
-----
-
-## Principal Buttkicker
-#### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Poop Poop
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
 
 ----
 
@@ -848,15 +492,6 @@
 
 ----
 
-## Ronnie Boast
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
 ## Rosie
 #### Origin: *Big Dragon Mod*
 #### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
@@ -870,78 +505,12 @@
 
 ----
 
-## Sally Betty Jessica
-#### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## Sasquatch\(es)
-#### Origin: **
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## Shiogami / Shinogami
-#### Origin: **
-#### Played by [Isaac Frye](3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Skelly the Skeleton
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Sonic the Hedgehog / Sonic.exe
+## Sonic the Hedgehog / Sonic.EXE
 #### Origin: **
 - Sonic.exe is a Level 5 noob ghost that was only recently evolved into a Level 5, which is a physical entity \(unlike a Level 4) [7:55 - *Haunted By Sonic*]
 
 ### Mentioned Videos
 - [Haunted By Sonic](https://youtu.be/VHp98-xtHlw)
-
-----
-
-## Sparkly Puddleshine
-#### Origin: **
-#### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Spongebob
-#### Origin: **
-- 
-
-### Mentioned Videos
-- []()
-
-----
-
-## Susie Gumball
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
 
 ----
 
@@ -958,25 +527,7 @@
 
 ----
 
-## Tinker Corndog
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Thumberlina
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Tommy / Timothy Casket
+## Tommy/Timothy Casket
 #### Origin: \(Named) *Haunted By Cardboard Friend* / \(Physical) *Chica Visits Pizza Hut*
 #### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
 - Ghost has claimed him as his father \[12:11 - *Haunted By Cardboard Friend*]
@@ -990,16 +541,6 @@
 ### Mentioned Videos
 - [Chica Visits Pizza Hut](https://youtu.be/VcBOrWgqyrY)
 - [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ)
-
-----
-
-## Toothless the Dragon
-#### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
-- 
-
-### Mentioned Videos
-- []()
 
 ----
 
@@ -1022,24 +563,6 @@
 
 ### Mentioned Videos
 - [Minions Visit McDonald’s](https://youtu.be/Yk0RNCWNQKY)
-
-----
-
-## William Smigglebug
-#### Origin: **
-- 
-
-### Mentioned Videos
-- 
-
-----
-
-## Woody \(Toy Story)
-#### Origin: **
-- 
-
-### Mentioned Videos
-- []()
 
 ----
 

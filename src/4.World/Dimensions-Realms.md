@@ -69,18 +69,18 @@
 ----
 
 ## | Mentioned Videos
-- [Baraslavian Prison](https://youtu.be/acQ_AEIHW-M)
-- [Big Dragon](https://youtu.be/nkWX5eoDSEk)
-- [Dating Slenderman](https://youtu.be/iKCA4r6euXM)
-- [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og)
-- [Johnny Bot](https://youtu.be/I_8FpxwKSNo)
-- [Johnny Bot Left Behind](https://youtu.be/B8utDaG1fsE)
-- [Johnny Ghost vs Zombies]()
-- [Medieval Mod](https://youtu.be/C9Gvs-3MxNY)
-- [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY)
-- [Paranormal Ghost Hunt](https://youtu.be/VEq4ggHacoU)
-- [Pokemon Haunter](https://youtu.be/FRtza_a-3Ks)
-- [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U)
+- [Baraslavian Prison](https://youtu.be/acQ_AEIHW-M) \(April 17, 2019)
+- [Big Dragon Mod](https://youtu.be/nkWX5eoDSEk) \(August 8, 2015)
+- [Dating Slenderman](https://youtu.be/iKCA4r6euXM) \(May 12, 2016)
+- [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og) \(May 15, 2016)
+- [Johnny Bot](https://youtu.be/I_8FpxwKSNo) \(December 14, 2018)
+- [Johnny Bot Left Behind](https://youtu.be/B8utDaG1fsE) \(December 15, 2018)
+- [Johnny Ghost vs Zombies](https://youtu.be/ZZi4QOcKkno) \(July 30, 2015)
+- [Medieval Mod](https://youtu.be/C9Gvs-3MxNY) \(October 6, 2015)
+- [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY) \(December 19, 2019)
+- [Paranormal Ghost Hunting](https://youtu.be/VEq4ggHacoU) \(June 7, 2014)
+- [Pokemon Haunter](https://youtu.be/FRtza_a-3Ks) \(July 19, 2015)
+- [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U) \(March 22, 2015)
 
 ----
 

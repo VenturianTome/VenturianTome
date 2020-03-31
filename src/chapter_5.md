@@ -1,6 +1,6 @@
 # The Characters
 
-> "Let's suddenly get into character!" -Jordan \[1:15 - *Haunted By Batman*]
+> "Let's suddenly get into character!" -Jordan \[1:15 - [*Haunted By Batman*](https://youtu.be/LymOGelRMwc)]
 
 ## **A**
 - [Aimee](5.Characters/Aimee.md)
@@ -70,98 +70,53 @@
 ## **O**
 - [Officer Maloney](5.Characters/Officer_Maloney.md)
 - [One-Use / Uncommon Characters](5.Characters/One-Use_Uncommon.md)
-  - Action Charlie
-  - Agent Angel
-  - Ancient Johnnies
-  - Anna \(Frozen)
-  - Bad/Low Texture Johnson
-  - Bad/Low Texture Bronson
-  - BananaCorp / Banana Man
+  - Average Joe
+  - Bad / Low Texture Bronson
+  - Bad / Low Texture Johnson
+  - BananaCorp / Bananaman
   - Bert Niceguy \(Scripted)
   - The Betrayer
   - Better Texture Monson
-  - Billy Acachalla \(Others / Fakes)
-  - Bonbon the Baby / Baby Doll
+  - Bonbon the Baby/Baby Doll
   - Boot the Minion
   - Burning Bridges
-  - Buzz Lightyear \(Toy Story)
   - The Cat Demon
-  - Cecil the Gnome
+  - Cecil the gnome
   - Charlie Charlie Chase Buttface
-  - Chucky Toast
-  - Chump Kazooie
-  - Connor \(Detroit: Become Human)
+  - Clarence
   - Crispy Toast
   - Dipper
-  - Doge
   - Donald Donnie
   - Donald Trump
-  - Elsa \(Frozen)
   - \(Uncle) Ernie Ghost
   - Gavin Toast
   - Godzilla\(s)
-  - Grandfather
-  - Grandma-challa
+  - Grandfather Acachalla
   - Grandma Ghost
-  - Grandpa Sink Supplies
-  - Gregory.Gregory
-  - Gumball Watterson
-  - Hickle Coolbreeze
+  - Gregory Casket
+  - The Helpful Man
+  - Higgly Diggly Hoogan
   - Hilda Niceguy \(Scripted)
-  - Jack Links
   - Jackson from Child Services
-  - Jenny Ghost
-  - Jenny Toast
   - Jeremy Acachalla
   - John Hundred
-  - Johnathon Core
-  - Johnathon Ghost Senior
-  - Johnny Boast
-  - Johnny Cranky
-  - Johnny Ghost's Mom
-  - Johnny Roast
-  - Johnny Toast \(Others / Fakes)
-  - Judy Hopps \(Zootopia)
+  - Johnny-not-Ghost
   - Katrina
-  - K-C
-  - Kylo Ren \(Star Wars)
-  - Lady Buttlegum
   - Leon S. Kennedy
   - Leonard Malkovich
-  - Luigi
-  - Mark \(Skyrim)
-  - Mario
-  - Mary Toast \(Fan-Named)
-  - Medusa
+  - Mama Ghost \(Johhny Ghost's Mother)
   - Military Morons
-  - Mr. No
-  - Mr. Sviggles
-  - Nick Wilde \(Zootopia)
-  - Officer Starbucks
-  - Olaf \(Frozen)
+  - Olaf
+  - The Orang
   - Peewee Ghost
-  - Pennywise the Clown
-  - Principal Buttkicker
-  - Poop Poop
+  - Queen of England
   - The Rat Man of Washington
-  - Ronnie Boast
   - Rosie
-  - Sasquatch\(es)
-  - Shiogami / Shinogami
-  - Skelly the Skeleton
-  - Sonic the Hedgehog
-  - Sparkly Puddleshine
-  - Spongebob
-  - Susie Gumball
+  - Sonic the Hedgehog / Sonic.EXE
   - Swift Taylor
-  - Tinker Corndog
-  - Thumblerina
-  - Tommy / Timothy Casket
-  - Toothless the Dragon
-  - Tootsie
-  - Vahl Kahli \(Elder Scrolls Online)
-  - William Smigglebug
-  - Woody \(Toy Story)
+  - Tommy/Timothy Casket
+  - Venturian \(Character)
+  - William Barricade 
 
 ## **P**
 - [Papa Acachalla](5.Characters/Papa_Acachalla.md)

@@ -77,6 +77,13 @@
 
 ----
 
+## | Enemies
+- PIE's archnemesis is "and always has been" [the Housekeeper](5.Characters/One-Use_Uncommon.md) \[5:39 - *Neighbor Visits McDonald's*]
+- A group called D.I.E. \(Destructors of Investigators Extraordinaire) \[-- - *Barney Hunt*]
+  - On the team is Johnny Cranky and Jimmy Casket; Chakalata SO=oup used to be on the team, but Cranky forced him off \[--]
+
+----
+
 ## | Other Trivia
 - Sacrificing Colon for a plan is a last-ditch effort \[5:32 - *Haunted By Grandma*]
 - Recruits get paid $20 an hour \[1:49 - *Scary Ghost Children*]
@@ -88,7 +95,6 @@
   - It had a budget of $50
 - They create audio logs to keep track of events \[1:09 - *Rat Man of Washington*]
 - The siblings have wondered if they can pull together a video of all of the P.I.E. characters together \[1:40:25 - *7th Anniversary Livestream*]
-- PIE's archnemesis is "and always has been" [the Housekeeper](5.Characters/One-Use_Uncommon.md) \[5:39 - *Neighbor Visits McDonald's*]
 
 ----
 

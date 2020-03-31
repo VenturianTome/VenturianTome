@@ -9,8 +9,9 @@
 - [Ben / BenPlus](7.Family/Ben-BenPlus.md)
 - [Gut / GutTC](7.Family/Gut-GutTC.md)
 - [Jessica / Javott42](7.Family/Jessica-Javott42.md)
-    - [Jordan Frye](../3.Siblings/3.1.Jordan-Frye-Venturian.md)'s Wife
+    - [Jordan](../3.Siblings/3.1.Jordan-Frye-Venturian.md)'s Wife
 - [Michael / MCab719](7.Family/Michael-MCab719.md)
+    - [Cierra](../3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)'s Boyfriend
 - [Mythic4IF1re](7.Family/Mythic4IF1re.md)
 - [Paula Frye / Paula Blox Art](7.Family/Paula_Frye-Paula_Blox_Art.md)
     - [The Siblings](..chapter_3.md)' Mother
