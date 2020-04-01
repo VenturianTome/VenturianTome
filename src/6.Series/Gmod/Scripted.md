@@ -21,7 +21,7 @@
 ----
  
 ## | Mentioned Videos
-- [VenturianTale Scripted](https://youtu.be/iD4Mw3rx4wc)
+- [VenturianTale Scripted](https://youtu.be/iD4Mw3rx4wc) \(July 12, 2014)
  
 ----
  

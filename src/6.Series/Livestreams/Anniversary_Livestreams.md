@@ -13,7 +13,7 @@
 ----
  
 ## | Mentioned Videos
-- [Murder 14: Announcements, Celebrations](https://youtu.be/Tmn4m60nE5g)
+- [Murder 14: Announcements, Celebrations](https://youtu.be/Tmn4m60nE5g) \(July 18, 2014)
  
 ----
  

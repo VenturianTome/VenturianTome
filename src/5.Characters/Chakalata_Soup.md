@@ -13,6 +13,9 @@
 ----
 
 ## | Relationships
+- [**The Betrayer**](5.Character/One-Off_Uncommon.md)
+  - Chakalata Soup is the Betrayer's dad \[5:11 / 7:03 - *The Horror Continues (Hell's Isalnd Pt.2)*]
+
 - [Fred "Spooker" Soup](5.Characters/Fred_Spooker_Soup.md)
   - Chakalata is Spooker's dad \[17:08 - *Funny Horror Game*]
 
@@ -32,7 +35,8 @@
 ----
 
 ## | Mentioned Videos
-- [Haunted By Delphox](https://youtu.be/gVmjfDiJ184)
+- [Haunted By Delphox](https://youtu.be/gVmjfDiJ184) \(May 30, 2014)
+- [The Horror Continues (Hell's Isalnd Pt.2)](https://youtu.be/YSmqZ0T6Enk) \(August 21, 2015)
 
 ----
 

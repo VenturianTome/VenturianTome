@@ -31,7 +31,7 @@
 ----
 
 ## | Mentioned Videos
-- [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk)
+- [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk) \(November 28, 2019)
 
 ----
 

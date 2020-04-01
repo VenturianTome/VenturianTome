@@ -62,8 +62,8 @@
 
 ## | Mentioned Videos
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
-- [Creepypasta College](https://youtu.be/TyTM5NU8jKY)
-- [Dating Slenderman](https://youtu.be/iKCA4r6euXM)
+- [Creepypasta College](https://youtu.be/TyTM5NU8jKY) \(February 26, 2014)
+- [Dating Slenderman](https://youtu.be/iKCA4r6euXM) \(May 12, 2016)
 
 ----
 

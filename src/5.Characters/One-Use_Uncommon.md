@@ -7,6 +7,9 @@
 - Ghost's favourite politician \[7:13]
 - Stands for the legalization of macaroni but also says that they should support Average Lavigne \[8:33]
 
+### Mentioned Videos
+- [Scary & Funny Horror Investigation](https://youtu.be/DPolPvjBouo) \(February 9, 2016)
+
 ----
 
 ## Bad / Low Texture Bronson
@@ -15,7 +18,7 @@
 - Acted as Tommy’s sidekick on his TV show \[4:42 - *Chica Visits Pizza Hut*]
 
 ### Mentioned Videos
-- [Chica Visits Pizza Hut](https://youtu.be/VcBOrWgqyrY)
+- [Chica Visits Pizza Hut](https://youtu.be/VcBOrWgqyrY) \(May 7, 2016)
 
 ----
 
@@ -26,7 +29,7 @@
   - Faked his death \[13:11 / 13:34]
 
 ### Mentioned Videos
-- [Chica Visits Pizza Hut](https://youtu.be/VcBOrWgqyrY)
+- [Chica Visits Pizza Hut](https://youtu.be/VcBOrWgqyrY) \(May 7, 2016)
 
 ----
 
@@ -40,7 +43,7 @@
 - They are/were a hivemind \[12:26 - *Kidnapped By BananaCorp*]
 
 ### Mentioned Videos
-- [Kidnapped By BananaCorp](https://youtu.be/wt_kHMmAnTQ)
+- [Kidnapped By BananaCorp](https://youtu.be/wt_kHMmAnTQ) \(April 2, 2019)
 
 ----
 
@@ -50,26 +53,26 @@
 - Bert Niceguy says the Toilet Toucher looks like his uncle \[14:27 - *VenturianTale Scripted*]
 
 ### Mentioned Videos
-- [VenturianTale Scripted](https://youtu.be/iD4Mw3rx4wc)
+- [VenturianTale Scripted](https://youtu.be/iD4Mw3rx4wc) \(July 12, 2014)
 
 ----
 
 ## The Betrayer
-#### Origin: *I Am The Puppet* & *The Horror Continues*
+#### Origin: *I Am The Puppet (Hell's Island Pt.1)* & *The Horror Continues (Hell's Island Pt.2)*
 #### Played by [Bethany Frye](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
-- Lives \(or *lived*) in Germany \[2:04 - *I Am The Puppet*]
-- Was a resident of the town \(and was even a cop for a while) before everyone else died \[3:33 - *I Am The Puppet*]
-- They use a test to make sure if someone is “infected” or not, which is to know something about your childhood \[10:06 - *I Am The Puppet*]
-- Ghost uses many insults against them due to their charred appearance \[1:07 / 4:56 - *The Horror Continues*]
-- They have claimed Chakalata Soup as their father \[7:03 - *The Horror Continues*]
-- No one from their town knew what year it was, not even them \[18:19 - *The Horror Continues*]
+- Lives \(or *lived*) in Germany \[2:04 - *I Am The Puppet (Hell's Island Pt.1)*]
+- Was a resident of the town \(and was even a cop for a while) before everyone else died \[3:33 - *I Am The Puppet (Hell's Island Pt.1)*]
+- They use a test to make sure if someone is “infected” or not, which is to know something about your childhood \[10:06 - *I Am The Puppet (Hell's Island Pt.1)*]
+- Ghost uses many insults against them due to their charred appearance \[1:07 / 4:56 - *The Horror Continues (Hell's Island Pt.2)*]
+- They have claimed Chakalata Soup as their father \[7:03 - *The Horror Continues (Hell's Island Pt.2)*]
+- No one from their town knew what year it was, not even them \[18:19 - *The Horror Continues (Hell's Island Pt.2)*]
 - There is speculation that The Betrayer is a future version of Cardboard Friend due to some of the suspicious things that they say
-  - They have called Ghost “Gregory,” believing that that’s his name \[8:30 / 9:36 / 11:34 / 12:25 / 13:16 / 16:49 - *The Horror Continues*]
-  - They have said that Ghost “found another friend;” Ghost denies it and says that Toast has always been his friend; they say that that wasn’t always true - Ghost was so lonely as a child \[22:54 - *The Horror Continues*]
+  - They have called Ghost “Gregory,” believing that that’s his name \[8:30 / 9:36 / 11:34 / 12:25 / 13:16 / 16:49 - *The Horror Continues (Hell's Island Pt.2)*]
+  - They have said that Ghost “found another friend;” Ghost denies it and says that Toast has always been his friend; they say that that wasn’t always true - Ghost was so lonely as a child \[22:54 - *The Horror Continues (Hell's Island Pt.2)*]
 
 ### Mentioned Videos
-- [I Am The Puppet](https://youtu.be/NuONWZ-LDQ0)
-- [The Horror Continues](https://youtu.be/YSmqZ0T6Enk)
+- [I Am The Puppet (Hell's Island Pt.1)](https://youtu.be/NuONWZ-LDQ0) \(August 20, 2015)
+- [The Horror Continues (Hell's Island Pt.2)](https://youtu.be/YSmqZ0T6Enk) \(August 21, 2015)
 
 ----
 
@@ -80,7 +83,7 @@
   - Tommy believed he was an undercover spy \(because he was reading his lines for the show) and killed him \[11:54]
 
 ### Mentioned Videos
-- [Chica Visits Pizza Hut](https://youtu.be/VcBOrWgqyrY)
+- [Chica Visits Pizza Hut](https://youtu.be/VcBOrWgqyrY) \(May 7, 2016)
 
 ----
 
@@ -91,7 +94,7 @@
 - In the future, Bonbon went to \(and is failing) college \[11:36 - *Funny Baby Mod*]
 
 ### Mentioned Videos
-- [Funny Baby Mod](https://youtu.be/tfSHka5Kxwo)
+- [Funny Baby Mod](https://youtu.be/tfSHka5Kxwo) \(November 15, 2013)
 
 ----
 
@@ -103,8 +106,8 @@
 - The Almighty Boot was originally a Minion [14:13 - *Johnny Bot*]
 
 ### Mentioned Videos
-- [Johnny Bot](https://youtu.be/I_8FpxwKSNo)
-- [Minions Visit McDonald's](https://youtu.be/Yk0RNCWNQKY)
+- [Johnny Bot](https://youtu.be/I_8FpxwKSNo) \(December 14, 2018)
+- [Minions Visit McDonald's](https://youtu.be/Yk0RNCWNQKY) \(April 5, 2016)
 
 ----
 
@@ -114,7 +117,7 @@
 - Has a gigantic mole on their face that has a voice and is named Timothy; it moves around sometimes [11:41 - *Murder 14: Announcements, Celebrations*]
 
 ### Mentioned Videos
-- [Murder 14: Announcements, Celebrations](https://youtu.be/Tmn4m60nE5g)
+- [Murder 14: Announcements, Celebrations](https://youtu.be/Tmn4m60nE5g) \(July 18, 2014)
 
 ----
 
@@ -123,7 +126,7 @@
 - A [Level 25](4.World/Ghosts-Entities.md) entity that could destroy the entire world with a flick of its fingers or open a dimension to a black hole at any time 
 
 ### Mentioned Videos
-- [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U)
+- [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U) \(March 22, 2015)
 
 ----
 
@@ -135,8 +138,8 @@
   - He sacrificed himself to detonate the BananaCorp’s lair \[21:35 - *Kidnapped By BananaCorp*]
   
 ### Mentioned Videos
-- [Funny Oogie Boogie](https://youtu.be/3rEws9xky0s)
-- [Kidnapped By BananaCorp](https://youtu.be/wt_kHMmAnTQ)
+- [Funny Oogie Boogie](https://youtu.be/3rEws9xky0s) \(May 12, 2015)
+- [Kidnapped By BananaCorp](https://youtu.be/wt_kHMmAnTQ) \(April 2, 2019)
 
 ----
 
@@ -147,13 +150,16 @@
 - She lives in a green house in a culdesac with Bonbon \[10:11 - *Funny Baby Mod*]
 
 ### Mentioned Videos
-- [Funny Baby Mod](https://youtu.be/tfSHka5Kxwo)
+- [Funny Baby Mod](https://youtu.be/tfSHka5Kxwo) \(November 15, 2013)
 
 ----
 
 ## Clarence
-#### Origin: *Johnny Ghost Did A Bad Thing*
+#### Origin: *Johnny Ghost Did Something Bad*
 - Ghost knew someone named Clarence in middle school who would always kid around; Ghost told him that cheating at Hot Wheel racing would get him killed \[10:09]
+
+### Mentioned Videos
+- [Johnny Ghost Did Something Bad](https://youtu.be/e94uIredEVM) \(March 8, 2020)
 
 ----
 
@@ -173,10 +179,13 @@
 - Ghost is a big fan of Dipper's; Dipper was doing what Ghost does before he did - he was Ghost's inspiration; Ghost wrote an essay about the Mystery Shack in school \[2:32 / 6:20 / 7:09 - *Gravity Falls Dipper*]
 - Dipper found the well of eternal life by playing video games and not noticing time passing \[6:32 - *Gravity Falls Dipper*]
 - Dipper has a machine that can observe the aspects of sleep \[8:35 - *Gravity Falls Dipper*]
-- Dipper was cloned when the program crashed \[11:32 - *Gravity Falls Dipper*]
+  - It emits a Level 15 Dispersion Field, ripping a person'd molecules in half \[8:34 - *Gravity Falls Dipper 2*]
+- Dipper was cloned when the program crashed \[11:32 - *Gravity Falls Dipper* / 3:34 - *Gravity Falls Dipper 2*]
+  - His clones likes and eats cats \[5:53 / 7:58 - *Gravity Falls Dipper 2*]
 
 ### Mentioned Videos
-- [Gravity Falls Dipper](https://youtu.be/1_W8aGKltEI)
+- [Gravity Falls Dipper](https://youtu.be/1_W8aGKltEI) \(March 9, 2016)
+- [Gravity Falls Dipper 2](https://youtu.be/EZTGAhgv-zs) \(April 22, 2016)
 
 ----
 
@@ -191,7 +200,7 @@
   - Ghost calculated when the race of Reptilian aliens would arrive, but they came 12 years early \[10:49]
 
 ### Mentioned Videos
-- [Godzilla Ate My Lunch](https://youtu.be/CSXo2GfyvGU)
+- [Godzilla Ate My Lunch](https://youtu.be/CSXo2GfyvGU) \(March 26, 2016)
 
 ----
 
@@ -200,7 +209,7 @@
 - Donald Trump is one of the Lizard-aliens \(like Donald Donnie) [14:12 - *Godzilla Ate My Lunch*]
 
 ### Mentioned Videos
-- [Godzilla Ate My Lunch](https://youtu.be/CSXo2GfyvGU)
+- [Godzilla Ate My Lunch](https://youtu.be/CSXo2GfyvGU) \(March 26, 2016)
 
 ----
 
@@ -209,7 +218,7 @@
 - Ernie IS the Toilet Toucher, just a past version that was exiled to the 16th Dimension \[14:08 - *FNAF & Zootopia 2*]
 
 ### Mentioned Videos
-- [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og)
+- [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og) \(May 15, 2016)
 
 ----
 
@@ -223,17 +232,17 @@
   - He was shot in the mouth; due to the wound scarring over, he now sounds like Mickey Mouse \[2:46:08]
 
 ### Mentioned Videos
-- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(7th Anniversary Livestream)
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 
 ----
 
 ## Godzilla\(s)
 #### Origin: *Haunted By Godzilla*
 > Donald Donnie is on a separate section on this page
-- 
+- Is a [Woodswimmer ghost](4.World/Ghosts-Entities.md) \(which haven't been seen since the summer of 1999) \[8:14 - *Haunted By Godzilla*]
 
 ### Mentioned Videos
-- [Haunted By Godzilla](https://youtu.be/BehxBDbUJlI)
+- [Haunted By Godzilla](https://youtu.be/BehxBDbUJlI) \(November 29, 2015)
 
 ----
 
@@ -256,7 +265,7 @@
 - Is actually [Ghost](5.Characters/Johnny_Ghost.md)'s grandma
 
 ### Mentioned Videos
-- [Haunted By Grandma](https://youtu.be/yMRGseByyCU)
+- [Haunted By Grandma](https://youtu.be/yMRGseByyCU) \(September 7, 2018)
 
 ----
 
@@ -273,8 +282,8 @@
 - Says that "first \[his] parents left \[him], then \[his] grandparents" \[4:22 - *Cardboard Friend*]
 
 ### Mentioned Videos
-- [Cardboard Friend](https://youtu.be/gHrJoNfyna4)
-- [Prop Hunt 18: Ghost Hunt](https://youtu.be/2yVe4fe8lRw)
+- [Cardboard Friend](https://youtu.be/gHrJoNfyna4) \(September 15, 2013)
+- [Prop Hunt 18: Ghost Hunt](https://youtu.be/2yVe4fe8lRw) \(April 22, 2014)
 
 ----
 
@@ -296,7 +305,7 @@
 - You can buy a life-size mannequin of him for 4 payments of $29.99 \[1:09 - *Ghost Hunters Horror Map*]
 
 ### Mentioned Videos
-- [Ghost Hunters Horror Map](https://youtu.be/oA9jS2ArUk0)
+- [Ghost Hunters Horror Map](https://youtu.be/oA9jS2ArUk0) \(July 2, 2015)
 
 ----
 
@@ -313,10 +322,11 @@
 ## Jackson from Child Services
 #### Origin: *The Joker Babysits*
 #### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
-- Jackson from Child/Family Service pays a visit to investigate the house \(13:19 - He's actually Batman in disguise) [11:37 - *The Joker Babysits*]
+- Jackson from Child/Family Service pays a visit to investigate the house \(13:19 - He's actually Batman in disguise) [11:37]
+- May or may not have been taken over by [Jimmy Casket](5.Characters/Jimmy_Casket.md) \[16:30]
 
 ### Mentioned Videos
-- [The Joker Babysits](https://youtu.be/lCWMkMoA85Y)
+- [The Joker Babysits](https://youtu.be/lCWMkMoA85Y) \(August 29, 2014)
 
 ----
 
@@ -344,7 +354,7 @@
 - John is a "gravebender" \[11:06]
 
 ### Mentioned Videos
-- [Funny Oogie Boogie](https://youtu.be/3rEws9xky0s)
+- [Funny Oogie Boogie](https://youtu.be/3rEws9xky0s) \(May 12, 2015)
 
 ----
 
@@ -377,7 +387,7 @@
 - He works at Wendy's [1:29 - *Does Acachalla Like Wendy's?*]
 
 ### Mentioned Videos
-- [Does Acachalla Like Wendy's?](https://youtu.be/K2-86Dc81Ec)
+- [Does Acachalla Like Wendy's?](https://youtu.be/K2-86Dc81Ec) \(December 5, 2019)
 
 ----
 
@@ -414,6 +424,11 @@
 ## Mama Ghost \(Johnny Ghost's Mother)
 #### Origin: **
 - His mother once told him "damage done at a distance is damage done indeed;" Ghost is unsure what she meant \[4:25 - *Johnny Ghost Meets Freddy the Dinosaur*]
+- Ghost once thought she was dead, but was mistaken \[10:31 - *Tom and Jerry!*]
+
+### Mentioned Videos
+- [Johnny Ghost Meets Freddy the Dinosaur](https://youtu.be/cNcfpGXRgYM) \(March 14, 2020)
+- [Tom and Jerry!](https://youtu.be/smvQjZ0wlg8) \(August 16, 2015)
 
 ----
 
@@ -424,7 +439,7 @@
 - Joined the PIE Team on their investigation \[0:22]
 
 ### Mentioned Videos
-- [Paranormal Ghost Hunt](https://youtu.be/VEq4ggHacoU)
+- [Paranormal Ghost Hunting](https://youtu.be/VEq4ggHacoU) \(June 7, 2014)
 
 ----
 
@@ -434,7 +449,7 @@
 - Ghost claims he's "like 7 and a half foot tall" [1:04 - *Funny Olaf*]
 
 ### Mentioned Videos
-- [Funny Olaf](https://youtu.be/_onnlghtxTQ)
+- [Funny Olaf](https://youtu.be/_onnlghtxTQ) \(July 22, 2015)
 
 ----
 
@@ -452,7 +467,7 @@
 - Another possibility of being Ghost's father [4:25 - *Godzilla Ate My Lunch*]
 
 ### Mentioned Videos
-- [Godzilla Ate My Lunch](https://youtu.be/CSXo2GfyvGU)
+- [Godzilla Ate My Lunch](https://youtu.be/CSXo2GfyvGU) \(March 26, 2016)
 
 ----
 
@@ -464,10 +479,10 @@
 - There weren't a lot of royal beheadings in the palace, mostly just throwing people down a well \[4:39 - *Hell's Resort*]
 
 ### Mentioned Videos
-- [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g)
-- [Hell’s Resort](https://youtu.be/mqVWhWEK2AQ)
-- [OMG Cute Cats](https://youtu.be/Rf-fAoo64Lc)
-- [President Visits McDonald’s](https://youtu.be/SuFQcxceQJI)
+- [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g) \(May 3, 2016)
+- [Hell’s Resort](https://youtu.be/mqVWhWEK2AQ) \(November 6, 2015)
+- [OMG Cute Cats](https://youtu.be/Rf-fAoo64Lc) \(December 12, 2015)
+- [President Visits McDonald’s](https://youtu.be/SuFQcxceQJI) \(December 25, 2014)
 
 ----
 
@@ -488,7 +503,7 @@
 - It can communicate with Ghost telepathically \[11:06 - *Rat Man of Washington*]
 
 ### Mentioned Videos
-- [Rat Man of Washington](https://youtu.be/DYH4xQ-U0gE)
+- [Rat Man of Washington](https://youtu.be/DYH4xQ-U0gE) \(November 2, 2016)
 
 ----
 
@@ -501,7 +516,7 @@
 - She gets out of that dimension by riding a raft \[12:28]
 
 ### Mentioned Videos
-- [Big Dragon Mod](https://youtu.be/nkWX5eoDSEk)
+- [Big Dragon Mod](https://youtu.be/nkWX5eoDSEk) \(August 8, 2015)
 
 ----
 
@@ -510,7 +525,7 @@
 - Sonic.exe is a Level 5 noob ghost that was only recently evolved into a Level 5, which is a physical entity \(unlike a Level 4) [7:55 - *Haunted By Sonic*]
 
 ### Mentioned Videos
-- [Haunted By Sonic](https://youtu.be/VHp98-xtHlw)
+- [Haunted By Sonic](https://youtu.be/VHp98-xtHlw) \(August 15, 2014)
 
 ----
 
@@ -523,24 +538,24 @@
 - Was killed by Golden Freddy \[16:42]
 
 ### Mentioned Videos
-- [Haunted By FNAF](https://youtu.be/ntiwledOpi0)
+- [Haunted By FNAF](https://youtu.be/ntiwledOpi0) \(June 24, 2015)
 
 ----
 
 ## Tommy/Timothy Casket
 #### Origin: \(Named) *Haunted By Cardboard Friend* / \(Physical) *Chica Visits Pizza Hut*
 #### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
-- Ghost has claimed him as his father \[12:11 - *Haunted By Cardboard Friend*]
+- Ghost has claimed him as his *real* father \[12:11 - *Haunted By Cardboard Friend*]
   - Toast knows this, calling "Casket" his family name \[18:33]
-  - Died before Ghost was born; he lived alone with his mother off of his father's wealth, which put him through school \[17:50]
-- He is a male model \[1:31 / 2:18 - *Chica Visits Pizza Hut*]
-- He goes by “Officer Tommy” on the job, acting as a cop \[2:02 - *Chica Visits Pizza Hut*]
-- He is/was on a TV show, but didn’t believe that he was / rejected it \[5:12 / 8:42 / 11:39 / 13:39 - *Chica Visits Pizza Hut*]
-- He is from Brooklyn \[9:48 - *Chica Visits Pizza Hut*]
+  - Tommy died before Ghost was born; he lived alone with his mother off of his father's wealth, which put him through school \[17:50]
+- He was a male model \[1:31 / 2:18 - *Chica Visits Pizza Hut*]
+- He went by “Officer Tommy” on the job, acting as a cop \[2:02 - *Chica Visits Pizza Hut*]
+- He was on a TV show, but didn’t believe that he was / rejected it \[5:12 / 8:42 / 11:39 / 13:39 - *Chica Visits Pizza Hut*]
+- He was from Brooklyn \[9:48 - *Chica Visits Pizza Hut*]
 
 ### Mentioned Videos
-- [Chica Visits Pizza Hut](https://youtu.be/VcBOrWgqyrY)
-- [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ)
+- [Chica Visits Pizza Hut](https://youtu.be/VcBOrWgqyrY) \(May 7, 2016)
+- [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ) \(July 10, 2014)
 
 ----
 
@@ -562,7 +577,7 @@
 - According to him, Minions are "alien terrorists from another dimension" \[5:38 - *Minions Visit McDonald's*]
 
 ### Mentioned Videos
-- [Minions Visit McDonald’s](https://youtu.be/Yk0RNCWNQKY)
+- [Minions Visit McDonald’s](https://youtu.be/Yk0RNCWNQKY) \(April 5, 2016)
 
 ----
 

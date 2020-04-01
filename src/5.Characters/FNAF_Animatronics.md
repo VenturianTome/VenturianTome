@@ -71,10 +71,10 @@
 ----
 
 ## | Mentioned Videos
-- [Funny Balloon Boy](https://youtu.be/EnoiRkmE1y8)
-- [Playable Animatronics 2](https://youtu.be/_tv07JJ0HE8)
-- [Playable Animatronics 10](https://youtu.be/2qdDjiasqEc)
-- [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U)
+- [Funny Balloon Boy](https://youtu.be/EnoiRkmE1y8) \(December 28, 2014)
+- [Playable Animatronics 2](https://youtu.be/_tv07JJ0HE8) \(February 5, 2015)
+- [Playable Animatronics 10](https://youtu.be/2qdDjiasqEc) \(January 21, 2017)
+- [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U) \(March 22, 2015)
 
 ----
 

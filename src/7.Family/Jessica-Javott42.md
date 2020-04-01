@@ -65,14 +65,14 @@
 
 ## Mentioned Videos
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
-- [I Got Married](https://youtu.be/mDasjRwGf2k)
-- [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY)
-- [Playing Gmod With My Wife](https://youtu.be/E7IVRnqu_wc)
-- [Portal 2 Co-OP #1 (J&J)](https://youtu.be/6GE1-ReTdtU)
-- [Portal 2 Co-OP #4 (J&J)](https://youtu.be/ohAhMp0tO00)
-- [Q&A With My Wife](https://youtu.be/fcWrt_7xM3w)
+- [I Got Married](https://youtu.be/mDasjRwGf2k) \(November 1, 2019)
+- [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY) \(Decemeber 19, 2019)
+- [Playing Gmod With My Wife](https://youtu.be/E7IVRnqu_wc) \(December 15, 2019)
+- [Portal 2 Co-OP #1 (J&J)](https://youtu.be/6GE1-ReTdtU) \(August 14, 2017)
+- [Portal 2 Co-OP #4 (J&J)](https://youtu.be/ohAhMp0tO00) \(August 21, 2017)
+- [Q&A With My Wife](https://youtu.be/fcWrt_7xM3w) \(November 17, 2019)
 - [Scary Prison Horror Map](https://youtu.be/SGb7hPi-eO4) \(January 4, 2020)
-- [what's happening](https://youtu.be/8wn34LSj_Iw)
+- [what's happening](https://youtu.be/8wn34LSj_Iw) \(October 22, 2019)
 
 ----
 > **NOTE:** Is something missing or wrong? Make sure to check the rest of the site to make sure it’s truly not here! If it’s still missing or you want it to be corrected, contact the admin [here](../chapter_2.md)!

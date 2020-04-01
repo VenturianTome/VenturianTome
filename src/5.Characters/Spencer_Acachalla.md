@@ -36,9 +36,9 @@
 ----
 
 ## | Mentioned Videos
-- [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk)
-- [Haunted School](https://youtu.be/cV31R3z-P7M)
-- [Where Did the Acachalla Family Go?](https://youtu.be/rXysj4tKZmU)
+- [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk) \(November 28, 2019)
+- [Haunted School](https://youtu.be/cV31R3z-P7M) \(November 7, 2016)
+- [Where Did the Acachalla Family Go?](https://youtu.be/rXysj4tKZmU) \(October 15, 2019)
 
 ----
 

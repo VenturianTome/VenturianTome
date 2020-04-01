@@ -22,10 +22,10 @@
 ----
 
 ## | Mentioned Videos
-- [Motorcycle Mod](https://youtu.be/gNREBUzmn98)
-- [Murder 11: Olaf](https://youtu.be/g2tvu5gFGhI)
-- [Playable Animatronics 13](https://youtu.be/BDXvE6cAUkA)
-- [Working At McDonald’s](https://youtu.be/ybS5js68e2E)
+- [Motorcycle Mod](https://youtu.be/gNREBUzmn98) \(June 4, 2013)
+- [Murder 11: Olaf](https://youtu.be/g2tvu5gFGhI) \(May 3, 2014)
+- [Playable Animatronics 13](https://youtu.be/BDXvE6cAUkA) \(February 1, 2018)
+- [Working At McDonald’s](https://youtu.be/ybS5js68e2E) \(September 11, 2015)
 
 ----
 

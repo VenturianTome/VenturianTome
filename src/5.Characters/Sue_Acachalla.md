@@ -16,11 +16,7 @@
 ----
 
 ## | Relationships
-- [**Gertrude Acachalla**](5.Characters/Gertrude_Acachalla.md)
-  - 
-
-- [**Papa Acachalla**](5.Characters/Papa_Acachalla.md)
-  - 
+- 
 
 ----
 
@@ -38,7 +34,7 @@
 ----
 
 ## | Mentioned Videos
-- [Playable Animatronics 8](https://www.youtube.com/watch?v=KByoXkGBzWo)
+- [Playable Animatronics 8](https://www.youtube.com/watch?v=KByoXkGBzWo) \(December 23, 2015)
 
 ----
 

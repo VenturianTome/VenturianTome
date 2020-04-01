@@ -50,12 +50,12 @@
 ----
 
 ## | Mentioned Videos
-- [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk)
-- [Cops & Robbers: Toilet Toucher 2](https://youtu.be/UqhzSvza9dc)
-- [Dating Slenderman](https://youtu.be/iKCA4r6euXM)
-- [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og)
-- [Super-Powered Baby Mod](https://youtu.be/jWXZO7cAe3o)
-- [VenturianTale Scripted](https://youtu.be/iD4Mw3rx4wc)
+- [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk) \(November 28, 2019)
+- [Cops & Robbers: Toilet Toucher 2](https://youtu.be/UqhzSvza9dc) \(May 5, 2016)
+- [Dating Slenderman](https://youtu.be/iKCA4r6euXM) \(May 12, 2016)
+- [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og) \(May 15, 2016)
+- [Super-Powered Baby Mod](https://youtu.be/jWXZO7cAe3o) \(May 11, 2014)
+- [VenturianTale Scripted](https://youtu.be/iD4Mw3rx4wc) \(July 12, 2014)
 
 ----
 

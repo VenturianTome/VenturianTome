@@ -37,9 +37,9 @@
 ----
 
 ## | Mentioned Videos
-- [Murder 3: Jimmy Casket](https://youtu.be/ijGTXelXjx4)
-- [Murder 5: Doctor Who](https://youtu.be/DpcpwXKf4NQ)
-- [Murder 11: Olaf](https://youtu.be/g2tvu5gFGhI)
+- [Murder 3: Jimmy Casket](https://youtu.be/ijGTXelXjx4) \(January 18, 2014)
+- [Murder 5: Doctor Who](https://youtu.be/DpcpwXKf4NQ) \(February 2, 2014)
+- [Murder 11: Olaf](https://youtu.be/g2tvu5gFGhI) \(May 3, 2014)
 
 ----
 

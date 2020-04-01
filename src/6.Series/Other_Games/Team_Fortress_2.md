@@ -16,7 +16,7 @@
  
 ## | Mentioned Videos
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
-- [TF2: Legend of Zelda](https://youtu.be/nhUuVIC4OVU)
+- [TF2: Legend of Zelda](https://youtu.be/nhUuVIC4OVU) \(January 31, 2013)
  
 ----
  

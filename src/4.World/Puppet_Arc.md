@@ -18,25 +18,25 @@
 ----
 
 ## | Into in the Cosmos
-### *Haunted By FNAF*
+### [*Haunted By FNAF*](https://youtu.be/ntiwledOpi0)
 - Ghost and Toast meet Swift Taylor when trying to film a documentary for the History Channel \[1:32 / 5:05]
 - Ghost dies and respawns as the Puppet \[12:02]
-- Ghost turns off his gravity and floats off into space, saying he "can go to \[his] people now" / the big balloon castle in the sky \[14:41]
+  - He turns off his gravity and floats off into space, saying he "can go to \[his] people now" / the big balloon castle in the sky \[14:41]
 - Ghost gives Toast one last farewell before disappearing \[15:43]
   > "Goodbye Johnny... forever."
-- Toast runs away crying and says that he's going to his mama \[16:16]
+- Toast runs away crying, saying that he's going to his mama \[16:16]
 
 ----
 
 ## | In The Real World... Kinda
-### *Ghost Hunters Horror Map*
+### [*Ghost Hunters Horror Map*](https://youtu.be/oA9jS2ArUk0)
 - Toast uses Higgly Diggly Hoogan as a substitute parnter in place of Ghost
 - *
 
 ----
 
 ## | An Incomprehensible McDonald's
-### *Pokemon Haunter*
+### [*Pokemon Haunter*](https://youtu.be/FRtza_a-3Ks)
 - The first dimension Ghost ended up in was the [52nd Dimension](../4.World/Dimensions-Realms.md), which only contains a McDonald’s run by a Haunter \[0:19 / 7:42]
 - Ghost can't understand the Haunter \(who is talking in English) and interprets it as some form of Latin mixed with South American
 - The Haunter is named John \[2:43]
@@ -47,18 +47,18 @@
 ----
 
 ## | Stuck in Crazytown \(AKA a Motel)
-### *Funny Olaf*
-- This is the 2nd cosmic dimension Ghost has been sent to; it's a 1950's-era America, possibly in South Carolina \[2:30]
+### [*Funny Olaf*](https://youtu.be/_onnlghtxTQ)
+- This is the 2nd cosmic dimension Ghost has been sent to; it's in 1950's-era America, possibly in South Carolina \[2:30]
 - Ghost can't understand what the Olaf or the man are saying until later \[2:54 / 8:22]
   - He believes that there's a meaning to the man throwing his furniture out
 - Ghost called Earth "currently destroyed"
 - Ghost believes himself to have moved dimensions onto an alien planet \[8:06]
-- Ghost finds out that he's in the Realm of Motels \(which is different from the Realm of Hotels) \[8:41]
+  - He finds out that he's in the [Realm of Motels](4.World/Dimensions-Realms.md) \(which is different from the Realm of Hotels) \[8:41]
 
 ----
 
 ## | Zombies, The Housekeeper, & Going Crazy
-### *Johnny Ghost VS Zombies*
+### [*Johnny Ghost VS Zombies*](https://youtu.be/ZZi4QOcKkno)
 - Ghost arrives in a desert, which he believes to be in Nevada or California \[0:18]
 - Ghost is "going a little bit crazy" because Toast isn't with him
   - He breaks and Casket kills Spooker
@@ -77,7 +77,7 @@
 ----
 
 ## | The Big Dragon
-### *Big Dragon Mod*
+### [*Big Dragon Mod*](https://youtu.be/nkWX5eoDSEk)
 - Ghost has now been in 3 dimensions and another portal dimension \[0:30 / 8:18]
 - The people on this island don't know much about dimensions \[1:16]
 - Ghost is very touvhy about being stuck in multiple dimensions, bordering on Casket multiple times \[1:55 / 2:35 / 4:23 / 10:02 / 11:41 / 11:55]
@@ -91,11 +91,11 @@
 ----
 
 ## | Tom & Jerry
-### *Tom and Jerry!*
+### [*Tom and Jerry!*](https://youtu.be/smvQjZ0wlg8)
 - Ghost wakes up on the floor next to a hospital bed \[1:09]
 - Toast shows up; Ghost wants to make sure he's the real Johnny Toast \[1:30]
   - Ghost confides all of the things that he's gone through with Toast; Toast tries to calm him down and offers him a hug \[1:52]
-- Tom the cat is the doctor at the hospital \[1:49]
+- Tom the cat is the doctor at the hospital; Jerry is the nurse \[1:49]
 - Ghost wonders if he's dead or still inside a dream \(or on the set of The Walking Dead) \[2:41 / 4:03]
 - Ghost had been in the hospital for 2 months \[2:54 / 8:51 / ]
   - Toast paid the electric bills but forgot to feed Ghost's fish, Poltergeist \[3:02 / 3:11 / 3:44]
@@ -112,7 +112,7 @@
 ----
 
 ## | Home At Last... Almost
-### *I Am The Puppet \(Hell's Island Pt.1)*
+### [*I Am The Puppet \(Hell's Island Pt.1)*](https://youtu.be/NuONWZ-LDQ0)
 - Ghost is reunited with Toast \[0:42]
   - He got back to Earth by falling out of the sky; Toast was following him and found him \[1:56]
 - They're in a town in Germany \[2:04]
@@ -129,7 +129,7 @@
 ----
 
 ## | Finally Human Again
-### *The Horror Continues \(Hell's Island Pt.2)*
+### [*The Horror Continues \(Hell's Island Pt.2)*](https://youtu.be/YSmqZ0T6Enk)
 - Toast put peanut butter in Ghost's hair, which made him human again \[0:43]
 - The lady now looks like a corpse, to which Ghost makes up many insults \[1:07 / 4:56]
 - Toast says that he didn't do much while Ghost was in the cosmos \[3:11]
@@ -148,7 +148,7 @@
 ----
 
 ## The Aftermath - The Journal
-### *Gravity Falls Dipper*
+### [*Gravity Falls Dipper*](https://youtu.be/1_W8aGKltEI)
 - Toast isn't with Ghost because he's skiing in the French/Swiss Alps \[0:45]
 - Ghost is a big fan of Dipper's because he was his inspiration \[2:32 / 6:20 / 7:09]
 - Ghost has a dilemma; while he was in the dream-world, his body in the real world was still moving around and doing things \[4:05]
@@ -168,7 +168,7 @@
 ----
 
 ## The Aftermath - Revisiting
-### *Gravity Falls Dipper 2*
+### [*Gravity Falls Dipper 2*](https://youtu.be/EZTGAhgv-zs)
 - Toast joins Ghost to revist the Mystery Shack \[0:25]
 - Ghost brings up the journal written by Jimmy Casket; he says he doesn't know who that is \[0:29]
 - After the machine was activated, Ghost blacked out for 3 days and woke up in a hospital \[0:42 / 9:59]

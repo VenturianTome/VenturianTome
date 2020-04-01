@@ -12,8 +12,8 @@
 ----
 
 ## | Relationships
-- [** **]()
-  - 
+- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
+  - Ghost has expressed that he doesn't want to fight Darth Calculus \[* - *Johnny Ghost Did Something Bad*]
 
 ----
 
@@ -28,7 +28,7 @@
 ----
 
 ## | Mentioned Videos
-- []()
+- [Johnny Ghost Did Something Bad](https://youtu.be/e94uIredEVM) \(March 8, 2020)
 
 ----
 

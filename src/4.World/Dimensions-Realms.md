@@ -29,7 +29,7 @@
 
 ----
 
-## | Other Dimensions  
+## | Other Dimensions/Realms
 #### **Baraslavia**
 - Only shown in *Baraslavian Prison*
 - An alternate dimension U.S.A. \[6:59 / 12:49]
@@ -56,6 +56,12 @@
 - Colon sees the dimension as a video game and wonders if pain is still a thing in this dimension \[13:45]
 #### **Mordor**
 - Where Spooker sends Ghosts instead of the 13th Dimension [8:42 / 14:21 - *Scary Ghost Children*]
+#### **Realm of Motels**
+- Only shown in *Funny Olaf*
+- In 1950's-era America, possibly in South Carolina \[2:30]
+- Inhabited by Olaf and a man \[2:54 / 8:22]
+  - The man is throwing his furniture out
+- Different from the Realm of Hotels) \[8:41]
 
 ----
 
@@ -73,6 +79,7 @@
 - [Big Dragon Mod](https://youtu.be/nkWX5eoDSEk) \(August 8, 2015)
 - [Dating Slenderman](https://youtu.be/iKCA4r6euXM) \(May 12, 2016)
 - [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og) \(May 15, 2016)
+- [Funny Olaf](https://youtu.be/_onnlghtxTQ) \(July 22, 2015)
 - [Johnny Bot](https://youtu.be/I_8FpxwKSNo) \(December 14, 2018)
 - [Johnny Bot Left Behind](https://youtu.be/B8utDaG1fsE) \(December 15, 2018)
 - [Johnny Ghost vs Zombies](https://youtu.be/ZZi4QOcKkno) \(July 30, 2015)

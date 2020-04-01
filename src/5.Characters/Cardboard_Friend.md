@@ -17,8 +17,8 @@
 ## | Relationships
 - [**The Betrayer**](5.Characters/One-Use_Uncommon.md)
   - There is *speculation* that The Betrayer is a future version of Cardboard Friend due to some of the suspicious things that they say in both *Hell’s Island Pt.1* and *Hell’s Island Pt.2*
-   - The Betrayer says that they and Ghost were friends, but Ghost denies it \[12:25 - *The Horror Continues*]
-   - The Betrayer claims Ghost "found another friend," to which Ghost says that Toast has always been his friend; The Betrayer says that that wasn't always true and that Ghost was so lonely as a child \[22:54 - *The Horror Continues*]
+   - The Betrayer says that they and Ghost were friends, but Ghost denies it \[12:25 - *The Horror Continues (Hell's Island Pt.2)*]
+   - The Betrayer claims Ghost "found another friend," to which Ghost says that Toast has always been his friend; The Betrayer says that that wasn't always true and that Ghost was so lonely as a child \[22:54 - *The Horror Continues (Hell's Island Pt.2)*]
 
 - [**Gregory Casket**](5.Characters/Gregory_Casket.md)
   - The first time we saw Cardboard Friend was when he was haunting the house of young Gregory, playing as his friend and eventually scaring him
@@ -35,7 +35,7 @@
 ----
 
 ## | Biography
-- Cardboard Friend’s whereabouts are currently unknown, but Jordan has expressed that there is more to know about the backstory of Cardboard Friend and the characters it connects to \[ - *5th Anniversary Livestream*]
+- Cardboard Friend’s whereabouts are currently unknown, but Jordan has expressed that there is more to know about the backstory of Cardboard Friend and the characters it connects to \[* - *5th Anniversary Livestream*]
 
 ----
 
@@ -48,12 +48,11 @@
 ----
 
 ## | Mentioned Videos
-- [5th Anniversary Live Stream](https://youtu.be/6AHnicY1Iq4)
-- [Cardboard Friend](https://youtu.be/gHrJoNfyna4)
-- [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ)
-- [The Horror Continues](https://youtu.be/YSmqZ0T6Enk)
-- [I Am The Puppet](https://youtu.be/NuONWZ-LDQ0)
-- [Prop Hunt 18: Ghost Hunt](https://youtu.be/2yVe4fe8lRw)
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
+- [Cardboard Friend](https://youtu.be/gHrJoNfyna4) \(September 15, 2013)
+- [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ) \(July 10, 2014)
+- [The Horror Continues (Hell's Island Pt.2)](https://youtu.be/YSmqZ0T6Enk) \(August 21, 2015)
+- [Prop Hunt 18: Ghost Hunt](https://youtu.be/2yVe4fe8lRw) \(April 22, 2014)
 
 ----
 
