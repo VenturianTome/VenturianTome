@@ -19,31 +19,31 @@
 - [**Bert Niceguy**](5.Characters/One-Use_Uncommon.md)
   - Bert Niceguy says the Toilet Toucher looks like his uncle \[14:27 - *VenturianTale Scripted*]
 
-- [**Billy Acachalla**](5.Characters/Billy_Acachalla.md)
-  - 
-
 - [**Ernie Ghost**](5.Characters/One-Use_Uncommon.md)
   - Ernie IS the Toilet Toucher, just a past version that was exiled to the 16th Dimension \[14:08 - *FNAF & Zootopia 2*]
+
+- [**Papa Acachalla**](5.Characters/One-Use_Uncommon.md)
+  - Papa doesn't know who the Toilet Toucher is \[4:43 - *Acachalla's Thanksgiving (2019)*]
 
 ----
 
 ## | Biography
 - Being a Ghost
-  - He is a level 7.6894503.01 \[6:59 - *VenturianTale Scripted*]
   - He is the most feared ghost in history and is responsible for black holes \[4:19 - *Super-Powered Baby Mod*]
   - Toilet Touchers are actually a race of “the most legendary beings of the universe” / “the most ancient beings in the universe” who have created and destroyed entire planets \[5:00 / 6:32 - *Super-Powered Baby Mod*]
+  - He is a level 7.6894503.01 \[6:59 - *VenturianTale Scripted*]
 - Predicted Death
   - Billy believes he will die by getting shot by Papa on Thanksgiving as the Toilet Toucher [4:25 - *Acachalla's Thanksgiving (2019)*]
 
 ----
 
 ## | Other Trivia
+- His Ultimate Form is a floating Doge \[10:43 - *Super-Powered Baby Mod*]
 - He sucks at soccer \[5:35 - *Cops & Robbers: Toilet Toucher 2*]
 - When a Toilet Toucher touches a toilet too big for their butt it sets off a nuke \[11:15 - *Cops & Robbers: Toilet Toucher 2*]
   > "That's canon. I expect that to be on the wiki. Get to work" -Jordan
 - The DSB on the Toilet Toucher's shirt stands for "danger smells bad," which was told to him by his mother, who he disobeyed \[4:01 - *Dating Slenderman*]
 - Toilet Toucher has a button on his back labelled "press here to ascend" \[4:49 - *Dating Slenderman*]
-- His Ultimate Form is a floating Doge \[10:43 - *Super-Powered Baby Mod*]
 - The Toilet Toucher likes cheese & whiskey [3:52 - *Acachalla's Thanksgiving (2019)*]
 - Papa doesn't know who the Toilet Toucher is [4:43 - *Acachalla's Thanksgiving (2019)*]
 

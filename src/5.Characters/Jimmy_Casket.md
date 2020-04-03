@@ -19,13 +19,15 @@
   - Casket says his secret is that his name is Gregory \[13:54 - *Murder 11: Olaf*]
 
 - [**The Housekeeper**](5.Characters/Housekeeper.md)
-  - He believes that he was locked into the dimension with the Housekeeper as the Housekeeper’s punishment \[14:25 - *Johnny Ghost vs Zombies*]
+  - He believes that he was locked into the dimension with the Housekeeper as the Housekeeper’s punishment during the [Puppet Arc](4.World/Puppet_Arc.md) \[14:25 - *Johnny Ghost vs Zombies*]
 
 - [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
   - Ghost refers to him as a "demon," denying any relation to him
    - He says that it's just entities trying to use his memories against him \[17:50 - *Haunted By Cardboard Friend*]
-- Ghost uses him to get answers \(“There’s only one way I know how to get answers”) \[17:54 - *Kidnapped By BananaCorp*]
-   - He doesn’t react to getting shot due to high health \(“Shoot me! See what happens!”) \[18:00 - *Kidnapped By BananaCorp*]
+- Ghost uses him to get answers \[17:54 - *Kidnapped By BananaCorp*]
+  > “There’s only one way I know how to get answers”
+   - He doesn’t react to getting shot due to high health \[18:00 - *Kidnapped By BananaCorp*]
+   > “Shoot me! See what happens!”
 
 - [**Johnny Toast**](5.Characters/Johnny_Toast.md)
   - Toast is what quells Ghost’s episodes and keeps him grounded \[1:24 / 15:31 - *Johnny Ghost vs Zombies*]
@@ -37,11 +39,11 @@
   - Casket has pretended to be Princeton Quagmire and managed to shoot someone \[11:57 - *Murder 11: Olaf*]
 
 - [**The Rat Man of Washington**](5.Characters/One-Use_Uncommon.md)
-  - He killed the Rat Man \[11:27 - *Rat Man of Washington*]
+  - Casket killed the Rat Man \[11:27 - *Rat Man of Washington*]
     - When Ghost comes back, he has no idea what just happened
     - Ghost says there's no evidence of the Rat Man ever existing and that "the reports are all faulty" \[12:06]
 
-- [**Timothy / Tommy Casket**]()
+- [**Timothy/Tommy Casket**](5.Characters/One-Use_Uncommon.md)
   - He keeps his father’s golden watch on his person \[14:45 - *Johnny Ghost vs Zombies*]
 
 ----
@@ -52,22 +54,22 @@
 ----
 
 ## | His Secrets
-- Casket claims that his secret is that his mother was a man & that he can't read [5:46 / 20:15 - *Murder 3: Jimmy Casket*]
-- Casket says his secret is that his name is Gregory [13:54 - *Murder 11: Olaf*]
+- His mother was a man & that he can't read [5:46 / 20:15 - *Murder 3: Jimmy Casket*]
+- His name is Gregory [13:54 - *Murder 11: Olaf*]
 
 ----
 
 ## | Other Trivia
-- Jimmy Casket even creeps Jordan out \[16:21 - *Scary Underground*]
-- Casket has a realm of flames \[6:51 - *Johnny Bot*]
-- Casket uses people's flesh as a stress toy \[2:23 - *Murder 3: Jimmy Casket*]
+- He uses people's flesh as a stress toy \[2:23 - *Murder 3: Jimmy Casket*]
 - He calls himself the "The World's Most Renowned Murderer" \[5:27 - *Murder 3: Jimmy Casket*]
-- Casket can smell when someone's the murderer because of the blood of innocent people \[17:30 - *Murder 3: Jimmy Casket*]
-- Casket plays tic-tac-toe on the side of dead bodies \[18:08 - *Murder 3: Jimmy Casket*]
-- Casket pays his taxes and mows the lawn \[17:19 - *Murder 4: Majora's Mask*]
-- Casket has a fear of macaroni; he has dreams where it comes and \(ironically) eats him \[17:32 / 19:05 - *Murder 4: Majora's Mask*]
-- Casket can come through walls \[13:48 - *Creepypasta College*]
-- Casket can't tell the difference between Slender and Jeff \[14:00 - *Creepypasta College*]
+- He can smell when someone's a murderer because of the blood of innocent people \[17:30 - *Murder 3: Jimmy Casket*]
+- He plays tic-tac-toe on the side of dead bodies \[18:08 - *Murder 3: Jimmy Casket*]
+- He even creeps Jordan out \[16:21 - *Scary Underground*]
+- He pays his taxes and mows the lawn \[17:19 - *Murder 4: Majora's Mask*]
+- He has a fear of macaroni; he has dreams where it comes and \(ironically) eats him \[17:32 / 19:05 - *Murder 4: Majora's Mask*]
+- He can come through walls \[13:48 - *Creepypasta College*]
+- He can't tell the difference between Slender and Jeff \[14:00 - *Creepypasta College*]
+- He has a realm of flames \[6:51 - *Johnny Bot*]
 - His first murder was a "triple swirl homicide" \[39:28 - *7th Anniversary Livestream*]
 - He was dressed like a half-naked Joker in the *7th Anniversary Livestream* \[2:09:04]
 

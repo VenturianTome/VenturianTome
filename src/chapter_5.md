@@ -26,7 +26,7 @@
 - [Dummy](5.Characters/Dummy.md)
 
 ## **F**
-- [Farkas](5.Characters/Farkas.md)
+- [Fakes / Dopplegangers](5.Characters/Fakes-Dopplegangers.md)
 - [FNAF Animatronics](5.Characters/FNAF_Animatronics.md)
   - Balloon Boy
   - The Cupcake
@@ -40,22 +40,18 @@
 
 ## **G**
 - [Gertrude Acachalla](5.Characters/Gertrude_Acachalla.md)
-- [Gregory Casket](5.Characters/Gregory_Casket.md)
 
 ## **H**
-- [Higgly-Diggly Hoogan](5.Characters/Higgly-Diggly_Hoogan.md)
 - [The Housekeeper](5.Characters/Housekeeper.md)
 
 ## **J**
 - [Jimmy Casket](5.Characters/Jimmy_Casket.md)
 - [Johnny Ghost](5.Characters/Johnny_Ghost.md)
 - [Johnny Toast](5.Characters/Johnny_Toast.md)
-- [Jose Jose Jose Jose](5.Characters/Jose_Jose_Jose_Jose.md)
 - [Josh](5.Characters/Josh.md)
 
 ## **L**
 - [Light Zeron](5.Characters/Light_Zeron.md)
-- [Lydia](5.Characters/Lydia.md)
 
 ## **M**
 - [Maddie Friend](5.Characters/Maddie_Friend.md)
@@ -126,7 +122,6 @@
   - Jumper / Spot
   - Quasar the Dog
   - Toast's "Hamster"
-- [Poet](5.Characters/Poet.md)
 - [Pokémon](5.Characters/Pokemon.md)
   - Charmander
   - Eevee
@@ -152,12 +147,9 @@
   - Rivatha
   - Sonia
   - Woodrow
-- [The Queen of England / Toast’s Grandmother](5.Characters/Queen_of_England.md)
 
 ## **S**
 - [Sally Acachalla](5.Characters/Sally_Acachalla.md)
-- [Sally Betty Jessica](5.Characters/Sally_Betty_Jessica.md)
-- [Sari](5.Characters/Sari.md)
 - [Spencer Acachalla](5.Characters/Spencer_Acachalla.md)
 - [Stardust Sprinkleshine](5.Characters/Stardust/Sprinkleshine.md)
 - [Sue Acachalla the Suckish Officer](5.Characters/Sue_Acachalla.md)
@@ -167,14 +159,10 @@
   - Superman
 
 ## **T**
-- [Timebomb](5.Characters/Timebomb.md)
 - [Toilet Toucher](5.Characters/Toilet_Toucher.md)
 
 ## **V**
 - [Vahl Aradur](5.Characters/Vahl_Aradur.md)
-
-## **W**
-- [William Barricade](5.Characters/William_Barricade.md)
 
 ----
 

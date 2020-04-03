@@ -12,13 +12,13 @@
 ## | Total Score
 - Bystanders: 9
 - Murderer: 11
-  - Murder 3: Jimmy Casket
+  - *Murder 3: Jimmy Casket*
     - B: *
     - M: *
-  - Murder 14: Annoucements, Celebrations
+  - *Murder 14: Annoucements, Celebrations*
     - B: 5
     - M: 3
-  - Murder 17: Murder Mystery
+  - *Murder 17: Murder Mystery*
     - B: 4
     - M: 8
 

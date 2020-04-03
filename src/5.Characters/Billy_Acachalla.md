@@ -43,7 +43,7 @@
   - Billy was 25 in *Water World Water Park*, making him 29 or 30 in 2020
 - Time Loop
   - He was once in trouble with the police because his macaroni sales were found out about and Ghost had to try to save him \[11:58 - *Johnny Ghost Did A Bad Thing*]
-    - Ghost was in a never-ending time loop of trying to save, but inevitably killing, him \[13:34 - *Johnny Ghost Did A Bad Thing*]
+    - Ghost was in a never-ending time loop of trying to save, but inevitably killing, Billy \[13:34 - *Johnny Ghost Did A Bad Thing*]
 
 ----
 
@@ -55,21 +55,20 @@
 ## | Other Trivia
 - He has a disease that when he sees the closest object he must throw it \[1:51 / 3:47 / 6:29 / 7:12 / 11:15 - *Water World Water Park*]
 - He can sit in a tilted chair because Papa Acachalla taught him how and because he was born sideways \[4:49 / 5:32 - *Water World Water Park*]
-- He can become a bird \[16:53 - *Super-Powered Baby Mod*]
+- He can become a bird \[16:53 - *Super-Powered Baby Mod*]]
+- Billy has been called in by the U.S. President to revive everybody in a situation of monsters where a lot of people died \[16:05 - *Playable Animatronics 8*]
 - He believes he will die by getting shot by Papa on Thanksgiving as the Toilet Toucher [4:25 - *Acachalla's Thanksgiving (2019)*]
 - He loves parkour [0:45 - *Does Acachalla Like Wendy's?*]
-- Billy has been called in by the U.S. President to revive everybody in a situation of monsters where a lot of people died \[16:05 - *Playable Animatronics 8*]
 
 ----
 
 ## | Mentioned Videos
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
-- [Acachalla'a Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk) \(November 28, 2019)
+- [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk) \(November 28, 2019)
 - [Does Acachalla Like Wendy's?](https://youtu.be/K2-86Dc81Ec) \(December 5, 2019)
 - [Haunted By Batman](https://youtu.be/LymOGelRMwc) \(August 26, 2014)
 - [Johnny Ghost Did A Bad Thing](https://youtu.be/e94uIredEVM) \(March 8, 2020)
 - [Motorcycle Mod](https://youtu.be/gNREBUzmn98) \(June 4, 2013)
-- [Murder 4: Majora's Mask](https://youtu.be/rJShOzX411o) \(January 24, 2014)
 - [Playable Animatronics 8](https://youtu.be/KByoXkGBzWo) \(December 23, 2016)
 - [Scariest Horror Map Ever!!](https://youtu.be/7ZrYVSgBI1Y) \(October 7, 2014)
 - [Scary Batman Horror Map](https://youtu.be/EB9US2_E0J8) \(February 28, 2014)

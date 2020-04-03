@@ -13,6 +13,15 @@
 - 
 
 ----
+
+## | Score
+- Hunters: *
+- Props: *
+  - **
+    - H: *
+    - P: *
+
+----
  
 ## | Mentioned Videos
 - []()

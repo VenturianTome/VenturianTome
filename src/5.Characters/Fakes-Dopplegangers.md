@@ -29,14 +29,14 @@
 ----
 
 ## Billy Acachallas
-- Banana Billy
-  - Origin: *Murder 4: Majora's Mask*
-  - The true Billy won against him in a duel \[11:47]
 - Toy Billy
   - Origin: *Water World Water Park*
   - Billy gives it to Maddie to avoid going down a water park slide with her \[10:04]
   - It had buttons for eyes and was duct taped \[12:11]
   - Papa Acachalla made it for Billy on his 23rd birthday \[12:11]
+- Banana Billy
+  - Origin: *Murder 4: Majora's Mask*
+  - The true Billy won against him in a duel \[11:47]
 
 ----
 
@@ -55,6 +55,14 @@
 ----
 
 ## Johnny Toasts
+- Zombie Toast
+  - Origin: *Haunted By Batman*
+  - Something is wrong with his face; he says he's thinking about going home and doing a crossword puzzle and says he's been taking a new medication \[1:18]
+  - 5:40 - Ghost wants Fake Toast to explain how he keeps reviving because they were just at HIS funeral; Ghost wonders if 'this zombie thing' is permanent and thinks that that might what's wrong with Fake Toast's face /[5:40]
+  - He stole the real Toast's Bowie-knife \[6:18 / 13:09]
+  - He left the refrigerator door open, which is an evil deed \[7:14]
+  - He's allergic to wood \[10:50]
+  - He was killed by Batman \[13:45]
 - Chucky Toast
   - Origin: *Big Dragon Mod*
   - When Ghost is stranded in multiple dimensions during the Puppet Arc, he lands on an island inhabited by Rosie and Chucky Toast
@@ -64,14 +72,6 @@
 - Drunk Toast
   - Origin: *Neighbor Visits McDonald's*
   - A fake Johnny Toast appears, sounding off; Ghost asks him if he's been drinking again \[8:44]
-- Zombie Toast
-  - Origin: *Haunted By Batman*
-  - Something is wrong with his face; he says he's thinking about going home and doing a crossword puzzle and says he's been taking a new medication \[1:18]
-  - 5:40 - Ghost wants Fake Toast to explain how he keeps reviving because they were just at HIS funeral; Ghost wonders if 'this zombie thing' is permanent and thinks that that might what's wrong with Fake Toast's face /[5:40]
-  - He stole the real Toast's Bowie-knife \[6:18 / 13:09]
-  - He left the refrigerator door open, which is an evil deed \[7:14]
-  - He's allergic to wood \[10:50]
-  - He was killed by Batman \[13:45]
 
 ----
 
@@ -98,3 +98,7 @@
 - [Murder 4: Majora's Mask](https://www.youtube.com/watch?v=rJShOzX411o) \(January 24, 2014)
 - [Neighbor Visits McDonald's](https://youtu.be/hviiaU4UmZA) \(March 4, 2017)
 - [Water World Water Park](https://youtu.be/UbMEqAkgO7M) \(September 30, 2013)
+
+----
+
+> **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](./chapter_2.md)!

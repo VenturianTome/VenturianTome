@@ -56,7 +56,7 @@
 ----
 
 ## | Other Trivia
-- They were once on L4D as Creepypastas and another 4th person joined but still fit in with their theme by being Suicide Squidward \[11:51 - *7th Anniversary Livestream*]
+- The siblings were once on L4D as Creepypastas and another 4th person joined but still fit in with their theme by being Suicide Squidward \[11:51 - *7th Anniversary Livestream*]
 
 ----
 

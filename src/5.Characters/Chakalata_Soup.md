@@ -35,6 +35,7 @@
 ----
 
 ## | Mentioned Videos
+- [Funny Horror Game](https://youtu.be/W_p-t0KtS3U) \(April 5, 2015)
 - [Haunted By Delphox](https://youtu.be/gVmjfDiJ184) \(May 30, 2014)
 - [The Horror Continues (Hell's Isalnd Pt.2)](https://youtu.be/YSmqZ0T6Enk) \(August 21, 2015)
 

@@ -25,8 +25,8 @@
 - [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
   - Spooker took Toast’s place as Ghost’s partner while Toast was in jail for burning down the McDonald’s \[*Scary Ghost Children*]
   - He ate some of Ghost’s hair when he met him [15:09 - *Scary Ghost Children*]
-  - Spooker may have tried to spy on Ghost and Toast via TV [9:07 - *FNAF & Zootopia 2*]
   - Spooker thinks that Ghost and Casket may be relatives [16:01 / 17:01 - *Funny Horror Game*]
+  - Spooker may have tried to spy on Ghost and Toast via TV [9:07 - *FNAF & Zootopia 2*]
   - His pink beanie is what let's Ghost differentiate Spooker from other random guys \[0:35 - *Neighbor Visits McDonald's*]
 
 - [**Johnny Toast**](5.Characters/Johnny_Toast.md)
@@ -42,22 +42,22 @@
 ----
 
 ## | Other Trivia
-- He has abs \[3:20 - *Johnny Ghost Moving*]
 - He is afraid of lightning/thunder \[2:53 / 5:08 / 6:03 - *Scary Ghost Children*]
 - He has lots of experience with Paranormal Activity \(the movie) \[3:26 - *Scary Ghost Children*]
-- Spooker sometimes hangs out and works for the Mystery Shack \[14:11 - *Gravity Falls Dipper*]
-  - He still has a tail at this point
 - Spooker carries a Ray Gun of Paranormal Activity and a harmonica \[11:37 - *Funny Horror Game*]
 - “Peanut butter in the sink" is Spooker's diet \[14:09 - *Funny Horror Game*]
 - Spooker went to college once \[14:58 - *Funny Horror Game*]
 - Spooker's home looks similar to / is a grave \[19:05 - *Funny Horror Game*]
-- He has crafted a harpoon out of the enamel of his own teeth while stranded on an Island \[4:37 / 7:03 - *Can Ghost Hunters Survive on an Island?*]
-- He's allergic to nuts \[8:50 - *Can Ghost Hunters Survive on an Island?*]
-- The Alien Comebacks is his favourite band \[9:50 - *Can Ghost Hunters Survive on an Island?*]
-- His pink beanie is his defining item to his friends \[0:35 - *Neighbor Visits McDonald's*]
 - Spooker has never had a girlfriend, but wants one \[3:40 - *Puppy Monkey Baby*]
 - Spooker is such a hairy guy that people sometimes mistake him for a walrus \[6:38 - *Puppy Monkey Baby*]
 - Spooker says he know how to sweet-talk the ladies \[9:05 - *Puppy Monkey Baby*]
+- Spooker sometimes hangs out and works for the Mystery Shack \[14:11 - *Gravity Falls Dipper*]
+  - He still has a tail at this point
+- His pink beanie is his defining item to his friends \[0:35 - *Neighbor Visits McDonald's*]
+- He has crafted a harpoon out of the enamel of his own teeth while stranded on an island \[4:37 / 7:03 - *Can Ghost Hunters Survive on an Island?*]
+- He's allergic to nuts \[8:50 - *Can Ghost Hunters Survive on an Island?*]
+- The Alien Comebacks is his favourite band \[9:50 - *Can Ghost Hunters Survive on an Island?*]
+- He has abs \[3:20 - *Johnny Ghost Moving*]
 
 ----
 
@@ -66,6 +66,7 @@
 - [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og) \(May 15, 2016)
 - [Funny Horror Game](https://youtu.be/W_p-t0KtS3U) \(April 5, 2015)
 - [Gravity Falls Dipper](https://youtu.be/1_W8aGKltEI) \(March 9, 2016)
+- [Johnn Ghost Moving](https://youtu.be/hf04_xQdqfQ) \(July 24, 2018)
 - [Neighbor Visits McDonald's](https://youtu.be/hviiaU4UmZA) \(March 4, 2017)
 - [Puppy Monkey Baby](https://youtu.be/vYxhpspmPF0) \(February 20, 2016)
 - [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U) \(March 22, 2015)

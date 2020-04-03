@@ -16,7 +16,7 @@
 
 ## | Relationships
 - [**The Betrayer**](5.Characters/One-Use_Uncommon.md)
-  - There is *speculation* that The Betrayer is a future version of Cardboard Friend due to some of the suspicious things that they say in both *Hell’s Island Pt.1* and *Hell’s Island Pt.2*
+  - There is *speculation* that The Betrayer is a future version of Cardboard Friend due to some of the suspicious things that they say in both *I Am The Puppet (Hell’s Island Pt.1)* and *The Horror Continues (Hell’s Island Pt.2)*
    - The Betrayer says that they and Ghost were friends, but Ghost denies it \[12:25 - *The Horror Continues (Hell's Island Pt.2)*]
    - The Betrayer claims Ghost "found another friend," to which Ghost says that Toast has always been his friend; The Betrayer says that that wasn't always true and that Ghost was so lonely as a child \[22:54 - *The Horror Continues (Hell's Island Pt.2)*]
 
@@ -29,8 +29,8 @@
   - Gregory decided to set Cardboard Friend free to its 'planet and people', accidentally calling it "Gregory" \[13:12 - *Cardboard Friend*]
 
 - [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
-  - Cardboard Friend haunts Ghost in *Haunted By CF*
-  - Ghost is established as the grown-up version of Gregory after the events that transpired with Cardboard Friend in his childhood \[5:27 - *Prop Hunt: Ghost Hunt*]
+  - Ghost is established as the grown-up version of Gregory after the events that transpired with Cardboard Friend in his childhood \[5:27 - *Prop Hunt 18: Ghost Hunt*]
+  - Cardboard Friend haunts Ghost in *Haunted By Cardboard Friend*
 
 ----
 

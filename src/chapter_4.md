@@ -24,19 +24,18 @@
 
 ## Other World Trivia
 - Ghost has called Earth "currently destroyed" \[6:10 - *Funny Olaf*]
-- 97% of the world's "thanks" come from Tom Hanks because he's such a nice guy \[9:43 - *Acachalla's Thanksgiving (2019)*]
-  - Thanksgiving would not exist without T. Hanks
-- Toast claims that rocks points toward civilization; Ghost says that that's a myth \[3:24 - *Can Ghost Hunters Survive on an Island?*]
-- Some structures are natural-grown \[10:22 - *Can Ghost Hunters Survive on an Island?*]
 - Horseradish is when a horse chews up a radish and spits it back out \[1:51 - *Scary & Funny Horror Investigation*]
 - In 1875, there was a man who was so crazy and so convinced that aliens inside his mind were trying to find his exact location, so he had a house built that was a maze that had pathways, windows, walls, and doors that lead nowhere \[3:21 - *Scary & Funny Horror Investigation*]
+- Toast claims that rocks points toward civilization; Ghost says that that's a myth \[3:24 - *Can Ghost Hunters Survive on an Island?*]
+- Some structures are natural-grown \[10:22 - *Can Ghost Hunters Survive on an Island?*]
+- 97% of the world's "thanks" come from Tom Hanks because he's such a nice guy \[9:43 - *Acachalla's Thanksgiving (2019)*]
+  - Thanksgiving would not exist without T. Hanks
 
 ----
 ## Mentioned Videos
 - [Acachalla's Thanksgiving (2019)](https://youtu.be/dC5GT2mZNEk) \(November 28, 2019)
 - [Can Ghost Hunters Survive on an Island?](https://youtu.be/xW4E8DGLAbM) \(November 14, 2017)
 - [Funny Olaf](https://youtu.be/_onnlghtxTQ) \(July 22, 2015)
-- [Johnny Bot](https://youtu.be/I_8FpxwKSNo) \(December 14, 2018)
 - [Scary & Funny Horror Investigation](https://youtu.be/DPolPvjBouo) \(February 9, 2016)
 
 ----

@@ -50,4 +50,4 @@ Q: When does the site get updated?
 - A: Every ten videos, or whenever I feel like the site needs an update
 
 Q: Why did you make this site?
-- A: I love the channel and characters! I wanted a database for as much VT information as possible because I fugured that it would help the community. I also really wanted the information provided to have sources rather than just being ambiguous or plain false
+- A: I love the channel and characters! I wanted a database for as much VT information as possible because I fugured that it would help the community. I also really wanted the information provided to have sources rather than just being ambiguous or plain false. I like to know where things came from!

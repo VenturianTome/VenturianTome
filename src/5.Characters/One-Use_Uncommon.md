@@ -206,7 +206,7 @@
 
 ## Donald Trump
 #### Origin: **
-- Donald Trump is one of the Lizard-aliens \(like Donald Donnie) [14:12 - *Godzilla Ate My Lunch*]
+- Donald Trump is one of the Lizard-aliens \(like Donald Donnie) \[14:12 - *Godzilla Ate My Lunch*]
 
 ### Mentioned Videos
 - [Godzilla Ate My Lunch](https://youtu.be/CSXo2GfyvGU) \(March 26, 2016)
@@ -229,7 +229,7 @@
 - When asked what makes him different from Johnny, Gavin says he's extra edgy \[2:42:22 - *7th Anniversary Livestream*]
 - He and Maxwell have worked together to steal Papa Acachalla's house out from right under him \[2:42:33 - *7th Anniversary Livestream]
 - Gavin once tried to shoot Papa, but shot himself because he had whiskey before picking up his weapon \[2:45:33 - *7th Anniversary Livestream*]
-  - He was shot in the mouth; due to the wound scarring over, he now sounds like Mickey Mouse \[2:46:08]
+  - He was shot in the mouth; due to the wound scarring over, he now sounds like Mickey Mouse \[2:46:08 - *7th Anniversary Livestream*]
 
 ### Mentioned Videos
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
@@ -277,9 +277,9 @@
   - He thought Cardboard Friend was going to kill him and steal his soul, crayons and toys \[7:02 - *Cardboard Friend*]
 - He has called Cardboard Friend "Gregory" instead of himself and then quickly backtracked \[8:40 - *Cardboard Friend*]
 - Decided to set Cardboard Friend free to its planet and people, accidentally calling it "Gregory" \[13:12 - *Cardboard Friend*]
-- Ghost is established as the grown-up version of Gregory after the events that transpired with Cardboard Friend in his childhood \[5:27 - *Prop Hunt: Ghost Hunt*]
 - He can't read \[2:01 - *Cardboard Friend*]
 - Says that "first \[his] parents left \[him], then \[his] grandparents" \[4:22 - *Cardboard Friend*]
+- [Ghost](5.Characters/Johnny_Ghost.md) is established as the grown-up version of Gregory after the events that transpired with Cardboard Friend in his childhood \[5:27 - *Prop Hunt 18: Ghost Hunt*]
 
 ### Mentioned Videos
 - [Cardboard Friend](https://youtu.be/gHrJoNfyna4) \(September 15, 2013)
@@ -371,7 +371,7 @@
 #### Origin: *Scary Ghost HUNT Horror Map (Pt.2)* & *Scary Ghost HUNT Horror Map (Pt.2/FINALE)*
 - Ghost recognizes an entity as "Katrina" and says the ghost is messing with him \[3:59 - *Scary Ghost HUNT Horror Map (Pt.2)*]
   - He tells Toast to approach it, saying that he can't \("You know what happens") \[3:59]
-  - Ghost tells Toast to tell him if he sees "her" again, saying that "this ghost might unveil the secret we've always been wanting to find... but never wanted to hear" \[4:58]
+  > "This ghost might unveil the secret we've always been wanting to find... but never wanted to hear" -Ghost \[4:58]
 - Katrina reappears and Toast questions why; Ghost says he's come to terms with "it," leaving it vague \[6:44 - *Scary Ghost HUNT Horror Map (Pt.2)*]
 - When asked about who Katrina was, Jordan says it's part of Ghost's backstory and doesn't want to ruin the mystery \[1:37:06 - *7th Anniversary Livestream*]
 
@@ -384,7 +384,7 @@
 
 ## Leon S. Kennedy
 #### Origin: *Does Acachalla Like Wendy's?*
-- He works at Wendy's [1:29 - *Does Acachalla Like Wendy's?*]
+- He works at Wendy's \[1:29 - *Does Acachalla Like Wendy's?*]
 
 ### Mentioned Videos
 - [Does Acachalla Like Wendy's?](https://youtu.be/K2-86Dc81Ec) \(December 5, 2019)
@@ -416,6 +416,7 @@
     - A lot of the comments say "yes" and someone says "they let Ghost in, so sure"
 
 ## Mentioned Videos
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 - [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY) \(December 19, 2019)
 - [Scary Prison Horror Map](https://youtu.be/SGb7hPi-eO4) \(January 4, 2020)
 
@@ -423,8 +424,8 @@
 
 ## Mama Ghost \(Johnny Ghost's Mother)
 #### Origin: **
-- His mother once told him "damage done at a distance is damage done indeed;" Ghost is unsure what she meant \[4:25 - *Johnny Ghost Meets Freddy the Dinosaur*]
 - Ghost once thought she was dead, but was mistaken \[10:31 - *Tom and Jerry!*]
+- His mother once told him "damage done at a distance is damage done indeed;" Ghost is unsure what she meant \[4:25 - *Johnny Ghost Meets Freddy the Dinosaur*]
 
 ### Mentioned Videos
 - [Johnny Ghost Meets Freddy the Dinosaur](https://youtu.be/cNcfpGXRgYM) \(March 14, 2020)
@@ -473,10 +474,10 @@
 
 ## Queen of England
 #### Origin: *President Visits McDonald’s*
-- Toast doesn't shop; all his clothes are handmade \(by his Grandmother) \[3:35 - *OMG Cute Cats*]
-- Toast's car was once owned by the Queen of England; he has dented both sides of it \[1:16 - *Bonnie Visits Walmart*]
 - The Queen of England did tractor races in the palace \[4:39 - *Hell's Resort*]
 - There weren't a lot of royal beheadings in the palace, mostly just throwing people down a well \[4:39 - *Hell's Resort*]
+- Toast doesn't shop; all his clothes are handmade \(by his Grandmother) \[3:35 - *OMG Cute Cats*]
+- Toast's car was once owned by the Queen of England; he has dented both sides of it \[1:16 - *Bonnie Visits Walmart*]
 
 ### Mentioned Videos
 - [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g) \(May 3, 2016)

@@ -39,6 +39,9 @@
 - She is the protagonist of this series
 > More information about her can be found [here](../5.Characters.Vahl_Aradur.md)
 
+### Venturian \(Character)
+> More information about him can be found [here](5.Characters/One_Off_Uncommon.md)
+
 ----
 
 ## | Big Events

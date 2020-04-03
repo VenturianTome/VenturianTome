@@ -19,15 +19,15 @@
 - She's taken a trip with Jordan
   - A California road trip \[0:17 - *what's happening*]
   - Jessica is moving with Jordan to Indiana \[3:09 - *I Got Married*]
-- Jessica has a volume level that Jordan can find her anywhere \(she's the iceberg to his Titanic) \[5:16 - *Q&A With My Wife*]
+- Jessica has a volume level that Jordan can find her anywhere \(she's "the iceberg to \[his] Titanic") \[5:16 - *Q&A With My Wife*]
 > "Love has compromise" -Jessica \[22:06 - *Q&A With My Wife*]
 - Jordan and Jessica got married on October 31st, 2019 \[0:10 - *I Got Married*]
 - Jordan knew he wanted to marry Jessica when they were playing Overwatch, Jessica got upset at him over not getting the Kill Cam, Jordan got the last Kill Cam, and she refused to talk to him for the next few rounds while trying to not laugh at Jordan's jokes  
   - TL;DR: "Overwatch leads to marriage" \[1:37]
+> "What did I marry into?" \[4:00 - *I Got Married*]
 - When asked about the publication of their relationship, they agree that they liked having the fanbase know because it's fun to have people to share it with \(including dropping hints, like the cryptic Jessie & Buzz pictures on Instagram) \[4:12 - *Q&A With My Wife*]
 - They met by Jessica thinking Jordan's voice was cute in a video from 6 years ago and persevered until she met and married him; she says to not follow her example \[9:38 - *Q&A With My Wife*]
 - Jordan waited "a long freaking time" to propose; he knew after 1 year that he would propose, they dated 2 years \[17:03 - *Q&A With My Wife*]
-> "What did I marry into?" \[4:00 - *I Got Married*]
 - \[19:28 / 22:06 - *Q&A With My Wife*] Married life for the couple has so far been a struggle because:
   - Jordan snores like a lawnmower; Jessica talks in her sleep and sometimes gets up and moves around in her sleep
   - Jessica gets cold easily; Jordan gets warm easy

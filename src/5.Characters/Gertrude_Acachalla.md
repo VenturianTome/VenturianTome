@@ -21,7 +21,7 @@
 ----
 
 ## | Biography
-- 5th Realm's Queen \(*Puppy Monkey Baby*)
+- 5th Realm's Queen \[*Puppy Monkey Baby*]
   - She is rumored to have magic that can fix anyone's problems if deemed worthy; she doesn't actually have magic, but she had Band-Aids \[3:21 / 16:14]
   - You need a pass to see her; the pass looks like a hand \[8:11 / 14:05 / 14:53]
   - She is the queen because she went there on lunch break to relax and eat her sandwich and the townspeople started worshipping her \[15:36]

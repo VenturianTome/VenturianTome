@@ -13,14 +13,13 @@
 ----
 
 ## | Relationships
-- [**Officer Starbucks**](5.Characters/One-Use_Uncommon.md)
-  - 
+- 
 
 ----
 
 ## | Biography
-- Labratory
-  - He and his family of birds run a lab testing and experimenting on Gingerians \[12:16 / 13:11 - *Johnny Ghost Meets Freddy the Dinosaur*]
+- Laboratory
+  - He and his family of birds run a lab that tests and experiments on Gingerians \[12:16 / 13:11 - *Johnny Ghost Meets Freddy the Dinosaur*]
 
 ----
 

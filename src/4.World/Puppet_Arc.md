@@ -5,6 +5,7 @@
 ## Characters Involved
 - [The Betrayer](5.Characters/One-Use_Uncommon.md)
 - [Chakalata Soup](5.Characters/Chakalata_Soup.md)
+- [Dipper / Clone Dipper](5.Characters/One-Use_Uncommon.md)
 - [Haunter](5.Characters/Pokemon.md)
 - [Higgly Diggly Hoogan](5.Characters/One-Use_Uncommon.md)
 - [The Housekeeper](5.Characters/Housekeeper.md)
@@ -30,8 +31,26 @@
 
 ## | In The Real World... Kinda
 ### [*Ghost Hunters Horror Map*](https://youtu.be/oA9jS2ArUk0)
-- Toast uses Higgly Diggly Hoogan as a substitute parnter in place of Ghost
-- *
+- Toast uses Higgly Diggly Hoogan as a substitute parnter & cameraman in place of Ghost \[0:36]
+- Toast hired a kid to find the map for him, making them question if it's a horror map \[5:49]
+  - They're in a building built in 1920 \[7:38]
+  - Hoogan doesn't want to be there because they could have gone to Burger King for a new Whopper special \[14:04]
+- When Hoogan asks Toast about Ghost, he refers to him as "currently deceased" \[8:23 / 20:29]
+  - Toast is pretty sure that Ghost isn't gone forever
+  - Toast stayed with his mother \(in prison) for a week and 3 days in an insane asylum to recover \[8:23 / 9:18 / 13:12 / 20:29]
+    - It seems to run in his mother's side of the family \[9:18]
+- Hoogan, being clone #837 in a defective batch, can use "Foot Magic" to no-clip through/into areas \[12:13 / 14:00 / 14:37 / 30:54]
+- They find a barrel/case of macaroni \[21:23]
+- An entity appears and they try to shoot it \[21:26]
+  - Hoogan wonders if it was "the guy he heard of before" and why Casket always follows Ghost around
+  > "That wasn't the guy I heard of before was it? The guy who always follows your group around? The crazy one? The... Casket? I've heard about him. I've heard about him. \["No, I can't see how he would be here."] He always shows up whenever Johnny Ghost is away."
+  - Toast says that he doesn't know how he would be there, but him being there would be a good lead to find a way to save Ghost
+    - Toast doesn't want to stay in the building if he's there
+  - Hoogan later sees a floating body and thinks it was "him" again, making Toast a little worried \[25:32]
+- Hoogan tells Toast that the place that they're in doesn't exist and is all inside Toast's mind \[31:16]
+  - That's why the place is a loop
+  - Toast is still in the insane asylum
+- Hoogan wakes Toast up by shooting him \[32:22]
 
 ----
 
@@ -40,7 +59,9 @@
 - The first dimension Ghost ended up in was the [52nd Dimension](../4.World/Dimensions-Realms.md), which only contains a McDonald’s run by a Haunter \[0:19 / 7:42]
 - Ghost can't understand the Haunter \(who is talking in English) and interprets it as some form of Latin mixed with South American
 - The Haunter is named John \[2:43]
-- Ghost guesses that, while floating through the cosmos, the Haunter pulled him into a dream-like state in his own dreams \(the McDOnald's that he says he "held most dear") \[3:25]
+- Ghost forgets that he doesn't have Toast with him \[3:18 / 5:53]
+- Ghost guesses that, while floating through the cosmos, the Haunter pulled him into a dream-like state in Ghost's old McDonald's before it was burned down \[3:25]
+> "This creature must be some sort of ghost-like apparition who can haunt my dreams and has awoken me in a dream-like state in my old McDonald's, the place I held most dear... before Johnny burned it down to hide the evidence of a horrible crime."
   - Ghost believes that he's separated from his kind by a dimensional rift \[5:17]
 - Ghost is killed, sending him to another dimension \[13:52]
 
@@ -51,7 +72,9 @@
 - This is the 2nd cosmic dimension Ghost has been sent to; it's in 1950's-era America, possibly in South Carolina \[2:30]
 - Ghost can't understand what the Olaf or the man are saying until later \[2:54 / 8:22]
   - He believes that there's a meaning to the man throwing his furniture out
-- Ghost called Earth "currently destroyed"
+- Ghost forgets that Toast isn't with him \[4:00]
+- Ghost called Earth "currently destroyed" \[6:10]
+> ...and left my planet of Earth, that is currently destroyed..."
 - Ghost believes himself to have moved dimensions onto an alien planet \[8:06]
   - He finds out that he's in the [Realm of Motels](4.World/Dimensions-Realms.md) \(which is different from the Realm of Hotels) \[8:41]
 
@@ -65,11 +88,12 @@
   - Ghost questions how Spooker died, hopes it wasn't him, and says "this hasn't happened in a long time" \[2:15]
 - Ghost believes himself to be in a dimensional bubble / limbo-like state \[4:04]
   - He says the dimensional changes are starting to mess with his mind \[4:52]
-- Ghost and the Housekepper meet up and discuss escaping the dimension \[5:57]
+- Ghost and the Housekeeper meet up and discuss escaping the dimension \[5:57]
   - Ghost begins to not trust him when the his story sounds off \[8:44]
 - The Housekeeper explains that he was locked into this dimension, allowing him to respawn \[11:40]
   - Ghost can also respawn because he's the Puppet
 - Ghost and the Housekeeper fight until Ghost breaks and Casket chases the Houskeeper, saying that he's the Housekeeper's punishment \[12:58]
+> "No, I know why they locked you into this realm. I understand now. Because of me. They knew that I would show up and I am your punishment."
   - Casket taunts the Housekeeper with his father's golden watch and kills him \[14:45]
   - Ghost guesses that his episodes are starting again because Toast isn't there to ground him
 - The Housekeeper kills Ghost, sending him out of the dimension \[15:46]
@@ -80,7 +104,8 @@
 ### [*Big Dragon Mod*](https://youtu.be/nkWX5eoDSEk)
 - Ghost has now been in 3 dimensions and another portal dimension \[0:30 / 8:18]
 - The people on this island don't know much about dimensions \[1:16]
-- Ghost is very touvhy about being stuck in multiple dimensions, bordering on Casket multiple times \[1:55 / 2:35 / 4:23 / 10:02 / 11:41 / 11:55]
+- Ghost is very touchy about being stuck in multiple dimensions, bordering on Casket multiple times \[1:55 / 2:35 / 4:23 / 10:02 / 11:41 / 11:55]
+> "I've been stuck here for way too long. I just wanna go back. I just wanna go back!" \[1:55]
 - Another Toast shows up on the island, but he doesn't rememeber Ghost at all \[3:07 / 5:15 / 6:51 / 7:47 / 8:32]
 - Ghost sees all of space and time, including what happened at the end of Lost \[9:26]
 - Ghost does to a sister dimension containing Rosie and Chucky Toast, setting Ghost off \[9:55]
@@ -95,6 +120,7 @@
 - Ghost wakes up on the floor next to a hospital bed \[1:09]
 - Toast shows up; Ghost wants to make sure he's the real Johnny Toast \[1:30]
   - Ghost confides all of the things that he's gone through with Toast; Toast tries to calm him down and offers him a hug \[1:52]
+  > You have no idea what I've been through! * "
 - Tom the cat is the doctor at the hospital; Jerry is the nurse \[1:49]
 - Ghost wonders if he's dead or still inside a dream \(or on the set of The Walking Dead) \[2:41 / 4:03]
 - Ghost had been in the hospital for 2 months \[2:54 / 8:51 / ]
@@ -103,7 +129,8 @@
   - All laws are gone due to the apocalypse \[9:35]
 - Ghost explains the entities looking like Tom and Jerry because of a lightning strike he suffered as a kid and are preying on his fears \[8:03]
 - Ghost doesn't remember how he was knocked out; he only remembers a dump truck and a ski board \[8:51]
-- Tom tells Ghost that he's still in a dream; they try multiple ways to wake him up, including shooting and pinching him \[10:49 / 12:01]
+- Tom tells Ghost that he's still in a dream \[10:49]
+  - They try multiple ways to wake him up, including shooting and pinching him \[12:01]
   - Ghost a looping parallel dimension \[11:54]
 - Ghost wakes up again near the door out of the dimension \[12:36 / 13:04]
   - Ghost sees all of time and space again \(what is, what will be, what currently is, what isn't, and what was) \[12:41]
@@ -128,7 +155,7 @@
 
 ----
 
-## | Finally Human Again
+## | Human Again
 ### [*The Horror Continues \(Hell's Island Pt.2)*](https://youtu.be/YSmqZ0T6Enk)
 - Toast put peanut butter in Ghost's hair, which made him human again \[0:43]
 - The lady now looks like a corpse, to which Ghost makes up many insults \[1:07 / 4:56]
@@ -167,7 +194,7 @@
 
 ----
 
-## The Aftermath - Revisiting
+## The Aftermath - Revisit
 ### [*Gravity Falls Dipper 2*](https://youtu.be/EZTGAhgv-zs)
 - Toast joins Ghost to revist the Mystery Shack \[0:25]
 - Ghost brings up the journal written by Jimmy Casket; he says he doesn't know who that is \[0:29]
@@ -180,8 +207,9 @@
   - He likes and eats cats \[5:53 / 7:58]
 - The machine is the basement emits a Level 15 Dispersion Field, ripping a person's molecules in half \[8:34]
 - Ghost and Toast activate the machine, opening a dimensional rift \[10:35]
+  > "He opened the dimensional rift!" -Ghost
   - Ghost is overwhemed by Casket coming back \[10:55]
-- The program crashes again, eniding on a cliffhanger once more \[11:30]
+- The program crashes again, ending on a cliffhanger once more \[11:30]
 
 ----
 

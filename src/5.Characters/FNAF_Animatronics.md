@@ -22,8 +22,8 @@
 ----
 
 ### Balloon Boy
-- Balloon Boy helps Mangle rearrange themselves after they fall off the ceiling but sometimes messes up a bit or freestyles it \[3:03 - *Playable Animatronics 2*]
 - Toast taught Balloon Boy comebacks \[13:00 - *Funny Balloon Boy*]
+- Balloon Boy helps Mangle rearrange themselves after they fall off the ceiling but sometimes messes up a bit or freestyles it \[3:03 - *Playable Animatronics 2*]
 
 ----
 

@@ -13,7 +13,7 @@
 - Other Names / Titles:
   - Papa \(of the Universe)
 - Played By: [Jordan Frye / Venturian](3.Siblings/3.1.Jordan-Frye-Venturian.md)
-  - [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.md) in *Haunted By Batman*
+  - [Bethany Frye / FlyingPings](3.Siblings/3.3.Bethany-Frye-FlyingPings.md) in *Haunted By Batman* and *Playable Animatronics 8*
 
 ----
 
@@ -47,7 +47,7 @@
   - Maxwell was abandoned by Papa in "18something" in the bank robbery \[2:42:48 - *7th Anniversary Livestream*]
 
 - [**Toilet Toucher**](5.Characters/Toilet_Toucher.md)
-  - Papa doesn't know who the Toilet Toucher is [4:43 - *Acachalla's Thanksgiving (2019)*]
+  - Papa doesn't know who the Toilet Toucher is \[4:43 - *Acachalla's Thanksgiving (2019)*]
 
 ----
 
@@ -59,13 +59,13 @@
 ## | Other Trivia
 - Acachalla was hired to help renovate a mental institution and make it into an IHop; he only got paid $1.50 an hour \[19:17 - *Creepypasta College*]
 - Papa says his ex-wife looks like the Rake \[18:41 - *Creepypasta College*]
+- Anyone can call Papa Acachalla "Papa" because "Acachalla" means "the whole dang universe," so Papa is the Papa of the Universe \[4:30 - *Haunted By Batman*]
+- Papa uses the call of a tropical bird when he's scared \[7:08 - *Scariest Horror Map Ever!!*]
+- His occupation is "not necessarily occupied with anything," his social security number is "socially," and his bank account number is "lack of money" \[10:37 - *Playable Animatronics 8*]
 - Papa thinks "marinating/marination" means "Mommy, am I a good boy, in this sauce?" \[1:42 / 6:29 - *Acachalla's Thanksgiving (2019)*]
 - Papa struggles to say "thanks" \[7:18 - *Acachalla's Thanksgiving (2019)*]
 - Papa has a 2021 Tesla Cybertruck that he got from Russia \[8:49 - *Acachalla's Thanksgiving (2019)* / 0:31 - *Does Acachalla Like Wendy's?*]
-- His occupation is "not necessarily occupied with anything," his social security number is "socially," and his bank account number is "lack of money" \[10:37 - *Playable Animatronics 8*]
 - Papa Acachalla is weak to grenades \[8:58 - *Johnny Ghost Meets Freddy the Dinosaur*]
-- Papa uses the call of a tropical bird when he's scared \[7:08 - *Scariest Horror Map Ever!!*]
-- Anyone can call Papa Acachalla "Papa" because "Acachalla" means "the whole dang universe," so Papa is the Papa of the Universe \[4:30 - *Haunted By Batman*]
 
 ----
 
