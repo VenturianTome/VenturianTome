@@ -16,6 +16,7 @@
     - [Fourth-Wall Breaks](./4.World/Fourth-Wall_Breaks.md)
     - [Ghosts & Entities](./4.World/Ghosts-Entities.md)
     - [Other Wars](./4.World/Other_Wars.md)
+    - [Quotes](./4.World/Quotes.md)
     - [Rules](./4.World/Rules.md)
     - [P.I.E. Team](./4.World/PIE_Team.md)
     - [Puppet Arc](./4.World/Puppet_Arc.md)

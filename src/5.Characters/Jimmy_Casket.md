@@ -30,6 +30,7 @@
    > “Shoot me! See what happens!”
 
 - [**Johnny Toast**](5.Characters/Johnny_Toast.md)
+  - Toast understands that Ghost and Casket are connected physically somehow \[21:26 - *Ghost Hunters Horror Map*]
   - Toast is what quells Ghost’s episodes and keeps him grounded \[1:24 / 15:31 - *Johnny Ghost vs Zombies*]
 
 - [**Maxwell Acachalla**](5.Characters/Maxwell_Acachalla.md)
@@ -54,8 +55,9 @@
 ----
 
 ## | His Secrets
-- His mother was a man & that he can't read [5:46 / 20:15 - *Murder 3: Jimmy Casket*]
-- His name is Gregory [13:54 - *Murder 11: Olaf*]
+- His mother was a man & that he can't read \[5:46 - *Murder 3: Jimmy Casket* / 9:27 - *1000 Degree Knife Challenge*]
+- He can't read \[20:15 - *Murder 3: Jimmy Casket*]
+- His name is Gregory \[13:54 - *Murder 11: Olaf*]
 
 ----
 
@@ -77,7 +79,9 @@
 
 ## | Mentioned Videos
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
+- [1000 Degree Knife Challenge](https://youtu.be/pzntssXrvsE) \(January 26, 2017)
 - [Creepypasta College](https://youtu.be/TyTM5NU8jKY) \(February 26, 2014)
+- [Ghost Hunters Horror Map](https://youtu.be/oA9jS2ArUk0) \(July 2, 2015)
 - [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ) \(July 10, 2014)
 - [Johnny Bot](https://youtu.be/I_8FpxwKSNo) \(December 14, 2018)
 - [Johnny Ghost vs Zombies](https://youtu.be/ZZi4QOcKkno) \(July 30, 2015)

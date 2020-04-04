@@ -301,8 +301,15 @@
 ## Higgly Diggly Hoogan
 #### Origin: **
 #### Played By: [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
-- He took Ghost's place as cameraman for Toast in \[0:36 - *Ghost Hunters Horror Map*]
+- Took Ghost's place as Toast's cameraman during the [Puppet Arc](4.World/Puppet_Arc.md) \[0:36 - *Ghost Hunters Horror Map*]
 - You can buy a life-size mannequin of him for 4 payments of $29.99 \[1:09 - *Ghost Hunters Horror Map*]
+- If you get spit on the other person's face while saying his name, you said it right \[2:50 - *Ghost Hunters Horror Map*]
+- Toast calls him "Clever Boy" \[4:46 - *Ghost Hunters Horror Map*]
+- Toast had a dream where he gets through the door by no-clipping because he's HDH #837 \(part of a defective clone batch); they call it "Foot Magic" \[12:13 / 14:00 / 14:37 / 30:54 - *Ghost Hunters Horror Map*]
+- HDH once got himself stuck in a pole and he never really got out \[14:48 - *Ghost Hunters Horror Map*]
+- He is part Gumby \[16:31 - *Ghost Hunters Horror Map*]
+- He doesn't have a reflection \[19:38 - *Ghost Hunters Horror Map*]
+- He sometimes loses the ability to breathe because one of his lungs goes inside the other lung \[23:27 / 25:31 / 27:27 - *Ghost Hunters Horror Map*]
 
 ### Mentioned Videos
 - [Ghost Hunters Horror Map](https://youtu.be/oA9jS2ArUk0) \(July 2, 2015)
@@ -340,6 +347,17 @@
 
 ### Mentioned Videos
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
+
+----
+
+## Jerry the Mouse
+#### Origin: *Tom and Jerry!*
+#### Played by [Isaac](../3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
+- He is a nurse in a different dimension \[1:49]
+- Ghost is 86% sure that him and Tom are paranormal entities \[5:28]
+
+### Mentioned Videos
+- [Tom and Jerry!](https://youtu.be/smvQjZ0wlg8) \(August 16, 2015)
 
 ----
 
@@ -444,6 +462,16 @@
 
 ----
 
+## Monty Toast
+#### Origin: *Creating A YouTube Channel*
+- Built his own [house](4.World/Areas-Places.md) \[0:58]
+- He loves animals \[6:08]
+
+### Mentioned Videos
+- [Creating A YouTube Channel](https://youtu.be/mSJ2ZqkES9o) \(January 2, 2016)
+
+----
+
 ## Olaf
 #### Origin: **
 #### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
@@ -521,6 +549,16 @@
 
 ----
 
+## Sink Supplies
+#### Origin: **
+#### Played by [Isaac Frye](../3.Siblings/3.4.Isaac-Frye-HomelessGoomba.md)
+- He pretended to be Chakalata Soup \[18:33 - *Barney Hunt*]
+
+### Mentioned Videos
+- [Barney Hunt](https://youtu.be/Zp4_x_GDMjE) \(August 9, 2017)
+
+----
+
 ## Sonic the Hedgehog / Sonic.EXE
 #### Origin: **
 - Sonic.exe is a Level 5 noob ghost that was only recently evolved into a Level 5, which is a physical entity \(unlike a Level 4) [7:55 - *Haunted By Sonic*]
@@ -543,9 +581,20 @@
 
 ----
 
+## Tom the Cat
+#### Origin: *Tom and Jerry!*
+#### Played by [Bethany](3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
+- He is a doctor in a different dimension \[1:49]
+- Ghost is 86% sure that him and Jerry are paranormal entities \[5:28]
+
+### Mentioned Videos
+- [Tom and Jerry!](https://youtu.be/smvQjZ0wlg8) \(August 16, 2015)
+
+----
+
 ## Tommy/Timothy Casket
 #### Origin: \(Named) *Haunted By Cardboard Friend* / \(Physical) *Chica Visits Pizza Hut*
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan-Frye-Venturian.md)
+#### Played by [Jordan Frye](../3.Siblings/3.1.Jordan-Frye-Venturian.md)
 - Ghost has claimed him as his *real* father \[12:11 - *Haunted By Cardboard Friend*]
   - Toast knows this, calling "Casket" his family name \[18:33]
   - Tommy died before Ghost was born; he lived alone with his mother off of his father's wealth, which put him through school \[17:50]
@@ -557,6 +606,16 @@
 ### Mentioned Videos
 - [Chica Visits Pizza Hut](https://youtu.be/VcBOrWgqyrY) \(May 7, 2016)
 - [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ) \(July 10, 2014)
+
+----
+
+## Tootsie
+#### Origin: **
+#### Played by: [Bethany Frye](../3.Siblings/3.3.Bethany-Frye-FlyingPings.md)
+- Ghost can see through Tootsie's disguises \[10:13 - *Creating A YouTube Channel*]
+
+### Mentioned Videos
+- [Creating A YouTube Channel](https://youtu.be/mSJ2ZqkES9o) \(January 2, 2016)
 
 ----
 

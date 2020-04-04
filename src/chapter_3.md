@@ -16,6 +16,7 @@
 ## Trivia of the Siblings
 - There is a misconception that the Siblings use scripts in their videos \[0:35 - *VenturianTale Scripted*]
   - They don't - they come up with everything on camera
+- Tom and Jerry was a big part of their childhood \[0:34 - *Tom and Jerry!*]
 - They don’t commonly play Gmod outside of videos \[1:15 - *The Joy Of Creation: Reborn #3*]
 - They used to play Vanguard \(the card game) a lot \[35:26 - *7th Anniversary Livestream*]
 - When asked about their fav. boss battle, they replied with Star Fox 64 \(Star Wolf) or the "Train Guy" \[1:13:44 - *7th Anniversary Livestream*]
@@ -51,6 +52,7 @@
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 - [The Joy Of Creation: Reborn #3](https://youtu.be/B6jf67iGNlU) \(August 6, 2016)
 - [Scary Prison Horror Map](https://youtu.be/SGb7hPi-eO4) \(January 4, 2020)
+- [Tom and Jerry!](https://youtu.be/smvQjZ0wlg8) \(August 16, 2015)
 - [VenturianTale Scripted](https://youtu.be/iD4Mw3rx4wc) \(July 12, 2014)
 
 ----

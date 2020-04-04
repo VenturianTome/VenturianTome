@@ -54,6 +54,7 @@
 - Jessica takes horror "horribly;" she made it "all of 3 minutes" through Resident Evil 2 \(the remake) \[0:23 - *My Wife's First Horror Map*]
 - She played [Audrey and Andre](../5.Characters/Qeios_Characters.md) in [Qeios](../6.Series/Qeios.md)
 - The only Beatles song she knows it Let It Be \[50:49 - *7th Anniversary Livestream*]
+- She is 5'3" \[9:06 - *Things are changing!*]
 
 ----
 
@@ -72,6 +73,7 @@
 - [Portal 2 Co-OP #4 (J&J)](https://youtu.be/ohAhMp0tO00) \(August 21, 2017)
 - [Q&A With My Wife](https://youtu.be/fcWrt_7xM3w) \(November 17, 2019)
 - [Scary Prison Horror Map](https://youtu.be/SGb7hPi-eO4) \(January 4, 2020)
+- [Things are changing!](https://youtu.be/ug_2GV8iyP4) \(March 28, 2020)
 - [what's happening](https://youtu.be/8wn34LSj_Iw) \(October 22, 2019)
 
 ----

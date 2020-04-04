@@ -53,7 +53,9 @@
 - Spooker says he know how to sweet-talk the ladies \[9:05 - *Puppy Monkey Baby*]
 - Spooker sometimes hangs out and works for the Mystery Shack \[14:11 - *Gravity Falls Dipper*]
   - He still has a tail at this point
-- His pink beanie is his defining item to his friends \[0:35 - *Neighbor Visits McDonald's*]
+- His pink beanie is his defining item to his friends, making it hard to notice him when he lost it \[0:35 - *Neighbor Visits McDonald's*]
+  - He got it back because he found it in the trash can \[0:46 - *Barney Hunt*]
+- Spooker loves the Barney show; he says he's cried at almost every episode because it's sad \[3:04 - *Barney Hunt*]
 - He has crafted a harpoon out of the enamel of his own teeth while stranded on an island \[4:37 / 7:03 - *Can Ghost Hunters Survive on an Island?*]
 - He's allergic to nuts \[8:50 - *Can Ghost Hunters Survive on an Island?*]
 - The Alien Comebacks is his favourite band \[9:50 - *Can Ghost Hunters Survive on an Island?*]
@@ -62,11 +64,12 @@
 ----
 
 ## | Mentioned Videos
+- [Barney Hunt](https://youtu.be/Zp4_x_GDMjE) \(August 9, 2017)
 - [Can Ghost Hunters Survive on an Island?](https://youtu.be/xW4E8DGLAbM) \(November 14, 2017)
 - [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og) \(May 15, 2016)
 - [Funny Horror Game](https://youtu.be/W_p-t0KtS3U) \(April 5, 2015)
 - [Gravity Falls Dipper](https://youtu.be/1_W8aGKltEI) \(March 9, 2016)
-- [Johnn Ghost Moving](https://youtu.be/hf04_xQdqfQ) \(July 24, 2018)
+- [Johnny Ghost Moving](https://youtu.be/hf04_xQdqfQ) \(July 24, 2018)
 - [Neighbor Visits McDonald's](https://youtu.be/hviiaU4UmZA) \(March 4, 2017)
 - [Puppy Monkey Baby](https://youtu.be/vYxhpspmPF0) \(February 20, 2016)
 - [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U) \(March 22, 2015)

@@ -79,8 +79,8 @@
 
 ## | Enemies
 - PIE's archnemesis is "and always has been" [the Housekeeper](5.Characters/One-Use_Uncommon.md) \[5:39 - *Neighbor Visits McDonald's*]
-- A group called D.I.E. \(Destructors of Investigators Extraordinaire) \[-- - *Barney Hunt*]
-  - On the team is Johnny Cranky and Jimmy Casket; Chakalata SO=oup used to be on the team, but Cranky forced him off \[--]
+- There is a group called Destroyers of Investigators Extraordinaire \(D.I.E.) that includes [Johnny Cranky](5.Characters/One-Use_Uncommon.md) and [Jimmy Casket](5.Characters/Jimmy_Casket.md) \[18:15 - *Barney Hunt*]
+  - [Chakalata Soup](5.Characters/Chakalata_Soup.md) was a member until Cranky kicked him out
 
 ----
 
@@ -99,6 +99,7 @@
 ----
 
 ## | Mentioned Videos
+- [Barney Hunt](https://youtu.be/Zp4_x_GDMjE) \(August 9, 2017)
 - [Can Ghost Hunters Survive on an Island?](https://youtu.be/xW4E8DGLAbM) \(November 14, 2017)
 - [Funny Horror Game](https://youtu.be/W_p-t0KtS3U) \(April 5, 2015)
 - [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ) \(July 10, 2014)

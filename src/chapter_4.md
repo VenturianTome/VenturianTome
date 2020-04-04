@@ -25,6 +25,7 @@
 ## Other World Trivia
 - Ghost has called Earth "currently destroyed" \[6:10 - *Funny Olaf*]
 - Horseradish is when a horse chews up a radish and spits it back out \[1:51 - *Scary & Funny Horror Investigation*]
+- Ghost says suits decompose fast and dead bodies take a lot longer \[15:41 - *Barney Hunt*]
 - In 1875, there was a man who was so crazy and so convinced that aliens inside his mind were trying to find his exact location, so he had a house built that was a maze that had pathways, windows, walls, and doors that lead nowhere \[3:21 - *Scary & Funny Horror Investigation*]
 - Toast claims that rocks points toward civilization; Ghost says that that's a myth \[3:24 - *Can Ghost Hunters Survive on an Island?*]
 - Some structures are natural-grown \[10:22 - *Can Ghost Hunters Survive on an Island?*]
@@ -34,6 +35,7 @@
 ----
 ## Mentioned Videos
 - [Acachalla's Thanksgiving (2019)](https://youtu.be/dC5GT2mZNEk) \(November 28, 2019)
+- [Barney Hunt](https://youtu.be/Zp4_x_GDMjE) \(August 9, 2017)
 - [Can Ghost Hunters Survive on an Island?](https://youtu.be/xW4E8DGLAbM) \(November 14, 2017)
 - [Funny Olaf](https://youtu.be/_onnlghtxTQ) \(July 22, 2015)
 - [Scary & Funny Horror Investigation](https://youtu.be/DPolPvjBouo) \(February 9, 2016)

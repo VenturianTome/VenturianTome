@@ -66,9 +66,11 @@
 ----
 
 ## | Trivia
-- You can build and ride a raft to leave certain dimensions \[12:28 - *Big Dragon*]
-- Ghost and Toast are both mermaids in the Medieval dimension \[9:33 - *Medieval Mod*]
 - An Abyss Mouth is a portal to the Underworld; they were not used since 84 A.D. \[11:07 - *Paranormal Ghost Hunt*]
+- You can build and ride a raft to leave certain dimensions \[12:28 - *Big Dragon*]
+- There is a looping dimension that houses Tom and Jerry \[1:49 / 11:54 - *Tom and Jerry!*]
+> "If you see a mouse, it's probably a dream world." -Jerry the Mouse \[11:51 - *Tom and Jerry!*]
+- Ghost and Toast are both mermaids in the Medieval dimension \[9:33 - *Medieval Mod*]
 
 > Information about the Puppet Arc can be found [here](../chapter_4.md)
 
@@ -88,6 +90,7 @@
 - [Paranormal Ghost Hunting](https://youtu.be/VEq4ggHacoU) \(June 7, 2014)
 - [Pokemon Haunter](https://youtu.be/FRtza_a-3Ks) \(July 19, 2015)
 - [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U) \(March 22, 2015)
+- [Tom and Jerry!](https://youtu.be/smvQjZ0wlg8) \(August 16, 2015)
 
 ----
 

@@ -21,6 +21,9 @@
   - *Murder 17: Murder Mystery*
     - B: 4
     - M: 8
+  - *Murder 38: Bendy and the Ink Machine*
+    - B: 6
+    - M: 5
 
 ----
 
@@ -33,6 +36,7 @@
 - [Murder 3: Jimmy Casket](https://youtu.be/ijGTXelXjx4) \(January 18, 2014)
 - [Murder 14: Announcements, Celebrations](https://youtu.be/Tmn4m60nE5g) \(July 18, 2014)
 - [Murder 17: Murder Mystery](https://youtu.be/e2Eo0UxQviQ) \(October 16, 2014)
+- [Murder 38: Bendy and the Ink Machine](https://youtu.be/uPR11kq1wW) \(October 5, 2017)
 
 ----
  

@@ -4,6 +4,10 @@
 
 ## | Characters
 - Gertrude breaks the 4th wall by mentioning character changes \[5:36 - *Playable Animatronics 8*]
+- Ghost questions how he and Spooker can hear each other from far away; Spooker says he's calling him on Facetime \[8:21 - *Barney Hunt*]
+
+## | Maps
+- Toast once hired a kid to find a map for him \[5:49 - *Ghost Hunters Horror Map*]
 
 ## | Menus
 - Toast can't start a fire and talks about the debug menu \[12:26 - *Can Ghost Hunters Survive on an Island?*]
@@ -19,7 +23,9 @@
 ----
 
 ## | Mentioned Videos
+- [Barney Hunt](https://youtu.be/Zp4_x_GDMjE) \(August 9, 2017)
 - [Can Ghost Hunters Survive on an Island?](https://www.youtube.com/watch?v=xW4E8DGLAbM) \(November 14, 2018)
+- [Ghost Hunters Horror Map](https://youtu.be/oA9jS2ArUk0) \(July 2, 2015)
 - [Johnny Ghost Did A Bad Thing](https://www.youtube.com/watch?v=e94uIredEVM) \(March 8, 2020)
 - [Playable Animatronics 8](https://youtu.be/KByoXkGBzWo) \(December 23, 2016)
 
