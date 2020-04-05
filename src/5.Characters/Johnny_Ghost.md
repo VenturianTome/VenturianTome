@@ -42,12 +42,13 @@
   - Johnny Toast is commonly known as Ghost’s best friend  
   - Ghost was 6 when Toast was 8, so they have \(or had, with timelines changes) a 2-year age difference [7:03 - *Haunted By Delphox*]
   - Ghost's phone has a British accented ring when calling Toast \[9:26 / 13:51 - *Haunted By Cardboard Friend*]
+  - Toast knows that "Casket" is Ghost's family name \[18:33 - *Haunted By Cardboard Friend*]
   - Ghost can't remember the last time he's seen Toast in shorts \[6:06 - *Haunted By Batman*]
   - Ghost has told Toast that his waistcoat is "quite fetching" \[17:23 - *Haunted By Batman*]
   - Ghost's greatest fear is that Toast will be replaced by Spooker again \[2:07 - *Johnny Ghost vs Zombies*]
   - Him and Toast usually go out for brunch together \[4:18 - *Johnny Ghost vs Zombies*]
   - Toast is what quells his episodes and keeps him grounded \[1:24 / 15:31 - *Johnny Ghost vs Zombies*]
-  - Ghost and Toast played together since they were kids \[3:54 - *Big Dragon*]
+  - Ghost and Toast played together since they were kids \[3:54 - *Big Dragon Mod*]
   - Ghost and Toast would eat pineapples together \[10:52 - *Big Dragon Mod*]
   - Toast bought him a camera for his birthday \[1:22 - *Yoshi Nintendo Mod*]
   - Ghost and Toast have gone "kayaking without water" with Johnny Toast \[2:11 / 13:14 - *Minions Visit McDonald's*]
@@ -78,7 +79,12 @@
   - He's thought about killing or using a bear trap on Spooker \[4:52 / 7:05 - *Puppy Monkey Baby*]
 
 - [**Tommy / Timothy Casket**](5.Characters/One-Use_Uncommon.md)
-   - Ghost once told Toast that his father was a spaceman, but he was actually a police officer \[13:34 - *FNAF & Zootopia 2*]
+  - Ghost once told Toast that his father was a spaceman, but he was actually a police officer \[13:34 - *FNAF & Zootopia 2*]
+  - Ghost has claimed him as his *real* father \[12:11 - *Haunted By Cardboard Friend*]
+    - Tommy died before Ghost was born; he lived alone with his mother off of his father's wealth, which put him through school \[17:50]
+
+- [**Tootsie**](5.Characters/One-Use_Uncommon.md)
+  - He can see through Tootsie's disguises \[10:13 - *Creating A YouTube Channel*]
 
 ----
 
@@ -93,9 +99,11 @@
     - Jumper got hit by a car while playing catch \[6:37]
   - Ghost and Toast had a job at a library; Ghost knocked one ledge into another, making it "bounce" \(according to him) \[22:29 - *Scary Ghost HUNT Horror Map (Pt.2/FINALE)*]
   - Toast has seen Ghost clip through the wall before due to a nuclear reactor having an effect on Ghost's left leg as a karate test; Ghost denies it \[14:21 - *Funny Balloon Boy*]
-  - They built a wagon out of old cereal boxes \[3:54 - *Big Dragon*]
-  - Toast once turned a corner and smacked into him and his Barbie dolls fell and got dirty, but Toast bought him a G.I. Joe figure that scared his mother half to death \[10:06 - *I Am The Puppet (Hell's Island Pt.1)*]
-  - Ghost and Toast were once trying to find an arrowhead at the bottom of a lake, so Ghost tied a bowling ball to his ankle to get to the bottom faster but he almost drowned \[21:13 - *The Horror Continues (Hell's Island Pt.2)*]
+  - They built a wagon out of old cereal boxes \[3:54 - *Big Dragon Mod*]
+  - He and Toast used to bobsled down the roof of a house \[2:15 - *Tom and Jerry!*]
+  - Ghost has told Toast to come with him to the bathroom a lot \[7:30 - *Tom and Jerry!*]
+  - Toast once turned a corner and smacked into him and his Barbie dolls fell and got dirty, but Toast bought him a G.I. Joe figure that scared his mother half to death \[10:06 - *I Am The Puppet \(Hell's Island Pt.1)*]
+  - Ghost and Toast were once trying to find an arrowhead at the bottom of a lake, so Ghost tied a bowling ball to his ankle to get to the bottom faster but he almost drowned \[21:13 - *The Horror Continues \(Hell's Island Pt.2)*]
     - Toast saved him with a fishing rod
     - The hook was stuck in Ghost's ear for a day
     - Ghost always kinda wanted his ear pierced
@@ -120,9 +128,16 @@
 ## | Other Trivia
 - He has a college education \[23:15 - *Paranormal Ghost Hunting*]
 - Ghost says he likes the colour red, but doesn't know why he likes it so much \[2:40 - *Haunted By Batman*]
+- He has seen all of time and space twice \(what is, what will be, what currently is, what isn't, and what was) \[9:26 - *Big Dragon Mod* / 12:41 - *Tom and Jerry!*]
 - He has above normal intelligence \[1:33 - *Scary Ghost HUNT Horror Map (Pt.2)*]
+- He sometimes looks for himself because he's a little conceited \[0:50 - *Tom and Jerry!*]
+- When Ghost was little, he had a horrible night where he was up late watching Tom and Jerry and got struck by lightning \(it hit the roof of the house, ran down one of the wires, in through the couch, across his shirt and right up his nose) which struck his brain right in the cortex that only controls the memories of Tom and Jerry \[8:03 - Tom and Jerry!*]
+- He thinks the way to get out of a dream is to stick your finger in a toaster \[12:08 - *Tom and Jerry!*]
+- He has the pinching strength of a crab; his pinch can cause actual damage \[12:18 - *Tom and Jerry!*]
 - He has met Miraak \[5:08 - *Medieval Mod*]
 - He loves boats \[6:41 / 8:50 - *Medieval Mod*]
+- He can pretend to be a prop and it will work because he plays Prop Hunt so often \[6:14 - *Creating A YouTube Channel*]
+- Ghost has a YouTube channel called LegitGhostHunter; he uploads Call of Duty let's plays \[6:54 - *Creating A YouTube Channel*]
 - Ghost has a crowbar in his satchel/man-purse \[2:33 - *Scary & Funny Horror Investigation*]
 - Ghost's favourite politician is Average Joe \[7:13 - *Scary & Funny Horror Investigation*]
 - He has walked off a crossbow arrow stuck through his abdomen \[12:28 - *Puppy Monkey Baby*]
@@ -132,6 +147,9 @@
 - He was in Band class [9:11 - *Haunted School*]
   - He says he's a drummer/dancer/singer-guy
 - He uses glasses \[5:15 - *Neighbor Visits McDonald's*]
+- The back of his hoodie says "freed” \[1:33 - *Barney Hunt*]
+  - Spooker thinks it says "Fred" with 2 e's
+- He went to school in NC \[15:41 - *Barney Hunt*]
 - He is hard to see at night because he wear dark colours \[9:30 - *Scary Pennywise*]
 - Ghost claims he has a lisp [12:43 - *Acachalla's Thanksgiving (2019)*]
 - During a game of Murder, his favourite cheese was disputed: Jordan said Toast cheese and Bethany said Blue cheese \[30:26 - *7th Anniversary Livestream*]
@@ -139,15 +157,17 @@
   - Chakalata Soup kidnapped him the 2nd time \[0:47 - *Johnny Ghost Meets Freddy the Dinosaur*]
 - When alone, Ghost sometimes refers to himself in 3rd person and talks to himself and sometimes talks to his mom, even though she's not there; he also sometimes sings to himself \[2:33 / 3:14 / 4:17 / 5:13 / 5:59 / 6:19 / 6:28 - *Johnny Ghost Did Something Bad* // 2:10 / 7:30 - *Johnny Ghost Meets Freddy the Dinosaur*]
 - It's implied Ghost uses a padlock on his fridge \[3:27 - *Johnny Ghost Meets Freddy the Dinosaur*]
-- Boxes full of things are Ghost's 2nd favourite thing in the whole world \[12:50 - *Johnny Ghost Meets Freddy the Dinosaur*]
+- 'Boxes full of things' are Ghost's 2nd favourite thing in the whole world \[12:50 - *Johnny Ghost Meets Freddy the Dinosaur*]
 
 ----
 
 ## | Mentioned Videos
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 - [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk) \(November 28, 2019)
+- [Barney Hunt](https://youtu.be/Zp4_x_GDMjE) \(August 9, 2017)
 - [Big Dragon Mod](https://youtu.be/nkWX5eoDSEk) \(August 8, 2015)
 - [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g) \(May 3, 2016)
+- [Creating A YouTube Channel](https://youtu.be/mSJ2ZqkES9o) \(January 2, 2016)
 - [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og) \(May 15, 2016)
 - [Funny Balloon Boy](https://youtu.be/EnoiRkmE1y8) \(December 28, 2014)
 - [Gravity Falls Dipper](https://youtu.be/1_W8aGKltEI) \(March 9, 2016)
@@ -158,8 +178,6 @@
 - [Haunted School](https://youtu.be/cV31R3z-P7M) \(November 7, 2016)
 - [Hell's Resort](https://youtu.be/mqVWhWEK2AQ) \(November 6, 2015)
 - [The Horror Continues (Hell's Island Pt.2)](https://youtu.be/YSmqZ0T6Enk) \(August 21, 2015)
-- [Scary Ghost HUNT Horror Map (Pt.2)](https://youtu.be/Q_iwzgwlbwg) \(September 6, 2014)
-- [Scary Ghost HUNT Horror Map (Pt.2/FINALE)](https://youtu.be/nNLNxjfItLU) \(September 9, 2014)
 - [I Am The Puppet (Hell's Island Pt.1)](https://youtu.be/NuONWZ-LDQ0) \(August 20, 2015)
 - [Johnny Ghost Did Something Bad](https://youtu.be/e94uIredEVM) \(March 8, 2020)
 - [Johnny Ghost L4D](https://youtu.be/u4msj3CN7yI) \(May 28, 2014)
@@ -173,7 +191,10 @@
 - [Paranormal Ghost Hunting](https://youtu.be/VEq4ggHacoU) \(June 7, 2014)
 - [Puppy Monkey Baby](https://youtu.be/vYxhpspmPF0) \(February 20, 2016)
 - [Scary & Funny Horror Investigation](https://youtu.be/DPolPvjBouo) \(February 9, 2016)
+- [Scary Ghost HUNT Horror Map (Pt.2)](https://youtu.be/Q_iwzgwlbwg) \(September 6, 2014)
+- [Scary Ghost HUNT Horror Map (Pt.2/FINALE)](https://youtu.be/nNLNxjfItLU) \(September 9, 2014)
 - [Scary Pennywise](https://youtu.be/9W0DYDTkQ98) \(October 15, 2017)
+- [Tom and Jerry!](https://youtu.be/smvQjZ0wlg8) \(August 16, 2015)
 - [Yoshi Nintendo Mod](https://youtu.be/ptihpSu4vcY) \(October 18, 2015)
 
 ----

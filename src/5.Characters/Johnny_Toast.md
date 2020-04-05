@@ -27,13 +27,14 @@
   - Ghost is Toast’s closest friend with which he goes on many paranormal adventures
   - Ghost was 6 when Toast was 8, so they have \(or had, with timelines) a 2-year age difference \[7:03 - *Haunted By Delphox*]
   - Ghost's phone has a British accented ring when calling Toast \[9:26 / 13:51 - *Haunted By Cardboard Friend*]
+  - He knows that "Casket" is Ghost's family name \[18:33 - *Haunted By Cardboard Friend*]
   - Ghost can't remember the last time he's seen Toast in shorts \[6:06 - *Haunted By Batman*]
   - Ghost has told Toast that his waistcoat is "quite fetching" \[17:23 - *Haunted By Batman*]
   - According to Ghost, he taught Ghost everything he knows \[8:25 - *Scary Ghost Children*]
   - Toast doesn't know Ghost's birthday, even though they're close friends \[3:59 - *Ghost Hunters Horror Map*]
   - Him and Ghost usually go out for brunch together \[4:18 - *Johnny Ghost vs Zombies*]
   - He is what quells Ghost’s episodes and keeps him grounded \[1:24 / 15:31 - *Johnny Ghost vs Zombies*]
-  - Ghost and Toast played together since they were kids \[3:54 - *Big Dragon*]
+  - Ghost and Toast played together since they were kids \[3:54 - *Big Dragon Mod*]
   - Toast says that it's his job to watch over Ghost as he can be stupid sometimes \[9:11 - *I Am The Puppet (Hell's Island Pt.1)*]
   - Toast will do nearly anything for Ghost \[9:22 - *Medieval Mod*]
   - He bought Ghost a camera for his birthday \[1:22 - *Yoshi Nintendo Mod*]
@@ -74,8 +75,10 @@
   - Ghost and Toast had a job at a library \[22:29 - *Scary Ghost HUNT Horror Map (Pt.2/FINALE)*]
   - Ghost and Toast had plans for a vacation in Hawaii \[19:20 - *Johnny Ghost L4D*]
   - Toast has seen Ghost clip through the wall before due to a nuclear reactor having an effect on Ghost's left leg as a karate test; Ghost denies it \[*14:21 - Funny Balloon Boy*]
-  - They built a wagon out of old cereal boxes \[3:54 - *Big Dragon*]
+  - They built a wagon out of old cereal boxes \[3:54 - *Big Dragon Mod*]
   - Ghost and Toast use to eat pineapples together \[10:52 - *Big Dragon Mod*]
+  - He and Ghost used to bobsled down the roof of a house \[2:15 - *Tom and Jerry!]
+  - Ghost has told Toast to come with him to the bathroom a lot \[7:30 - *Tom and Jerry!*]
   - Toast once turned a corner and smacked into Ghost and his Barbie dolls fell and got dirty, but Toast bought him a G.I. Joe figure that scared his mother half to death \[10:06 - *I Am The Puppet (Hell's Island Pt.1)*]
   - Ghost and Toast were once trying to find an arrowhead at the bottom of a lake, so Ghost tied a bowling ball to his ankle to get to the bottom faster but he almost drowned \[21:13 - *The Horror Continues (Hell's Island Pt.2)*]
    - Toast saved him with a fishing rod
@@ -157,8 +160,10 @@
 - Toast speaks Nyan \[10:57 - *Haunted By Elmo*]
 - Toast doesn't shop; all his clothes are handmade \(by his Grandmother) \[3:35 - *OMG Cute Cats*]
 - Toast is allergic to cats \[6:54 - *OMG Cute Cats*]
+- He can pretend to be a prop and it will work because he plays Prop Hunt so often \[6:14 - *Creating A YouTube Channel*]
 - Toast has twice tried to make an intro like Ghost has \[1:01 / 1:14 / 9:12 - *Scary & Funny Horror Investigation*]
   > 1st Attempt: "I'm Johnny Toast and, um, part- partners and things, I- I like mayonnaise and- and ketchup, and you- you mix the ketchup and you put it on the-"
+
   > 2nd Attempt: "I'm Johnny Toast and I like macaroni & cheese"
 - Every time Toast is nervous, he goes to condiments; his last date sounded like he was ordering off of a menu \[1:35 - *Scary & Funny Horror Investigation*]
 - He says he's an expert in stupid things \[2:56 - *Scary & Funny Horror Investigation*]
@@ -195,6 +200,7 @@
 - [Big Dragon Mod](https://youtu.be/nkWX5eoDSEk) \(August 8, 2015)
 - [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g) \(May 3, 2016)
 - [Can Ghost Hunters Survive on an Island?](https://youtu.be/xW4E8DGLAbM) \(November 14, 2017)
+- [Creating A YouTube Channel](https://youtu.be/mSJ2ZqkES9o) \(January 2, 2016)
 - [Donald Trump Visits McDonald's](https://youtu.be/FHOWpPGl3Ds) \(February 28, 2016)
 - [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og) \(May 15, 2016)
 - [Funny Balloon Boy](https://youtu.be/EnoiRkmE1y8) \(December 28, 2014)
@@ -230,6 +236,7 @@
 - [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U) \(March 22, 2015)
 - [Scary Ghost HUNT Horror Map (Pt.2)](https://youtu.be/Q_iwzgwlbwg) \(September 6, 2014)
 - [Scary Ghost HUNT Horror Map (Pt.2/FINALE)](https://youtu.be/nNLNxjfItLU) \(September 9, 2014)
+- [Tom and Jerry!](https://youtu.be/smvQjZ0wlg8) \(August 16, 2015)
 - [Working At McDonald’s](https://youtu.be/ybS5js68e2E) \(September 11, 2015)
 - [Yoshi Nintendo Mod](https://youtu.be/ptihpSu4vcY) \(October 18, 2015)
 
