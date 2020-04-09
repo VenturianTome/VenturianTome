@@ -1,6 +1,6 @@
 # Johnny Ghost
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTWSgavpV7U5eCr_QV7fgW0)
 
 > "I hunt paranormal entities, and I try and stop them because that's what I do." -Ghost \[2:46 - *My Wife's First Horror Map*]
 

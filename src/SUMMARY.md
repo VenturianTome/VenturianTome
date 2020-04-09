@@ -12,6 +12,7 @@
     - [Areas & Places](./4.World/Areas-Places.md)
     - [Billion Year War](./4.World/Billion_Year_War.md)
     - [Canon Fixes](./4.World/Canon_Fixes.md)
+    - [Character Death Counts](./4.World/Character-Death-Counts.md)
     - [Dimensions & Realms](./4.World/Dimensions-Realms.md)
     - [Fourth-Wall Breaks](./4.World/Fourth-Wall_Breaks.md)
     - [Ghosts & Entities](./4.World/Ghosts-Entities.md)

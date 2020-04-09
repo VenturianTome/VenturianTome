@@ -1,6 +1,6 @@
 # Gertrude Acachalla
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS-DCo75jMicYmfp6NFYDyw)
 
 ## | Basics
 - Introduction Video: **

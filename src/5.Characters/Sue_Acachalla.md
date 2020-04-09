@@ -1,6 +1,6 @@
 # Sue Acachalla the Suckish Officer
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTo19d1yk-ieYjbGcMzdzd8)
 
 ## | Basics
 - Introduction Video: **

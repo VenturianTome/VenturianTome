@@ -1,6 +1,6 @@
 # The Housekeeper
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTMpb0jS7Vb9roBEx7d8_SE)
 
 ## | Basics
 - Introduction Video: \(Mentioned) *Paranormal Ghost Hunt* / \(Physical) *Johnny Ghost vs Zombies*

@@ -1,6 +1,6 @@
 # Papa Acachalla
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQ87S1yyAZg0Wd4zHzMOs2B)
 
 > "Alright" -Papa, when asked to make a catchphrase \[16:58 - *Haunted By Batman*]
 

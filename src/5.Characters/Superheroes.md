@@ -1,6 +1,6 @@
 # Superheroes
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiR_gAk1VD00d1Xe0A2-uLSt)
 
 ## | Basics
 - Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)

@@ -1,6 +1,6 @@
 # Pokemon
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQdsN9as0-Y0lL2IjjBmQ4E)
 
 ## | Basics
 - Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)

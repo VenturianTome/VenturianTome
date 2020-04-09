@@ -1,6 +1,6 @@
 # Maddie Friend
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRc1qHDMOYy7xXdZMY-Dw4K)
 
 ## | Basics
 - Introduction Video: **

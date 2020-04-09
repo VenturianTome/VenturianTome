@@ -1,7 +1,7 @@
 # Cardboard Friend
 ### [Masterlist \(By Series)](https://docs.google.com/document/d/1P4ZRD6jhglXKt3SsYtIAv_rMaoukohVZo7UtJlB7gJU/edit)
 ### [Masterlist \(Chronological)](https://docs.google.com/document/d/13oE9ME_8PNXHDKpw5HVfEFSxjqhHP0kOD7ag5coS6h0/edit)
-### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSAvbZSohU1e8OHren0ot6z)
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSkO2q1RuWqUV2TtePZlG0P)
 
 ## | Basics
 - Introduction Video: *Cardboard Friend*

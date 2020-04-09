@@ -1,6 +1,6 @@
 # Stardust Sprinkleshine
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSgWdReZneEGHVu8gaKSFwE)
 
 > "Unicorn gonna mess you up, foo'!"
 

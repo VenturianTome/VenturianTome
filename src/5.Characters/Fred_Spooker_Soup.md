@@ -1,6 +1,6 @@
 # Fred “Spooker” Soup
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRreOZ9Y6_PBnVL-9Idnp69)
 
 ## | Basics
 - Introduction Video: *Scary Ghost Children*

@@ -1,6 +1,6 @@
 # Light Zeron
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS6cn1ICyPIMITpfIjcBGPC)
 
 ## | Basics
 - Introduction Video: **

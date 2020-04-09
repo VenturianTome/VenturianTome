@@ -1,6 +1,6 @@
 # Sally Acachalla
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRVD8W7ICPXDmRa4jwsg7hF)
 
 ## | Basics
 - Introduction Video: **

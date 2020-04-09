@@ -1,6 +1,6 @@
 # Prince Fang
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSgOzLMzdfNxWj5bEvXIR6A)
 
 ## | Basics
 - Introduction Video: **

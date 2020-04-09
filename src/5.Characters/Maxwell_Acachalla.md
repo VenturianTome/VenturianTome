@@ -1,6 +1,6 @@
 # Maxwell Acachalla
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQfQnRS6WrYoHucM2crRgBU)
 
 ## | Basics
 - Introduction Video: **

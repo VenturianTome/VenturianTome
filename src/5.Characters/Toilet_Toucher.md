@@ -1,6 +1,6 @@
 # Toilet Toucher
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSW_5sTpMqUn6Mee_tunxdy)
 
 ## | Basics
 - Introduction Video: **

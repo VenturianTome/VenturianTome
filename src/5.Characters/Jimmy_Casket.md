@@ -1,7 +1,7 @@
 # Jimmy Casket
 ### [Masterlist \(By Series)](https://drive.google.com/open?id=1Q70TOV2USknDBMNtzaAegT2xaBJPmYXNBV_BQyPij28)
 ### [Masterlist \(Chronological)](https://drive.google.com/open?id=1cSqV-6bN2i3ZpLb4thxJJ4LALoFeQ11kgFLUowdLEU0)
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTQOsXv2VfLvmWRx8JWGDV-)
 
 
 ## | Basics

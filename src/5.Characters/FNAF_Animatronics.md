@@ -1,6 +1,6 @@
 # Five Nights At Freddy’s Characters
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRy_3kITwqZz5tfeTWrrAp2)
 
 ## | Basics
 - Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md) / [Five Nights At Freddy’s](6.Series/FNAF.md)

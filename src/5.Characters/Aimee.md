@@ -1,6 +1,6 @@
 # Aimee
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSeTozjCGPymloBvyDHvDi_)
 
 ## | Basics
 - Introduction Video: **
@@ -11,8 +11,8 @@
 ----
 
 ## | Relationships
-- [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
-  - --
+- [****]()
+  - 
 
 ----
 

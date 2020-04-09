@@ -1,6 +1,6 @@
 # Vahl Aradur
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTmkRQFq4B8WuoY30M3V2Xl)
 
 > More information about A Skyrim Tale and Vahl's companion characters can be found [here](6.Series/Tale_Series/Skyrim_Tale.md)
 

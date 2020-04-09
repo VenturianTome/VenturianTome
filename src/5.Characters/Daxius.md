@@ -1,6 +1,6 @@
 # Daxius
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiT-8cG2UlAKZyfgzOlsH432)
 
 
 ## | Basics

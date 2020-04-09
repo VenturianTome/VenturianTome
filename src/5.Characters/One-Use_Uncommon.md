@@ -1,5 +1,6 @@
 # One-Use / Uncommon Characters
 #### *These are characters that have only been used once or only a few times on the channel, commonly in [Gmod Roleplays](6.Series/GMod/Roleplays.md)*
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSn44lATlCeQitRfPjObvhw)
 
 
 ## Average Joe

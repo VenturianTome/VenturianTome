@@ -1,6 +1,6 @@
 # Spencer Acachalla
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiT4p9aA1aMvIT2V3FhsZta6)
 
 ## | Basics
 - Introduction Video: **

@@ -1,6 +1,6 @@
 # Cywren Caster
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSEPUiDo_VSXKiAnuXyfHJS)
 
 > More information about A Fallout Tale and Cywren's companion characters can be found [here](6.Series/Tale_Series/Fallout_Tale.md)
 

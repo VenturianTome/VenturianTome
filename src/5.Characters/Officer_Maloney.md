@@ -1,6 +1,6 @@
 # Officer Maloney
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTdo5J3QJUv6AzsBpf6U1gE)
 
 ## | Basics
 - Introduction Video: **

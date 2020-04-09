@@ -1,6 +1,6 @@
 # Princeton Quagmire
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS0um44bxjQjCXufN3oyUSL)
 
 ## | Basics
 - Introduction Video: *Murder 3: Jimmy Casket*

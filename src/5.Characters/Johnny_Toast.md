@@ -1,6 +1,6 @@
 # Johnny Toast
 ### [Masterlist]()
-### [Playlist]()
+### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRAr9eqbJxHUikffNJ4qxl5)
 
 ## | Basics
 - Introduction Video: *Prop Hunt 17: Johnny Ghost*
