@@ -5,7 +5,9 @@
 
 
 ## | Basics
-- Introduction Video: \(Created) *Murder 1*; \(Named) *Murder 3: Jimmy Casket*
+- Introduction Video(s):
+  - Created: *Murder 1* \(January 12, 2014)
+  - Named: *Murder 3: Jimmy Casket* \(January 18, 2014)
 - Branch / Occupation: Murderer / Entity
 - Weapon of Choice: Knife \(Knifey)
 - Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md) & [Gmod Murder](6.Series/Gmod/Murder.md)

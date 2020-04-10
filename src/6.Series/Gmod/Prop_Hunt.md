@@ -15,16 +15,16 @@
 ----
 
 ## | Score
-- Hunters: *
-- Props: *
-  - **
-    - H: *
-    - P: *
+- Hunters: 2
+- Props: 0
+  - *7th Anniversary Livestream*
+    - H: 2
+    - P: 0
 
 ----
  
 ## | Mentioned Videos
-- []()
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
  
 ----
  

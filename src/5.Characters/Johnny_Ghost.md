@@ -5,7 +5,9 @@
 > "I hunt paranormal entities, and I try and stop them because that's what I do." -Ghost \[2:46 - *My Wife's First Horror Map*]
 
 ## | Basics
-- Introduction Video: \(Technically) *Kermit the Frog Mod*; \(Formally) *Prop Hunt 17: Johnny Ghost*
+- Introduction Video(s):
+  - Technically: *Kermit the Frog Mod* \(September 27, 2013)
+  - Formally: *Prop Hunt 17: Johnny Ghost* \(January 8, 2014)
 - Occupation: P.I.E. Team Member
 - Weapon of Choice: Handgun
 - Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md) & [Gmod Horror Maps](6.Series/GMod/Horror_Maps.md)

@@ -3,7 +3,7 @@
 ### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRAr9eqbJxHUikffNJ4qxl5)
 
 ## | Basics
-- Introduction Video: *Prop Hunt 17: Johnny Ghost*
+- Introduction Video: *Prop Hunt 17: Johnny Ghost* \(January 8, 2014)
 - Occupation: P.I.E. Team Member
 - Weapon of Choice: Handgun
 - Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md) & [Gmod Horror Maps](6.Series/Gmod/Horror_Maps.md)

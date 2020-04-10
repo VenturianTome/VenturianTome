@@ -3,7 +3,7 @@
 ### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiRreOZ9Y6_PBnVL-9Idnp69)
 
 ## | Basics
-- Introduction Video: *Scary Ghost Children*
+- Introduction Video: *Scary Ghost Children* \(March 22, 2015)
 - Occupation: P.I.E. Team Member
 - Weapon of Choice: Handgun
 - Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)

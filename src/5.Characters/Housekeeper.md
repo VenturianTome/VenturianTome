@@ -3,7 +3,9 @@
 ### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTMpb0jS7Vb9roBEx7d8_SE)
 
 ## | Basics
-- Introduction Video: \(Mentioned) *Paranormal Ghost Hunt* / \(Physical) *Johnny Ghost vs Zombies*
+- Introduction Video(s):
+  - Mentioned: *Paranormal Ghost Hunting* \(June 7, 2014)
+  - Physical: *Johnny Ghost vs Zombies* \(July 30, 2015)
 - Occupation: Ghost / Entity
 - Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md) & [Gmod Horror Maps](6.Series/Gmod/Horror_Maps.md)
 - Species: Ghost / Entity

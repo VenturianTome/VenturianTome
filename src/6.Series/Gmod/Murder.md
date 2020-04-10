@@ -10,8 +10,11 @@
 ----
 
 ## | Total Score
-- Bystanders: 9
-- Murderer: 11
+- Bystanders: 12
+- Murderer: 18
+  - *7th Anniversary Livestream*
+    - B: 3
+    - M: 7
   - *Murder 3: Jimmy Casket*
     - B: *
     - M: *
@@ -33,6 +36,7 @@
 ----
  
 ## | Mentioned Videos
+- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 - [Murder 3: Jimmy Casket](https://youtu.be/ijGTXelXjx4) \(January 18, 2014)
 - [Murder 14: Announcements, Celebrations](https://youtu.be/Tmn4m60nE5g) \(July 18, 2014)
 - [Murder 17: Murder Mystery](https://youtu.be/e2Eo0UxQviQ) \(October 16, 2014)

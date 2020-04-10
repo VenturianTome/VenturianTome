@@ -3,7 +3,7 @@
 ### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSAvbZSohU1e8OHren0ot6z)
 
 ## | Basics
-- Introduction Video: *Motorcycle Mod*
+- Introduction Video: *Motorcycle Mod* \(June 4, 2013)
 - Occupation: Acachalla, Medic
 - Weapon of Choice: Handgun
 - Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)

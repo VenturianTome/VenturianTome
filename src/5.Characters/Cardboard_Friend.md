@@ -4,7 +4,7 @@
 ### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSkO2q1RuWqUV2TtePZlG0P)
 
 ## | Basics
-- Introduction Video: *Cardboard Friend*
+- Introduction Video: *Cardboard Friend* \(September 15, 2013)
 - Branch / Occupation: Entity
 - Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)
 - Species: Entity

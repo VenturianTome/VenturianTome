@@ -3,7 +3,7 @@
 ### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiQZwoCQVXqg0D8wshrIATTj)
 
 ## | Basics
-- Introduction Video: *Haunted School*
+- Introduction Video: *Haunted School* \(November 7, 2016)
 - Occupation: P.I.E. Team Member
 - Weapon(s) of Choice: Handgun, Super Monster Zapper Gun
 - Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)

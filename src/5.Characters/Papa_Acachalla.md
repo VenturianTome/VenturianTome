@@ -5,7 +5,7 @@
 > "Alright" -Papa, when asked to make a catchphrase \[16:58 - *Haunted By Batman*]
 
 ## | Basics
-- Introduction Video: *Motorcycle Mod*
+- Introduction Video: *Motorcycle Mod* \(June 4, 2013)
 - Occupation: Acachalla Family / Foster Father
 - Weapon of Choice: Handgun / Shotgun \(Annabelle)
 - Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md)

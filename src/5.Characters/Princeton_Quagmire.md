@@ -3,7 +3,7 @@
 ### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiS0um44bxjQjCXufN3oyUSL)
 
 ## | Basics
-- Introduction Video: *Murder 3: Jimmy Casket*
+- Introduction Video: *Murder 3: Jimmy Casket* \(January 18, 2014)
 - Occupation: Law Enforcement / Sheriff
 - Weapon of Choice: Handgun \(Revolver)
 - Most Common Series: [Gmod Roleplays](6.Series/Gmod/Roleplays.md) & [Gmod Murder](6.Series/Gmod/Murder.md)
