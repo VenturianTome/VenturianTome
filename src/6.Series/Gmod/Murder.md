@@ -10,8 +10,11 @@
 ----
 
 ## | Total Score
-- Bystanders: 12
-- Murderer: 18
+- Bystanders: 17
+- Murderer: 21
+  - *5th Anniversary Livestream*
+    - B: 5
+    - M: 3
   - *7th Anniversary Livestream*
     - B: 3
     - M: 7
@@ -36,6 +39,7 @@
 ----
  
 ## | Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 - [Murder 3: Jimmy Casket](https://youtu.be/ijGTXelXjx4) \(January 18, 2014)
 - [Murder 14: Announcements, Celebrations](https://youtu.be/Tmn4m60nE5g) \(July 18, 2014)

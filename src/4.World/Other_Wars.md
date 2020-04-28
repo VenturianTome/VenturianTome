@@ -17,7 +17,7 @@
 ----
 
 ## | Mentioned Videos
-- [Neighbor Vists McDonald's](https://youtu.be/hviiaU4UmZA) \(March 4, 2017)
+- [Neighbor Visits McDonald's](https://youtu.be/hviiaU4UmZA) \(March 4, 2017)
 - [Johnny Bot](https://youtu.be/B8utDaG1fsE) \(December 15, 2018)
 
 ----

@@ -39,6 +39,7 @@
   - Toast will do nearly anything for Ghost \[9:22 - *Medieval Mod*]
   - He bought Ghost a camera for his birthday \[1:22 - *Yoshi Nintendo Mod*]
   - Toast normally tells Ghost a bedtime story about "the 16 elephants but one of them was a tiger;" there's no death in the original story; the original story is beautiful \[9:29 - *Gravity Falls Dipper*]
+  - Toast has seen Ghost from the future a lot \[2:25:35 - *5th Anniversary Livestream*]
   - He reads Ghost bedtime stories \[4:43 - *Playable Animatronics 17*]
   - Ghost is thankful for his partner Johnny Toast, Toast is thankful for himself and Ghost \("it's a whole thing" -Ghost) [20:01 - *Acachalla's Thanksgiving (2019)*]
   - \[2:23 - *Johnny Ghost Meets Freddy the Dinosaur*] Toast taught Ghost some helpful tips for when he's stressed:
@@ -46,6 +47,9 @@
     - Step 2) Check in the immediate vicinity for Chinese food
     - Step 3) Get the key, use the Chinese food as a distraction
   - Ghost and Toast are currently having a pun war \[5:49 - *Johnny Ghost Meets Freddy the Dinosaur*]
+
+- [**Katrina**](5.Characters/One-Use_Uncommon.md)
+  - He has a cousin that looks like Katrina \[2:24:02 - *5th Anniversary Livestream*]
 
 - [**Papa Acachalla**](5.Characters/Papa_Acachalla.md)
   - Toast has only led Papa wrong twice \[2:40:30 - *7th Anniversary Livestream*]
@@ -97,8 +101,14 @@
   - Toast has a '15 Tips to a Healthier Living' \[8:39 - *Johnny Ghost Meets Freddy the Dinosaur*]
     - Tip 10) if there's a paint can, use it as a shield
     - Tip 16) if it's Papa Acachalla, run for your life
-- Time as Sally
-  - The Toast/Sally Arc ends \[17:23 - *Haunted By Batman*]
+- Multiple Tranformations
+  - Time as Sally
+    - The Toast/Sally Arc ends \[17:23 - *Haunted By Batman*]
+  - Fusion with Maddie
+    - He and Maddie were unfused by Bigfoot, who used some of his fairy magic \(that's embedded in his armpits) \[38:17 - *5th Anniversary Livestream*]
+      - Toast got all of himself back, but Maddie was turned into a Doge and lost her limbs
+  - He commonly gets turned into things \(vampire, werewolf, Sally, etc.) and it's never explained how he gets fixed \[24:13 - *5th Anniversary Livestream*]
+    - Jordan says he always imagines someone smart \(but not Ghost) comes to help them fix it *or* each instance is a different timeline and he's stuck that way
 - Dealing with Macaroni
   - Toast's favourite book is "How To Make Macaroni & Cheese" \[11:47 - *The Horror Continues (Hell's Island Pt.2)*]
   - Toast says he's always having trouble with the police \[9:56 - *Scary & Funny Horror Investigation*]
@@ -181,6 +191,8 @@
 - Toast can call in for "The Ghost's Death" \(sent by helicopter) through a pizza-company's phone number \[9:51 - *Playable Animatronics 10*]
 - Toast has a really high-pitched scream but tries to cover it up \[10:18 - *Playable Animatronics 10*]
 - Toast *doesn't* know how to drive a boat \[0:38 - *Can Ghost Hunters Survive on an Island?*]
+- Toast's mind is a burning building with his mother in it; once she disappears, he says "it's too soon" \[2:41:03 - *5th Anniversary Livestream*]
+- He was once a female as a disguise \[3:14:03 - *5th Anniversary Livestream*]
 - Toast doesn't like pineapples \[4:29 - *Haunted By Grandma*]
 - Toast has an allergic reaction to fabrics; whenever Toast is completely nude, he doesn't make contact with physical objects \[12:10 - *Haunted By Grandma*]
 - He has fine china \[0:45 - *Playable Animatronics 17*]
@@ -191,6 +203,7 @@
 - He has attempted to clone himself by turning other people into him to help him with work \[3:56 - *Return of Jimmy Casket*]
 - His mom told him he's not allowed to be in cupboards [14:14 - *Acachalla's Thanksgiving (2019)*]
 - He has a crush on Dwayne Johnson [14:25 / 14:59 - *Acachalla's Thanksgiving (2019)*]
+- He punches people every so often \[10:41 - *Spooker Returns!*]
 
 ----
 
@@ -228,7 +241,7 @@
 - [Paranormal Ghost Hunting](https://youtu.be/VEq4ggHacoU) \(June 7, 2014)
 - [Playable Animatronics 10](https://youtu.be/2qdDjiasqEc) \(January 21, 2017)
 - [Playable Animatronics 17](https://youtu.be/mkyVjLCmh8w) \(November 18, 2018)
-- [President Vists McDonald's](https://youtu.be/SuFQcxceQJI) \(December 25, 2014)
+- [President Visits McDonald's](https://youtu.be/SuFQcxceQJI) \(December 25, 2014)
 - [Prop Hunt 17: Johnny Ghost](https://youtu.be/H2qGnan-vqU) \(January 8, 2014)
 - [Prop Hunt 18: Ghost Hunt](https://youtu.be/2yVe4fe8lRw) \(April 22, 2014)
 - [Return of Jimmy Casket](https://youtu.be/Twja4LFhVaU) \(March 21, 2019)
@@ -239,6 +252,9 @@
 - [Tom and Jerry!](https://youtu.be/smvQjZ0wlg8) \(August 16, 2015)
 - [Working At McDonald’s](https://youtu.be/ybS5js68e2E) \(September 11, 2015)
 - [Yoshi Nintendo Mod](https://youtu.be/ptihpSu4vcY) \(October 18, 2015)
+
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
+- [Spooker Returns!](https://youtu.be/B5SIUxDgLIA) \(January 22, 2020)
 
 ----
 

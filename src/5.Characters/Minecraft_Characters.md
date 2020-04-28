@@ -53,9 +53,9 @@
 ----
 
 ## | Mentioned Videos
-- [Another Minecraft Tale S2 E2](https://youtu.be/uzu9DVzDVnk)
-- [Another Minecraft Tale S2 E4](https://youtu.be/JbWQ1MCyLVQ)
-- [Another Minecraft Tale S2 E8](https://youtu.be/YEjtw19HRlo)
+- [Another Minecraft Tale S2 E2](https://youtu.be/uzu9DVzDVnk) \(September 12, 2019)
+- [Another Minecraft Tale S2 E4](https://youtu.be/JbWQ1MCyLVQ) \(September 14, 2019)
+- [Another Minecraft Tale S2 E8](https://youtu.be/YEjtw19HRlo) \(September 19, 2019)
 
 ----
 

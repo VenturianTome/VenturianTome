@@ -25,7 +25,9 @@
 - It has its own soundtrack, written by [Jordan](../3.Siblings/3.1.Jordan-Frye-Venturian.md) \(linked at the top of this page)
 
 ### Mentioned Videos
-- []()
+- [Beyond The Wall](https://youtu.be/7x75F3d_2Bw) \(August 11, 2014)
+- [Beyond The Lies](https://youtu.be/Zf7WRwfEu4Y) \(August 25, 2014)
+- [Beyond The Killing](https://youtu.be/7Nq6E_t8_Mw) \(September 1, 2014)
 
 ----
  

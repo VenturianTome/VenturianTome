@@ -69,6 +69,7 @@
   - His mother once told him "damage done at a distance is damage done indeed;" Ghost is unsure what she meant \[4:25 - *Johnny Ghost Meets Freddy the Dinosaur*]
 
 - [**Papa Acachalla**](5.Characters/Papa_Acachalla.md)
+  - Papa was his first failed case \[16:35 - *Velociraptor Playermodels*]
   - Ghost knows Papa's house better than Papa does because he's 'kinda' a stalker \[14:10 - *Haunted By Batman*]
   - In a 1-on-1 Ghost vs Papa fight, Ghost will lose every time \[9:22 - *Johnny Ghost Meets Freddy the Dinosaur*]
     > "That's just math!" -Jordan/Ghost
@@ -128,6 +129,8 @@
 ----
 
 ## | Other Trivia
+- He has certain "ghost-type abilities," including communicating with ghosts \[14:04 / 16:52 - *Velociraptor Playermodels*]
+- He never had a patient that he didn't kill until Papa became his failed case \[16:35 - *Velociraptor Playermodels*]
 - He has a college education \[23:15 - *Paranormal Ghost Hunting*]
 - Ghost says he likes the colour red, but doesn't know why he likes it so much \[2:40 - *Haunted By Batman*]
 - He has seen all of time and space twice \(what is, what will be, what currently is, what isn't, and what was) \[9:26 - *Big Dragon Mod* / 12:41 - *Tom and Jerry!*]
@@ -153,6 +156,11 @@
   - Spooker thinks it says "Fred" with 2 e's
 - He went to school in NC \[15:41 - *Barney Hunt*]
 - He is hard to see at night because he wear dark colours \[9:30 - *Scary Pennywise*]
+- Ghost has many possibilities for his father, so there is a possibility that he had/has a step-dad \[11:25 / 12:08 / 20:20 - *5th Anniversary Livestream*]
+- He was raised by his mom \[21:23 - *5th Anniversary Livestream*]
+- He wears Powerpuff Girl pajamas \(a full onesie) under his clothes at all times \[43:10 / 45:44 - *5th Anniversary Livestream*]
+  - He once left them at Toast's house and never got them back
+- Ghost's mind is a concrete basement with a steel door, but the floor falls out from under them; they say falling means Ghost's life is out of control \[2:43:30 - *5th Anniversary Livestream*]
 - Ghost claims he has a lisp [12:43 - *Acachalla's Thanksgiving (2019)*]
 - During a game of Murder, his favourite cheese was disputed: Jordan said Toast cheese and Bethany said Blue cheese \[30:26 - *7th Anniversary Livestream*]
 - Ghost has been kidnapped and put into 2 basements consecutively in *Johnny Ghost Did Something Bad* and *Johnny Ghost Meets Freddy the Dinosaur*
@@ -160,10 +168,13 @@
 - When alone, Ghost sometimes refers to himself in 3rd person and talks to himself and sometimes talks to his mom, even though she's not there; he also sometimes sings to himself \[2:33 / 3:14 / 4:17 / 5:13 / 5:59 / 6:19 / 6:28 - *Johnny Ghost Did Something Bad* // 2:10 / 7:30 - *Johnny Ghost Meets Freddy the Dinosaur*]
 - It's implied Ghost uses a padlock on his fridge \[3:27 - *Johnny Ghost Meets Freddy the Dinosaur*]
 - 'Boxes full of things' are Ghost's 2nd favourite thing in the whole world \[12:50 - *Johnny Ghost Meets Freddy the Dinosaur*]
+- He paints his fingernails white \[0:41 - *Johnny Ghost Paints His Nails!?*]
+  - His flashlight is actually the brightness of his nails \[1:25 / 5:32 / 5:53 - *Johnny Ghost Paints His Nails!?*]
 
 ----
 
 ## | Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 - [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk) \(November 28, 2019)
 - [Barney Hunt](https://youtu.be/Zp4_x_GDMjE) \(August 9, 2017)
@@ -184,12 +195,13 @@
 - [Johnny Ghost Did Something Bad](https://youtu.be/e94uIredEVM) \(March 8, 2020)
 - [Johnny Ghost L4D](https://youtu.be/u4msj3CN7yI) \(May 28, 2014)
 - [Johnny Ghost Meets Freddy the Dinosaur](https://youtu.be/cNcfpGXRgYM) \(March 14, 2020)
+- [Johnny Ghost Paints His Nails!?](https://youtu.be/7YI9Gj5K2qg) \(April 18, 2020)
 - [Johnny Ghost vs Zombies](https://youtu.be/ZZi4QOcKkno) \(July 30, 2015)
 - [Kidnapped By BananaCorp](https://youtu.be/wt_kHMmAnTQ) \(April 2, 2019)
 - [Medieval Mod](https://youtu.be/C9Gvs-3MxNY) \(October 6, 2015)
 - [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY) \(December 19, 2019)
 - [Minions Visit McDonald's](https://youtu.be/Yk0RNCWNQKY) \(April 5, 2016)
-- [Neighbor Vists McDonald's](https://youtu.be/hviiaU4UmZA) \(March 4, 2017)
+- [Neighbor Visits McDonald's](https://youtu.be/hviiaU4UmZA) \(March 4, 2017)
 - [Paranormal Ghost Hunting](https://youtu.be/VEq4ggHacoU) \(June 7, 2014)
 - [Puppy Monkey Baby](https://youtu.be/vYxhpspmPF0) \(February 20, 2016)
 - [Scary & Funny Horror Investigation](https://youtu.be/DPolPvjBouo) \(February 9, 2016)
@@ -197,6 +209,7 @@
 - [Scary Ghost HUNT Horror Map (Pt.2/FINALE)](https://youtu.be/nNLNxjfItLU) \(September 9, 2014)
 - [Scary Pennywise](https://youtu.be/9W0DYDTkQ98) \(October 15, 2017)
 - [Tom and Jerry!](https://youtu.be/smvQjZ0wlg8) \(August 16, 2015)
+- [Velociraptor Playermodels](https://youtu.be/BQk4sBDghZE) \(February 12, 2014)
 - [Yoshi Nintendo Mod](https://youtu.be/ptihpSu4vcY) \(October 18, 2015)
 
 ----

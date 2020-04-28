@@ -155,6 +155,16 @@
 
 ----
 
+## Chell
+#### Origin: **
+#### Played by [Jordan](3.Siblings/3.1.Jordan-Frye-Venturian.md) & [Cierra](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
+- She has a blind sister \(Chaeyoung from Twice) \[1:58:47 - *5th Anniversary Livestream*]
+
+### Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
+
+----
+
 ## Clarence
 #### Origin: *Johnny Ghost Did Something Bad*
 - Ghost knew someone named Clarence in middle school who would always kid around; Ghost told him that cheating at Hot Wheel racing would get him killed \[10:09]
@@ -164,12 +174,13 @@
 
 ----
 
-## Crispy Toast (AKA "Crisps the Toast Man")
+## Crispy Toast (AKA "Crisps the Toast Man" *or* "Dofie")
 #### Played by [Cierra Frye](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
 #### Origin: *Neighbor Visits McDonald's*
-- 
+- Toast's great uncle \[23:42 - *5th Anniversary Livestream*]
 
 ### Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [Neighbor Visits McDonald's](https://youtu.be/hviiaU4UmZA) \(March 4, 2017)
 
 ----
@@ -224,7 +235,10 @@
 ----
 
 ## Gavin Toast
-#### Origin: **
+#### Origin: *5th Anniversary Livestream*
+- He's [Johnny Toast](5.Characters/Johnny_Toast.md)'s twin brother \[46:07 / 49:27 - *5th Anniversary Livestream*]
+- He robbed a bank and made away with [Maloney](5.Characters/Officer_Maloney.md)'s police car \[53:09 / 57:40 / 57:59 - *5th Anniversary Livestream*]
+- He agreed to a date with [Josh](5.Characters/Josh.md) \[53:42 - *5th Anniversary Livestream*]
 - Johnny Toast never mentions him even though Gavin is his twin brother \[2:36:05 - *7th Anniversary Livestream*]
 - Papa trusts Gavin because he trusts Johnny \[2:40:30 - *7th Anniversary Livestream*]
 - When asked what makes him different from Johnny, Gavin says he's extra edgy \[2:42:22 - *7th Anniversary Livestream*]
@@ -233,6 +247,7 @@
   - He was shot in the mouth; due to the wound scarring over, he now sounds like Mickey Mouse \[2:46:08 - *7th Anniversary Livestream*]
 
 ### Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 
 ----
@@ -267,6 +282,17 @@
 
 ### Mentioned Videos
 - [Haunted By Grandma](https://youtu.be/yMRGseByyCU) \(September 7, 2018)
+
+----
+
+## The Great Ones / The One
+#### Origin: *5th Anniversary Livestream*
+- Created reality as they know it \[2:22:38]
+- The Great Ones are 13 collective beings that all make up 1 being known as The One \[2:22:38]
+- His son is the Housekeeper \[2:22:38]
+
+### Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 
 ----
 
@@ -386,6 +412,16 @@
 
 ----
 
+## Jose Jose Jose Jose
+#### Origin: **
+#### Played by [Jordan](3.Siblings/3.1.Jordan-Frye-Venturian.md)
+- Papa turns into him every midnight \[12:59 - *Velociraptor Playermodels*]
+
+### Mentioned Videos
+- [Velociraptor Playermodels](https://youtu.be/BQk4sBDghZE) \(February 12, 2014)
+
+----
+
 ## Katrina
 #### Origin: *Scary Ghost HUNT Horror Map (Pt.2)* & *Scary Ghost HUNT Horror Map (Pt.2/FINALE)*
 - Ghost recognizes an entity as "Katrina" and says the ghost is messing with him \[3:59 - *Scary Ghost HUNT Horror Map (Pt.2)*]
@@ -407,37 +443,6 @@
 
 ### Mentioned Videos
 - [Does Acachalla Like Wendy's?](https://youtu.be/K2-86Dc81Ec) \(December 5, 2019)
-
-----
-
-## Leonard Malkovich
-### Origin: *My Wife's First Horror Map*
-#### Played by [Jessica](7.Family/Jessica-Javott42.md)
-- Jessica's first character \[0:07 - *My Wife's First Horror Map*]
-- Was Ghost's temporary partner for a day \[0:51 - *My Wife's First Horror Map*]
-  - Ghost found him on Craigslist
-- He's from Brooklyn \[1:52 - *My Wife's First Horror Map*]
-- The suit that Malkovich is wearing is his casual clothes \("basic Tuesday clothes") \[2:06 - *My Wife's First Horror Map*]
-  - Ghost says it would anger the spirits of the 2nd dimension 
-- He is highly allergic to some cleaning products \[2:52 - *My Wife's First Horror Map*]
-- He has flashlight shoes; he's an inventor in his free time \[3:21 - *My Wife's First Horror Map*]
-- He doesn't like heights \[4:48 - *My Wife's First Horror Map*]
-- The color grey makes him very nauseous \[4:48 - *My Wife's First Horror Map*]
-- He was a soldier/janitor in Vietnam and got his colours for it; his memory was damaged \[4:37 - *Scary Prison Horror Map*]
-  - He lost most of his hearing "back in 'Nam" \[4:56 - *My Wife's First Horror Map*]
-  - He was a janitor \[13:05 - *My Wife's First Horror Map*]
-- He has a grandson \[6:34 - *My Wife's First Horror Map*]
-- He and Colon have interacted, but don't know much about each other \[0:53 / 2:08 / 5:34 / 7:42 - *Scary Prison Horror Map*]
-- He has called himself ugly \[6:31 - *Scary Prison Horror Map*]
-- He doesn't like being called "sir" because it makes him feel old \[12:21 - *Scary Prison Horror Map*]
-- Jordan doesn't think he would make it through the P.I.E. interview process \[54:16 - *7th Anniversary Livestream*]
-  - Jordan left Leonard Malkovich being allowed to join P.I.E. to a vote in the comments \[1:40:53]
-    - A lot of the comments say "yes" and someone says "they let Ghost in, so sure"
-
-## Mentioned Videos
-- [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
-- [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY) \(December 19, 2019)
-- [Scary Prison Horror Map](https://youtu.be/SGb7hPi-eO4) \(January 4, 2020)
 
 ----
 
@@ -560,6 +565,18 @@
 
 ----
 
+## Skelly the Skeleton
+#### Origin: *5th Anniversary Livestream*
+- He's a diabetic \[2:44:46 - *5th Anniversary Livestream*]
+- Is actually [Toast](5.Characters/Johnny_Toast.md) \[2:50:50 - *5th Anniversary Livestream*]
+  - The skeleton matches
+  - He was able to live as a skeleton because he's a vampire
+
+### Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
+
+----
+
 ## Sonic the Hedgehog / Sonic.EXE
 #### Origin: **
 - Sonic.exe is a Level 5 noob ghost that was only recently evolved into a Level 5, which is a physical entity \(unlike a Level 4) [7:55 - *Haunted By Sonic*]
@@ -631,15 +648,26 @@
 
 ----
 
-## William Barricade
+## Whoa the Ghost
 #### Origin: **
-#### Played by [Jordan Frye](3.Siblings/3.1.Jordan_Frye-Venturian/md)
-- Him and [Ghost](5.Characters/Johnny_Ghost.md) know each other, but have never interacted on-screen \(probably because Jordan plays both characters) \[14:00 - *Minions Visit McDonald's*]
-- According to him, Minions are "alien terrorists from another dimension" \[5:38 - *Minions Visit McDonald's*]
+#### Played by []()
+- Their only appearance since their debut was in the *5th Anniversary Livestream* \[1:58:31]
 
 ### Mentioned Videos
-- [Minions Visit McDonald’s](https://youtu.be/Yk0RNCWNQKY) \(April 5, 2016)
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 
+----
+
+## Yakface
+#### Origin: **
+#### Played by [Cierra](3.Siblings/3.2.Cierra-Frye-ImmortalKyodai.md)
+- Sally with a deformed face \[26:45 - *5th Anniversary Livestream*]
+  - She looks that way because she fell down the stairs, got her head stuck in a drawer, and by the time she got it out it was a different shape \[28:08 - *5th Anniversary Livestream*]
+
+### Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
+
+----
 ----
 
 > **NOTE:** Find something that’s wrong or missing? Contact the Admin [here](../chapter_2.md)!

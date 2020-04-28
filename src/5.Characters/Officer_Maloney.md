@@ -13,7 +13,10 @@
 ----
 
 ## | Relationships
-- 
+- [Josh](5.Characters/Josh.md)
+  - She used to hit on him, but he thought she was a guy \[55:25 - *5th Anniversary Livestream*]
+- [Aimee](5.Characters/Aimee.md)
+  - She once tried to flirt with him, but he just walked away \[58:46 - *5th Anniversary Livestream*]
 
 ----
 
@@ -30,6 +33,7 @@
 ----
 
 ## | Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g) \(May 3, 2016)
 - [Johnny Ghost Meets Freddy the Dinosaur](https://youtu.be/cNcfpGXRgYM) \(March 14, 2020)
 

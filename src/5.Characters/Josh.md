@@ -13,8 +13,11 @@
 ----
 
 ## | Relationships
-- [**Dummy**](5.Characters/Dummy.md)
-  - 
+- [**Gavin Toast**](5.Characters/One-Use_Uncommon.md)
+  - She once asked him on a date and he agreed \[53:42 - *5th Anniversary Livestream*]
+
+- [**Maloney**](5.Characters/Officer_Maloney.md)
+  - She used to hit on him, but Maloney thought she was a guy \[55:25 - *5th Anniversary Livestream*]
 
 ----
 
@@ -24,12 +27,13 @@
 ----
 
 ## | Other Trivia
-- 
+- She was a bank teller \[50:25 - *5th Anniversary Livestream*]
+- She has button-click-itus \[3:14:30 / 3:16:55 - *5th Anniversary Livestream*]
 
 ----
 
 ## | Mentioned Videos
-- []()
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 
 ----
 

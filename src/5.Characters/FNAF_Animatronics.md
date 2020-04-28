@@ -12,6 +12,7 @@
 ## Characters
 - Balloon Boy
 - The Cupcake
+- Helpy
 - The Mangle
 - The Puppet
 - Toy Bonnie
@@ -29,6 +30,11 @@
 
 ### The Cupcake
 - The FNAF Cupcake is a Level 0 entity that has been haunting the establishment for 35 years \[5:33 - *Scary Ghost Children*]
+
+----
+
+### Helpy
+- He is [Aimee](5.Characters/Aimee.md)'s newest love \[57:01 - *5th Anniversary Livestream*]
 
 ----
 
@@ -71,6 +77,7 @@
 ----
 
 ## | Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [Funny Balloon Boy](https://youtu.be/EnoiRkmE1y8) \(December 28, 2014)
 - [Playable Animatronics 2](https://youtu.be/_tv07JJ0HE8) \(February 5, 2015)
 - [Playable Animatronics 10](https://youtu.be/2qdDjiasqEc) \(January 21, 2017)

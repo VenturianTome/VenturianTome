@@ -7,6 +7,9 @@
 
 ## | Laws
 - There is a law against staying up past midnight \[9:58 - *Tom and Jerry!*]
+- A "Love Theft" is an actual crime \[54:17 - *5th Anniversary Livestream*]
+- Peeing on a rock is illegal in most states \[1:26 - *Best Gmod Roleplay Ever?*]
+- Macaroni is illegal-ish in this world; it's a controversial topic \[9:53 - *Best Gmod Roleplay Ever?*]
 
 ----
 
@@ -19,6 +22,8 @@
 ----
 
 ## | Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
+- [Best Gmod Roleplay Ever?](https://youtu.be/s3945GoKnO0) \(February 1, 2020)
 - [Ghost Hunters Horror Map](https://youtu.be/oA9jS2ArUk0) \(July 2, 2015)
 - [Haunted By FNAF](https://youtu.be/ntiwledOpi0) \(June 24, 2015)
 - [Johnny Ghost Meets Freddy the Dinosaur](https://youtu.be/cNcfpGXRgYM) \(March 14, 2020)

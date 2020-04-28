@@ -18,6 +18,13 @@
 - [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
   - Gertrude has tried to invite Ghost over for dinner sometime, to which he lies and says he'll think about it \[17:07 - *Puppy Monkey Baby*]
 
+- [**Light Zeron**](5.Characters/Light_Zeron.md)
+  - Sally once tried to hook Light Zeron and Gertrude up \[30:43 - *5th Anniversary Livestream*]
+    - According to Sue, it would work because she only dates stalkers
+
+- [**William Barricade**](5.Characters/One-Use_Uncommon.md)
+  - She has asked William Barricade if she can take some waffles from the fridge \[3:05:20 - *5th Anniversary Livestream*]
+
 ----
 
 ## | Biography
@@ -36,6 +43,7 @@
 ----
 
 ## | Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [Acachalla's Thanksgiving \(2019)](https://youtu.be/dC5GT2mZNEk) \(November 28, 2019)
 - [Puppy Monkey Baby](https://youtu.be/vYxhpspmPF0) \(February 20, 2016)
 - [Scary Underground Horror Map](https://youtu.be/Hd_KT6KbnHI) \(January 22, 2014)

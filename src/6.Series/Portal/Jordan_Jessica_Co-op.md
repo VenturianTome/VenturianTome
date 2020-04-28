@@ -18,7 +18,7 @@
  
 ## | Mentioned Videos
 - [Portal 2 Co-OP #1 (J&J)](https://youtu.be/6GE1-ReTdtU) \(August 14, 2017)
-- [Portal 2 Co-OP #2 (J&J)](https://youtu.be/PMN_G7V_6nI) \(Sugust 16, 2017)
+- [Portal 2 Co-OP #2 (J&J)](https://youtu.be/PMN_G7V_6nI) \(August 16, 2017)
  
 ----
  

@@ -51,6 +51,7 @@
 - He doesn't have a mama \[4:53 - *Dating Slenderman*]
 - He litters \[5:17 - *Dating Slenderman*]
 - Maloney has accused Slenderman of never retiring, but instead working for the CIA; Slender instead says he's working for Sia, the singer \[16:41 - *Dating Slenderman*]
+- He is one of Darth Calculus's sons \[2:16:36 - *5th Anniversary Livestream*]
 - Sally and Slender are still together as of the *7th Anniversary Livestream* \[47:04]
 
 ----
@@ -61,6 +62,7 @@
 ----
 
 ## | Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 - [Creepypasta College](https://youtu.be/TyTM5NU8jKY) \(February 26, 2014)
 - [Dating Slenderman](https://youtu.be/iKCA4r6euXM) \(May 12, 2016)

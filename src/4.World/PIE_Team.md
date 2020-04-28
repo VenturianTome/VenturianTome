@@ -8,6 +8,7 @@
     - The assumed leader of the Team; the one who usually commands what the Team does
 - [**Toast**](../5.Characters/Johnny_Toast.md)
     - The true leader of the company; he funds the Team
+    - They're funded by Toast's wealth \(his & the Queen of England's macaroni corporation) \[24:47 - *5th Anniversary Livestream*]
 - [**Spooker**](../5.Characters/Fred_Spooker_Soup.md)
     - Not technically an intern because he's on the team, but he is not a higher member than Ghost and Toast \[0:53 - *HIDE Horror Map*]
 - [**Colon**](../5.Characters/Chris_Colon_Ghostie.md)
@@ -25,6 +26,7 @@
 ### Locations
 - Headquarters is called The Toast and Ghost Paranormal Investigation Agency \[*1:12 - Playable Animatronics 2*]
   - They have their own priest and shooting range
+  - It only has 1 computer \[2:34 - *Escape From Prison*]
 - A special house as a training ground for new recruits \[1:04 - *Playable Animatronics 10*]
 - They got an office that Ghost wallpapered in floral pattern \[0:38 - *Yoshi Nintendo Mod*]
 ### Teams / People
@@ -45,6 +47,7 @@
 - They have a paranormal machine gun \[2:16 - *Playable Animatronics 17*]
 - Colon carries a Super Monster Zapper Gun on him \[14:03 - *Playable Animatronics 10*]
 - Spooker carries a Ray Gun of Paranormal Activity and a harmonica \[11:37 - *Funny Horror Game*]
+- Ghost has the Sword of the Emperor, a flaming sword that can knock a door off its hinges \[7:58 / 10:41 - *Johnny Ghost Paints His Nails!?*]
 ### Other Items
 - They have a "secret sauce" to transform people back into humans \[4:48 - *I Am The Puppet (Hell's Island Pt.1)*]
   - It's a mixture of chocolate pudding, graham crackers, and gunpowder ingested with a match
@@ -74,6 +77,10 @@
   2. Check your surroundings
   3. Don't panic
   4. Shoot the zombies in the head
+- You have to brush your teeth at least once a week \(*not* twice every 3 month) \[6:55 - *Spooker Returns!*]
+- Ghost hunters never knock because the residents of the house could actually be the ghost\(s) \[7:39 - *Best Gmod Roleplay Ever?*]
+- A bed not made means someone woke up and them vanished \[13:59 - *Best Gmod Roleplay Ever?*]
+- Attics are the most dangerous thing in ghost hunting \[14:27 - *Best Gmod Roleplay Ever?*]
 
 ----
 
@@ -99,8 +106,11 @@
 ----
 
 ## | Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [Barney Hunt](https://youtu.be/Zp4_x_GDMjE) \(August 9, 2017)
+- [Best Gmod Roleplay Ever?](https://youtu.be/s3945GoKnO0) \(February 1, 2020)
 - [Can Ghost Hunters Survive on an Island?](https://youtu.be/xW4E8DGLAbM) \(November 14, 2017)
+- [Escape From Prison](https://youtu.be/nmONeaPY6do) \(January 11, 2020)
 - [Funny Horror Game](https://youtu.be/W_p-t0KtS3U) \(April 5, 2015)
 - [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ) \(July 10, 2014)
 - [Haunted By Delphox](https://youtu.be/gVmjfDiJ184) \(May 30, 2014)
@@ -112,6 +122,7 @@
 - [Johnny Ghost Did A Bad Thing](https://youtu.be/e94uIredEVM) \(March 8, 2020)
 - [Johnny Ghost L4D](https://youtu.be/u4msj3CN7yI) \(May 28, 2014)
 - [Johnny Ghost Moving](https://youtu.be/hf04_xQdqfQ) \(July 24, 2018)
+- [Johnny Ghost Paints His Nails!?](https://youtu.be/7YI9Gj5K2qg) \(April 18, 2020)
 - [Kidnapped By BananaCorp](https://youtu.be/wt_kHMmAnTQ) \(April 2, 2019)
 - [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY) \(December 19, 2019)
 - [Neighbor Visits McDonald's](https://youtu.be/hviiaU4UmZA) \(March 4, 2017)
@@ -123,6 +134,7 @@
 - [Return of Jimmy Casket](https://youtu.be/Twja4LFhVaU) \(March 21, 2019)
 - [Scary & Funny Horror Investigation](https://youtu.be/DPolPvjBouo) \(February 9, 2016)
 - [Scary Ghost Children](https://youtu.be/mUAbzwh5m6U) \(March 22, 2015)
+- [Spooker Returns!](https://youtu.be/B5SIUxDgLIA) \(January 22, 2020)
 - [Super-Powered Baby Mod](https://youtu.be/jWXZO7cAe3o) \(May 11, 2014)
 - [Yoshi Nintendo Mod](https://youtu.be/ptihpSu4vcY) \(October 18, 2015)
 

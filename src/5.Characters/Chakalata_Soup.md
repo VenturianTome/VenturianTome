@@ -16,6 +16,9 @@
 - [**The Betrayer**](5.Character/One-Off_Uncommon.md)
   - Chakalata Soup is the Betrayer's dad \[5:11 / 7:03 - *The Horror Continues (Hell's Isalnd Pt.2)*]
 
+- [**Darth Calcuslus**](5.Characters/Darth_Calculus.md)
+  - He is one of Darth Calculus's sons \[2:16:36 - *5th Anniversary Livestream*]
+
 - [Fred "Spooker" Soup](5.Characters/Fred_Spooker_Soup.md)
   - Chakalata is Spooker's dad \[17:08 - *Funny Horror Game*]
 
@@ -35,9 +38,10 @@
 ----
 
 ## | Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [Funny Horror Game](https://youtu.be/W_p-t0KtS3U) \(April 5, 2015)
 - [Haunted By Delphox](https://youtu.be/gVmjfDiJ184) \(May 30, 2014)
-- [The Horror Continues (Hell's Isalnd Pt.2)](https://youtu.be/YSmqZ0T6Enk) \(August 21, 2015)
+- [The Horror Continues (Hell's Island Pt.2)](https://youtu.be/YSmqZ0T6Enk) \(August 21, 2015)
 
 ----
 

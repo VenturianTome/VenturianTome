@@ -67,7 +67,7 @@
 ## Mentioned Videos
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 - [I Got Married](https://youtu.be/mDasjRwGf2k) \(November 1, 2019)
-- [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY) \(Decemeber 19, 2019)
+- [My Wife's First Horror Map](https://youtu.be/g46Bkr77ZOY) \(December 19, 2019)
 - [Playing Gmod With My Wife](https://youtu.be/E7IVRnqu_wc) \(December 15, 2019)
 - [Portal 2 Co-OP #1 (J&J)](https://youtu.be/6GE1-ReTdtU) \(August 14, 2017)
 - [Portal 2 Co-OP #4 (J&J)](https://youtu.be/ohAhMp0tO00) \(August 21, 2017)

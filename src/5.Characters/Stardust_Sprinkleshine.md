@@ -2,7 +2,7 @@
 ### [Masterlist]()
 ### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiSgWdReZneEGHVu8gaKSFwE)
 
-> "Unicorn gonna mess you up, foo'!"
+> "My name is Stardust Sprinkleshine, and I am fabulous" \[20:33 - *Velociraptor Playermodels*]
 
 ## | Basics
 - Introduction Video: **
@@ -15,8 +15,7 @@
 ----
 
 ## | Relationships
-- [** **]()
-  - 
+- 
 
 ----
 
@@ -26,12 +25,13 @@
 ----
 
 ## | Other Trivia
-- 
+- Rocket Launchers don't affect them because they guard themself with love and hope \[20:17 - *Velociraptor Playermodels*]
+- They're willing to raid someone's vegetable patch to make vegan burgers \[20:53 - *Velociraptor Playermodels*]
 
 ----
 
 ## | Mentioned Videos
-- []()
+- [Velociraptor Playermodels](https://youtu.be/BQk4sBDghZE) \(February 12, 2014)
 
 ----
 

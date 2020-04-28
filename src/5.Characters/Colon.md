@@ -16,6 +16,9 @@
 ----
 
 ## | Relationships
+- [**Jimmy Casket**](5.Characters/Jimmy_Casket.md)
+  - His mind is so blank he could be a host for Jimmy Casket \[2:45:58 - *5th Anniversary Livestream*]
+
 - [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
   > "Buddy, sometimes you gotta get off work and actually let me do something for you for a change" -Colon, to Ghost \[13:31 - *Neighbor Visits McDonald's*]
   - Colon screaming for him is the 2nd most annoying sound Ghost has heard [11:02 - *Haunted School*]
@@ -38,7 +41,7 @@
   - He grew up in the Netherlands, but he ended up in America because his colon yearned for ghosts \[1:19 - *Haunted School*]
     - This story is why Ghost opts to call him Colon \[1:39]
 - Joining P.I.E.
-  - He was originally hired as Ghost's Uber driver and became his partner for his current mission because Ghost didn't have one \[0:20 - *Haunted School*]
+  - He was originally hired as Ghost's Uber driver and became Ghost's partner for his current mission because Ghost didn't have one \[0:20 - *Haunted School*]
 - Time At P.I.E. 
   - Colon carries a Super Monster Zapper Gun on him \[14:03 - *Playable Animatronics 10*]
   - Colon went \(or was supposed to go) to the Middle Eastern Europe because of a major "meltdown-level" ghost outbreak \[2:24 - *Johnny Ghost Moving*]
@@ -52,6 +55,10 @@
   - He is related to Lebron James \[7:36 - *Haunted School*]
 - He had an incident where he slipped, a toilet and Donald Trump were involved, and he got his butt ripped off \[12:35 / 13:15 - *Haunted School*]
 - He has a really high-pitched scream \[2:39 / 4:14 / 5:54 - *Playable Animatronics 10*]
+- He carries around brew \[2:38:03 - *5th Anniversary Livestream*]
+- Colon gave a t-rex m&ms and almost screwed up the timeline because dinosaurs are allergic to chocolate, so he killed all the dinosaurs; luckily, that's what happened to them anyway \[2:46:50 - *5th Anniversary Livestream*]
+- His mind is a cold, smoke-filled wartime \(during The Great/Cold War) somewhere in Russia \[2:47:36 - *5th Anniversary Livestream*]
+- A detective is the officiator at Colon's wedding in the future \[2:50:02 - *5th Anniversary Livestream*]
 - His speciality is in forensics \[1:12 - *Haunted By Grandma*]
 - He considers himself beautiful \[6:31 - *Scary Prison Horror Map*]
 - He's in the Hogwarts house of Ravenclaw \[2:05:47 - *7th Anniversary Livestream*]
@@ -59,6 +66,7 @@
 ----
 
 ## | Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 - [Baraslavian Prison](https://youtu.be/acQ_AEIHW-M) \(April 17, 2019)
 - [Haunted By Grandma](https://youtu.be/yMRGseByyCU) \(September 7, 2018)

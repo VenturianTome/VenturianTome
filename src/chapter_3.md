@@ -18,6 +18,8 @@
   - They don't - they come up with everything on camera
 - Tom and Jerry was a big part of their childhood \[0:34 - *Tom and Jerry!*]
 - They don’t commonly play Gmod outside of videos \[1:15 - *The Joy Of Creation: Reborn #3*]
+- They purposefully don't ship their own characters and leave it up to the fans \(other than a select few: Papa & Gertrude, Josh & Dummy) \[1:33:19 - *5th Anniversary Livestream*]
+- When asked why so many characters have tragic backstories \(like Billy and Ghost), Jordan says "the best characters have the tragic backstories" \[1:44:50 - *5th Anniversary Livestream*]
 - They used to play Vanguard \(the card game) a lot \[35:26 - *7th Anniversary Livestream*]
 - When asked about their fav. boss battle, they replied with Star Fox 64 \(Star Wolf) or the "Train Guy" \[1:13:44 - *7th Anniversary Livestream*]
 - None of them have played Deltarune yet \[1:38:18 - *7th Anniversary Livestream*]
@@ -49,6 +51,7 @@
 ----
 
 ## Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 - [The Joy Of Creation: Reborn #3](https://youtu.be/B6jf67iGNlU) \(August 6, 2016)
 - [Scary Prison Horror Map](https://youtu.be/SGb7hPi-eO4) \(January 4, 2020)

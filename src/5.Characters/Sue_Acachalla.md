@@ -16,7 +16,8 @@
 ----
 
 ## | Relationships
-- 
+- [**Gertrude Acachalla**](5.Characters/Gertrude_Acachalla.md)
+  - According to him, Gertrude only dates stalkers \[30:43 - *5th Anniversary Livestream*]
 
 ----
 
@@ -34,6 +35,7 @@
 ----
 
 ## | Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [Playable Animatronics 8](https://www.youtube.com/watch?v=KByoXkGBzWo) \(December 23, 2015)
 
 ----

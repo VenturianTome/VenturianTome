@@ -29,11 +29,16 @@
 - In 1875, there was a man who was so crazy and so convinced that aliens inside his mind were trying to find his exact location, so he had a house built that was a maze that had pathways, windows, walls, and doors that lead nowhere \[3:21 - *Scary & Funny Horror Investigation*]
 - Toast claims that rocks points toward civilization; Ghost says that that's a myth \[3:24 - *Can Ghost Hunters Survive on an Island?*]
 - Some structures are natural-grown \[10:22 - *Can Ghost Hunters Survive on an Island?*]
+- The world is destroyed and nearly everyone is dead \[7:40 - *Fallout Weapons Mod*]
+- Dinosaurs are allergic to bananas and chocolate \[2:23 - *Velociraptor Playermodels* // 2:46:50 - *5th Anniversary Livestream*]
+- The Great Ones created reality as they know it; they are 13 collective beings that all make up 1 being known as The One; his son is the Housekeeper \[2:22:38 - *5th Anniversary Livestream*]
+- The most rare mineral in the world is an uneaten can of Nutella \[3:18:18 - *5th Anniversary Livestream*]
 - 97% of the world's "thanks" come from Tom Hanks because he's such a nice guy \[9:43 - *Acachalla's Thanksgiving (2019)*]
   - Thanksgiving would not exist without T. Hanks
 
 ----
 ## Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [Acachalla's Thanksgiving (2019)](https://youtu.be/dC5GT2mZNEk) \(November 28, 2019)
 - [Barney Hunt](https://youtu.be/Zp4_x_GDMjE) \(August 9, 2017)
 - [Can Ghost Hunters Survive on an Island?](https://youtu.be/xW4E8DGLAbM) \(November 14, 2017)

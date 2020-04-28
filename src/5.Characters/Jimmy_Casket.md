@@ -3,6 +3,7 @@
 ### [Masterlist \(Chronological)](https://drive.google.com/open?id=1cSqV-6bN2i3ZpLb4thxJJ4LALoFeQ11kgFLUowdLEU0)
 ### [Playlist](https://www.youtube.com/playlist?list=PLwljWXtmIKiTQOsXv2VfLvmWRx8JWGDV-)
 
+> "My name is Jimmy Casket - the world's most renowned murder!" \[5:28 - *Murder 3: Jimmy Casket*]
 
 ## | Basics
 - Introduction Video(s):
@@ -17,6 +18,12 @@
 ----
 
 ## | Relationships
+- [**Cardboard Friend**](5.Characters/Cardboard_Friend.md)
+  - He and Cardboard Friend are directly tied together \[21:10 - *5th Anniversary Livestream*]
+
+- [**Colon**](5.Characters/Chris_Colon_Ghostie.md)
+  - Colon's mind is so blank he could be a possible host \[2:45:58 - *5th Anniversary Livestream*]
+
 - [**Gregory Casket**](5.Characters/One-Off_Uncommon.md)
   - Casket says his secret is that his name is Gregory \[13:54 - *Murder 11: Olaf*]
 
@@ -51,8 +58,12 @@
 
 ----
 
+> "I'm the scariest thing to ever walk this planet!" \[18:25 - *Velociraptor Playermodels*]
+
 ## | Biography
-- 
+- [Entity](4.World/Ghosts-Entities.md) Status
+  - He could be an entity that takes over people and has only chosen Ghost as his host, like a creature that's more advanced and doesn't live in a body and can instead control others \[2:10:02 - *5th Anniversary Livestream*]
+    - He can't be a ghost because Ghost would notice him and set off all of their equipment constantly
 
 ----
 
@@ -71,6 +82,7 @@
 - He even creeps Jordan out \[16:21 - *Scary Underground*]
 - He pays his taxes and mows the lawn \[17:19 - *Murder 4: Majora's Mask*]
 - He has a fear of macaroni; he has dreams where it comes and \(ironically) eats him \[17:32 / 19:05 - *Murder 4: Majora's Mask*]
+- He can kill with the stare of his eyes \[18:13 - *Velociraptor Playermodels*]
 - He can come through walls \[13:48 - *Creepypasta College*]
 - He can't tell the difference between Slender and Jeff \[14:00 - *Creepypasta College*]
 - He has a realm of flames \[6:51 - *Johnny Bot*]
@@ -80,6 +92,7 @@
 ----
 
 ## | Mentioned Videos
+- [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 - [1000 Degree Knife Challenge](https://youtu.be/pzntssXrvsE) \(January 26, 2017)
 - [Creepypasta College](https://youtu.be/TyTM5NU8jKY) \(February 26, 2014)
@@ -94,6 +107,7 @@
 - [Murder 11: Olaf](https://youtu.be/g2tvu5gFGhI) \(May 3, 2014)
 - [Rat Man of Washington](https://youtu.be/DYH4xQ-U0gE) \(November 2, 2016)
 - [Scary Underground Horror Map](https://youtu.be/Hd_KT6KbnHI) \(January 22, 2014)
+- [Velociraptor Playermodels](https://youtu.be/BQk4sBDghZE) \(February 12, 2014)
 
 ----
 

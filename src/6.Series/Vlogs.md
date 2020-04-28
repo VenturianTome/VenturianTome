@@ -17,7 +17,7 @@
 ----
 
 ## Mentioned Videos
-- [what's happening](https://youtu.be/8wn34LSj_Iw)
+- [what's happening](https://youtu.be/8wn34LSj_Iw) \(October 22, 2019)
 
 ----
  

@@ -28,6 +28,9 @@
   - Gregory has called Cardboard Friend "Gregory" instead of himself and then quickly backtracked \[8:40 - *Cardboard Friend*]
   - Gregory decided to set Cardboard Friend free to its 'planet and people', accidentally calling it "Gregory" \[13:12 - *Cardboard Friend*]
 
+- [**Jimmy Casket**](5.Characters/Jimmy_Casket.md)
+  - It and Jimmy Casket are directly tied together \[21:10 - *5th Anniversary Livestream*]
+
 - [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
   - Ghost is established as the grown-up version of Gregory after the events that transpired with Cardboard Friend in his childhood \[5:27 - *Prop Hunt 18: Ghost Hunt*]
   - Cardboard Friend haunts Ghost in *Haunted By Cardboard Friend*

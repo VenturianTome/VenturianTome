@@ -51,6 +51,7 @@
 - [Josh](5.Characters/Josh.md)
 
 ## **L**
+- [Leonard Malkovich](5.Characters/Leonard_Malkovich.md)
 - [Light Zeron](5.Characters/Light_Zeron.md)
 
 ## **M**
@@ -163,6 +164,7 @@
 
 ## **V**
 - [Vahl Aradur](5.Characters/Vahl_Aradur.md)
+- [William Barricade](5.Characters/WIlliam_Barricade.md)
 
 ----
 
