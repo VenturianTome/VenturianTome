@@ -12,7 +12,7 @@ Hello! Glad to know you're interested to know who's running this site.
 ## About the Site
 - I wanted to create a site where all of the information from VenturianTale's videos is all in one concise area that anyone can access
 - I started creating this site \(with some help from my brother) in July of 2019, but I had the idea started for it all the way back in 2017
-  - The site was put on GitHub in November of 2019 and opened to the public on --
+  - The site was put on GitHub in November of 2019 and opened to the public on March 16, 2020.
 
 ----
 
@@ -23,7 +23,7 @@ Hello! Glad to know you're interested to know who's running this site.
 ----
 
 ## Social Media
-> Feel free to contact me at any one of these as long as you are *respectful* and *understanding* that *I may not be able to answer immediately*. I will try to answer any messages that I get; if I don't answer yours, I promise that I will read it as soon as I am able.
+> Feel free to contact me at any one of these as long as you are *respectful* and *understanding* that *I may not be able to answer immediately*. I will try to answer any and all messages that I get; if I don't answer yours, I promise that I will read it as soon as I am able.
 - Send me cool things and chat with me on my [Instagram](https://instagram.com/hauntedbyeverything?igshid=y29spkcp7eri)
 - Interact with me a lot on [my Tumblr](https://www.tumblr.com/blog/venturiantome) \(and [sideblog](https://www.tumblr.com/blog/hauntedbyeverything))
 - Check out my videos and playlists on my [YouTube Channel](https://youtube.com/channel/UCY0etJmLpMe20cv3j5Pm25Q)

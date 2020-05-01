@@ -4,10 +4,18 @@
 
 Welcome to VenturianTome, a site dedicated to keeping track of everything VenturianTale and providing sources for all of the information given!  
 
-I'm V, the Main Admin of the site. If you want to learn more about me or need to contact me, please do so at the links on
-[this page.](../chapter_2.md)
+I'm the Main Admin of the site. If you want to learn more about me or need to contact me, please do so at the links on
+[this page](../chapter_2.md).
 
-> **WARNING**: This is a completely *fan-made* site made by fans of the channel. The Siblings are not involved in creating this site in way other than providing the information through their videos. The Admin will try to source everything from the videos as much as possible.
+----
+
+## **Notices**
+
+> This is a completely *fan-made* site made by a fan of the channel. The Siblings are not involved in creating this site in way other than providing the information through their videos. I will try to source everything from the videos as much as possible.
+
+> This site is always updating when a new video comes out and while trying to catch up on older videos's info, so it is currently incomplete. Feel free to help an admin out by contacting them with more information and please be patient until it is completed. Thank you!
+
+> If you want to know how to help the admin create and improve the site, go to the [Meet The Admin](../chapter_2.md) page to find out where you can contact me and ways to help!
 
 ----
 
@@ -16,7 +24,7 @@ Feel free to peruse this dictionary of characters and pages. All of this informa
 
 If you need any additional information or help navigating the site, please contact me [here](../chapter_2.md).
 - I will provide information from specific videos, links to videos or other resources, a tutorial on how to navigate the site, or anything else you might need.
-Feel free to ask the admin about anything related to the site and I'll try to respond as soon as I can!
+- Feel free to ask about anything related to the site and I'll try to respond as soon as I can!
 
 ----
 
@@ -32,12 +40,6 @@ Feel free to ask the admin about anything related to the site and I'll try to re
 
 ## All The Videos!
 - I made a playlist containing ALL of VenturianTale's uploads \(*yes, even from back in 2013*) and you can watch it [here](https://www.youtube.com/playlist?list=PLwljWXtmIKiR6RCrbGztF5LhGXAEF7pX_) if you want to!
-
-----
-
-> **NOTE:** This site is always updating when a new video comes out and while trying to catch up on older videos's info, so it is currently incomplete. Feel free to help an admin out by contacting them with more information and please be patient until it is completed. Thank you!
-
-> If you want to know how to help the admin create and improve the site, go to the [Meet The Admin](../chapter_2.md) page to find out where you can contact me and ways to help!
 
 ----
 
