@@ -15,9 +15,13 @@
 ## Worldbuilding
 - [Areas & Places](../4.World/Areas-Places.md)
 - [Canon Fixes](../4.World/Canon_Fixes.md)
+- [Character Death Counts](../4.World/Character-Death-Counts.md)
 - [Dimensions & Realms](../4.World/Dimensions-Relams.md)
 - [Other Wars](../4.World/Other_Wars.md)
+- [Quotes](../4.World/Quotes.md)
+- [Rules](../4.World/Rules.md)
 - [Songs](../4.World/Songs.md)
+- [Technology](../4.World/Technology.md)
 - [Timelines](../4.World/Timelines.md)
 
 ----

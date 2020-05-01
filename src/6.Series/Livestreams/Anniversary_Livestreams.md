@@ -3,7 +3,34 @@
 *This series is played through the game multiple games*
 
 ## | 5th Anniversary \(January 31, 2018)
-- 
+- Jordan calls everyone into the 7/11 for a roleplay of an older dog teaching a younger dog (his grandson) how to shoplift; Golden Freddy is in charge of the shop but can only talk in sentences that include the word "bad" \[4:29 / 5:47]
+- They do a roleplay where if anyone says the word "the" there has to be an explosion \[8:21]
+- Water is wet debate \[11:07]
+- They talk about Ghost’s possible fathers \[11:25 / 20:20]
+- Acachalla roleplay \[16:19]
+- Comment-line roleplay \[23:03]
+- They realize that Toast turns into a lot of things and talk about it \[24:13]
+- They bring back Yakface (Sally but deformed) "for the lols" \[26:45]
+- Light Zeron is stalks Sally, Gertrude and Sue at a pool \[27:28]
+- They decide to have a crossbow deathmatch and use exposition to explain the Toast/Maddie being unfused \(from *Happy Thanksgiving 3 \(2015)*) situation \[36:37]
+  - Bigfoot unfused them; Toast got all of himself back, but Maddie turned into a doge and lost her limbs \[38:17]
+- Gavin tries to rob the bank while Josh and Aimee flirt with him and Officer Maloney chases him down \[53:09]
+- Officer Maloney vs Officer Baloney \[1:09:36]
+  - Police car race - Baloney wins
+  - Saving a hostage - Tie
+  - Deathmatch - Maloney wins
+- They change the gamemode to Murder \[1:19:18 / 1:20:17]
+  - Jordan brings back Jimmy Casket \[1:31:42]
+- Jordan's Gmod had to update and it made it lock up \[1:40:25]
+- Lightsaber deathmatch \[1:45:19 / 1:46:01 / 1:47:00]
+- FNAF roleplay on the McDonald's map \[1:52:48 / 1:53:36]
+- They do a random roleplay on a random map \[1:58:47]
+- Elevator Source with the P.I.E. Team \[2:17:50]
+- Jordan nearly does an outro on reflex \[2:53:04]
+- They go to the T.A.R.D.I.S. map from their very 1st Gmod video \[3:08:23]
+- A roleplay where Darth Calculus tricks Toast, Papa and Josh into a trap in the T.A.R.D.I.S.; Bethany will be Papa because Jordan can't be both characters at the same time \[3:11:15]
+- Their final goal is to crash the game but they fail \[3:21:15]
+- Goodbyes \[3:24:26]
 
 ----
 
@@ -48,7 +75,7 @@
 - They try to recap what happened in the stream \[2:48:38]
 - Someone wants Jessica to end the stream \[2:50:07 / 2:50:30]
   - Jessica enters and is told to end the stream \[2:51:00]
-- They all say bye \[2:52:27]
+- Goodbyes \[2:52:27]
 
 ----
 
