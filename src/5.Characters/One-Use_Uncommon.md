@@ -242,7 +242,7 @@
 - Johnny Toast never mentions him even though Gavin is his twin brother \[2:36:05 - *7th Anniversary Livestream*]
 - Papa trusts Gavin because he trusts Johnny \[2:40:30 - *7th Anniversary Livestream*]
 - When asked what makes him different from Johnny, Gavin says he's extra edgy \[2:42:22 - *7th Anniversary Livestream*]
-- He and Maxwell have worked together to steal Papa Acachalla's house out from right under him \[2:42:33 - *7th Anniversary Livestream]
+- He and Maxwell have worked together to steal Papa Acachalla's house out from right under him \[2:42:33 - *7th Anniversary Livestream*]
 - Gavin once tried to shoot Papa, but shot himself because he had whiskey before picking up his weapon \[2:45:33 - *7th Anniversary Livestream*]
   - He was shot in the mouth; due to the wound scarring over, he now sounds like Mickey Mouse \[2:46:08 - *7th Anniversary Livestream*]
 

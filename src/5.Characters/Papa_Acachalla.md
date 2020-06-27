@@ -63,6 +63,9 @@
 ## | Biography
 - Time in the Billion Year War
   - He was pulled out of the Billion Year War by the P.I.E. Team while he was surrounded by Gingerians \[2:21:11 - *5th Anniversary Livestream*]
+- Other Times in War
+  - He was in the Great War of 1812 \(The Waffle Wars) \[1:50 - *Acachalla Family Winter Vacation*]
+    - They had to march over rivers every day; he lost a leg to the cold \(it froze through the amour he was wearing)
 - Time in a Gang
   - He, Princeton Quagmire, and Maxwell Acachalla were in a gang that invaded Switzerland in 1813 \[2:31:31 -*5th Anniversary Livestream*]
 
@@ -99,6 +102,7 @@
 ## | Mentioned Videos
 - [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
+- [Acachalla Family Winter Vacation](https://youtu.be/nQBiVNH1fUk) \(March 15, 2018)
 - [Acachalla's Thanksgiving (2019)](https://youtu.be/dC5GT2mZNEk) \(November 28, 2019)
 - [Creepypasta College](https://youtu.be/TyTM5NU8jKY) \(February 26, 2014)
 - [Does Acachalla Like Wendy's?](https://youtu.be/K2-86Dc81Ec) \(December 5, 2019)
