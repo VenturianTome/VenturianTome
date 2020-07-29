@@ -1,14 +1,18 @@
 # Character Death Counts
 > These do not include game-modes; their individual scores can be found on their respective pages
 
-**Total Death Count: 832**
+> These do not include NPC deaths \(unless that NPC was a VT character), as they are not VT characters
+
+> If a death is credited to a character, it is not credited to the sibling as to not overlap the numbers
+
+**Total Death Count: 909**
 
 ----
 
 ## *[Siblings](./3.Siblings.md) / [Family](./7.Family.md)*
 
 ### [Jordan Frye / Venturian](3.Siblings/Jordan-Frye-Venturian.md)
-#### **Total: 148**
+#### **Total: 198**
 - *1000 Degree Knife Challenge* ~ 8
 - *5th Anniversary Livestream* ~ 8
 - *7th Anniversary Livestream* ~ 12
@@ -18,6 +22,8 @@
 - *Another Minecraft Tale S2 E16* ~ 1
 - *Biggest Gmod Battle Ever!* ~ 1
 - *Dragon Slaying Dupes* ~ 7
+- *i am losing my mind* ~ 16
+- *i am losing my mind again* ~ 23
 - *Neighbor Visits McDonald's* ~ 1
 - *Playing Gmod With My Wife* ~ 3
 - *Portal Co-OP #2 \(J&J)* ~ 2
@@ -26,11 +32,12 @@
 - *Portal Co-OP #6 \(J&J)* ~ 1
 - *Psycho Survivor L4D* ~ 1
 - *Scariest Horror Map Ever!!* ~ 3
+- *Scariest Horror Monsters Ever!! Pt.1* ~ 10
+- *Scariest Horror Monsters Ever!! Pt.2* ~ 10
 - *The Joy of Creation: Reborn #1* ~ 4
 - *The Joy of Creation: Reborn #2* ~ 38
 - *The Joy of Creation: Reborn #3* ~ 29
 - *VenturianTale Mod* ~ 6
-- *i am losing my mind* ~ 16
 
 ----
 
@@ -65,7 +72,7 @@
 ----
 
 ### [Isaac Frye / HomelessGoomba](3.Siblings/Isaac-Frye-HomelessGoomba.md)
-#### **Total: 47**
+#### **Total: 57**
 - *1000 Degree Knife Challenge* ~ 11
 - *5th Anniversary Livestream* ~ 6
 - *7th Anniversary Livestream* ~ 5
@@ -102,13 +109,14 @@
 ----
 
 ### [Billy Acachalla](5.Characters/Billy_Acachalla.md)
-#### **Total: 19**
+#### **Total: 29**
 - *5th Anniversary Livestream* ~ 2 (1 NPC)
 - *7th Anniversary Livestream* ~ 1
 - *Acachalla's Thanksgiving \(2019)* ~ 1
 - *Creepypasta College* ~ 1
 - *Does Acachalla Like Wendy's* ~ 1
 - *Johnny Ghost Did Something Bad* ~ 1
+- *Motorcycle Mod* ~ 10
 - *Playable Animatronics 8* ~ 1
 - *Scariest Horror Map Ever!!* ~ 3
 - *Scary Batman Horror Map* ~ 3
@@ -241,7 +249,7 @@
 ----
 
 ### [Johnny Ghost](5.Characters/Johnny_Ghost.md)
-#### **Total: 97**
+#### **Total: 104**
 - *5th Anniversary Livestream* ~ 1
 - *Bonnie Visits Walmart* ~ 2
 - *Can Ghost Hunters Survive on an Island?* ~ 1
@@ -250,6 +258,7 @@
 - *Deathmatch: Winter Fight* ~ 9
 - *Donald Trump Visits McDonald's* ~ 3
 - *FNAF & Zootopia 2* ~ 2
+- *FNAF 2 In Gmod* ~ 7
 - *Funny Olaf* ~ 3
 - *Godzilla Ate My Lunch* ~ 1
 - *Haunted By Batman* ~ 1
@@ -283,12 +292,13 @@
 ----
 
 ### [Johnny Toast](5.Characters/Johnny_Toast.md)
-#### **Total: 55**
+#### **Total: 63**
 - *5th Anniversary Livestream* ~ 1
 - *Bonnie Visits Walmart* ~ 2
 - *Deathmatch: Winter Fight* ~ 8
 - *Does Acachalla Like Wendy's* ~ 1
 - *FNAF & Zootopia 2* ~ 1
+- *FNAF 2 In Gmod* ~ 8
 - *Ghost Hunters Horror Map* ~ 1
 - *Haunted By Batman* ~ 3
 - *Haunted By Elmo* ~ 1
@@ -306,6 +316,7 @@
 - *Scary & Funny Horror Investigation* ~ 3
 - *Super-Powered Baby* ~ 4
 - *VenturianTale Scripted* ~ 1
+
 
 ----
 
@@ -343,12 +354,13 @@
 ----
 
 ### [Papa Acachalla](5.Characters/Papa_Acachalla.md)
-#### **Total: 13**
+#### **Total: 20**
 - *5th Anniversary Livestream* ~ 2
 - *7th Anniversary Livestream* ~ 4
 - *Creepypasta College* ~ 1
 - *Does Acachalla Like Wendy's* ~ 2
 - *Haunted By Batman* ~ 1
+- *Motorcycle Mod* ~ 7
 - *Scariest Horror Map Ever!!* ~ 2
 - *Velociraptor Playermodels* ~ 1
 
@@ -461,9 +473,6 @@
 #### Birds
   - *Does Acachalla Like Wendy's* ~ 1
 
-#### Blue Guy (NPC)
-  - *7th Anniversary Livestream* ~ 1
-
 #### Broken Neck
   - *Working Movie Theater* ~ 5
 
@@ -475,9 +484,6 @@
 
 #### Chell (Jordan & Cierra)
   - *5th Anniversary Livestream* ~ 2 (J1, C1)
-
-#### Connor (D:BH) (NPC)
-  - *7th Anniversary Livestream* ~ 1
 
 #### Crispy Toast (Cierra)
   - *Neighbor Visits McDonald's* ~ 1
@@ -493,9 +499,6 @@
 
 #### Donald Trump
   - *Haunted School* ~ 1
-
-#### Eggdog (NPC)
-  - *7th Anniversary Livestream* ~ 1
 
 #### Emo Billy
   - *FNAF & Zootopia 2* ~ 1
@@ -541,22 +544,19 @@
 #### Judy Hopps
   - *Cops & Robbers: Toilet Toucher 2* ~ 1
 
-#### Knuckles (Isaac)
-  - *7th Anniversary Livestream* ~ 1
-
-#### Knuckles (Bethany)
-  - *7th Anniversary Livestream* ~ 3
+#### Knuckles (Bethany & Isaac)
+  - *7th Anniversary Livestream* ~ 4 \(B3, I1)
 
 #### Leon
   - *Does Acachalla Like Wendy's* ~ 1
 
-#### Macaroni Buyer (Cierra)
+#### Macaroni Buyer \(Cierra)
   - *5th Anniversary Livestream* ~ 1
 
-#### Military Morons (Bethany & Isaac)
+#### Military Morons \(Bethany & Isaac)
   - *Paranormal Ghost Hunting* ~ 4 (B2, I2)
 
-#### Mothman (Isaac)
+#### Mothman \(Isaac)
   - *Mothman Ghost Hunt* ~ 3
 
 #### Mr. Chomps
@@ -568,7 +568,7 @@
 #### The Neighbor
   - *Neighbor Visits McDonald's* ~ 1
 
-#### Nick Wilde (Isaac)
+#### Nick Wilde \(Isaac)
   - *Chica Visits Pizza Hut* ~ 1
   - *Cops & Robbers: Toilet Toucher 2* ~ 2
   - *Creating A YouTube Channel* ~ 1
@@ -579,17 +579,14 @@
   - *Creating A YouTube Channel* ~ 1
   - *Johnny Ghost vs Zombies* ~ 1
 
-#### Officer Baloney (Cierra)
+#### Officer Baloney \(Cierra)
   - *5th Anniversary Livestream* ~ 5
 
-#### Olaf (Cierra)
+#### Olaf \(Cierra)
   - *Funny Olaf* ~ 1
 
-#### Pennywise (Isaac)
+#### Pennywise \(Isaac)
   - *Scary Pennywise* ~ 2
-
-#### Pikachu (NPCs)
-  - *7th Anniversary Livestream* ~ 8
 
 #### President Bush
   - *President Visits McDonald's* ~ 2
@@ -598,35 +595,36 @@
   - *Bonnie Visits Walmart* ~ 1
   - *Dating Slenderman* ~ 1
   - *Does Acachalla Like Wendy's* ~ 3
+  - *FNAF 4 Playable Animatronics* ~ 1
   - *Funny Oogie Boogie* ~ 1
   - *Haunted By Elmo* ~ 5
   - *Return of Jimmy Casket* ~ 2
 
-#### Rapper Dukes Members (Bethany & Isaac)
+#### Rapper Dukes Members \(Bethany & Isaac)
   - *5th Anniversary Livestream* ~ 2 (B1, I1)
 
-#### Rat Man (Isaac)
+#### Rat Man \(Isaac)
   - *Rat Man of Washington* ~ 3
 
-#### Robert (Bethany)
+#### Robert \(Bethany)
   - *5th Anniversary Livestream* ~ 1
 
-#### Shiogami (Isaac)
+#### Shiogami \(Isaac)
   - *Chica Visits Pizza Hut* ~ 1
 
-#### Shirtless Kylo Ren (Cierra & Bethany)
+#### Shirtless Kylo Ren \(Cierra & Bethany)
   - *5th Anniversary Livestream* ~ 11 (C4, B7)
 
-#### Sink Supplies (Isaac)
+#### Sink Supplies \(Isaac)
   - *Playable Animatronics 8* ~ 1
 
 #### Skelly the Skeleton
   - *Does Acachalla Like Wendy's* ~ 2
 
-#### Snape (Bethany)
+#### Snape \(Bethany)
   - *7th Anniversary Livestream* ~ 2
 
-#### Snoke (Cierra)
+#### Snoke \(Cierra)
   - *5th Anniversary Livestream* ~ 1
 
 #### Sonic.EXE
@@ -643,10 +641,10 @@
 #### Swift Taylor
   - *Haunted By FNAF* ~ 1
 
-#### Time Travelers (Isaac & Cierra)
+#### Time Travelers \(Isaac & Cierra)
   - *5th Anniversary Livestream* ~ 2 (I1, C1)
 
-#### Tommy Casket (Jordan)
+#### Tommy Casket \(Jordan)
   - *Chica Visits Pizza Hut* ~ 1
 
 #### Turkey
@@ -655,7 +653,7 @@
 #### Turtle
   - *Does Acachalla Like Wendy's* ~ 1
 
-#### Ugandan Knuckles (Issac)
+#### Ugandan Knuckles \(Issac)
   - *5th Anniversary Livestream* ~ 1
 
 #### Ugly Nick Wilde
@@ -664,14 +662,11 @@
 #### Ugly Judy Hopps
   - *FNAF & Zootopia 2* ~ 1
 
-#### Venom (NPC)
-  - *7th Anniversary Livestream* ~ 1
-
 #### Venturian \(Character)
   - *Does Acachalla Like Wendy's* ~ 1
   - *Scary & Funny Horror Investigation* ~ 1
 
-#### Wesker (Bethany)
+#### Wesker \(Bethany)
   - *7th Anniversary Livestream* ~ 1
 
 #### Zombies

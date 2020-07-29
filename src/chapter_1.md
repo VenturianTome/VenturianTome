@@ -9,11 +9,18 @@ I'm the Main Admin of the site. If you want to learn more about me or need to co
 
 ----
 
+## **ANNOUNCEMENT**
+> I'm sorry that the site hasn't been updating as much as people would like. As college classes are starting soon, and I need to be getting a job soon, updates have slowed and will continue to be slow for a sort while as I find my footing while moving around. Thank you for your understanding during this time.
+
+----
+
 ## **Notices**
 
 > This is a completely *fan-made* site made by a fan of the channel. The Siblings are not involved in creating this site in way other than providing the information through their videos. I will try to source everything from the videos as much as possible.
 
-> This site is always updating when a new video comes out and while trying to catch up on older videos's info, so it is currently incomplete. Feel free to help an admin out by contacting them with more information and please be patient until it is completed. Thank you!
+> This site is always updating as much as possible when a new video comes out and trying to catch up on older videos's info, so it is currently incomplete. Feel free to help an admin out by contacting them with more information and please be patient until it is completed. Thank you!
+
+> If you want to share this site with the Siblings, please feel free to do so! Even though the site is incomplete, having people spreading the word and getting recognition keeps motivation up and helps me to get more feedback!
 
 > If you want to know how to help the admin create and improve the site, go to the [Meet The Admin](../chapter_2.md) page to find out where you can contact me and ways to help!
 

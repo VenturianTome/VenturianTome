@@ -96,7 +96,10 @@
 - Recruits get paid $20 an hour \[1:49 - *Scary Ghost Children*]
 - They have investigated the Legend of [Bonbon](../5.Characters/One-Use_Uncommon.md) and the disappearance of [Charlie Charlie Chase Buttface](../5.Characters/One-Use_Uncommon.md) in Idaho \[3:58 / 5:31 - *Super-Powered Baby Mod*]
 - They have a plan called Alpha Omega 3: Fish Oil \[11:55 - *Super-Powered Baby Mod*]
-- 1-800-GHOST-AWAY is their phone number \[1:33 - *Haunted By Delphox*]
+- They have 2 different phone numbers
+  - 1-800-GHOST-AWAY \[1:33 - *Haunted By Delphox*]
+  - 9-800-325-PIE \[2:32 - *FNAF 4 Playable Animatronics*]
+- They never says no to a call \[2:30 - *FNAF 4 Playable Animatronics*]
 - They investigated the Loch Ness Monster \[18:50 - *Haunted By Delphox*]
 - Their commercial says "if you've got problems with your ghost, call Johnny Ghost" \[3:20 - *Haunted By Cardboard Friend*]
   - It had a budget of $50
@@ -111,6 +114,7 @@
 - [Best Gmod Roleplay Ever?](https://youtu.be/s3945GoKnO0) \(February 1, 2020)
 - [Can Ghost Hunters Survive on an Island?](https://youtu.be/xW4E8DGLAbM) \(November 14, 2017)
 - [Escape From Prison](https://youtu.be/nmONeaPY6do) \(January 11, 2020)
+- [FNAF 4 Playable Animatronics](https://youtu.be/CXZGODcgsD4) \(September 3, 2015)
 - [Funny Horror Game](https://youtu.be/W_p-t0KtS3U) \(April 5, 2015)
 - [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ) \(July 10, 2014)
 - [Haunted By Delphox](https://youtu.be/gVmjfDiJ184) \(May 30, 2014)

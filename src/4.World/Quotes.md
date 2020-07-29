@@ -8,6 +8,12 @@
 
 ----
 
+## | "I Don't Trust A Man Without A Midsection!"
+#### [Playlist]()
+- *Scariest Horror Monsters Ever!! Pt.1* \(2:47)
+
+----
+
 ## | "You Spilled My Brew!"
 - *5th Anniversary Livestream* \(2:38:03)
 
@@ -21,6 +27,7 @@
 ## | Mentioned Videos
 - [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
 - [Murder 38: Bendy and the Ink Machine](https://youtu.be/uPR11kq1wWI) \(October 5, 2017)
+- [Scariest Horror Monsters Ever!! Pt.1](https://youtu.be/ehl-o23MbtU) \(July 4, 2020)
 
 ----
 

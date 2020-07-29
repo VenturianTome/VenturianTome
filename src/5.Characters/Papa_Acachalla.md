@@ -109,6 +109,7 @@
 - [Fallout Weapons Mod](https://youtu.be/mLeVwZUtNfY) \(November 4, 2013)
 - [Haunted By Batman](https://youtu.be/LymOGelRMwc) \(August 26, 2014)
 - [Johnny Ghost Meets Freddy the Dinosaur](https://youtu.be/cNcfpGXRgYM) \(March 14, 2020)
+- [Motorcycle Mod](https://youtu.be/gNREBUzmn98) \(June 4, 2013)
 - [Playable Animatronics 8](https://youtu.be/KByoXkGBzWo) \(December 23, 2016)
 - [Scariest Horror Map Ever!!](https://youtu.be/7ZrYVSgBI1Y) \(October 7, 2014)
 - [Velociraptor Playermodels](https://youtu.be/BQk4sBDghZE) \(February 12, 2014)

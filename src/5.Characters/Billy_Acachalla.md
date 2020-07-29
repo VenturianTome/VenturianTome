@@ -56,6 +56,7 @@
 ----
 
 ## | Other Trivia
+- He has parked a car on the top of a barn \[5:11 - *Motorcycle Mod*]
 - He has a disease that when he sees the closest object he must throw it \[1:51 / 3:47 / 6:29 / 7:12 / 11:15 - *Water World Water Park*]
 - He can sit in a tilted chair because Papa Acachalla taught him how and because he was born sideways \[4:49 / 5:32 - *Water World Water Park*]
 - He once got himself a pogo stick and never stopped bouncing for a good 3 weeks \[8:16 - *Fallout Weapons Mod*]

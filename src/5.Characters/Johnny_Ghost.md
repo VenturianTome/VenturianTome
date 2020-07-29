@@ -37,6 +37,9 @@
   - Gertrude has tried to invite Ghost over for dinner sometime, to which he lies and says he'll think about it \[17:07 - *Puppy Monkey Baby*]
 
 - [**Jimmy Casket**](5.Characters/Jimmy_Casket.md)
+  - Ghost has said that he'd know Jimmy Casket's voice anywhere, even in his dreams \[10:19 - *FNAF 2 In Gmod*]
+  - Ghost had a nightmare where Jimmy wanted to go to space, but he went to a different dimension that was also underground; Ghost never got over it \[10:49 - *FNAF 2 In Gmod*]
+  - Toast carries pills for Ghost; it's implied that they stop Ghost from hearing/overreacting to Jimmy \[13:28 - *FNAF 2 In Gmod*]
   - Ghost when alone and stressed by his environment, repeated "It's okay, nothing's happening, Jimmy doesn't have to come out to play today" \[11:46 / 13:44 - *Johnny Ghost Meets Freddy the Dinosaur*]
 
 - [**Johnny Toast**](5.Characters/Johnny_Toast.md)
@@ -47,11 +50,13 @@
   - Toast knows that "Casket" is Ghost's family name \[18:33 - *Haunted By Cardboard Friend*]
   - Ghost can't remember the last time he's seen Toast in shorts \[6:06 - *Haunted By Batman*]
   - Ghost has told Toast that his waistcoat is "quite fetching" \[17:23 - *Haunted By Batman*]
+  - Toast carries pills for Ghost; it's implied that they stop Ghost from hearing/overreacting to Jimmy \[13:28 - *FNAF 2 In Gmod*]
   - Ghost's greatest fear is that Toast will be replaced by Spooker again \[2:07 - *Johnny Ghost vs Zombies*]
   - Him and Toast usually go out for brunch together \[4:18 - *Johnny Ghost vs Zombies*]
   - Toast is what quells his episodes and keeps him grounded \[1:24 / 15:31 - *Johnny Ghost vs Zombies*]
   - Ghost and Toast played together since they were kids \[3:54 - *Big Dragon Mod*]
   - Ghost and Toast would eat pineapples together \[10:52 - *Big Dragon Mod*]
+  - Ghost did Toast's math homework while they were in school \[4:33 - *FNAF 4 Playable Animatronics*]
   - Toast bought him a camera for his birthday \[1:22 - *Yoshi Nintendo Mod*]
   - Ghost and Toast have gone "kayaking without water" with Johnny Toast \[2:11 / 13:14 - *Minions Visit McDonald's*]
   - He regards Toast as his “only friend” \[13:47 - *Kidnapped By BananaCorp*]
@@ -110,6 +115,9 @@
     - Toast saved him with a fishing rod
     - The hook was stuck in Ghost's ear for a day
     - Ghost always kinda wanted his ear pierced
+  - Toast once spent 2 1/2 weeks as a goldfish because of an incident with a magic wand \[2:59 - *FNAF 2 In Gmod*]
+    - A cat got him out of the bowl and Ghost had to shrink himself down to a goldfish to save him
+      - Ghost learned how to walk inside of a cat
   - He and Toast have been ski-boarding and were going up a gigantic wave in Switzerland/the Bermuda Triangle; they got caught in a storm and a UFO caught them after Toast did a 360 while singing the National Anthem of Great Britain and ended up in the Caribbean \[1:36 - *Medieval Mod*]
   - He and Toast travelled through time once while fishing in Jurassic Era; dinosaurs were trying to eat them off the boat/raft/front boards of the T.A.R.D.I.S. that they blew up \[3:08 - *Medieval Mod*]
   - Ghost made ghost video behind he and Toast's barn while he was in high school, but the ghost turned out to be Old Man Jenkins trying to scare off the kids \[1:33 - *Hell's Resort*]
@@ -118,7 +126,12 @@
   - Toast normally tells Ghost a bedtime story about "the 16 elephants but one of them was a tiger" \[9:29 - *Gravity Falls Dipper*]
   - Toast has dragged Ghost out at 9:50 PM; Toast invited Ghost over to his apartment because he got new copies of Warcraft 2 but realized that they didn't have the right cords for their land match \[1:59 - *Bonnie Visits Walmart*]
   - Ghost and Toast had a pet rock in 1996 named Brett \[12:00 - *FNAF & Zootopia 2*]
-- Time at P.I.E.  
+- Life as a Character
+  - Ghost wishes he had more fanart \[5:36 - *FNAF 2 In Gmod*]
+    - Toast tells Ghost that if he wants more fanart, he could make it himself; Ghost says hieroglyphics in ancient tombs are better than his art \[7:18]
+  - Ghost knows he's a character, implying that Toast also knows that they're characters \[6:03 - *FNAF 2 In Gmod*]
+- Time at P.I.E.
+  - Ghost has only dealt with one Level 15 in his entire life and it killed a family member \[10:02 - *FNAF 4 Playable Animatronics*]
   - He believes he himself is "part of the merchandising of PIE Incorporated" \[3:40 - *My Wife's First Horror Map*]
 - Powers
   - He can transform into an animatronic \(Reaper Balloon Boy) \[9:30 / 10:28 - *Neighbor Visits McDonald's*]
@@ -131,14 +144,16 @@
 ## | Other Trivia
 - He has certain "ghost-type abilities," including communicating with ghosts \[14:04 / 16:52 - *Velociraptor Playermodels*]
 - He never had a patient that he didn't kill until Papa became his failed case \[16:35 - *Velociraptor Playermodels*]
+- He has seen all of time and space 3 times \(what is, what will be, what currently is, what isn't, and what was) \[5:15 - *Scary Batman Horror Map* // 9:26 - *Big Dragon Mod* // 12:41 - *Tom and Jerry!*]
 - He has a college education \[23:15 - *Paranormal Ghost Hunting*]
 - Ghost says he likes the colour red, but doesn't know why he likes it so much \[2:40 - *Haunted By Batman*]
-- He has seen all of time and space twice \(what is, what will be, what currently is, what isn't, and what was) \[9:26 - *Big Dragon Mod* / 12:41 - *Tom and Jerry!*]
 - He has above normal intelligence \[1:33 - *Scary Ghost HUNT Horror Map (Pt.2)*]
 - He sometimes looks for himself because he's a little conceited \[0:50 - *Tom and Jerry!*]
 - When Ghost was little, he had a horrible night where he was up late watching Tom and Jerry and got struck by lightning \(it hit the roof of the house, ran down one of the wires, in through the couch, across his shirt and right up his nose) which struck his brain right in the cortex that only controls the memories of Tom and Jerry \[8:03 - Tom and Jerry!*]
 - He thinks the way to get out of a dream is to stick your finger in a toaster \[12:08 - *Tom and Jerry!*]
 - He has the pinching strength of a crab; his pinch can cause actual damage \[12:18 - *Tom and Jerry!*]
+- He may have flunked his driving test \[1:02 / 1:10 - *FNAF 4 Playable Animatronics*]
+- Ghost, partnered with Nike, has spray-on anti-gravity shoes, which are still in testing /[4:03 - *FNAF 4 Playable Animatronics*]
 - He has met Miraak \[5:08 - *Medieval Mod*]
 - He loves boats \[6:41 / 8:50 - *Medieval Mod*]
 - He can pretend to be a prop and it will work because he plays Prop Hunt so often \[6:14 - *Creating A YouTube Channel*]
@@ -166,6 +181,9 @@
 - Ghost has been kidnapped and put into 2 basements consecutively in *Johnny Ghost Did Something Bad* and *Johnny Ghost Meets Freddy the Dinosaur*
   - Chakalata Soup kidnapped him the 2nd time \[0:47 - *Johnny Ghost Meets Freddy the Dinosaur*]
 - When alone, Ghost sometimes refers to himself in 3rd person and talks to himself and sometimes talks to his mom, even though she's not there; he also sometimes sings to himself \[2:33 / 3:14 / 4:17 / 5:13 / 5:59 / 6:19 / 6:28 - *Johnny Ghost Did Something Bad* // 2:10 / 7:30 - *Johnny Ghost Meets Freddy the Dinosaur*]
+
+> "I'm Johnny Ghost, I'm perfectly sane." \[17:23 - *FNAF 4 Playable Animatronics*]
+
 - It's implied Ghost uses a padlock on his fridge \[3:27 - *Johnny Ghost Meets Freddy the Dinosaur*]
 - 'Boxes full of things' are Ghost's 2nd favourite thing in the whole world \[12:50 - *Johnny Ghost Meets Freddy the Dinosaur*]
 - He paints his fingernails white \[0:41 - *Johnny Ghost Paints His Nails!?*]
@@ -182,6 +200,8 @@
 - [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g) \(May 3, 2016)
 - [Creating A YouTube Channel](https://youtu.be/mSJ2ZqkES9o) \(January 2, 2016)
 - [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og) \(May 15, 2016)
+- [FNAF 2 In Gmod](https://youtu.be/SG_PYcWT79c) \(February 7, 2015)
+- [FNAF 4 Playable Animatronics](https://youtu.be/CXZGODcgsD4) \(September 3, 2015)
 - [Funny Balloon Boy](https://youtu.be/EnoiRkmE1y8) \(December 28, 2014)
 - [Gravity Falls Dipper](https://youtu.be/1_W8aGKltEI) \(March 9, 2016)
 - [Haunted By Batman](https://youtu.be/LymOGelRMwc) \(August 26, 2014)
@@ -205,6 +225,7 @@
 - [Paranormal Ghost Hunting](https://youtu.be/VEq4ggHacoU) \(June 7, 2014)
 - [Puppy Monkey Baby](https://youtu.be/vYxhpspmPF0) \(February 20, 2016)
 - [Scary & Funny Horror Investigation](https://youtu.be/DPolPvjBouo) \(February 9, 2016)
+- [Scary Batman Horror Map](https://youtu.be/EB9US2_E0J8) \(February 28, 2014)
 - [Scary Ghost HUNT Horror Map (Pt.2)](https://youtu.be/Q_iwzgwlbwg) \(September 6, 2014)
 - [Scary Ghost HUNT Horror Map (Pt.2/FINALE)](https://youtu.be/nNLNxjfItLU) \(September 9, 2014)
 - [Scary Pennywise](https://youtu.be/9W0DYDTkQ98) \(October 15, 2017)

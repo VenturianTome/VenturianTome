@@ -46,7 +46,8 @@
 ----
 
 ### The Puppet
-- 
+- [Toast](5.Characters/Johnny_Toast.md) has been haunted by the Puppet \[17:07 - *FNAF 2 In Gmod*]
+
 > This doesn't include any information on the Puppet Arc, which can be found [here](../chapter_4.md)
 
 ----
@@ -78,6 +79,7 @@
 
 ## | Mentioned Videos
 - [5th Anniversary Livestream](https://youtu.be/6AHnicY1Iq4) \(January 31, 2018)
+- [FNAF 2 In Gmod](https://youtu.be/SG_PYcWT79c) \(February 7, 2015)
 - [Funny Balloon Boy](https://youtu.be/EnoiRkmE1y8) \(December 28, 2014)
 - [Playable Animatronics 2](https://youtu.be/_tv07JJ0HE8) \(February 5, 2015)
 - [Playable Animatronics 10](https://youtu.be/2qdDjiasqEc) \(January 21, 2017)

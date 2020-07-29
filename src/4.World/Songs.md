@@ -3,12 +3,12 @@
 
 
 ## | "Back from the Dead"
-- **Origin:** *Motorcycle Mod* \(??)
+- **Origin:** *Motorcycle Mod* \(13:21 / 15:33)
 
 ----
 
 ## | Cash Register Song
-- **Origin:** *Working At McDonald’s* \():00 / 6:26)
+- **Origin:** *Working At McDonald’s* \(0:00 / 6:26)
 
 > I'm bored \(x2)
 

@@ -31,8 +31,11 @@
   - He believes that he was locked into the dimension with the Housekeeper as the Housekeeper’s punishment during the [Puppet Arc](4.World/Puppet_Arc.md) \[14:25 - *Johnny Ghost vs Zombies*]
 
 - [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
-  - Ghost refers to him as a "demon," denying any relation to him
-   - He says that it's just entities trying to use his memories against him \[17:50 - *Haunted By Cardboard Friend*]
+  - Ghost refers to him as a "demon," denying any relation to him \[17:50 - *Haunted By Cardboard Friend*]
+   - He says that it's just entities trying to use his memories against him
+  - Ghost has said that he'd know Jimmy Casket's voice anywhere, even in his dreams \[10:19 - *FNAF 2 In Gmod*]
+    - Ghost had a nightmare where Jimmy wanted to go to space, but he went to a different dimension that was also underground; Ghost never got over it \[10:49]
+  - Toast carries pills for Ghost; it's implied that they stop Ghost from hearing/overreacting to Jimmy \[13:28 - *FNAF 2 In Gmod*]
 - Ghost uses him to get answers \[17:54 - *Kidnapped By BananaCorp*]
   > “There’s only one way I know how to get answers”
    - He doesn’t react to getting shot due to high health \[18:00 - *Kidnapped By BananaCorp*]
@@ -96,6 +99,7 @@
 - [7th Anniversary Livestream](https://youtu.be/GBFpW-t83Zs) \(February 7, 2020)
 - [1000 Degree Knife Challenge](https://youtu.be/pzntssXrvsE) \(January 26, 2017)
 - [Creepypasta College](https://youtu.be/TyTM5NU8jKY) \(February 26, 2014)
+- [FNAF 2 In Gmod](https://youtu.be/SG_PYcWT79c) \(February 7, 2015)
 - [Ghost Hunters Horror Map](https://youtu.be/oA9jS2ArUk0) \(July 2, 2015)
 - [Haunted By Cardboard Friend](https://youtu.be/jG3Iarj08BQ) \(July 10, 2014)
 - [Johnny Bot](https://youtu.be/I_8FpxwKSNo) \(December 14, 2018)

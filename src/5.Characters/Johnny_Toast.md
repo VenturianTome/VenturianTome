@@ -23,6 +23,9 @@
   - He never mentions his twin brother Gavin \[2:36:05 - *7th Anniversary Livestream*]
   - When asked what makes him different from Johnny, Gavin says he's extra edgy \[2:42:22 - *7th Anniversary Livestream*]
 
+- [**Jimmy Casket**](5.Characters/Jimmy_Casket.md)
+  - Toast carries pills for Ghost; it's implied that they stop Ghost from hearing/overreacting to Jimmy \[13:28 - *FNAF 2 In Gmod*]
+
 - [**Johnny Ghost**](5.Characters/Johnny_Ghost.md)
   - Ghost is Toast’s closest friend with which he goes on many paranormal adventures
   - Ghost was 6 when Toast was 8, so they have \(or had, with timelines) a 2-year age difference \[7:03 - *Haunted By Delphox*]
@@ -30,12 +33,14 @@
   - He knows that "Casket" is Ghost's family name \[18:33 - *Haunted By Cardboard Friend*]
   - Ghost can't remember the last time he's seen Toast in shorts \[6:06 - *Haunted By Batman*]
   - Ghost has told Toast that his waistcoat is "quite fetching" \[17:23 - *Haunted By Batman*]
+  - Toast carries pills for Ghost; it's implied that they stop Ghost from hearing/overreacting to Jimmy \[13:28 - *FNAF 2 In Gmod*]
   - According to Ghost, he taught Ghost everything he knows \[8:25 - *Scary Ghost Children*]
   - Toast doesn't know Ghost's birthday, even though they're close friends \[3:59 - *Ghost Hunters Horror Map*]
   - Him and Ghost usually go out for brunch together \[4:18 - *Johnny Ghost vs Zombies*]
   - He is what quells Ghost’s episodes and keeps him grounded \[1:24 / 15:31 - *Johnny Ghost vs Zombies*]
   - Ghost and Toast played together since they were kids \[3:54 - *Big Dragon Mod*]
   - Toast says that it's his job to watch over Ghost as he can be stupid sometimes \[9:11 - *I Am The Puppet (Hell's Island Pt.1)*]
+  - Ghost did Toast's math homework while they were in school \[4:33 - *FNAF 4 Playable Animatronics*]
   - Toast will do nearly anything for Ghost \[9:22 - *Medieval Mod*]
   - He bought Ghost a camera for his birthday \[1:22 - *Yoshi Nintendo Mod*]
   - Toast normally tells Ghost a bedtime story about "the 16 elephants but one of them was a tiger;" there's no death in the original story; the original story is beautiful \[9:29 - *Gravity Falls Dipper*]
@@ -56,6 +61,7 @@
 
 - [**The Queen of England**](5.Characters/Queen_of_England.md)
   - He is the Queen of England’s grandson \[13:28 - *President Visits McDonald’s*]
+  - Toast went on a vacation in which he and his grandmother went hang-gliding, but a gust of wind caused her to fall and Toast had to catch her; she only \(possibly) had mental injuries \[1:26 / 2:46 - *FNAF 2 In Gmod*]
   - Toast's car was once owned by the Queen of England; he has dented both sides of it \[1:16 - *Bonnie Visits Walmart*]
 
 - [**The Rake**](5.Characters/Creepypastas.md)
@@ -79,6 +85,10 @@
   - Ghost and Toast had a job at a library \[22:29 - *Scary Ghost HUNT Horror Map (Pt.2/FINALE)*]
   - Ghost and Toast had plans for a vacation in Hawaii \[19:20 - *Johnny Ghost L4D*]
   - Toast has seen Ghost clip through the wall before due to a nuclear reactor having an effect on Ghost's left leg as a karate test; Ghost denies it \[*14:21 - Funny Balloon Boy*]
+  - Toast once spent 2 1/2 weeks as a goldfish because of an incident with a magic wand \[2:59 - *FNAF 2 In Gmod*]
+    - A cat got him out of the bowl and Ghost had to shrink himself down to a goldfish to save him
+      - Toast learned how to walk as a goldfish
+      - Toast has been afraid of water ever since
   - They built a wagon out of old cereal boxes \[3:54 - *Big Dragon Mod*]
   - Ghost and Toast use to eat pineapples together \[10:52 - *Big Dragon Mod*]
   - He and Ghost used to bobsled down the roof of a house \[2:15 - *Tom and Jerry!]
@@ -98,17 +108,21 @@
 - Books
   - He has a book titled "Paranormal Principles" \[11:38 - *Paranormal Ghost Hunting*]
   - Toast wrote a book on paranormal investigations \[1:43 - *Scary Ghost HUNT Horror Map (Pt.2)*]
+  - Toast says he doesn't know Morse Code even though he wrote a book on it, implying he knows a different form of Morse Code \[8:15 - *FNAF 4 Playable Animatronics*]
   - Toast has a '15 Tips to a Healthier Living' \[8:39 - *Johnny Ghost Meets Freddy the Dinosaur*]
     - Tip 10) if there's a paint can, use it as a shield
     - Tip 16) if it's Papa Acachalla, run for your life
 - Multiple Tranformations
   - Time as Sally
     - The Toast/Sally Arc ends \[17:23 - *Haunted By Batman*]
+  - Toast has been haunted by the Puppet \[17:07 - *FNAF 2 In Gmod*]
   - Fusion with Maddie
     - He and Maddie were unfused by Bigfoot, who used some of his fairy magic \(that's embedded in his armpits) \[38:17 - *5th Anniversary Livestream*]
       - Toast got all of himself back, but Maddie was turned into a Doge and lost her limbs
   - He commonly gets turned into things \(vampire, werewolf, Sally, etc.) and it's never explained how he gets fixed \[24:13 - *5th Anniversary Livestream*]
     - Jordan says he always imagines someone smart \(but not Ghost) comes to help them fix it *or* each instance is a different timeline and he's stuck that way
+- Life as a Character
+  - Ghost knows he's a character, implying that Toast also knows that they're characters \[6:03 - *FNAF 2 In Gmod*]
 - Dealing with Macaroni
   - Toast's favourite book is "How To Make Macaroni & Cheese" \[11:47 - *The Horror Continues (Hell's Island Pt.2)*]
   - Toast says he's always having trouble with the police \[9:56 - *Scary & Funny Horror Investigation*]
@@ -155,6 +169,10 @@
 - Toast has a girly scream \[7:20 - *Ghost Hunters Horror Map*]
 - Toast has a sister named Jenny, and she was a cop \[3:41 - *I Am The Puppet (Hell's Island Pt.1)*]
 - Toast had a cat named [Marshmallow](5.Characters/Pets.md), but it died \[13:51 - *The Horror Continues (Hell's Island Pt.2)*]
+- Toast has been known to pull shenanigans, including using confetti bombs that he hides in peanut butter jars \[2:49 - FNAF 4 Playable Animatronics]
+  - He once scared a homeowner half to death - his pacemaker came out of his nose \[2:49]
+  - He has tried to prank a homeowner with explosive cookies, eventually succeeding \[7:39 / 8:46 / 11:39 / 12:51 / 14:43]
+  - He's pranked Ghost by setting up a fake haunting \[16:47]
 - Toast wrote a paper in college about the use of music in paranormal investigations \[6:59 - *Hell's Resort*]
 - Toast does the technical stuff, uses the equipment, and drives the van \[9:46 - *Hell's Resort*]
 - Toast quit smoking \[10:13 - *Hell's Resort*]
@@ -216,6 +234,8 @@
 - [Creating A YouTube Channel](https://youtu.be/mSJ2ZqkES9o) \(January 2, 2016)
 - [Donald Trump Visits McDonald's](https://youtu.be/FHOWpPGl3Ds) \(February 28, 2016)
 - [FNAF & Zootopia 2](https://youtu.be/QIj9VgYm2Og) \(May 15, 2016)
+- [FNAF 2 In Gmod](https://youtu.be/SG_PYcWT79c) \(February 7, 2015)
+- [FNAF 4 Playable Animatronics](https://youtu.be/CXZGODcgsD4) \(September 3, 2015)
 - [Funny Balloon Boy](https://youtu.be/EnoiRkmE1y8) \(December 28, 2014)
 - [Funny Oogie Boogie](https://youtu.be/3rEws9xky0s) \(May 12, 2015)
 - [Ghost Hunters Horror Map](https://youtu.be/oA9jS2ArUk0) \(July 2, 2015)

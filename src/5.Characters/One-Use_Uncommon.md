@@ -508,12 +508,14 @@
 
 ## Queen of England
 #### Origin: *President Visits McDonald’s*
+- Toast went on a vacation in which he and his grandmother went hang-gliding, but a gust of wind caused her to fall and Toast had to catch her; she only \(possibly) had mental injuries \[1:26 / 2:46 - *FNAF 2 In Gmod*]
+- Toast's car was once owned by the Queen of England; he has dented both sides of it \[1:16 - *Bonnie Visits Walmart*]
 - The Queen of England did tractor races in the palace \[4:39 - *Hell's Resort*]
 - There weren't a lot of royal beheadings in the palace, mostly just throwing people down a well \[4:39 - *Hell's Resort*]
 - Toast doesn't shop; all his clothes are handmade \(by his Grandmother) \[3:35 - *OMG Cute Cats*]
-- Toast's car was once owned by the Queen of England; he has dented both sides of it \[1:16 - *Bonnie Visits Walmart*]
 
 ### Mentioned Videos
+- [FNAF 2 In Gmod](https://youtu.be/SG_PYcWT79c) \(February 7, 2015)
 - [Bonnie Visits Walmart](https://youtu.be/CDd5-Sow97g) \(May 3, 2016)
 - [Hell’s Resort](https://youtu.be/mqVWhWEK2AQ) \(November 6, 2015)
 - [OMG Cute Cats](https://youtu.be/Rf-fAoo64Lc) \(December 12, 2015)
